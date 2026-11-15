@@ -12,6 +12,7 @@ Repositório oficial do trabalho prático da disciplina **Extração e Preparaç
 │   ├── ...
 │   └── 26_abreviaturas_e_indice_remissivo/
 ├── pipeline_chunking.py                # Entregável 1: Script principal do pipeline de extração e chunking (v5)
+├── Relatório Técnico - Base de Conhecimento VW Nivus # Entregável 3: Documentação do processo e relatório técnico
 ├── auditar_chunks.py                # Script automatizado de auditoria e controle de qualidade
 ├── relatorio_metricas.json          # Métricas quantitativas consolidadas da base
 ├── relatorio_auditoria.txt          # Relatório gerado pela auditoria de integridade
