@@ -1,0 +1,52 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Autoajuda
+SEÇÃO: Iluminação externa (Parte 4/6)
+PÁGINAS MANUAL: 210-211 (PDF: 212-213)
+FIGURAS REFERENCIADAS: Fig. 161, Fig. 162
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+11. Não segurar o bulbo de vidro da lâmpada incandescente com os dedos descobertos. A impressão digital remanescente evaporaria com o calor da lâmpada incandescente acesa e se depositaria sobre o refletor, prejudicando a capacidade de iluminação da lâmpada.
+
+12. Verificar o funcionamento da lâmpada incandescente após uma troca. Caso a lâmpada incandescente não funcione, ela pode não ter sido instalada corretamente ou estar queimada novamente, bem como o conector de alimentação pode não estar corretamente encaixado.
+
+13. Após cada troca de lâmpada incandescente na parte dianteira do veículo, a regulagem do farol deve ser realizada por uma Concessionária Volkswagen ou por uma empresa especializada.
+
+[ATENÇÃO]
+
+A observância da lista de controle é essencial para a segurança do condutor, passageiros e demais condutores, evitando possíveis acidentes.
+
+- Seguir sempre as ações da lista de controle e observar as precauções de segurança nela descritas.
+
+[NOTA]
+
+Remover e instalar as lâmpadas sempre com cuidado, evitando danos na pintura do veículo ou em outras peças do veículo.
+
+As lâmpadas incandescentes queimadas não devem ser descartadas em lixo comum, por se tratar de um resíduo potencialmente prejudicial ao meio ambiente.
+
+Em prol do meio ambiente, a Volkswagen recomenda que as lâmpadas incandescentes queimadas sejam devolvidas em uma Concessionária Volkswagen ou em uma empresa especializada, a fim de que seja dada destinação ambientalmente adequada a tais resíduos, seguindo-se as determinações legais específicas quanto ao manuseio, armazenamento e descarte.
+
+Substituir as lâmpadas incandescentes da lanterna traseira na carroceria
+
+Observe e no início desse capítulo na página 208.
+
+Fig. 161 No compartimento de bagagem: desinstalar cobertura e retirar o parafuso borboleta 1 (lupa).
+
+Fig. 162 Lanterna traseira: desinstalar o suporte das lâmpadas Executar as ações somente na sequência indicada.
+
+Observar a lista de controle e executar as ações -> Página 209.
+
+Abrir a tampa traseira -> Página 74.
+
+Para abrir a cobertura da lanterna, girar a trava -> Fig. 161 (seta).
+
+Soltar o parafuso borboleta 1 (lupa) e retirálo, segurando, ao mesmo tempo a lanterna traseira.
+
+Puxar cuidadosamente a lanterna traseira para fora, para desencaixá-la da carroceria -> .
+
+Desencaixar o conector de alimentação das lâmpadas da lanterna, para remover totalmente a lanterna.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 161, Fig. 162 no manual original.]

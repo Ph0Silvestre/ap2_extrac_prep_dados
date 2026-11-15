@@ -1,0 +1,42 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Transportar
+SEÇÃO: Condução com reboque (Parte 3/7)
+PÁGINAS MANUAL: 195-196 (PDF: 197-198)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Se as lanternas traseiras do reboque não forem conectadas corretamente, os componentes eletrônicos do veículo podem ser danificados.
+
+- Se o reboque consumir corrente em excesso, os componentes eletrônicos do veículo podem ser danificados.
+
+- Nunca conectar o sistema elétrico do reboque diretamente com as conexões elétricas das lanternas traseiras ou com outra fonte de corrente. Utilizar somente conexões adequadas para a alimentação de corrente ao reboque.
+
+Em razão da maior demanda do veículo com condução com reboque frequente, a Volkswagen recomenda que as manutenções sejam efetuadas também entre os intervalos de revisão.
+
+Observe e no início desse capítulo na página 194.
+
+Cabo de ruptura Fixar sempre o cabo de ruptura do reboque corretamente no veículo de tração. Nesse caso, deixar o cabo de ruptura um pouco frouxo para possibilitar a condução em curvas. No entanto, o cabo de ruptura não deve se arrastar pelo solo durante a condução.
+
+Lanternas traseiras do reboque Atentar para que as lanternas traseiras do reboque funcionem corretamente e que correspondam às prescrições legais.
+
+[ATENÇÃO]
+
+Condutores elétricos inadequados ou incorretamente conectados podem energizar o reboque, causar falhas de funcionamento nos componentes eletrônicos do veículo e causar ferimentos graves.
+
+- Todos os trabalhos no sistema elétrico somente podem ser realizados por uma Concessionária Volkswagen ou por uma empresa especializada.
+
+- Nunca conectar o sistema elétrico do reboque diretamente com as conexões elétricas das lanternas traseiras ou com outra fonte de corrente.
+
+[NOTA]
+
+Um reboque estacionado sobre a roda de apoio ou sobre os suportes do reboque não deve permanecer acoplado ao veículo. Por exemplo, o veículo se ergue e se abaixa devido a alterações da carga ou avaria de pneus. Nesse caso, forças de grande intensidade atuam sobre o dispositivo de reboque e sobre o reboque e podem causar danos no veículo e no reboque.
+
+Quando há uma conexão elétrica pela tomada do reboque com o motor desligado e acessórios ligados no reboque, a bateria do veículo se descarrega.
+
+Observe e no início desse capítulo na página 194.
+
+Carga de reboque e carga de apoio A carga de reboque é a carga que o veículo é capaz de puxar -> . A carga de apoio é a carga que exerce pressão verticalmente sobre a rótula de engate do dispositivo de reboque -> Página 194.

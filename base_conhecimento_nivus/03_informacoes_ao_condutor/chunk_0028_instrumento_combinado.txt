@@ -1,0 +1,53 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Informações ao condutor
+SEÇÃO: Instrumento combinado (Parte 12/13)
+PÁGINAS MANUAL: 26-27 (PDF: 28-29)
+FIGURAS REFERENCIADAS: Fig. 17
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Ajustar o horário através de instrumento combinado digital (Active Info Display)
+- No menu Dados de viagem, selecionar o indicador Autonomia.
+
+- Manter pressionado o botão OK no volante multifunções durante cerca de cinco segundos, ao soltar aparecerá o menu de serviços no display do instrumento combinado digital -> Página 26.
+
+- Selecionar o menu Hora.
+
+- Ajustar o relógio com os botões de seta ou .
+
+Menu de Serviços
+
+Observe no início desse capítulo na página 17.
+
+No menu Serviço no instrumento combinado digital (Active Info Display), podem ser efetuadas configurações, dependendo da versão do veículo.
+
+Acessar o menu de Serviços No menu Dados de viagem selecionar o indicador Autonomia no instrumento combinado e manter pressionado o botão OK no volante multifunções durante cerca de cinco segundos, ao soltar aparecerá o menu de Serviços. Agora é possível navegar no menu com os botões no volante multifunções.
+
+Reiniciar o indicador do intervalo de serviço Selecionar o menu Serviço e seguir as instruções no display do instrumento combinado digital.
+
+Reiniciar serviço de inspeção Selecionar o menu Zerar inspeção e seguir as instruções no display do instrumento combinado digital.
+
+Reiniciar dados de condução Selecionar o menu Zerar contador e seguir as instruções no display do instrumento combinado digital para reiniciar com o valor desejado.
+
+Código do motor (CDM) Selecionar o menu Código do motor. O código do motor é exibido no display do instrumento combinado digital.
+
+Ajustar o horário Selecionar o menu Hora e ajustar o horário correto com os botões de seta ou .
+
+Direitos autorais Selecionar o menu Copyright para acessar informações de direitos autorais.
+
+Observe no início desse capítulo na página 17.
+
+Fig. 17 No display do instrumento combinado: exemplo de indicação para um evento de serviço próximo de vencer (representação esquemática).
+
+Os indicadores do intervalo de serviço aparecem no display do instrumento combinado -> Fig. 17 ou no display do sistema do rádio.
+
+Devido à existência de diversas versões de instrumentos combinados e do sistema do rádio, as indicações do display podem variar.
+
+Aviso de serviço Quando um serviço estiver próximo a vencer, aparecerá um aviso de serviço ao ligar a ignição.
+
+A quilometragem ou o tempo especificado correspondem a quilometragem ou o período até o próximo serviço.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 17 no manual original.]

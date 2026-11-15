@@ -1,0 +1,50 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rodas e pneus
+SEÇÃO: Troca de roda (Parte 1/6)
+PÁGINAS MANUAL: 253 (PDF: 255)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Introdução ao tema Realizar uma troca de roda por conta própria somente quando o veículo estiver estacionado com segurança, estiver familiarizado com as ações e precauções de segurança necessárias e as ferramentas apropriadas estiverem disponíveis! Caso contrário, procurar auxílio técnico especializado.
+
+[ATENÇÃO]
+
+Uma troca de roda pode ser perigosa, especialmente se for realizada na margem da rua. Para evitar que acidentes ocorram, devem ser observadas as seguintes orientações:
+
+- Parar o veículo assim que possível em um local seguro. Estacionar o veículo a uma distância segura do fluxo de trânsito para poder realizar a troca de roda.
+
+- Todos os passageiros e especialmente as crianças devem sempre se manter a uma distância segura e afastada da área de trabalho durante a troca de roda.
+
+- Ligar as luzes de advertência e utilizar o triângulo de segurança para alertar os outros condutores.
+
+- Garantir que o piso seja plano e firme. Se for o caso, utilizar um apoio estável e com superfície larga para o macaco.
+
+- Realizar a troca de roda por conta própria somente se estiver familiarizado com as ações necessárias. Caso contrário, procurar auxílio técnico especializado.
+
+- Utilizar sempre somente ferramentas adequadas e não danificadas para uma troca de roda.
+
+- Desligar sempre o motor, puxar o freio de estacionamento e colocar a alavanca seletora na posição P para reduzir o risco de movimento do veículo.
+
+- Após uma troca de roda, mandar verificar o torque de aperto dos parafusos de roda com um torquímetro calibrado.
+
+- Em veículos com indicador de controle de pneus, se for o caso, o sistema deve ser reprogramado após a troca da roda -> Página 241, Indicador de controle dos pneus.
+
+Preparações para a troca de roda
+
+Observe no início desse capítulo na página 253.
+
+Lista de controle Executar as seguintes ações sempre na sequência indicada, como preparações para a troca de roda -> :
+
+1. Em caso de um pneu furado, estacionar o veículo a uma distância mais segura possível do fluxo de trânsito, em um piso plano e firme.
+
+2. Puxar o freio de estacionamento -> Página 132.
+
+3. Transmissão automática: colocar a alavanca seletora na posição P -> Página 112.
+
+4. Desligar o motor e retirar a chave do veículo do cilindro da ignição -> Página 108.
+
+5. Fazer com que todos os ocupantes do veículo desçam e se coloquem em segurança afastados do trânsito.

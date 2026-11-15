@@ -1,0 +1,43 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Autoajuda
+SEÇÃO: Auxílio à partida (Parte 3/4)
+PÁGINAS MANUAL: 219-220 (PDF: 221-222)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Ligar o motor do veículo com a bateria do veículo descarregada e esperar dois a três minutos até que o motor “funcione uniformemente”.
+
+Remover o cabo auxiliar de partida
+- Antes de desconectar o cabo auxiliar de partida, desligar o farol baixo, se estiver ligado.
+
+- Ligar ar-condicionado e o desembaçador do vidro traseiro com a bateria do veículo descarregada, para reduzir picos de tensão no momento da desconexão dos cabos.
+
+- Desconectar o cabo auxiliar de partida com o motor em funcionamento exatamente na sequência inversa 4 – 3 – 2 – 1.
+
+- Fechar a cobertura do polo positivo da bateria.
+
+Um auxílio à partida executado de forma incorreta pode provocar uma explosão da bateria do veículo e ferimentos graves. Para reduzir o risco de explosão da bateria do veículo, observar o seguinte:
+
+- Todos os trabalhos na bateria do veículo e no sistema elétrico podem causar queimaduras graves, incêndios e choques elétricos. Antes de qualquer trabalho na bateria do veículo, ler e observar sempre os seguintes alertas e precauções de segurança -> Página 235, Bateria do veículo.
+
+- Assegurar que não haja pessoas no interior do veículo durante a conexão dos cabos auxiliares de partida na bateria. Em caso de pane elétrica, os airbags podem ser acionados acidentalmente e provocar lesões graves ou até fatais nos ocupantes do veículo.
+
+- Usar sempre uma proteção adequada para os olhos e nunca se debruçar sobre a bateria do veículo.
+
+- Conectar os cabos na sequência correta – primeiro o cabo positivo, depois o cabo negativo.
+
+- Nunca fixar o cabo negativo em peças do sistema de combustível ou nas tubulações do freio.
+
+- As partes não isoladas das garras dos polos não devem se tocar. Além disso, o cabo fixado no polo positivo da bateria do veículo não deve entrar em contato com peças do veículo condutoras de corrente.
+
+- Verificar o visor da bateria do veículo e, se necessário, utilizar uma lanterna. Caso esteja amarelo-claro ou incolor, não executar o auxílio à partida e procurar auxílio técnico especializado.
+
+- Evitar descargas eletrostáticas nas imediações da bateria do veículo. O gás detonante que escapa da bateria do veículo pode se inflamar pela formação de faíscas.
+
+- Nunca executar o auxílio à partida se a bateria do veículo estiver danificada, congelada ou que tenha sido descongelada.
+
+[NOTA]

@@ -1,0 +1,51 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Transportar
+SEÇÃO: Condução com reboque (Parte 6/7)
+PÁGINAS MANUAL: 197-198 (PDF: 199-200)
+FIGURAS REFERENCIADAS: Fig. 153
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Atenção especial durante as ultrapassagens. Reduzir imediatamente a velocidade ao perceber o mais leve movimento pendular do reboque.
+
+- Nunca tentar “estabilizar” por meio de acelerações um conjunto que estiver oscilando.
+
+- Para veículos com reboque, observar que as velocidades máximas podem estar abaixo daquelas para veículos sem reboque.
+
+Instalar o dispositivo de reboque posteriormente
+
+Observe e no início desse capítulo na página 194.
+
+Fig. 153 Pontos de fixação para instalar um dispositivo de reboque posteriormente.
+
+A figura -> Fig. 153 ilustra, como exemplo, o ponto de fixação para instalar um dispositivo de reboque do modelo Nivus.
+
+A montagem posterior de um dispositivo de reboque deverá ser efetuada de acordo com as instruções do respectivo fabricante do engate, sempre respeitando os pontos de fixação indicados na -> Fig. 153 A .
+
+Os pontos já existentes para a fixação do engate de reboque são visíveis pela parte inferior do veículo. O dispositivo de reboque deve ser obrigatoriamente fixado nesses pontos.
+
+Instalar o dispositivo de reboque
+- Atente para as disposições legais em vigor no país em que o veículo trafega.
+
+- Pode ser necessário desmontar e montar o para-choque traseiro. Além disso, é necessário apertar também os parafusos do dispositivo de reboque com um torquímetro e ligar uma tomada ao sistema elétrico do veículo. Para isso, são necessários conhecimentos e ferramentas especiais.
+
+- Os dados na figura indicam os pontos de fixação que devem ser sempre respeitados na instalação posterior do dispositivo de reboque.
+
+[ATENÇÃO]
+
+Condutores elétricos inadequados ou ligados incorretamente podem causar falhas de funcionamento de todos os componentes eletrônicos do veículo e provocar acidentes e ferimentos graves.
+
+- Nunca conectar o sistema elétrico do reboque diretamente com as conexões elétricas das lanternas traseiras ou com outra fonte inadequada de corrente. Utilizar somente conectores adequados para a conexão do reboque.
+
+- A instalação posterior de um dispositivo de reboque deve ser realizada por uma Concessionária Volkswagen ou uma empresa especializada.
+
+[ATENÇÃO]
+
+Um dispositivo de reboque inadequado ou incorretamente instalado pode fazer com que o reboque se solte do veículo de tração. Isto pode causar acidentes graves e ferimentos fatais.
+
+[NOTA]
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 153 no manual original.]

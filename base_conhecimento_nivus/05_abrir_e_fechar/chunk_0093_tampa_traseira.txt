@@ -1,0 +1,67 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Abrir e fechar
+SEÇÃO: Tampa traseira (Parte 2/5)
+PÁGINAS MANUAL: 75-76 (PDF: 77-78)
+FIGURAS REFERENCIADAS: Fig. 58, Fig. 59, Fig. 60
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Fig. 58 Na tampa traseira: botão para abrir a tampa traseira.
+
+Fig. 59 Tampa traseira aberta: rebaixos (setas) para puxar e fechar.
+
+Se, por exemplo, houver uma bicicleta instalada no bagageiro da tampa traseira, então a tampa traseira não pode ser aberta -> . Antes de abrir a tampa traseira, retirar sempre as bagagens do bagageiro e apoiar a tampa traseira aberta.
+
+Abrir a tampa traseira
+- Para destravar a tampa traseira pressionar o botão na chave do veículo.
+
+- OU: dependendo da versão do veículo, no rádio pressionar por alguns segundos na superfície de seleção .
+
+- Para abrir a tampa traseira pressionar o botão -> Fig. 58 e erguer a tampa traseira.
+
+mento interno -> Fig. 59 com impulso para baixo, de modo que se encaixe na fechadura -> .
+
+Em caso de portas travadas, a tampa traseira também é travada.
+
+Uma representação no display do instrumento combinado -> Página 21 indica quando a tampa traseira não está fechada corretamente.
+
+A tampa traseira é travada automaticamente durante a condução.
+
+[ATENÇÃO]
+
+O destravamento ou abertura incorreta ou sem a devida atenção da tampa traseira pode causar ferimentos graves.
+
+- Com um bagageiro montado sobre a tampa traseira mais a carga, uma tampa traseira destravada nem sempre será reconhecida. Uma tampa traseira destravada pode se abrir repentinamente durante a condução.
+
+[ATENÇÃO]
+
+O fechamento incorreto ou sem supervisão da tampa traseira pode causar ferimentos graves.
+
+- Ao fechar a tampa traseira, atentar para que a mão seja distanciada a tempo do raio de abertura da tampa traseira.
+
+Se, depois do destravamento, a tampa traseira não for aberta em poucos minutos, ela se travará automaticamente.
+
+Destravar a tampa traseira emergencialmente
+
+Observe e no início desse capítulo na página 74.
+
+Fig. 60 No compartimento de bagagem: destravar a tampa traseira.
+
+- Rebater o encosto do banco traseiro para frente -> Página 80.
+
+- Remover os volumes de bagagem para alcançar a tampa traseira por dentro.
+
+- Rebater a haste da chave do veículo para fora -> Página 64.
+
+- Inserir a haste da chave na abertura na tampa traseira -> Fig. 60 e deslocar a alavanca de destravamento no sentido da seta.
+
+Soluções de problemas
+
+Observe e no início desse capítulo na página 74.
+
+Não é possível abrir ou fechar a tampa traseira Verifique se a tampa traseira está bloqueada por um obstáculo. A tampa traseira pode ser movida com a mão. Para isso será necessário aplicar uma força maior.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 58, Fig. 59, Fig. 60 no manual original.]

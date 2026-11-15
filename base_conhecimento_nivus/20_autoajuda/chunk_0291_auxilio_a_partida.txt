@@ -1,0 +1,59 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Autoajuda
+SEÇÃO: Auxílio à partida (Parte 2/4)
+PÁGINAS MANUAL: 219 (PDF: 221)
+FIGURAS REFERENCIADAS: Fig. 172
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Cabos auxiliares de partida conectados incorretamente podem provocar um curto-circuito.
+
+- Não deve haver contato entre os veículos, do contrário, poderá haver fluxo de corrente ao conectar os polos positivos.
+
+Executar o auxílio à partida
+
+Observe e no início desse capítulo na página 218.
+
+Fig. 172 Esquema para a conexão dos cabos auxiliares de partida: bateria do veículo descarregada A e bateria do veículo fornecedora de corrente B .
+
+Legenda para -> Fig. 172:
+
+Veículo com bateria do veículo descarregada que recebe auxílio à partida.
+
+Veículo com a bateria fornecedora de corrente que dá auxílio à partida.
+
+Ponto de aterramento adequado: uma peça de metal maciça parafusada firmemente ao bloco do motor.
+
+A bateria do veículo descarregada deve estar conectada de maneira correta à rede elétrica do veículo.
+
+Os veículos não devem encostar um no outro. Caso contrário, uma corrente pode circular ao se conectar o polo positivo.
+
+Atentar para o contato metálico satisfatório das garras conectadas aos polos.
+
+Caso o motor não comece a funcionar, interromper o processo de partida após 10 segundos e repetir após cerca de um minuto.
+
+Conectar o cabo auxiliar de partida Conectar o cabo auxiliar de partida somente na sequência 1 – 2 – 3 – 4 -> Fig. 172.
+
+- Desligar a ignição nos dois veículos -> Página 108.
+
+- Abrir a cobertura do polo positivo.
+
+- Conectar uma extremidade do cabo auxiliar de partida vermelho ao polo positivo (+) do veículo com a bateria do veículo descarregada -> Fig. 172 A -> .
+
+- Conectar a outra extremidade do cabo auxiliar de partida vermelho ao polo positivo (+) do veículo fornecedor de corrente B .
+
+- Conectar uma extremidade do cabo auxiliar de partida preto ao polo negativo da bateria do veículo fornecedor de corrente B .
+
+- Conectar a outra extremidade do cabo auxiliar de partida preto X no veículo com a bateria do veículo descarregada em uma peça maciça de metal aparafusada firmemente ao bloco do motor ou no próprio bloco do motor - porém não nas proximidades da bateria A -> .
+
+- Dispor os condutores do cabo auxiliar de partida de modo que não entrem em contato com peças giratórias do compartimento do motor.
+
+Ligar o motor
+- Ligar o motor do veículo fornecedor de corrente e deixar funcionando em marcha lenta.
+
+- Ligar o motor do veículo com a bateria do veículo descarregada e esperar dois a três minutos até que o motor “funcione uniformemente”.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 172 no manual original.]

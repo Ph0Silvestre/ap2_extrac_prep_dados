@@ -1,0 +1,58 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Sistemas de assistência ao condutor
+SEÇÃO: Limitador de velocidade (Parte 2/2)
+PÁGINAS MANUAL: 121-122 (PDF: 123-124)
+FIGURAS REFERENCIADAS: Fig. 94
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Observe no início desse capítulo na página 121.
+
+Fig. 94 Lado esquerdo do volante multifunções: botões para comandar o limitador de velocidade.
+
+Ligar
+- Pressionar o botão .
+
+A última velocidade ajustada é salva. Ainda não ocorre nenhuma regulagem.
+
+Iniciar a regulagem
+- Pressionar o botão durante a condução.
+
+A velocidade atual é salva como velocidade máxima. Adicionalmente, a luz de controle verde se acende.
+
+Ajustar a velocidade A velocidade salva pode ser ajustada:
+
++ 1 km/h
+- 1 km/h + 10 km/h
+- 10 km/h Para alterar continuamente a velocidade salva, manter pressionado o botão ou .
+
+A velocidade permanece salva.
+
+Retomar a regulagem
+- Pressionar o botão .
+
+Assim que a velocidade atual for inferior à velocidade salva, o limitador de velocidade será novamente ativado Desligar
+- Pressionar a tecla por alguns instantes.
+
+O limitador de velocidade será desligado e a velocidade permanece salva (mesmo com a ignição desligada).
+
+Ir para o sistema regulador de velocidade (GRA) ou para o controle automático de distância (ACC)
+- Pressionar o botão .
+
+- Selecionar o sistema desejado no display do instrumento combinado.
+
+O limitador de velocidade é desligado.
+
+Solução de problemas
+
+Observe no início desse capítulo na página 121.
+
+A regulagem é interrompida automaticamente.
+- Falha de funcionamento. Desligar o limitador de velocidade e pocurar uma Concessionária Volkswagen.
+
+O limitador de velocidade somente irá se desligar completamente por questões de segurança quando o pedal do acelerador for solto uma vez ou o sistema for desligado manualmente..
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 94 no manual original.]

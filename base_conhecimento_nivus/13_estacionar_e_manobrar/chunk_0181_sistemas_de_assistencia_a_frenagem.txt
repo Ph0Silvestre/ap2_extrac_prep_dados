@@ -1,0 +1,34 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Estacionar e manobrar
+SEÇÃO: Sistemas de assistência à frenagem (Parte 5/5)
+PÁGINAS MANUAL: 139-140 (PDF: 141-142)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Dependendo da versão do veículo e da versão do rádio, no sistema do rádio por meio do botão OU tocar na superfície de seleção e tocar na superfície de função Carro -> Página 29.
+
+- Configurar o Programa de estabilidade: tocar na superfície de função ESC On OU ASR Off .
+
+Com o ASR desligado, está acesa a luz de controle amarela no display do instrumento combinado.
+
+Luzes de alerta e controle nas falhas Não prosseguir! Sistema de freio avariado. Procurar uma Concessionária Volkswagen imediatamente -> . Aceso: ABS fora de ação ou com defeito. Procurar uma Concessionária Volkswagen. O veículo pode ser freado sem ABS. Aceso: ESC está desligado por motivos condicionados ao sistema. Desligar e ligar a ignição. Conforme o caso conduzir por um pequeno trecho a 15-20 km/h. Caso ainda continue acesa, procurar uma Concessionária Volkswagen.
+
+Orientações para os sistemas de assistência à frenagem Quando houver a suspeita da existência de uma função falha, leia e observe as seguintes orientações:
+
+- Apenas quando as quatro rodas estão equipadas com o mesmo tipo e modelo de pneu o ESC e o ASR podem funcionar corretamente. Diâmetros diferentes entre os pneus podem causar uma redução inesperada da potência do motor.
+
+- Em caso de uma avaria do ABS, o ESC, o ASR e o EDS também não funcionam.
+
+- Em caso de regulagens dos sistemas descritos podem ocorrer ruídos de funcionamento.
+
+[ATENÇÃO]
+
+A condução com freios ruins pode causar acidentes e ferimentos graves.
+
+- Se a luz de advertência do sistema de freio se acender juntamente com a luz de controle do ABS , o funcionamento do ABS poderá estar falhando. Por este motivo, é possível que as rodas traseiras travem de forma relativamente rápida em uma frenagem. Rodas traseiras produzindo travamentos podem ocasionar a perda de controle do veículo! Se possível, reduzir a velocidade e conduzir cuidadosamente em velocidade mínima até uma Concessionária Volkswagen mais próxima para verificar o sistema de freio. Durante o trajeto, evitar manobras de direção e de frenagem súbitas.
+
+- Se a luz de controle do ABS não se apagar ou se acender durante a condução, o ABS não está funcionando corretamente. O veículo somente pode ser parado com os freios normais (sem ABS). A proteção proporcionada pelo ABS não está disponível nesse caso. Procurar uma Concessionária Volkswagen o mais rápido possível.

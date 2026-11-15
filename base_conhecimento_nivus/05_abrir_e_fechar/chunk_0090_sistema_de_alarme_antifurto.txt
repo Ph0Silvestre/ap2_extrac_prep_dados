@@ -1,0 +1,42 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Abrir e fechar
+SEÇÃO: Sistema de alarme antifurto (Parte 1/1)
+PÁGINAS MANUAL: 72-73 (PDF: 74-75)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+O sistema de alarme antifurto é ativado automaticamente ao travar o veículo com a chave do veículo ou ao toque no sensor das portas, para veículos com Keyless Access.
+
+O sistema de alarme antifurto emite sinais de advertência sonoros por aproximadamente 25 segundos (por evento) e sinais de advertência visuais por até cinco minutos, se forem executadas as seguintes ações não autorizadas no veículo travado.
+
+Quando o alarme é disparado?
+- Aproximadamente 15 segundos após a abertura de uma porta destravada mecanicamente com a chave do veículo, se caso, durante este período, não for realizada uma ativação válida de ignição.
+
+- Abertura de uma porta.
+
+- Abertura da tampa do compartimento do motor.
+
+- Abertura da tampa traseira.
+
+- Ligar a ignição com uma chave de veículo inválida.
+
+- Movimento no veículo, em veículos com monitoramento do interior do veículo -> Página 73.
+
+Desligar alarme
+- Destravar o veículo com o botão de destravamento da chave do veículo.
+
+- OU: ligar a ignição com uma chave do veículo válida. Pode ocorrer um breve alarme com duração de um segundo aproximadamente.
+
+- Em veículos com Keyless Access, o alarme também pode ser desligado encostando na maçaneta da porta -> Página 66.
+
+O alarme será disparado novamente se após o disparo do alarme ocorrer uma nova invasão na mesma ou em outra área protegida.
+
+O sistema de alarme antifurto não é ativado com o travamento por dentro com o botão do travamento central .
+
+Se a porta do condutor for destravada mecanicamente com a chave, apenas a porta do condutor é destravada e não o veículo inteiro. Somente ao ligar a ignição é que ocorrerá a habilitação do botão do travamento central, a partir do qual pode-se realizar o destravamento elétrico de todas as portas.
+
+Com a bateria do veículo fraca ou descarregada, o sistema de alarme antifurto não funciona de maneira correta.

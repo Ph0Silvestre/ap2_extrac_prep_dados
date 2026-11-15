@@ -1,0 +1,48 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Conduzir
+SEÇÃO: Transmissão automática (Parte 2/7)
+PÁGINAS MANUAL: 113-114 (PDF: 115-116)
+FIGURAS REFERENCIADAS: Fig. 89, Fig. 90, Fig. 91
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Para liberar o bloqueio da alavanca seletora com a ignição ligada, pisar no pedal do freio e mantêlo pressionado. Ao mesmo tempo, pressionar o botão bloqueador da alavanca seletora na direção da seta -> Fig. 89.
+
+Na troca de marchas rápida passando pela posição N, por exemplo, de R para D/S, a alavanca seletora não é bloqueada. Deste modo, é possível “embalar” um veículo atolado para fora do atoleiro. O bloqueio da alavanca seletora engatará se, com o pedal do freio não acionado, a alavanca permanecer na posição N por mais de aproximadamente um segundo e a uma velocidade inferior a aproximadamente 5 km/h.
+
+[ATENÇÃO]
+
+O engate de uma marcha incorreta pode ocasionar a perda de controle do veículo, acidentes e ferimentos graves.
+
+- Nunca acelerar ao engatar uma posição de marcha.
+
+- Com o motor em funcionamento e a posição de marcha engatada, o veículo se movimentará assim que o pedal do freio for liberado.
+
+- Nunca mudar a alavanca seletora para a marcha a ré ou para a posição P durante a condução.
+
+[ATENÇÃO]
+
+Movimentos sem supervisão do veículo podem causar ferimentos graves.
+
+- Como condutor, nunca deixar o banco do condutor com o motor em funcionamento e uma posição de marcha engatada. Quando for necessário sair do veículo com o motor em funcionamento, acionar sempre o freio de estacionamento e colocar a alavanca seletora na posição P.
+
+- Com o motor em funcionamento e a posição da alavanca seletora D/S ou R engatada, é necessário manter o veículo parado com o pedal do freio. Mesmo em rotação de marcha lenta, a transmissão de força não é totalmente interrompida e o veículo se “arrasta”.
+
+- Nunca mudar para a posição de marcha P com o veículo em movimento.
+
+- Nunca sair do veículo com a posição da alavanca seletora N. O veículo descerá um declive, independente de o motor estar em funcionamento ou não.
+
+Se, com o veículo parado, o freio de estacionamento não estiver acionado e o pedal do freio for liberado com a alavanca seletora na posição P, o veículo pode se mover alguns centímetros para frente ou para trás.
+
+Caso, durante a condução, a posição N seja selecionada acidentalmente, tirar o pé do pedal do acelerador. Aguardar a rotação de marcha lenta do motor na posição neutra antes de engatar uma posição de marcha novamente.
+
+Trocar a marcha com o Tiptronic
+
+Fig. 90 Alavanca seletora na posição Tiptronic.
+
+Fig. 91 Volante com seletores basculantes do Tiptronic.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 89, Fig. 90, Fig. 91 no manual original.]

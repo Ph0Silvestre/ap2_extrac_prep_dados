@@ -1,0 +1,59 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Sistemas de assistência ao condutor
+SEÇÃO: Assistente de frenagem de emergência (Front Assist) (Parte 4/5)
+PÁGINAS MANUAL: 129-130 (PDF: 131-132)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Se diversas lanternas de freio no veículo estiverem com defeito.
+
+- Se o veículo for acelerado com força ou o acelerador for pisado até o fim.
+
+- Em situações complexas de condução, por exemplo, em canteiros.
+
+- Em situações de trânsito não previsíveis, por exemplo, veículos à frente freando ou desviando subitamente.
+
+- Se o Front Assist estiver avariado.
+
+Desligar o Front Assist Dependendo do sistema, o Front Assist não é adequado nas seguintes situações e deve ser desligado -> :
+- Se o veículo for movimentado fora das vias públicas, por exemplo, em estradas não asfaltadas ou em uma pista de corrida.
+
+- Se o veículo for rebocado ou carregado.
+
+- Se acessórios cobrirem o sensor do radar, por exemplo, faróis adicionais.
+
+- Se o sensor do radar estiver avariado.
+
+- Após impacto violento no sensor do radar, por exemplo, após um acidente.
+
+- Em acionamentos repetidos não desejados.
+
+[ATENÇÃO]
+
+Se o Front Assist não for desligado nas situações mencionadas, podem ocorrer acidentes e ferimentos graves.
+
+Comandar o sistema de monitoramento periférico (Front Assist)
+
+Observe no início desse capítulo na página 128.
+
+Após ligar a ignição, o Front Assist e a função de aviso prévio são ligados automaticamente.
+
+No entanto, enquanto a luz de controle estiver acesa, o sistema de monitoramento periférico estará disponível apenas limitadamente ou não estará disponível.
+
+A Volkswagen recomenda manter o sistema de monitoramento periférico, bem como o alerta de distância e o alerta prévio sempre ligados, com exceção de -> Página 129, Limitações do Front Assist.
+
+Ligar e desligar
+- Ligar ou desligar o Front Assist nas configurações do veículo do sistema Infotainment.
+
+- OU: ligar e desligar o Front Assist em menus do instrumento combinado -> Página 28. Ao desligar o Front Assist, a função de aviso prévio e o alerta da distância também sã desligados automaticamente. No display do instrumento combinado, a luz de controle amarela se acende.
+
+Ajustar o alerta da distância e a função de aviso prévio
+- Se o Front Assist for ligado, será possível configurar o alerta de distância e o aviso prévio:
+
+- Ligar ou desligar a função desejada nas configurações do veículo do sistema do rádio: tocar na superfície de seleção e tocar na superfície de função Carro -> Página 29.
+
+Dependendo da versão, é possível ajustar adicionalmente o momento de alerta para o alerta pré-vio.

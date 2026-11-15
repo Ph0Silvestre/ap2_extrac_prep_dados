@@ -1,0 +1,48 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Segurança
+SEÇÃO: Em caso de emergência (Parte 2/3)
+PÁGINAS MANUAL: 62-63 (PDF: 64-65)
+FIGURAS REFERENCIADAS: Fig. 46
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Se as luzes de advertência não funcionarem, os outros condutores deverão ser alertados de outra forma (em conformidade com as determinações legais) a respeito do veículo parado.
+
+Luzes de frenagem de emergência - ESS (Emergency Stop Signal) Para veículos com a função ESS e com sistema antibloqueio do freio (ABS), durante uma frenagem brusca e contínua e em velocidades superiores a 80 km/h, a lanterna da luz de freio poderá piscar para alertar os condutores que trafegam atrás.
+
+Se a frenagem for prolongada por mais tempo, mantendo-se a mesma desaceleração, as luzes de advertência são automaticamente ligadas e piscarão quando o veículo atingir uma velocidade inferior a aproximadamente 10 km/h. Ao reiniciar o movimento do veículo, as luzes de advertência desligam-se por conta própria.
+
+As luzes de advertência também podem ser desligadas ao pressionar o interruptor no painel de instrumentos -> Fig. 46.
+
+[ATENÇÃO]
+
+Um veículo parado sem a devida sinalização representa um grande risco de acidente para si mesmo e para terceiros no trânsito.
+
+- Parar o veículo assim que possível em um local seguro.
+
+- Estacionar o veículo a uma distância segura do fluxo de trânsito para travar seguramente todas as portas em caso de emergência.
+
+- Ligar as luzes de advertência e utilizar o triângulo de segurança para alertar outros condutores.
+
+- Nunca deixar crianças, deficientes ou pessoas com necessidades especiais sozinhas no veículo quando as portas forem travadas.
+
+Isto poderá fazer com que elas sejam trancadas dentro do veículo em caso de emergência. Pessoas trancadas podem ficar expostas a temperaturas muito altas ou muito baixas.
+
+[ATENÇÃO]
+
+A observância da lista de controle é essencial para a segurança do condutor, passageiros e demais condutores, evitando possíveis acidentes.
+
+- Seguir sempre as ações da lista de controle e observar as precauções de segurança nela descritas.
+
+[ATENÇÃO]
+
+As peças do sistema de escape esquentam muito. Por isso podem ocorrer incêndios e ferimentos graves.
+
+- Nunca estacionar o veículo de forma que peças do sistema de escape entrem em contato com materiais facilmente inflamáveis embaixo do veículo, como, por exemplo, grama seca ou combustível.
+
+A bateria do veículo se descarrega quando as luzes de advertência ficam ligadas por um longo período de tempo - mesmo com a ignição desligada.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 46 no manual original.]

@@ -1,0 +1,48 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Segurança
+SEÇÃO: Sistema de airbag (Parte 9/11)
+PÁGINAS MANUAL: 50-51 (PDF: 52-53)
+FIGURAS REFERENCIADAS: Fig. 37, Fig. 38
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- A luz de controle PASSENGER AIR BAG na parte superior do console central se acende permanentemente com a ignição ligada -> Página 45.
+
+Sinal de reconhecimento para o airbag frontal do passageiro dianteiro desligado Um airbag frontal do passageiro dianteiro desligado somente é indicado pela luz de controle PASSENGER AIR BAG permanentemente acesa na parte superior do console central ( acesa em amarelo permanentemente) -> Página 45.
+
+Se a luz de controle PASSENGER AIR BAG na parte superior do console central não se acender permanentemente ou se acender juntamente com a luz de controle do instrumento combinado, nenhum sistema de retenção para crianças poderá ser montado sobre o banco do passageiro dianteiro por motivos de segurança. O airbag frontal do passageiro dianteiro poderia ser acionado em um acidente.
+
+[ATENÇÃO]
+
+O airbag frontal do passageiro dianteiro só pode ser desligado em casos especiais.
+
+- Ligar e desligar o airbag frontal do passageiro dianteiro somente com a ignição desligada para evitar danos ao sistema de airbag.
+
+- A responsabilidade pela posição correta do interruptor acionado pela chave é do condutor.
+
+- Desligar o airbag frontal do passageiro dianteiro somente quando, em casos especiais, houver uma cadeira de criança fixada no banco do passageiro dianteiro.
+
+- Ligar novamente o airbag frontal do passageiro dianteiro assim que a cadeira de criança não estiver mais sendo usada no banco do passageiro dianteiro.
+
+[NOTA]
+
+Uma haste da chave não inserida o suficiente pode ser danificada ao girá-la no interruptor acionado pela chave.
+
+[NOTA]
+
+Não deixar a chave do veículo inserida no interruptor acionado pela chave, pois isso pode causar danos no revestimento interno da porta, no painel de instrumentos, no interruptor acionado pela chave e na chave do veículo ao fechar a porta do passageiro dianteiro.
+
+Airbags laterais
+
+Observe no início desse capítulo na página 44.
+
+Fig. 37 No lado esquerdo do veículo: áreas de ex-pansão do airbag lateral.
+
+Fig. 38 Lateralmente no banco dianteiro: localização de instalação e área de expansão dos airbags laterais.
+
+Os airbags laterais se encontram no estofamento externo do encosto dos bancos do condutor e do passageiro dianteiro -> Fig. 38. Os locais de instalação estão identificados pela inscrição “AIR- BAG”.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 37, Fig. 38 no manual original.]

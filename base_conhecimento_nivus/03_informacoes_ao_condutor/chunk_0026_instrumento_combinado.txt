@@ -1,0 +1,48 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Informações ao condutor
+SEÇÃO: Instrumento combinado (Parte 10/13)
+PÁGINAS MANUAL: 24-25 (PDF: 26-27)
+FIGURAS REFERENCIADAS: Fig. 16
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Funcionamento e comando O sistema de reconhecimento de cansaço avisa o condutor quando seu comportamento de direção indica cansaço.
+
+O sistema de reconhecimento de cansaço determina o comportamento de direção do condutor no início de uma condução e calcula, a partir daí, uma avaliação do cansaço. Isso é comparado constantemente com o comportamento de direção atual. Se o sistema reconhecer o cansaço do condutor, ele emite um alerta sonoro com um “gongo” e exibe um alerta visual com um símbolo -> Fig. 16 no display do instrumento combinado juntamente com uma mensagem de texto complementar. A mensagem no display do instrumento combinado é exibida por aproximadamente 5 segundos e, se necessário, repetida uma vez. A última mensagem é armazenada pelo sistema.
+
+A mensagem no display do instrumento combinado pode ser desligada ao pressionar o botão na alavanca dos limpadores dos vidros ou o botão no volante multifunções -> Página 28. A mensagem no display do instrumento combinado pode ser acessada novamente pelo indicador multifunções -> Página 24.
+
+Condições de funcionamento O comportamento de direção só é avaliado a velocidades acima de 60 km/h até aproximadamente 200 km/h.
+
+Ligar e desligar Dependendo da versão do veículo, o sistema de reconhecimento de cansaço pode ser ativado ou desativado no sistema do rádio, tocar na superfície de seleção . Para tanto, tocar na superfície de função Carro -> Página 29.
+
+Limitações de funcionamento O sistema de reconhecimento de cansaço tem limites condicionados ao sistema. As seguintes condições podem levar o sistema de reconhecimento de cansaço a funcionar somente de maneira limitada ou mesmo a não funcionar de maneira nenhuma:
+
+- Velocidades abaixo de aproximadamente 60 km/h.
+
+- Velocidades acima de aproximadamente 200 km/h.
+
+- Trechos sinuosos.
+
+- Vias em más condições.
+
+- Condições climáticas desfavoráveis.
+
+- Se o condutor estiver muito distraído.
+
+Nas seguidas condições o sistema de reconhecimento de cansaço é reinicializado:
+
+- A ignição é desligada.
+
+- O cinto de segurança do condutor está solto e a porta do condutor, aberta.
+
+- O veículo está parado por mais de 15 minutos.
+
+Em caso de uma condução mais longa em baixa velocidade (abaixo de aproximadamente 60 km/h), a avaliação é reiniciada automaticamente pelo sistema. Em caso de uma condução posterior mais rápida, o comportamento de direção é recalculado.
+
+[ATENÇÃO]
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 16 no manual original.]

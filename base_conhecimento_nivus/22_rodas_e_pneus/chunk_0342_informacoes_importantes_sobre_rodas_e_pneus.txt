@@ -1,0 +1,22 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rodas e pneus
+SEÇÃO: Informações importantes sobre rodas e pneus (Parte 13/14)
+PÁGINAS MANUAL: 252 (PDF: 254)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+a) TIN é o número de série do pneu.
+
+Pneus unidirecionais Pneus unidirecionais foram desenvolvidos para rodar em uma única direção. Nos pneus unidirecionais, o flanco do pneu é marcado com setas. Manter obrigatoriamente a direção indicada. Somente assim as características de rodagem ex-cepcionais referentes à aquaplanagem, capacidade de aderência, ruído e desgaste são garantidas.
+
+Se, mesmo assim, um pneu for instalado na direção de rodagem contrária, conduzir obrigatoriamente com mais cuidado, uma vez que o pneu não está sendo mais utilizado segundo as determinações. Isto é especialmente importante em pisos molhados. O pneu deve ser substituído ou montado na direção de rodagem correta o mais rápido possível.
+
+Capacidade de carga dos pneus O índice de carga indica quantos quilogramas podem ser carregados sobre cada pneu (capacidade de carga).
+
+450 kg 515 kg 80 85 Código de velocidade O código de velocidade indica com qual velocidade máxima um pneu pode ser rodado.
+
+máximo 150 km/h máximo 160 km/h máximo 170 km/h máximo 180 km/h máximo 190 km/h máximo 200 km/h máximo 210 km/h máximo 240 km/h máximo 270 km/h máximo 300 km/h P Q R S T U H V W Y

@@ -1,0 +1,50 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: Óleo do motor (Parte 4/6)
+PÁGINAS MANUAL: 228-229 (PDF: 230-231)
+FIGURAS REFERENCIADAS: Fig. 177, Fig. 178
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+O óleo do motor não pode ser reabastecido.
+
+Nível do óleo do motor em ordem.
+
+Nível do óleo do motor muito baixo – reabastecer o óleo do motor.
+
+Seguir as etapas na sequência indicada -> :
+
+1. Estacionar o veículo com o motor quente em uma superfície plana para evitar a leitura incorreta do nível do óleo do motor.
+
+2. Desligar o motor e esperar alguns minutos para que o óleo do motor escoe de volta para o cárter.
+
+3. Abrir a tampa do compartimento do motor -> Página 221.
+
+4. Identificar a abertura para enchimento de óleo do motor e a vareta de medição do óleo. A abertura para enchimento do óleo do motor é identificada pelo símbolo na tampa -> Fig. 178 e pela vareta de medição do óleo com a alça colorida. Se não estiver claro onde a tampa e a vareta de medição do óleo se encontram, procurar uma Concessionária Volkswagen ou uma empresa especializada.
+
+5. Retirar a vareta de medição do óleo do tuboguia e limpar com um pano limpo -> .
+
+6. Reintroduzir a vareta de medição do óleo no tubo-guia até o fim. Se houver uma marca na vareta de medição do óleo, essa marca deve se ajustar à ranhura correspondente da ex-tremidade superior do tubo-guia na introdução.
+
+7. Retirar novamente a vareta de medição do óleo e ler o nível do óleo do motor na vareta de medição -> Fig. 177 da seguinte maneira:
+
+A Não completar o óleo -> . Continuar com a etapa 16.
+
+B Nível do óleo correto. O óleo pode ser completado (aproximadamente 0,5 l). Continuar com a etapa 8 ou 16.
+
+C Completar obrigatoriamente com óleo recomendado mantendo o nível dentro da região B . Continuar com a etapa 8.
+
+8. Após a leitura do nível do óleo do motor, introduzir a vareta de medição do óleo de maneira correta no tubo-guia até o fim.
+
+9. Desrosquear a tampa do bocal de enchimento de óleo do motor -> Fig. 178.
+
+10. Reabastecer somente com óleo do motor ex-pressamente liberado pela Volkswagen gradualmente em pequenas quantidades (não mais que 0,5 l).
+
+11. Para evitar encher demais, é necessário esperar aproximadamente um minuto após cada reabastecimento, para que o óleo do motor escorra para o cárter até a marca da vareta de medição do óleo do motor.
+
+12. Verificar novamente o nível do óleo do motor na vareta de medição do óleo antes de reabastecer mais uma pequena quantidade de óleo do motor. Nunca reabastecer com óleo do motor em excesso -> .
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 177, Fig. 178 no manual original.]

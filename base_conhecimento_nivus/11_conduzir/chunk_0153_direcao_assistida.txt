@@ -1,0 +1,28 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Conduzir
+SEÇÃO: Direção assistida (Parte 1/1)
+PÁGINAS MANUAL: 117-118 (PDF: 119-120)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Informações sobre a direção A direção com assistência eletromecânica (em comparação com a direção com assistência hidráulica) consome menos potência do veículo, pois é acionada somente quando giramos o volante, enquanto na assistência hidráulica o sistema hidráulico funciona constantemente, mesmo com o veículo andando em linha reta. Na direção com assistência eletromecânica, uma unidade de comando computadorizada associada a um motor elétrico, sensores e uma caixa de engrenagens substitui as mangueiras, bomba, reservatório e fluido de um sistema hidráulico.
+
+A assistência eletromecânica da direção é auto-maticamente adequada de acordo com a velocidade de condução, com o torque e com o ângulo aplicados pelo condutor no volante para esterçar o veículo. A assistência eletromecânica funciona somente com o motor do veículo em funcionamento.
+
+Se a assistência eletromecânica estiver reduzida ou não estiver funcionando, será necessário aplicar muito mais força que o usual para manobrar. Mas nunca o condutor perderá o comando da direção do veículo.
+
+[ATENÇÃO]
+
+- A assistência eletromecânica da direção funciona somente com o motor do veículo em funcionamento. Em caso de pane do motor com o veículo em movimento a assistência eletromecânica funciona ainda por alguns minutos, para assegurar que o veículo possa ser estacionado em segurança.
+
+- Nunca deixar o veículo rodar com o motor desligado.
+
+- Nunca retirar a chave do veículo do cilindro da ignição enquanto o veículo estiver em movimento.
+
+Luzes de advertência e de controle no instrumento combinado Ao ligar a ignição, algumas luzes de advertência e controle se acendem rapidamente para verificação da função e se apagam após alguns segundos. Caso as seguintes luzes voltem a acender:
+
+Não prosseguir! Assistência eletromecânica ao esterçamento fora de ação. Procurar imediatamente por uma Concessionária Volkswagen. Assistência eletromecânica ao esterçamento com funcionamento limitado. Procurar assim que possível por uma Concessionária Volkswagen.

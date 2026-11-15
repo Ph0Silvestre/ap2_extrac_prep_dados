@@ -1,0 +1,44 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Segurança
+SEÇÃO: Orientações gerais (Parte 16/18)
+PÁGINAS MANUAL: 42-43 (PDF: 44-45)
+FIGURAS REFERENCIADAS: Fig. 32
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Nunca alterar a posição do cadarço do cinto de segurança por meio de grampos, olhais de retenção ou similares.
+
+Pessoas que não conseguem a posição ideal do cadarço do cinto de segurança em razão de particularidades de seus corpos devem se informar em uma Concessionária Volkswagen sobre possíveis instalações especiais para conseguir a proteção ideal dos cintos de segurança e dos airbags.
+
+Regulagem de altura do cinto de segurança
+
+Observe no início desse capítulo na página 36.
+
+Fig. 32 Ao lado dos bancos dianteiros: regulagem de altura do cinto de segurança.
+
+Com o auxílio da regulagem de altura do cinto de segurança para os bancos dianteiros, é possível regular a posição do cadarço dos cintos na área do ombro conforme a estatura para que o cinto de segurança possa ser colocado corretamente:
+
+- Deslocar o dispositivo regulador para cima ou para baixo até que o cinto de segurança esteja regulado sobre o meio do ombro -> Página 41.
+
+- Soltar o dispositivo regulador.
+
+- Verificar se o dispositivo regulador foi encaixado puxando o cinto de segurança algumas vezes.
+
+[ATENÇÃO]
+
+Nunca regular a altura do cinto de segurança durante a condução.
+
+Enrolador automático do cinto de segurança, pré-tensionador do cinto de segurança e limitador de força do cinto de segurança
+
+Observe no início desse capítulo na página 36.
+
+Os cintos de segurança são parte do sistema de segurança do veículo -> Página 47 e são compostos pelas importantes funções a seguir:
+
+Enrolador automático do cinto de segurança Os cintos de segurança estão equipados com enrolador automático do seu respectivo cadarço, este dispositivo mantém o cinto de segurança ajustado ao corpo do passageiro. Puxando-se lentamente o cinto de segurança ou em condução normal, é garantida a total liberdade de movimentos na região do tronco do passageiro. Porém, na retirada rápida do cinto de segurança, frenagens súbitas, viagem por aclives ou declives, em curvas e na aceleração do veículo, o enrolador automático do cinto bloqueia o cinto de segurança.
+
+Pré-tensionadores dos cintos de segurança Os cintos de segurança dos assentos dianteiros estão equipados com pré-tensionadores e limitadores de força. Os cintos de segurança traseiros não possuem estes dispositivos.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 32 no manual original.]

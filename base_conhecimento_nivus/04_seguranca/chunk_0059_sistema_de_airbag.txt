@@ -1,0 +1,56 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Segurança
+SEÇÃO: Sistema de airbag (Parte 8/11)
+PÁGINAS MANUAL: 49-50 (PDF: 51-52)
+FIGURAS REFERENCIADAS: Fig. 36
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Ajustar o banco do passageiro dianteiro de modo que exista a maior distância possível entre o passageiro e o painel de instrumentos.
+
+As peças do sistema de airbag nunca devem ser reutilizadas em caso de sucateamento do veículo ou de alguns dos seus componentes. Além do cumprimento às normas de segurança em vigor, devem ser respeitadas as normas de destinação ambientalmente adequadas. Estas disposições são de conhecimento das Concessionárias Volkswagen.
+
+Desligar e ligar o airbag frontal do passageiro dianteiro manualmente com o interruptor acionado pela chave
+
+Observe no início desse capítulo na página 44.
+
+Fig. 36 No painel de instrumentos no lado do passageiro dianteiro: interruptor acionado pela chave para desligar e ligar o airbag frontal do passageiro dianteiro.
+
+Na fixação de uma cadeira de criança voltada para trás no banco do passageiro dianteiro, o airbag frontal do passageiro dianteiro deve ser desligado!
+
+Ligar o airbag frontal do passageiro dianteiro
+- Desligar a ignição.
+
+- Abrir a porta do lado passageiro dianteiro.
+
+- Rebater a haste da chave do veículo para fora -> Página 64.
+
+- Inserir a haste da chave no interruptor acionado pela chave -> Fig. 36 -> e girar para a posição .
+
+- Retirar a chave do veículo do interruptor acionado pela chave e rebater a haste da chave para dentro.
+
+- A luz de controle PASSENGER AIR BAG na parte superior do console central se acende e se apaga após aproximadamente 60 segundos -> Página 45.
+
+- Fechar a porta do lado passageiro dianteiro.
+
+- Verificar se com a ignição ligada a luz de controle PASSENGER AIR BAG na parte superior do console central não está acesa -> Página 45.
+
+Desligar o airbag frontal do passageiro dianteiro
+- Desligar a ignição.
+
+- Abrir a porta do lado passageiro dianteiro.
+
+- Rebater a haste da chave do veículo para fora -> Página 64.
+
+- Inserir a haste da chave no interruptor acionado pela chave -> Fig. 36 -> e girar para a posição .
+
+- Retirar a chave do veículo do interruptor acionado pela chave e rebater a haste da chave para dentro.
+
+- Fechar a porta do lado passageiro dianteiro.
+
+- A luz de controle PASSENGER AIR BAG na parte superior do console central se acende permanentemente com a ignição ligada -> Página 45.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 36 no manual original.]

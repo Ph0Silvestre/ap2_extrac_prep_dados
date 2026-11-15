@@ -1,0 +1,42 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: Óleo do motor (Parte 1/6)
+PÁGINAS MANUAL: 226-227 (PDF: 228-229)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Introdução ao tema
+
+[ATENÇÃO]
+
+Se manuseado de forma inadequada o óleo do motor pode causar queimaduras e outros ferimentos graves.
+
+- Usar sempre óculos de proteção durante o manuseio do óleo do motor.
+
+- O óleo do motor é tóxico e deve ser conservado fora do alcance de crianças.
+
+- Conservar o óleo do motor somente no recipiente original fechado. Isto vale também para o óleo usado até o momento de seu descarte.
+
+- Nunca utilizar latas de alimentos, garrafas ou outros recipientes vazios para armazenar o óleo do motor, pois assim há risco de que outras pessoas possam ingerir o óleo do motor armazenado.
+
+- O contato frequente com o óleo do motor pode causar lesões na pele. Em caso de contato com o óleo do motor, lavar a pele cuidadosamente com água e sabão.
+
+- Com o motor em funcionamento, o óleo do motor fica extremamente quente, podendo causar queimaduras graves. Deixar sempre o motor esfriar.
+
+O vazamento ou derramamento do óleo do motor pode contaminar o meio ambiente. Para que isso não ocorra, recomenda-se substituir o óleo do motor preferencialmente em uma Concessionária Volkswagen, que dispõe de ferramenta especial, da competência técnica necessária e está apta a resolver a questão da eliminação do óleo usado.
+
+- Se forem visíveis manchas de óleo do motor ou de outros fluidos no piso sob o veículo, a Volkswagen recomenda que o veículo seja inspecionado preferencialmente em uma Concessionária Volkswagen.
+
+Especificação do óleo do motor
+
+Observe no início desse capítulo na página 226.
+
+VW 508 88 é a norma do óleo lubrificante para o motor do seu Volkswagen. Essa norma deve estar descrita na embalagem do óleo lubrificante. Nas Concessionárias Volkswagen estão disponíveis informações sobre os óleos de motor aprovados pela Volkswagen.
+
+Além das informações nas Concessionárias Volkswagen, os óleos de motor aprovados estão indicados na página da Volkswagen, na internet em www.vw.com.br -> .
+
+No reabastecimento, os óleos de motor aprovados pela Volkswagen conforme a norma VW 508 88 podem ser misturados entre si.

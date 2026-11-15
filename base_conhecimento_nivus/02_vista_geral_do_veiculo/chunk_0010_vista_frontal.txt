@@ -1,0 +1,25 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Vista geral do veículo
+SEÇÃO: Vista frontal (Parte 3/4)
+PÁGINAS MANUAL: 11-12 (PDF: 13-14)
+FIGURAS REFERENCIADAS: Fig. 5, Fig. 6
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Fig. 5 Vista geral dos comandos na porta do condutor.
+
+| Legenda para -> Fig. 5: Região para: 1 | | |
+| --- | --- | --- |
+| | – Interruptor rotativo de ajuste dos espelhos retrovisores externos elétricos........................... | 92 |
+| | – Botões de comando dos vidros elétricos................................................................................................. | 76 |
+| 2 | Maçaneta interna da porta.................................................................................................................................. | 68 |
+| 3 | Botão do travamento central para travamento e destravamento do veículo............................... | 68 |
+| 4 | Luz de controle do travamento central......................................................................................................... | 69 |
+| 5 | Porta-objetos............................................................................................................................................................ | 141 |
+
+Fig. 6 Vista geral do lado do condutor.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 5, Fig. 6 no manual original.]

@@ -1,0 +1,22 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Informações ao condutor
+SEÇÃO: Comando e indicações no rádio (Parte 3/3)
+PÁGINAS MANUAL: 31 (PDF: 33)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+| Menu | Submenu | Possibilidades de configuração |
+| --- | --- | --- |
+| Sistema de Assistência | Detecção de cansaço | Ativar ou desativar o sistema de reconhecimento de cansaço |
+| | Controle automático de distância (ACC) | – Última distância selecionada – Intervalo de tempo |
+| | Assistente de frenagem de emergência (Front Assist) | – Sistema ativo – Aviso prévio – Exibir aviso de distância |
+| Abrir e fechar | Acionamento das janelas | Configuração da abertura de conforto dos vidros Ativar ou desativar o fechamento automático dos vidros ao trancar o veículo |
+| | Travamento central | Configuração do destravamento da porta – Ativar ou desativar o travamento automático – Ativar ou desativar a confirmação sonora para travamento central – Ativar ou desativar o monitoramento do interior do veículo |
+| Unidades | – | – Distância – Velocidade – Temperatura – Volumes – Consumo combustível – Pressão |
+| Configurações de fábrica | – | – Redefinir todas as configurações – Luz – Assistência ao condutor – Estacionar e manobrar – Espelho e limpador – Abrir e fechar – Instrumento combinado |
+| Estacionar e manobrar | Park Pilot | Ativar ou desativar a ativação automática do auxílio ao estacionamento – Volume dianteiro e traseiro – Som dianteiro e traseiro – Diminuição do áudio |
+| Serviço | – | – Número de identificação do veículo – Prazo para a próxima inspeção – Prazo para o próximo serviço de troca de óleo |

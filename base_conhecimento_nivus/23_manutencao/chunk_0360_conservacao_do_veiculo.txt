@@ -1,0 +1,38 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Manutenção
+SEÇÃO: Conservação do veículo (Parte 7/15)
+PÁGINAS MANUAL: 264-265 (PDF: 266-267)
+FIGURAS REFERENCIADAS: Fig. 194
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Descongelar o cilindro da fechadura das portas A Volkswagen recomenda utilizar o spray original Volkswagen com efeito hidratante e anticorrosivo para descongelamento do cilindro da fechadura das portas.
+
+Proteção da parte inferior do veículo A parte inferior do veículo é protegida contra influências químicas e mecânicas. Durante a condução, a camada protetora da parte inferior pode sofrer avarias. Por isso, a Volkswagen recomenda que a camada protetora da parte inferior do veículo e do chassi seja verificada regularmente e restaurada se necessário.
+
+Cavidades ocas Todas as cavidades expostas à corrosão são sub-metidas, de fábrica, a uma proteção de longa duração.
+
+Esta conservação não precisa ser verificada nem retocada. Se, com temperaturas externas elevadas, escorrer um pouco de cera das cavidades, ela poderá ser removida com uma espátula de plástico e benzina.
+
+Limpar o compartimento do motor O compartimento do motor é uma área do veículo perigosa -> Página 221.
+
+A limpeza do compartimento do motor deve ser realizada por uma Concessionária Volkswagen ou por uma empresa especializada. Uma limpeza inadequada pode causar, entre outros, a remoção da proteção anticorrosiva e danos aos componentes elétricos do veículo. Além disso, a água pode chegar ao interior do veículo por meio da caixa coletora de água -> .
+
+Caso o compartimento do motor fique muito sujo, procurar sempre uma empresa especializada para a limpeza do compartimento do motor. Para isso, a Volkswagen recomenda as Concessionárias Volkswagen.
+
+compartimento do motor, entre o para-brisa e o motor e sob uma cobertura perfurada -> Fig. 194. O ar ambiente é sugado da caixa coletora de água para o interior do veículo por meio do sistema de aquecimento e ventilação ou do ar-condicionado.
+
+- Remover regularmente folhagens e outros objetos soltos da cobertura da caixa coletora de água, com as mãos ou com o auxílio de um aspirador.
+
+Sensores, lente da câmera de marcha a ré Limpar a área em frente dos sensores, ou da câmera com um pano macio e produto de limpeza isento de solventes. Observar os locais de instalação -> Página 10.
+
+[ATENÇÃO]
+
+Vidros sujos e embaçados reduzem a visibilidade e aumentam o risco de acidentes e de ferimentos graves.
+
+- Conduzir apenas quando for possível enxergar nitidamente através de todos os vidros do veículo.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 194 no manual original.]

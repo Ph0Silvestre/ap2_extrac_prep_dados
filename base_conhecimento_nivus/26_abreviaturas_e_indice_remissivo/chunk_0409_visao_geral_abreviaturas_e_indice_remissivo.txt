@@ -1,0 +1,33 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Abreviaturas e Índice remissivo
+SEÇÃO: Visão Geral - Abreviaturas e Índice remissivo (Parte 13/18)
+PÁGINAS MANUAL: 299 (PDF: 301)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+| P | favoritos (botões de discagem rápida) 175 HPF 169 |
+| --- | --- |
+| Painel de instrumentos 12 limpeza 266 sistema de airbag 44, 266 | inserir número de telefone 172 listas de chamadas 174 lugares com prescrições especiais 168 |
+| Palheta do limpador do vidro traseiro limpar 207 substituir 207 | lugares com risco de explosões 168 menu principal 171 pareamento do telefone móvel 169 |
+| Palhetas dos limpadores do para-brisa limpar 207 substituir 207 | perfis Bluetooth 169 selecionar 172, 173 superfícies de função 171 |
+| Palhetas dos limpadores dos vidros 206 | Plano de manutenção Volkswagen 258 |
+| limpar 207 | Plano Digital de Serviços 258 |
+| substituir 207 | Plaqueta de fábrica 282 |
+| Para-sol 95 | Plaquetas 279 |
+| Parado no trânsito proteger o veículo 61 | Pneus veja rodas e pneus 240 |
+| Parafusos da roda 253, 254 | ver rodas e pneus 243 |
+| torque de aperto 255 | Pneus mais velhos 244 |
+| Park Pilot | Pneus unidirecionais 252 |
+| ver Auxílio ao estacionamento 133 | Polimento 261 |
+| Particularidades Android Auto™ 155 Apple CarPlay™ 154 conduzir com um reboque 197 dobrar os espelhos retrovisores 95 estacionar 131, 284 exibições 152 funcionamento irregular do motor 203 o motor dá solavanco 203 | Porta-copos 143 console central dianteiro 144 console central traseiro 144 garrafas de bebidas 143 Porta-luvas lanterna 89 ver Porta-objetos 142 Porta-objetos 141 |
+| operação AUX 166 puxar 220 rebocar 220 recepção do rádio 279 tirar a chave do veículo 109, 111 vapor de água embaixo do veículo 101 Peças de reposição 270 Pedais 35, 101 Perfil de usuário VW Play 188 | console central dianteiro 141 console do teto 143 descansa-braço central dianteiro 142 lado do passageiro dianteiro 142 lanterna do porta-luvas 89 literatura de bordo 142 na parte inferior do console central 141 outros porta-objetos 143 porta-luvas 142 porta-óculos 143 Porta-óculos 143 |
+| Perfil do usuário configurações 176 Perfis de informação 19 | Porta do condutor vista geral 11 Portas 68 |
+| Pesquisar listas 151 | fechamento ou abertura de emergência 70 |
+| PHONE | trava de segurança para crianças 61 |
+| A2DP 169 agenda telefônica 173 chamar correio de voz 173 configurações 175 configurações Bluetooth 176 configurações do perfil do usuário 176 contatos 173 | Portinhola do tanque de combustível ver tampa do tanque de combustível 201 Pós-funcionamento (timeout) 149 Posição de serviço limpadores do para-brisa 206 Posição do cadarço do cinto de segurança 41 |
+| controle do telefone 170 | Postura no banco |
+| descrição de funcionamento 169 | postura incorreta 34 |

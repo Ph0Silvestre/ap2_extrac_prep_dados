@@ -1,0 +1,36 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rodas e pneus
+SEÇÃO: Informações importantes sobre rodas e pneus (Parte 3/14)
+PÁGINAS MANUAL: 244-245 (PDF: 246-247)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Pneus com mais de 6 anos de idade Os pneus envelhecem devido a processos físicos e químicos que podem comprometer sua função.
+
+A Volkswagen recomenda que pneus com 6 anos ou mais sejam substituídos por pneus novos. Isto é válido também para a roda de emergência que aparente estar em bom estado e que não apresentem o desgaste mínimo do seu perfil permitido por lei -> em Introdução ao tema na página 243.
+
+A idade de cada pneu pode ser determinada através da data de fabricação -> Página 250.
+
+Armazenar os pneus Sinalizar as rodas antes de sua desmontagem para que a mesma direção de rodagem possa ser mantida na reinstalação (esquerda, direita, dianteira, traseira). Pneus e rodas desmontados devem ser armazenados em lugar fresco, seco e mais escuro possível. Não posicionar verticalmente pneus montados sobre as rodas.
+
+Proteger pneus sem rodas em capas adequadas contra impurezas e armazenar em pé sobre a banda de rodagem.
+
+Pneus novos
+- Conduzir com especial precaução durante os primeiros 600 km com pneus novos, pois os pneus precisam ser amaciados. Pneus não amaciados têm aderência -> e efeito de frenagem -> reduzidos.
+
+- Utilizar somente pneus radiais de estrutura e tamanho (diâmetro) iguais e com o mesmo perfil em todas as 4 rodas.
+
+- Conforme a versão e o fabricante, a profundidade dos perfis de pneus novos pode ser diferente devido a características de fabricação e modelagem do perfil.
+
+Substituir os pneus
+- Se possível, não efetuar a troca de um pneu individual, mas de, no mínimo, um eixo (os dois pneus do eixo dianteiro ou os dois pneus do eixo traseiro) -> .
+
+- Substituir pneus velhos somente por pneus novos liberados pela Volkswagen para o respectivo modelo de veículo. Atentar para o tamanho, diâmetro, capacidade de carga e velocidade máxima.
+
+- Jamais utilizar pneus cujas dimensões efetivas ultrapassem as medidas dos pneus autorizados pela Volkswagen. Pneus maiores podem arrastar e gerar atrito com a carroceria ou com outras peças.
+
+Reprogramar o indicador de controle dos pneus Após cada troca de uma ou de várias rodas, o indicador de controle dos pneus deve ser programado novamente. Isto também é válido após trocar as rodas dianteiras pelas rodas traseiras -> Página 241.

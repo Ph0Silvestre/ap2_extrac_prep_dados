@@ -1,0 +1,36 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Manutenção
+SEÇÃO: Acessórios, reposição de peças, reparos e modificações (Parte 9/9)
+PÁGINAS MANUAL: 275 (PDF: 277)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+[ATENÇÃO]
+
+Um suporte não fixado ou fixado incorretamente pode ser lançado pelo interior do veículo em razão de uma manobra de direção ou de frenagem súbita, bem como em um acidente, e causar ferimentos graves.
+
+- Montar o suporte para telefone celular na abertura correspondente no painel de instrumentos.
+
+[ATENÇÃO]
+
+Sempre desligar o telefone celular em locais com risco de incêndio, como posto de combustível. Radiações eletromagnéticas podem gerar faíscas e, assim, causar um incêndio.
+
+[NOTA]
+
+Movimentar com cuidado o suporte para telefone celular ao ajustar e não movimentá-lo além do ponto.
+
+- Um suporte não fixado ou fixado incorretamente pode se desprender da base e ser lançado pelo interior do veículo, causando danos ao telefone celular.
+
+[NOTA]
+
+Temperaturas ambientes muito altas ou muito baixas podem influenciar no funcionamento do telefone celular ou danificar o aparelho.
+
+- Sempre levar o telefone celular ao deixar o veículo, para protegê-lo de temperaturas muito altas ou muito baixas ou da incidência de raios solares.
+
+[NOTA]
+
+A entrada carregador USB é exclusivamente destinada ao carregamento de dispositivos tipo telefone celular fixados no suporte e não para troca de dados com outros aparelhos do veículo. Mídias de dados como pen drive não possuem função se conectadas na entrada carregador USB do suporte para telefone celular.

@@ -1,0 +1,32 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: Fluido de freio (Parte 1/8)
+PÁGINAS MANUAL: 234 (PDF: 236)
+FIGURAS REFERENCIADAS: Fig. 181
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Fig. 181 No compartimento do motor: tampa do reservatório de fluido de freio.
+
+Com o passar do tempo, o fluido de freio absorve a umidade do ar ambiente. Um teor muito alto de água no fluido de freio causa danos ao sistema de freio. O ponto de ebulição do fluido de freio também diminui bastante. Em caso de teor muito alto de água, poderá ocorrer a formação de bolhas de vapor no sistema de freio em solicitações intensas do freio e em uma frenagem total. Bolhas de vapor reduzem o efeito de frenagem, aumentam consideravelmente a distância de frenagem e podem até causar a falha total do sistema de freio. A própria segurança e a segurança de outros condutores depende de um sistema de freio funcionando corretamente a qualquer momento -> .
+
+Especificação do fluido de freio A Volkswagen desenvolveu um fluido de freio especial, otimizado para o sistema de freio do veículo. A Volkswagen recomenda, para um funcionamento ideal do sistema de freio, a utilização somente do fluido de freio com a especificação DOT 4 -> Fig. 181. Recomendamos ainda que seja utilizado o fluido de freio original Volkswagen.
+
+Comparar as informações com as indicações da embalagem do fluido de freio e assegurar que sempre será usado o fluido de freio correto para o veículo.
+
+Nível do fluido de freio Nível do fluido de freio muito baixo. Não prosseguir! Verificar o nível do fluido de freio.
+
+O nível do fluido de freio deve estar sempre entre as marcas MIN e MAX ou acima da marcação MIN do reservatório do fluido de freio -> .
+
+O nível do fluido de freio não pode ser verificado com precisão em todos os modelos, pois peças do motor impedem a visão do nível do fluido de freio no reservatório do fluido de freio. Quando o nível do fluido de freio não puder ser lido com precisão, procurar uma Concessionária Volkswagen ou uma empresa especializada.
+
+O nível do fluido de freio diminui minimamente durante a condução, pois as pastilhas de freio se gastam e o freio se reajusta automaticamente.
+
+Troca do fluido de freio O fluido de freio deve ser substituído por uma empresa especializada. Para isso, a Volkswagen recomenda procurar uma Concessionária Volkswagen. Permitir o reabastecimento somente com fluido de freio novo que apresente a especificação requerida.
+
+[ATENÇÃO]
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 181 no manual original.]

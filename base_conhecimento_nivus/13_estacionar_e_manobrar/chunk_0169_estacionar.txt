@@ -1,0 +1,52 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Estacionar e manobrar
+SEÇÃO: Estacionar (Parte 2/2)
+PÁGINAS MANUAL: 131-132 (PDF: 133-134)
+FIGURAS REFERENCIADAS: Fig. 100
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+[NOTA]
+
+- Para evitar movimentações indesejadas do veículo ao parar o veículo, somente tirar o pé do pedal do freio depois de puxar o freio de estacionamento.
+
+- Conduzir com cuidado em estacionamentos com meio-fio saliente ou balizas fixas. Objetos mais altos que o chão podem danificar o para-choque e outras peças do veículo ao estacionar ou sair da vaga de estacionamento. Para evitar danos, parar antes que as rodas toquem nas balizas ou nos meios-fios.
+
+- Conduzir cautelosamente sobre depressões e entradas de terrenos, rampas, meios-fios e outros objetos. Peças do veículo mais baixas, como para-choque, spoiler e peças do chassi, do motor ou do sistema de escape podem ser avariadas na passagem.
+
+Observar as determinações legais para parar e estacionar um veículo.
+
+Acionar o freio de estacionamento
+
+Fig. 100 Entre os bancos dianteiros: alavanca do freio de estacionamento.
+
+Puxar sempre a alavanca do freio de estacionamento ao deixar ou estacionar o veículo.
+
+Puxar o freio de estacionamento
+- Puxar a alavanca do freio de estacionamento para cima com o botão bloqueador pressionado -> Fig. 100 (seta).
+
+O freio de estacionamento está acionado quando, com a ignição ligada, a luz de controle se acende no instrumento combinado.
+
+Soltar o freio de estacionamento
+- Puxar a alavanca do freio de estacionamento um pouco para cima e pressionar o botão bloqueador -> Fig. 100 (seta).
+
+- Conduzir para baixo até o batente a alavanca do freio de estacionamento com o botão bloqueador pressionado.
+
+[ATENÇÃO]
+
+A utilização incorreta do freio de estacionamento pode causar acidentes e ferimentos graves.
+
+- Nunca utilizar o freio de estacionamento para frear o veículo, exceto em caso de emergência. A distância de frenagem é consideravelmente maior, pois somente as rodas traseiras são freadas. Utilizar sempre o pedal do freio.
+
+- Nunca conduzir com a alavanca do freio de estacionamento um pouco puxada. Isso pode superaquecer o freio e influenciar negativamente o sistema de freio. Além disso, causa um desgaste prematuro das pastilhas de freio traseiras.
+
+- Nunca acelerar com posição de marcha ou marcha engatada a partir do compartimento do motor com o motor em funcionamento. O veículo pode entrar em movimento mesmo com o freio de estacionamento puxado.
+
+[NOTA]
+
+Para evitar movimentações indesejadas do veículo ao parar o veículo, somente tirar o pé do pedal do freio depois de puxar o freio de estacionamento.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 100 no manual original.]

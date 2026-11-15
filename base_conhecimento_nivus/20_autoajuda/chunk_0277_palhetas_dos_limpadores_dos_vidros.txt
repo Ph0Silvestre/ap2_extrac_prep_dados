@@ -1,0 +1,14 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Autoajuda
+SEÇÃO: Palhetas dos limpadores dos vidros (Parte 3/3)
+PÁGINAS MANUAL: 208 (PDF: 210)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Produtos de limpeza com solventes, esponjas duras e outros objetos pontiagudos danificam o revestimento de grafite das palhetas dos limpadores dos vidros durante a limpeza.
+
+- Não limpar os vidros com combustível, removedor de esmaltes, solventes de tinta ou líquidos semelhantes.

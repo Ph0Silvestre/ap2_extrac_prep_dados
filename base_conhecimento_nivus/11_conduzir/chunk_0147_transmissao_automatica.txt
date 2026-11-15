@@ -1,0 +1,55 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Conduzir
+SEÇÃO: Transmissão automática (Parte 3/7)
+PÁGINAS MANUAL: 114-115 (PDF: 116-117)
+FIGURAS REFERENCIADAS: Fig. 90, Fig. 91
+ALERTAS PRESENTES: NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Fig. 91 Volante com seletores basculantes do Tiptronic.
+
+Com transmissão automática, as marchas podem ser aumentadas ou reduzidas manualmente com o Tiptronic.
+
+até o curso seletor do Tiptronic.
+
+- Mover a alavanca seletora para frente + ou para trás – , para aumentar ou diminuir a marcha -> Fig. 90.
+
+Comandar o Tiptronic com os seletores basculantes
+- Puxar o seletor basculante direito -> Fig. 91 na direção do volante para aumentar a marcha.
+
+- Puxar o seletor basculante esquerdo na direção do volante para reduzir a marcha.
+
+- Para desativar o Tiptronic, puxar o seletor basculante direito na direção do volante por aproximadamente um segundo.
+
+O Tiptronic é desativado automaticamente se os seletores basculantes não forem acionados durante algum tempo ou se a alavanca seletora não estiver no curso seletor do Tiptronic.
+
+[NOTA]
+
+- Ao acelerar, um pouco antes de atingir a rotação máxima admissível do motor, a transmissão muda automaticamente para a marcha imediatamente superior.
+
+- Na redução de marcha manual, a transmissão muda a marcha somente se o motor não ultra-passar a rotação de corte.
+
+Conduzir com transmissão automática As marchas à frente são aumentadas ou reduzidas automaticamente.
+
+Condução em declives Quanto maior o declive, mais reduzida deve ser a marcha selecionada. Marchas mais reduzidas elevam o efeito de frenagem do motor. Nunca descer montanhas ou colinas com o veículo na posição neutra N.
+
+- Reduzir a velocidade.
+
+- Pressionar a alavanca seletora da posição D/S direita na direção do curso seletor do Tiptronic -> Página 114.
+
+- OU: reduzir a marcha com os seletores basculantes do volante -> Página 114.
+
+Parar e arrancar morro acima Quanto maior o aclive, mais reduzida deve ser a marcha selecionada.
+
+Ao parar num aclive com uma posição de marcha engatada, o veículo precisa sempre ser impedido de movimentar-se, pisando no pedal do freio ou acionando o freio de estacionamento. Somente ao arrancar, soltar o pedal do freio ou soltar o freio de estacionamento -> .
+
+Kick-down A função kick-down permite uma aceleração máxima com a alavanca seletora na posição D/S ou na posição Tiptronic.
+
+Ao pisar totalmente no pedal do acelerador, a transmissão automática engata uma marcha inferior. Deste modo, aproveita-se a aceleração total do veículo -> .
+
+Com o modo kick-down, o aumento automático para a próxima marcha mais alta ocorre somente quando é atingida a rotação máxima prescrita do motor.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 90, Fig. 91 no manual original.]

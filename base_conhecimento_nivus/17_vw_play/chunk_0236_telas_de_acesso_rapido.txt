@@ -1,0 +1,16 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: VW Play
+SEÇÃO: Telas de acesso rápido (Parte 1/1)
+PÁGINAS MANUAL: 180 (PDF: 182)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Para facilitar a navegação na tela inicial você pode acessar os menus através de atalhos. São possíveis três combinações de atalhos.
+
+Para configurar a tela de acesso rápido, segurar a tela de acesso rápido por três segundos e selecionar a melhor combinação.
+
+Os atalhos na tela inicial podem acessar algumas funções que dependem da conexão via Bluetooth®, conexão via Wi-Fi e da instalação de aplicativos.

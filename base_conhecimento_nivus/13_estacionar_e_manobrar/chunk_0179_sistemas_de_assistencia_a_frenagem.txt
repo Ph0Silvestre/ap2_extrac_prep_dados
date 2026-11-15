@@ -1,0 +1,38 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Estacionar e manobrar
+SEÇÃO: Sistemas de assistência à frenagem (Parte 3/5)
+PÁGINAS MANUAL: 138-139 (PDF: 140-141)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Sistema de frenagem automática pós-colisão No caso de um acidente, o sistema de frenagem automática pós-colisão pode auxiliar o condutor a reduzir o risco de derrapagem e o risco de outras colisões durante o acidente por meio de uma frenagem iniciada automaticamente.
+
+O sistema de frenagem automática pós-colisão funciona somente em colisões frontais, laterais e traseiras se a unidade de controle do airbag constatar um determinado limiar para ativação durante o acidente.
+
+A frenagem do veículo ocorre automaticamente por meio do ESC, desde que o sistema hidráulico de freio, o ESC e o sistema elétrico não sejam danificados e permaneçam funcionais.
+
+As seguintes atividades sobrepõem em um acidente a frenagem automática:
+
+- Se o condutor pisar no pedal do acelerador.
+
+Não ocorrerá nenhuma frenagem automática.
+
+- Se a pressão do freio produzida por pisar no pedal do freio for mais do que a pressão do freio induzida pelo sistema. O veículo é freado manualmente.
+
+[ATENÇÃO]
+
+A tecnologia inteligente dos sistemas de assistência à frenagem não pode ir além dos limites impostos pela física e funciona somente dentro dos limites do sistema. Dirigir em alta velocidade sobre pistas congeladas, escorregadias ou molhadas pode ocasionar a perda de controle do veículo e ferimentos graves no condutor e nos passageiros.
+
+- Adequar sempre a velocidade e a forma de condução às condições de visibilidade, do clima, da pista e do trânsito. A maior segurança oferecida pelos sistemas de assistência à frenagem ABS, BAS, EDS, ASR e ESC não deve incentivar a colocar a segurança em risco.
+
+- Pistas escorregadias e molhadas continuam muito perigosas, mesmo com o ESC e os outros sistemas.
+
+- Dirigir em alta velocidade sobre pistas molhadas pode ocasionar a perda do contato das rodas com a pista e a “aquaplanagem”. Um veículo não pode ser freado, conduzido nem controlado se tiver perdido o contato com a pista.
+
+- Os sistemas de assistência à frenagem não poderão impedir um acidente quando, por exemplo, se estiver conduzindo muito próximo do veículo da frente ou muito rápido para a respectiva situação de condução.
+
+- Apesar de os sistemas de assistência à frenagem serem muito eficientes e auxiliarem a controlar o veículo em situações difíceis, lembrar sempre que a estabilidade da condução depende da aderência dos pneus.

@@ -1,0 +1,44 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Visibilidade
+SEÇÃO: Limpadores e lavadores dos vidros (Parte 6/8)
+PÁGINAS MANUAL: 94 (PDF: 96)
+FIGURAS REFERENCIADAS: Fig. 78, Fig. 79
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Quando a incidência de luz sobre os sensores é comprometida ou interrompida, o espelho retrovisor interno com antiofuscante automático não funciona ou poderá apresentar falhas. Da mesma forma, aparelhos de navegação externos no para-brisa ou próximos ao espelho retrovisor interno com função antiofuscante automática podem influenciar os sensores -> .
+
+Em algumas situações o antiofuscante automático é desativado, por exemplo quando é engatada a marcha a ré.
+
+Espelho retrovisor interno com antiofuscante manual
+- Posição dia: a alavanca na borda inferior do espelho retrovisor aponta para o para-brisa.
+
+- Posição noite: puxar a alavanca -> Fig. 78 (seta cinza), para evitar o ofuscamento pelos faróis dos veículos que trafegam atrás.
+
+[ATENÇÃO]
+
+O display iluminado de um telefone móvel ou de um aparelho de navegação portátil pode comprometer o funcionamento do espelho retrovisor interno com antiofuscante automático, causando acidentes e ferimentos graves.
+
+- Falhas de funcionamento do antiofuscante automático podem impedir que o espelho retrovisor interno possa ser utilizado para determinar a distância exata do veículo que segue atrás ou a distância de outros objetos.
+
+- Nunca pendurar objetos no espelho retrovisor interno com antiofuscante automático, os objetos podem prejudicar o funcionamento e causar falhas na função antiofuscante automático.
+
+Na utilização do retrovisor interno na posição noite, a visão fica limitada.
+
+Observe e no início desse capítulo na página 92.
+
+Fig. 79 Na porta do condutor: botão rotativo de ajuste dos espelhos retrovisores externos elétricos.
+
+Espelhos retrovisores externos elétricos
+- Ligar a ignição.
+
+- Girar o botão rotativo na porta do condutor até o símbolo desejado -> Fig. 79.
+
+- Movimentar o botão rotativo na direção da seta, para frente, para trás, para a direita ou para a esquerda para regular o espelho retrovisor externo.
+
+Rebater os espelhos retrovisores externos para dentro eletricamente (não disponível para algumas versões) -> . Ajustar o espelho retrovisor externo esquerdo. Ajustar o espelho retrovisor externo direito. Posição zero. O espelho retrovisor externo não pode ser regulado e todas as funções estão desligadas.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 78, Fig. 79 no manual original.]

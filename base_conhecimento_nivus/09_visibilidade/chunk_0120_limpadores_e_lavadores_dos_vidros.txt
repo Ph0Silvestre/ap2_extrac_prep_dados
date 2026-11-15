@@ -1,0 +1,44 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Visibilidade
+SEÇÃO: Limpadores e lavadores dos vidros (Parte 7/8)
+PÁGINAS MANUAL: 94-95 (PDF: 96-97)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Rebater os espelhos retrovisores externos para dentro eletricamente (não disponível para algumas versões) -> . Ajustar o espelho retrovisor externo esquerdo. Ajustar o espelho retrovisor externo direito. Posição zero. O espelho retrovisor externo não pode ser regulado e todas as funções estão desligadas.
+
+Ativar as funções do espelho retrovisor externo Dependendo da versão do veículo e da versão do rádio, as seguintes funções do espelho retrovisor externo devem ser ativadas no sistema do rádio por meio do botão OU tocar na superfície de seleção e tocar na superfície de função Carro -> Página 29:
+- Ativar no menu exibido a respectiva função do espelho retrovisor externo.
+
+Rebater para dentro os espelhos retrovisores externos durante o estacionamento Se o veículo for travado ou destravado por fora, os espelhos retrovisores externos rebatem auto-maticamente para dentro ou para fora. Para isto, o botão giratório deve estar na posição , ou .
+
+Quando o botão rotativo do espelho retrovisor externo elétrico encontra-se na posição , os espelhos retrovisores externos permanecem rebatidos para dentro.
+
+Armazenar o ajuste do espelho retrovisor externo direito para a marcha a ré (tilt down)
+- Escolha uma chave do veículo válida, ao qual a regulagem deve ser atribuída.
+
+- Destrave o veículo com esta chave do veículo.
+
+- Ligar a ignição.
+
+- Engatar a marcha a ré.
+
+- Ajustar o espelho retrovisor externo direito de modo que a borda do meio-fio possa ser bem visualizada.
+
+- A posição do espelho ajustada é automaticamente salva e atribuída à chave do veículo.
+
+Acessar o ajuste do espelho retrovisor externo direito para a marcha a ré (tilt down)
+
+- Gire o botão rotativo para o espelho retrovisor externo na posição .
+
+- Com a ignição ligada, engate a marcha a ré. O espelho retrovisor externo direito assume a posição salva.
+
+A posição salva do espelho retrovisor externo direito para a marcha a ré é abandonada quando se passa a conduzir novamente para a frente a uma velocidade superior a cerca de 15 km/h ou quando o botão rotativo for colocado da posição para uma outra posição.
+
+Os espelhos retrovisores externos podem ser rebatidos (rotacionados) mecanicamente para dentro e para fora. A posição de uso é definida por um travamento bastante perceptível em ambos os lados (esquerdo ou direito).
+
+[ATENÇÃO]

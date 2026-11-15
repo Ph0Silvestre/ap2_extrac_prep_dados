@@ -1,0 +1,26 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rádios
+SEÇÃO: Display (Parte 1/1)
+PÁGINAS MANUAL: 148 (PDF: 150)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+As áreas ativas do display que possuem uma função gravada, são designadas como “superfícies de função” e são operadas por toques curtos no display ou mantendo-as pressionadas. As super-fícies de função são descritas na instrução pela palavra “superfície de função”.
+
+Limpar o display Para limpar, desligar o rádio.
+
+Para limpar o display, utilize um pano macio e limpo, levemente umedecido com água limpa.
+
+Amolecer sujeiras resistentes com um pano umedecido com água, cuidando para não danificar o rádio.
+
+[NOTA]
+
+Não limpar o display a seco. Podem se formar ar-ranhões e riscos não removíveis.
+
+- Não utilizar produtos de limpeza agressivos ou contendo solventes. Estes produtos de limpeza podem danificar o rádio e deixar o display “embaçado”.
+
+- Ao limpar o display, exercer apenas uma ligeira pressão.

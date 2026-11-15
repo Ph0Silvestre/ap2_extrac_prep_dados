@@ -1,0 +1,40 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Abrir e fechar
+SEÇÃO: Tampa traseira (Parte 3/5)
+PÁGINAS MANUAL: 76-77 (PDF: 78-79)
+FIGURAS REFERENCIADAS: Fig. 52
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Não é possível abrir ou fechar a tampa traseira Verifique se a tampa traseira está bloqueada por um obstáculo. A tampa traseira pode ser movida com a mão. Para isso será necessário aplicar uma força maior.
+
+Abrir ou fechar os vidros Os botões se encontram nas portas -> Página 11.
+
+Abrir o vidro: pressionar o botão. Fechar o vidro: puxar o botão. Pressionar para desativar os botões dos vidros elétricos das portas traseiras.
+
+Após desligar a ignição, os vidros ainda podem ser abertos ou fechados pelos botões das portas por um breve período, enquanto a porta do condutor ou do passageiro dianteiro não for aberta.
+
+Dependendo da versão do veículo e dos equipamentos instalados as funções fechamento e abertura de conforto e fechamento automático podem não estar disponíveis apresentar variáveis ou funcionar parcialmente.
+
+Função automática de fechamento e abertura A função automática de fechamento e abertura permite uma abertura e fechamento completos dos vidros. Com isso, não é necessário segurar o botão correspondente do vidro elétrico.
+
+Função de fechamento automático: puxar o botão do respectivo vidro para cima até o segundo estágio.
+
+Função de abertura automática: pressionar o botão do respectivo vidro brevemente para baixo até o segundo estágio.
+
+Parar o curso automático: pressionar ou puxar novamente o botão do respectivo vidro.
+
+Abertura e fechamento de conforto Dependendo da versão do veículo, os vidros podem ser abertos e fechados por fora com a chave do veículo com a ignição desligada:
+
+- Manter pressionado o botão de destravamento ou de travamento da chave do veículo. Todos os vidros elétricos são abertos ou fechados.
+
+- Abertura em veículos com sistema de travamento e de partida Keyless Access sem chave: empunhar a maçaneta da porta e manter pressionados, ao mesmo tempo, o sensor da parte interna da maçaneta -> Fig. 52 A -> Página 66 e a superfície do sensor B .
+
+vamento e de partida Keyless Access sem chave: manter o dedo por alguns segundos na superfície do sensor da maçaneta da porta -> Fig. 52 B -> Página 66 para o travamento, até que os vidros sejam fechados.
+
+- Para interromper as funções, soltar o botão de destravamento ou o botão de travamento OU soltar a maçaneta e retirar o dedo da superfície do sensor.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 52 no manual original.]

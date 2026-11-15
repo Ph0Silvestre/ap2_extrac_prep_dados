@@ -1,0 +1,42 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: Óleo do motor (Parte 2/6)
+PÁGINAS MANUAL: 227 (PDF: 229)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+No reabastecimento, os óleos de motor aprovados pela Volkswagen conforme a norma VW 508 88 podem ser misturados entre si.
+
+Se em situação de emergência não houver nenhum óleo de motor que atenda a norma VW 508 88, provisoriamente pode-se utilizar um óleo de motor que atenda as seguintes especificações: ACEA A3/B4 com classe de viscosidade SAE 0W 30, SAE 0W 40, SAE 5W 30, SAE 5W 40, SAE 10W 30 ou SAE 10W 40. Porém, recomendamos procurar uma Concessionária Volkswagen assim que possível para troca desse óleo pelo óleo do motor aprovado para o seu veículo.
+
+Óleos de motor são aperfeiçoados continuamente e as Concessionárias Volkswagen estão sempre informadas sobre essas mudanças. Por isso, a Volkswagen recomenda que a troca do óleo do motor seja realizada sempre em uma Concessionária Volkswagen.
+
+- Utilizar somente óleo do motor expressamente aprovado pela Volkswagen conforme a norma VW 508 88 . A utilização de outros óleos de motor pode causar danos ao motor que estão excluídos da cobertura em garantia!
+
+- Não misturar aditivos lubrificantes adicionais ao óleo do motor. Danos causados por tais aditivos estão excluídos da cobertura em garantia.
+
+Troca de óleo do motor
+
+Observe no início desse capítulo na página 226.
+
+O óleo do motor deve ser trocado regularmente. Observar qual intervalo de serviço aplica-se ao veículo -> Página 258. Atente para que esses intervalos sejam cumpridos, principalmente quando o veículo é utilizado em condições adversas, onde alguns serviços deverão ser realizados com maior frequência.
+
+Por exigir ferramentas especiais e conhecimentos técnicos, a troca de óleo do motor e do filtro deve ser realizada por uma empresa especializada, o que também assegura o descarte adequado do óleo usado. Para isso, a Volkswagen recomenda as Concessionárias Volkswagen.
+
+Mais informações sobre os intervalos de serviço se encontram no -> Página 258, Serviço.
+
+[ATENÇÃO]
+
+Se em casos excepcionais você mesmo precisar trocar o óleo do motor, observar os seguintes pontos:
+
+- Usar sempre óculos de proteção.
+
+- Deixar sempre o motor esfriar totalmente para evitar queimaduras.
+
+- Manter os braços na horizontal quando desaparafusar o parafuso de drenagem do óleo para evitar que o óleo drenado possa escorrer pelo braço.
+
+- Utilizar um recipiente apropriado para a coleta do óleo usado, que possa comportar no mínimo a quantidade total de óleo do motor.

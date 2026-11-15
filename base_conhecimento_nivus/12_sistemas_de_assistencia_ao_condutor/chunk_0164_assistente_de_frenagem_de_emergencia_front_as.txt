@@ -1,0 +1,44 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Sistemas de assistência ao condutor
+SEÇÃO: Assistente de frenagem de emergência (Front Assist) (Parte 2/5)
+PÁGINAS MANUAL: 128 (PDF: 130)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- O Front Assist pode emitir alertas indesejados em situações de condução complexas e executar uma intervenção de frenagem não desejada, por exemplo, em canteiros.
+
+- O Front Assist pode emitir, em funções comprometidas, alertas indesejados e executar uma intervenção de frenagem não desejada, por exemplo, com o sensor do radar sujo ou desajustado.
+
+- Esteja sempre pronto para assumir a autonomia do veículo.
+
+Níveis de alerta e assistência à frenagem
+
+Observe no início desse capítulo na página 128.
+
+Dentro dos limites do sistema o Front Assist consegue reconhecer veículos parados e veículos que se movem relativamente do mesmo modo junto com o próprio veículo.
+
+Ao se aproximar de um objeto reconhecido que poderia ocasionar uma colisão com o objeto se fosse mantida a mesma velocidade e o condutor não interferisse, o sistema de monitoramento periférico pode intervir dando suporte. Primeiro, é dado um aviso prévio, depois um alerta crítico e, finalmente, ocorre a frenagem automática.
+
+Assim, em condições ideais, pode ser evitada uma colisão ou pode ser contribuído para reduzir as consequências de uma colisão.
+
+Aviso prévio O sistema de monitoramento periférico avisa sobre uma possível colisão e prepara o veículo para uma possível frenagem de emergência.
+
+É emitido um alerta sonoro, e a luz de advertência vermelha se acende. Frear ou desviar!
+
+Faixa de velocidades: de aproximadamente 30 km/h até 250 km/h.
+
+Alerta crítico Se o condutor não reagir ao aviso prévio, um breve solavanco do freio pode ocorrer para fazê-lo ciente do crescente perigo de colisão. Frear ou desviar!
+
+Faixa de velocidades: de aproximadamente 30 km/h até 250 km/h.
+
+Frenagem automática Se o condutor também não reagir ao alerta crítico, o veículo pode ser automaticamente freado com uma força de frenagem crescente em vários níveis. Através da velocidade reduzida, as consequências de um acidente podem ser reduzidas.
+
+Faixa de velocidades: entre cerca de 5 km/h e 250 km/h.
+
+Intervenção de frenagem Quando o sistema detectar que o condutor não está freando o suficiente em caso de uma colisão iminente, o sistema poderá aumentar a força de frenagem para auxiliar a evitar a colisão. A assistência à frenagem só ocorre enquanto o pedal do freio estiver sendo pisado com força.
+
+Faixa de velocidades: entre cerca de 5 km/h e 250 km/h.

@@ -1,0 +1,37 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Garantia e Plano Digital de Serviços
+SEÇÃO: Visão Geral - Garantia e Plano Digital de Serviços (Parte 1/4)
+PÁGINAS MANUAL: 0-1 (PDF: 2-3)
+FIGURAS REFERENCIADAS: Fig. 1
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Certificado de garantia para o veículo Volkswagen Apresente este certificado a uma Concessionária Volkswagen, caso seja necessário um serviço em garantia.
+
+De acordo com os termos de garantia constantes neste manual, a garantia entra em vigor a partir da data da entrega do veículo pela Concessionária Volkswagen. Para vendas diretas, a garantia entra em vigor a partir da data do licenciamento do veículo. O prazo de garantia do seu veículo teve início em:
+
+Dia_______ Mês________________________ Ano__________ (colocar o mês por extenso)
+
+Nome do cliente: ______________________________________________ _______________________________________________________________ Placa do veículo: ___________________ Para veículos com etiqueta de dados localizada no compartimento de bagagem colar a etiqueta sobre a tabela abaixo.
+
+Plano Digital de Serviços Agora os registros dos serviços de manutenção do seu veículo são digitais. Você pode consultá-los de forma simples e rápida no aplicativo Meu Volkswagen ou em qualquer concessionária da rede, sempre que quiser! Baixe gratuitamente o aplicativo para ter acesso ao Plano Digital de Serviços. O aplicativo Meu Volkswagen está disponível para as plataformas iOS (Apple) e Android (Google).
+
+Carimbo da Concessionária Volkswagen
+
+| | Identificação do veículo |
+| --- | --- |
+| 1. Modelo e versão | |
+| 2. Código Basys | |
+| 3. Número do chassi (VIN) | |
+| 4. Código da cor | |
+| 5. Código do estofamento | |
+| 6. Código de acabamento dos opcionais (No PR's) | |
+| 7. Número do motor | |
+| 8. Código de faturamento | |
+
+Fig. 1
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 1 no manual original.]

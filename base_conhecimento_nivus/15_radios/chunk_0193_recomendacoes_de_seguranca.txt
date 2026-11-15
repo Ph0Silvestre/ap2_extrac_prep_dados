@@ -1,0 +1,24 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rádios
+SEÇÃO: Recomendações de segurança (Parte 3/3)
+PÁGINAS MANUAL: 147 (PDF: 149)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Observar a posição correta de inserção ao inserir uma unidade de armazenamento de dados.
+
+- Inserir somente unidades de armazenamento de dados adequados nas respectivas unidades de leitura de mídias.
+
+- Uma pressão forte pode destruir o travamento da entrada para cartão SD.
+
+1) Bluetooth® é uma marca registrada da Bluetooth® SIG, Inc.
+
+Corpos estranhos e líquidos aderidos em uma unidade de armazenamento de dados podem danificar a unidade de leitura de mídias e o rádio.
+
+- Não colar etiquetas adesivas ou similares nas unidades de armazenamento de dados. As etiquetas adesivas podem se soltar e danificar a unidade de leitura de mídia.
+
+- Não utilizar CD de dados imprimíveis. Os resíduos e as estampas podem se soltar e danificar a unidade de leitura de mídia.

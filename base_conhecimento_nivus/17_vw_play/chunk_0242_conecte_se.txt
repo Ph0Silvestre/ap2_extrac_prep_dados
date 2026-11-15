@@ -1,0 +1,41 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: VW Play
+SEÇÃO: Conecte-se (Parte 2/2)
+PÁGINAS MANUAL: 183 (PDF: 185)
+FIGURAS REFERENCIADAS: Fig. 144
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Para silenciar o microfone durante a chamada telefônica pressionar o botão . Pressionar novamente o botão , para ativar o microfone novamente.
+
+- Para silenciar os alto-falantes pressionar o botão
+
+- É possível colocar uma chamada telefônica em espera, pressionar o botão . Com uma chamada em espera, você pode realizar outra chamada ou atender uma chamada recebida.
+
+- Para retomar a chamada em espera pressionar o botão .
+
+- Para acessar o teclado númerico pressionar o botão .
+
+- Para finalizar a chamada telefônica pressionar o botão desligar .
+
+É possível sincronizar 1.000 contatos da agenda telefônica através da conexão via Bluetooth®.
+
+Fig. 144 Conectar Wi-Fi.
+
+Conectar a rede Wi-Fi
+- Para conectar ao Wi-Fi, pressionar o botão configurações e tocar em Conectar .
+
+- Deslize o seletor parar ativar a conexão através de Wi-Fi, o rádio irá buscar automaticamente as redes disponíveis.
+
+- Para conectar a uma rede, tocar no nome da rede Wi-Fi à qual deseja selecionar. Caso seja uma rede Wi-Fi segura, é necessário digitar a senha e pressionar o botão .
+
+- Após a conexão, no canto superior esquerdo o ícone se tornará visível.
+
+Esquecer a rede Depois que o rádio se conectar a uma rede Wi-Fi, ele se conectará automaticamente sempre que esta rede estiver disponível.
+
+Para evitar que o rádio se conecte automaticamente, tocar no botão Esquecer a rede na rede conectada, para que a conexão seja desligada.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 144 no manual original.]

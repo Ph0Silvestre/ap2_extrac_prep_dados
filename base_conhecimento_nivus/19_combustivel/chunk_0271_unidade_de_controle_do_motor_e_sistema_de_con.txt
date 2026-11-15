@@ -1,0 +1,55 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Combustível
+SEÇÃO: Unidade de controle do motor e sistema de controle de emissões dos gases de escape (Parte 1/3)
+PÁGINAS MANUAL: 202-203 (PDF: 204-205)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Introdução ao tema Os componentes relevantes para o sistema de emissão de gases de combustão reduzem a emissão de elementos nocivos:
+- Controle eletrônico da potência do motor (EPC) -> Página 203
+
+- Catalisador -> Página 203
+
+- Filtro de carvão ativado - sistema de alimentação -> Página 203 Informações referentes às luzes de advertência e de controle que se acendem se encontram em soluções de problemas ao final do capítulo -> Página 203.
+
+[ATENÇÃO]
+
+Os gases de combustão de motores contém monóxido de carbono que pode ocasionar desmaios e levar a morte.
+
+- Nunca ligar o motor ou deixá-lo funcionando em locais fechados.
+
+- Nunca deixar o veículo com o motor em funcionamento sem supervisão.
+
+[ATENÇÃO]
+
+As peças do sistema de escapamento esquentam muito. Isso pode causar incêndios.
+
+- Desligar o veículo de forma que nenhuma peça do sistema de escape entre em contato com materiais facilmente inflamáveis por baixo do veículo, como, por exemplo, grama seca.
+
+- Nunca utilizar proteção adicional para a parte inferior do veículo ou produtos anticorrosivos no tubo do escapamento, catalisadores ou chapas de blindagem térmica.
+
+Controle eletrônico da potência do motor (EPC)
+
+Observe no início desse capítulo na página 202.
+
+O controle eletrônico da potência do motor (EPC) é um sistema que tem como objetivo determinar a posição borboleta, em função do torque solicitado pelo condutor via pedal eletrônico (sistema e-gas), quando ocorre qualquer mal funcionamento do sistema a luz de controle se acende.
+
+Em condição normal de funcionamento, quando o condutor acionar o acelerador, o sistema interpretará a ordem, transformando-a em necessidade de força e velocidade.
+
+Com o controle sobre os componentes do motor (sensores e atuadores), o melhor desempenho possível é calculado, atendendo assim a solicitação do condutor.
+
+Catalisador
+
+Observe no início desse capítulo na página 202.
+
+O catalisador atua no tratamento posterior dos gases de escapamento e, assim, ajuda a reduzir as emissões de poluentes na atmosfera. Para que o sistema de escape e o catalisador do motor funcionem corretamente por mais tempo:
+
+- Abastecer apenas com gasolina sem chumbo ou outros aditivos metálicos (por exemplo, manganês).
+
+- Jamais deixar o tanque de combustível esvaziar completamente.
+
+- Jamais completar o nível de óleo do motor em excesso -> Página 226.

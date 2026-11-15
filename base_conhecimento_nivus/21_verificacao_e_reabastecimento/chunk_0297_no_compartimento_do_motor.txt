@@ -1,0 +1,39 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: No compartimento do motor (Parte 4/6)
+PÁGINAS MANUAL: 222-224 (PDF: 224-226)
+FIGURAS REFERENCIADAS: Fig. 173, Fig. 174
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+[NOTA]
+
+Ao trocar ou reabastecer fluidos, atentar para que os fluidos estejam nos recipientes corretos. Fluidos incorretos podem causar deficiências de funcionamento graves e danos ao motor!
+
+Os fluidos que são derramados do veículo são prejudiciais ao meio ambiente. Por esse motivo, controlar periodicamente o piso sob o veículo. Se forem visíveis manchas de óleo ou de outros fluidos no piso, inspecionar o veículo em uma Concessionária Volkswagen .
+
+Preparar o veículo para trabalhos no compartimento do motor Lista de controle Realizar as seguintes ações sempre na sequência indicada antes de qualquer trabalho no compartimento do motor -> : Estacionar o veículo sobre um piso plano e firme. Pisar no pedal do freio e manter até o motor estar desligado. Puxar o freio de estacionamento -> Página 132. Colocar a alavanca seletora na posição P -> Página 112. Desligar o motor e retirar a chave do veículo do cilindro da ignição . Deixar o motor esfriar suficientemente. Manter crianças e outras pessoas sempre afastadas do compartimento do motor. Assegurar que o veículo não possa se mover inesperadamente.
+
+[ATENÇÃO]
+
+A observância da lista de controle é essencial para a segurança do condutor, passageiros e demais condutores, evitando possíveis acidentes.
+
+- Seguir sempre as ações da lista de controle e observar as precauções de segurança nela descritas.
+
+Abrir e fechar a tampa do compartimento do motor
+
+Fig. 173 Alavanca de destravamento da tampa do compartimento do motor na área para os pés do lado do condutor. Alavanca de destravamento na parte interna da tampa do compartimento do motor.
+
+Fig. 174 Haste de sustentação da tampa do compartimento do motor. Tampa do compartimento do motor apoiada na haste de sustentação.
+
+Abrir a tampa do compartimento do motor
+- Antes de abrir a tampa do compartimento do motor, assegurar que os braços dos limpadores do para-brisa estejam encostados no para-brisa -> .
+
+- Abrir a porta do condutor e puxar a alavanca de destravamento no sentido da seta -> Fig. 173 1 . A tampa do compartimento do motor salta para fora da trava do fecho pela pressão da mola -> .
+
+- Levantar um pouco a tampa do compartimento do motor e, ao mesmo tempo, pressionar a alavanca de destravamento no sentido da seta -> Fig. 173 2 , que está localizada na parte interna da tampa, para abrir completamente a tampa do compartimento do motor.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 173, Fig. 174 no manual original.]

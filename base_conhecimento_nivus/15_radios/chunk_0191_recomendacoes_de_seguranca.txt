@@ -1,0 +1,54 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rádios
+SEÇÃO: Recomendações de segurança (Parte 1/3)
+PÁGINAS MANUAL: 146 (PDF: 148)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Antes do primeiro uso do aparelho, leia e observe as indicações de segurança relacionadas a seguir, a fim de detectar e evitar possíveis perigos para si mesmo e para outros:
+
+- Ler atentamente esta instrução.
+
+- Algumas áreas e funções podem conter links para páginas da web administradas por terceiros. A Volkswagen não é responsável por este conteúdo, e seu acesso não autoriza a cópia, reprodução, ou citação do conteúdo de terceiro.
+
+- Para maior segurança das informações pessoais inseridas no rádio, é recomendado manter o modo manobrista -> Página 188 sempre ativado, quando disponível.
+
+- As estações de rádio e os demais meios de comunicação, como webiste de jornais e aplicativos de terceiros, são responsáveis pelo conteúdo das informações transmitidas.
+
+- Estacionamentos cobertos, túneis, prédios altos, montanhas ou equipamentos elétricos operados adicionalmente, por exemplo, carregadores de bateria também podem interferir na recepção do sinal do rádio.
+
+- Películas ou etiquetas adesivas revestidas de metal nos vidros podem limitar a recepção do rádio em veículos com antenas nos vidros.
+
+[ATENÇÃO]
+
+A distração do condutor pode causar acidentes e ferimentos. A operação do rádio pode distrair dos acontecimentos do trânsito.
+
+- Jamais redefinir o sistema com o veículo em movimento.
+
+- Conduzir sempre de forma atenta e responsável.
+
+- Selecionar as regulagens de volume do som de forma que os sinais sonoros externos sejam sempre bem audíveis, por exemplo, o som das sirenes dos serviços de resgate.
+
+- Um volume ajustado alto demais pode prejudicar a audição. Isto também ocorre quando a audição é submetida, mesmo que brevemente, a volumes altos.
+
+[ATENÇÃO]
+
+Na troca ou conexão de uma fonte de áudio podem ocorrer repentinas variações de volume.
+
+- Antes de trocar ou de conectar uma fonte de áudio, diminuir o volume padrão do som.
+
+[ATENÇÃO]
+
+A conexão, introdução ou remoção de uma unidade de armazenamento de dados durante a viagem pode distrair dos acontecimentos do trânsito e causar acidentes.
+
+[ATENÇÃO]
+
+Os cabos de conexão de aparelhos externos, dependendo da maneira como forem dispostos, podem atrapalhar o condutor.
+
+[ATENÇÃO]
+
+Aparelhos externos soltos ou não fixados corretamente podem ser arremessados no interior do veículo em uma manobra súbita de direção ou de frenagem, bem como em um acidente e causar ferimentos.

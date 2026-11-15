@@ -1,0 +1,48 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Autoajuda
+SEÇÃO: Iluminação externa (Parte 3/6)
+PÁGINAS MANUAL: 209-210 (PDF: 211-212)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Dependendo da versão do veículo, no para-choque traseiro podem existir dois refletores de iluminação que não possuem lâmpadas incandescentes para troca. Porém, caso se quebrem e necessitem de substituição procurar uma Concessionária Volkswagen ou uma empresa especializada para efetuar a troca.
+
+Em dias frios e úmidos, por causa da diferença de temperatura entre o lado interno e externo da lente do farol, o farol pode embaçarse temporariamente.
+
+- Com o farol acesso, a superfície de saída da luz desembaça em pouco tempo, podendo ainda apresentar alguns resíduos nas bordas.
+
+- As lanternas traseiras e os indicadores de direção poderão também ser afetados.
+
+- O fenômeno de condensação não influencia na vida útil do sistema de iluminação do veículo.
+
+Informações sobre a troca de lâmpadas incandescentes
+
+Observe e no início desse capítulo na página 208.
+
+Lista de controle Executar as seguintes ações para a troca de uma lâmpada incandescente, sempre na sequência indicada -> :
+
+1. Estacionar o veículo, na medida do possível, a uma distância segura do fluxo de trânsito, em um piso plano e firme.
+
+2. Puxar o freio de estacionamento -> Página 132.
+
+3. Girar o interruptor das luzes para a posição 0 -> Página 85.
+
+4. Colocar a alavanca dos indicadores de direção na posição neutra -> Página 85.
+
+5. Transmissão automática: colocar a alavanca seletora na posição P -> Página 112.
+
+6. Desligar o motor e retirar chave do veículo do cilindro da ignição -> Página 108.
+
+7. Deixar a iluminação de orientação se apagar -> Página 85.
+
+8. Deixar a lâmpada incandescente envolvida esfriar.
+
+9. Verificar se um fusível está visivelmente queimado -> Página 212.
+
+10. Trocar a lâmpada incandescente afetada conforme a instrução -> , caso necessário, ter uma lanterna em mãos. Uma lâmpada incandescente pode ser trocada somente por uma nova do mesmo modelo. A respectiva designação consta no soquete da lâmpada ou no bulbo de vidro.
+
+11. Não segurar o bulbo de vidro da lâmpada incandescente com os dedos descobertos. A impressão digital remanescente evaporaria com o calor da lâmpada incandescente acesa e se depositaria sobre o refletor, prejudicando a capacidade de iluminação da lâmpada.

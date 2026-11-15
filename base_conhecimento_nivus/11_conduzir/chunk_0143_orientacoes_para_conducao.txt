@@ -1,0 +1,42 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Conduzir
+SEÇÃO: Orientações para condução (Parte 15/16)
+PÁGINAS MANUAL: 111-112 (PDF: 113-114)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Os airbags e os pré-tensionadores dos cintos de segurança não funcionam com a ignição desligada.
+
+- O servofreio não funciona com o motor desligado. Com o motor desligado, é necessário aplicar uma pressão maior sobre o pedal do freio para parar.
+
+- Se a chave do veículo for retirada do cilindro da ignição, o bloqueio da direção poderá se engatar e poderá não ser mais possível manobrar o veículo.
+
+[ATENÇÃO]
+
+As peças do sistema de escape esquentam muito. Por isso podem ocorrer incêndios e ferimentos graves.
+
+- Nunca estacionar o veículo de forma que peças do sistema de escape entrem em contato com materiais inflamáveis embaixo do veículo, como, por exemplo, vegetação rasteira, folhas, grama seca, combustível derramado etc.
+
+- Nunca utilizar proteção adicional para a parte inferior do veículo ou produtos anticorrosivos no tubo do escapamento, catalisadores ou chapas de blindagem térmica.
+
+[NOTA]
+
+Se o veículo for conduzido com alta demanda do motor, ele poderá se superaquecer após a para-da. Para evitar danos ao motor, deixá-lo funcionando na posição neutra por aproximadamente 2 minutos antes de desligá-lo.
+
+Em veículos com transmissão automática, se não for possível tirar a chave do veículo do cilindro da ignição com o veículo parado, engatar a posição da alavanca seletora P. Se necessário, pressionar e soltar o botão bloqueador da alavanca seletora.
+
+Após desligar o motor, o ventilador do radiador no compartimento do motor pode continuar funcionando durante alguns minutos com a ignição desligada ou com a chave do veículo fora da ignição. O ventilador do radiador se desliga automaticamente.
+
+Imobilizador eletrônico O imobilizador ajuda a impedir que o motor seja ligado com uma chave do veículo não habilitada e que, desta forma, o veículo possa se movimentar.
+
+A chave do veículo possui um chip. Com a ajuda deste chip, o imobilizador é desativado automaticamente ao introduzir a chave do veículo no cilindro da ignição.
+
+O imobilizador eletrônico é ativado automaticamente assim que a chave do veículo é retirada do cilindro da ignição -> Página 68. Em veículos com Keyless Access, a chave do veículo deve estar no lado de fora do veículo -> Página 66.
+
+Por esse motivo, só é possível ligar o motor com uma chave original Volkswagen codificada correspondente. Chaves de veículo codificadas podem ser obtidas em uma Concessionária Volkswagen -> Página 64.
+
+Soluções de problemas

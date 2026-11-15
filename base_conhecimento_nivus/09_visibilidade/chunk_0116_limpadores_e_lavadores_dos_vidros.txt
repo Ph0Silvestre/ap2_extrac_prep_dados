@@ -1,0 +1,38 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Visibilidade
+SEÇÃO: Limpadores e lavadores dos vidros (Parte 3/8)
+PÁGINAS MANUAL: 91-92 (PDF: 93-94)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+O sensor de chuva e de luz pode não reconhecer suficientemente qualquer chuva e não ativar os limpadores dos vidros.
+
+- Se necessário, ligar manualmente os limpa-dores dos vidros quando a água interferir na visibilidade dos vidros.
+
+Soluções de problemas Comportamento de acionamento alterado do sensor de chuva e de luz As possíveis causas de avarias e interpretações errôneas na área da superfície sensível do sensor de chuva são, entre outras:
+
+cadas: uma película de água ou listras de limpeza devido a palhetas do limpador danificadas podem prolongar a duração da ligação, reduzir os intervalos de limpeza ou provocar a limpeza contínua rápida.
+
+- Insetos: a presença de insetos no para-brisa pode ocasionar o acionamento da limpeza.
+
+- Estrias de sal: no inverno, estrias de sal no vidro podem provocar uma relimpeza extremamente longa até o vidro estar quase seco.
+
+- Sujeira: poeira seca, cera, revestimentos do vidro (efeito lótus), resíduos de detergentes (lava-rápido) podem tornar o sensor de chuva menos sensível ou, posteriormente, mais lento ou até mesmo sem reação. Limpar regularmente a superfície sensível do sensor de chuva -> Página 263 e verificar regularmente as palhetas dos limpadores dos vidros quanto a danos.
+
+- Fissura no para-brisa: um impacto de uma pedra aciona um ciclo de limpeza com o sensor de chuva ligado. Depois disso, o sensor de chuva reconhece a diminuição da superfície sensível e adequa-se a ela. De acordo com a dimensão do impacto da pedra, o comportamento do acionamento do sensor de chuva pode se alterar.
+
+- Adesivos e etiquetas: a região do sensor não pode ser coberta externamente e internamente, pois, do contrário, irá comprometer o correto funcionamento das funções de iluminação automática e do sensor de chuva.
+
+Para a remoção de ceras e de resíduos de polimento, recomenda-se o uso de um produto de limpeza de vidro com álcool. Limpadores do para-brisa avariados A luz de controle acende em amarelo.
+
+Os limpadores dos vidros não limpam.
+
+- Desligar e ligar a ignição.
+
+- Se a falha persistir, procurar uma Concessionária Volkswagen ou uma empresa especializada.
+
+Caso haja um obstáculo no vidro, os limpa-dores dos vidros tentarão remover este obstáculo. Se o obstáculo continuar bloqueando os limpadores do para-brisa, os limpadores do para-brisa pararão. Remover o obstáculo e ligar os limpadores do para-brisa novamente.

@@ -1,0 +1,38 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rádios
+SEÇÃO: Indicações de utilização (Parte 1/1)
+PÁGINAS MANUAL: 147-148 (PDF: 149-150)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Na utilização do rádio, observar as prescrições nacionais específicas e as determinações legais.
+
+- Para o comando do rádio, basta uma ligeira pressão no botão ou um leve toque na tela.
+
+- Para um funcionamento perfeito do rádio, é importante que data e hora estejam corretamente ajustadas no veículo.
+
+- Devido a softwares específicos para cada mercado, é possível que nem todas as superfícies de função e funções mencionadas estejam disponíves. A ausência de um ícone do rádio ou de superfície de função no display não caracteriza falha no aparelho.
+
+- Dependendo do país, algumas funções do rádio não são mais selecionáveis no display a partir de determinada velocidade, por determinação da legislação aplicável.
+
+- Em alguns países pode haver restrições relativas ao uso de aparelhos Bluetooth® 1) e conexões Wi-Fi. Informações e conexões Wi-Fi podem ser obtidas junto a órgãos locais.
+
+- A representação de todas as indicações e a execução de funções somente podem ocorrer depois do início completo do rádio. A duração de um início do sistema depende da abrangência da função do rádio e pode demorar mais do que o normal, principalmente em baixas e altas temperaturas.
+
+- Quando a bateria do veículo tiver sido desconectada, ligar a ignição antes de reativar o rádio.
+
+- Para não prejudicar o funcionamento, os reparos e as modificações no rádio só devem ser executados por uma Concessionária Volkswagen.
+
+- Chamadas telefônicas recebidas por um celular dentro do veículo podem causar ruídos nos alto-falantes.
+
+- Com o motor desligado e bateria do veículo com carga baixa, o rádio é desligado automaticamente.
+
+- Velocidades altas, condições climáticas e de estradas ruins, bem como a qualidade da rede podem prejudicar uma chamada telefônica no veículo.
+
+Gestão de energia
+
+Se, com a ignição desligada e o aparelho ligado, a tensão da bateria descer abaixo da tensão mínima, ouve-se um sinal acústico ou no visor é apresentada a indicação LOW BATTERY. O aparelho deve ser desligado.

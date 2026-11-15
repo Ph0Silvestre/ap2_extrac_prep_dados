@@ -1,0 +1,56 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Manutenção
+SEÇÃO: Conservação do veículo (Parte 8/15)
+PÁGINAS MANUAL: 265 (PDF: 267)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO, CUIDADO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Conduzir apenas quando for possível enxergar nitidamente através de todos os vidros do veículo.
+
+- Remover o gelo, a neve e desembaçar a superfície de todos os vidros, tanto por dentro quanto por fora.
+
+[ATENÇÃO]
+
+Todos os trabalhos no motor ou no compartimento do motor podem resultar em ferimentos, queimaduras e riscos de acidente e de incêndio!
+
+- Antes dos trabalhos, tomar conhecimento das ações necessárias e das precauções de segurança geralmente válidas -> Página 221, Orientações de segurança para trabalhos no compartimento do motor.
+
+- A Volkswagen recomenda que os trabalhos sejam realizados em uma Concessionária Volkswagen.
+
+[CUIDADO]
+
+A proteção da parte inferior do veículo e produtos anticorrosivos poderão se incendiar se entrarem em contato com o sistema de escape aquecido ou com outras partes quentes do motor.
+
+- Não utilizar produtos anticorrosivos e de proteção da parte inferior do veículo no tubo do escapamento, nos catalisadores, nas placas de blindagem térmica ou em outras peças quentes do veículo.
+
+[NOTA]
+
+- A perfeita limpeza dos vidros colabora para o bom desempenho do sistema do limpador dos vidros, bem como à sua conservação.
+
+- Em nenhuma hipótese misturar os produtos de limpeza recomendados com outros produtos no reservatório de água dos lavadores dos vidros. Isso pode causar a coagulação dos componentes e, com isso, provocar a obstrução dos bicos dos lavadores dos vidros.
+
+- Não retirar a neve ou o gelo dos vidros e dos espelhos retrovisores externos com água morna ou quente. Caso contrário, o vidro pode se partir!
+
+- Não utilizar raspador de gelo nas lentes dos retrovisores, pois a superfície cromatizada será danificada com aparecimento de riscos!
+
+- Os filamentos do desembaçador do vidro traseiro localizam-se na parte interna do vidro traseiro. Não colar etiquetas adesivas sobre os filamentos do desembaçador e jamais limpar a parte interna do vidro traseiro com produtos de limpeza corrosivos ou ácidos ou outros componentes químicos.
+
+[NOTA]
+
+Para que as peças cromadas e de alumínio não sejam danificadas:
+
+- Não limpar ou polir sob luz solar direta.
+
+- Não limpar ou polir em ambientes com areia ou poeira.
+
+- Não utilizar produtos de conservação com intensa ação abrasiva, por exemplo, creme de limpeza.
+
+- Não utilizar esponjas duras, esponjas ásperas de cozinha ou similares.
+
+- Não polir superfícies sujas.
+
+- Não utilizar produtos de limpeza com solventes.

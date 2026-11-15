@@ -1,0 +1,46 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Segurança
+SEÇÃO: Sistema de airbag (Parte 3/11)
+PÁGINAS MANUAL: 45-46 (PDF: 47-48)
+FIGURAS REFERENCIADAS: Fig. 33
+ALERTAS PRESENTES: PERIGO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Luz de controle PASSENGER AIR BAG na parte superior do console central.
+
+- Interruptor acionado pela chave ao lado do painel de instrumentos do lado do passageiro dianteiro (visível somente com a porta aberta).
+
+Luz de controle
+
+Observe no início desse capítulo na página 44.
+
+Fig. 33 Na parte superior do console central: luz de controle para o airbag frontal do passageiro dianteiro desligado ou luz de controle para o airbag frontal do passageiro dianteiro ligado .
+
+A luz de controle amarela no display do instrumento combinado se acende brevemente após ligar a ignição para o teste de funcionamento e se apaga após alguns segundos.
+
+Airbag frontal do passageiro dianteiro desligado. A luz de controle amarela no console central está acesa permanentemente -> Fig. 33 .
+
+Airbag frontal do passageiro dianteiro ligado. A luz de controle amarela no console central se apaga automaticamente aproximadamente 60 segundos após ligar a ignição ou após ligar o airbag frontal do passageiro dianteiro com o interruptor acionado pela chave -> Fig. 33 .
+
+Se, com o airbag frontal do passageiro desligado, a luz de controle PASSENGER AIR BAG na parte superior do console central não acender permanentemente ou acender juntamente com a luz de controle no instrumento combinado, pode haver uma falha no sistema de airbag -> .
+
+[PERIGO]
+
+Quando a luz de controle do sistema de airbag permanecer acesa, há avarias no sistema de airbag, é possível que ele seja acionado de forma imperfeita, não seja acionado ou seja acionado inesperadamente, o que pode causar ferimentos graves ou fatais.
+
+- O sistema de airbag deve ser verificado imediatamente por uma Concessionária Volkswagen.
+
+- Nunca montar uma cadeira de criança no banco do passageiro dianteiro quando o airbag estiver ligado! O airbag frontal do passageiro dianteiro pode ser acionado em um acidente apesar das avarias.
+
+Soluções de problemas
+
+Observe no início desse capítulo na página 44. Sistema de airbags ou pré-tensionador do cinto de segurança avariado A luz de controle amarela se acende permanentemente. Além disso, uma mensagem pode ser exibida no display do instrumento combinado.
+
+Em pelo menos um airbag ou pré-tensionador do cinto de segurança foi reconhecida uma falha de funcionamento.
+
+- Procurar uma Concessionária Volkswagen.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 33 no manual original.]

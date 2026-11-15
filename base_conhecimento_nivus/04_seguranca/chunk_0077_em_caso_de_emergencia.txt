@@ -1,0 +1,36 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Segurança
+SEÇÃO: Em caso de emergência (Parte 3/3)
+PÁGINAS MANUAL: 63 (PDF: 65)
+FIGURAS REFERENCIADAS: Fig. 47, Fig. 48
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+A bateria do veículo se descarrega quando as luzes de advertência ficam ligadas por um longo período de tempo - mesmo com a ignição desligada.
+
+Quando os airbags são acionados em um acidente, as luzes de advertência podem ser acionadas automaticamente -> Página 48.
+
+Equipamento para caso de emergência
+
+Fig. 47 Na tampa do compartimento de bagagem: suporte para o triângulo de segurança.
+
+Fig. 48 Na parte frontal do banco do passageiro dianteiro: localização para instalação do suporte do extintor de incêndio.
+
+Triângulo de segurança Com a tampa do compartimento de bagagem aberta, desencaixar o suporte do alojamento -> Fig. 47 (seta) e retirar o triângulo de segurança.
+
+Após o uso, encaixar o triângulo de segurança de volta no alojamento Extintor de incêndio Conforme Resolução CONTRAN nº 556, de 17.09.2015, é facultativo o uso do extintor de incêndio nos automóveis e caminhonetes.
+
+O proprietário que optar pela utilização do extintor de incêndio, deverá utilizar o extintor de incêndio com carga de pó tipo ABC.
+
+Se instalado de forma inadequada o extintor pode causar ferimentos em caso de acidente. Por este motivo, a Volkswagen recomenda que o ex-tintor de incêndio e o respectivo suporte correspondente para cada modelo de veículo, sejam adquiridos e instalados em uma Concessionária Volkswagen.
+
+Para sua segurança e em cumprimento a resolução do CONTRAN 556/2015, a Volkswagen disponibiliza local adequado com preparação para a instalação do extintor de incêndio. Local onde deve ser instalado o suporte e o extintor de incêndio -> Fig. 48.
+
+[ATENÇÃO]
+
+Objetos soltos podem ser lançados pelo interior do veículo em razão de manobras de direção ou de frenagem súbitas, bem como em um acidente, e causar ferimentos graves.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 47, Fig. 48 no manual original.]

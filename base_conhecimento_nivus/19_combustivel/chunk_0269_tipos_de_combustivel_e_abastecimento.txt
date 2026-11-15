@@ -1,0 +1,54 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Combustível
+SEÇÃO: Tipos de combustível e abastecimento (Parte 2/3)
+PÁGINAS MANUAL: 201-202 (PDF: 203-204)
+FIGURAS REFERENCIADAS: Fig. 154
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Se, em caso de emergência, o veículo precisar ser abastecido com gasolina com maior ou menor proporção de etanol anidro, o motor deve ser conduzido com rotação média e com menor demanda. Evitar as altas rotações e demandas intensas do motor. Caso contrário, podem ocorrer danos ao motor! Assim que possível, reabastecer com a gasolina recomendada.
+
+Um único abastecimento com gasolina com chumbo ou outros aditivos metálicos (por exemplo, manganês) é suficiente para reduzir a eficácia do catalisador e para danificá-lo.
+
+Etanol
+
+Observe e no início desse capítulo na página 200.
+
+O veículo deve ser abastecido somente com etanol hidratado combustível (EHC), conforme definido pela legislação vigente no país.
+
+Observe e no início desse capítulo na página 200.
+
+Fig. 154 Portinhola do tanque de combustível aberta com a tampa do tanque de combustível pendurada.
+
+Antes de abastecer, desligar sempre o motor, a ignição e o telefone móvel e, mantê-los desligados durante o abastecimento.
+
+Os veículos com motor TOTALFLEX foram desenvolvidos para utilizar tanto gasolina como etanol em qualquer proporção.
+
+Veja a capacidade do tanque de combustível na -> Página 285.
+
+Abrir a tampa do tanque de combustível
+- Destravar o veículo com a chave do veículo ou pressionar o botão do travamento central na porta do condutor para destravar o veículo por dentro -> Página 68.
+
+- Na parte traseira da portinhola do tanque, pressionar e rebater a portinhola do tanque para fora.
+
+- Remover a tampa do tanque girando-a no sentido anti-horário e encaixá-la no suporte na portinhola do tanque -> Fig. 154.
+
+Abastecer O tipo de combustível correto para o veículo está indicado em uma etiqueta adesiva na parte interna da portinhola do tanque de combustível -> Página 200.
+
+que a bomba de abastecimento desligar-se pela primeira vez -> .
+
+- Não abastecer após o desligamento! Ocupar o espaço de dilatação do tanque de combustível pode fazer o combustível transbordar, inclusive por aquecimento.
+
+Fechar a tampa do tanque de combustível
+- Rosquear a tampa do tanque de combustível no bocal de abastecimento no sentido horário até ouvir o travamento.
+
+- Fechar a portinhola do tanque de combustível.
+
+A portinhola do tanque de combustível deve estar alinhada com a carroceria.
+
+[ATENÇÃO]
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 154 no manual original.]

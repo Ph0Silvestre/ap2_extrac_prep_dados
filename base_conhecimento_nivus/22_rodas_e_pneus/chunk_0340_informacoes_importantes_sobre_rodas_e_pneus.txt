@@ -1,0 +1,36 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rodas e pneus
+SEÇÃO: Informações importantes sobre rodas e pneus (Parte 11/14)
+PÁGINAS MANUAL: 249-250 (PDF: 251-252)
+FIGURAS REFERENCIADAS: Fig. 189
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Em alguns veículos, a roda de emergência pode ter dimensões diferentes das rodas e pneus -> Página 254, Roda de emergência com dimensões diferentes das rodas de utilização. A roda de emergência com diferentes dimensões pode ser reconhecida por uma etiqueta adesiva e pela inscrição “80 km/h”. Esta inscrição identifica a velocidade máxima com a qual o pneu pode rodar com segurança.
+
+- Jamais conduzir em velocidade superior a 80 km/h. Evitar arranques e frenagens bruscas, bem como curvas em alta velocidade.
+
+- Substituir a roda de emergência o mais rápido possível por uma roda normal. A roda de emergência destina-se apenas para um uso breve.
+
+Inscrição dos pneus e tipo de pneus
+
+Observe no início desse capítulo na página 243.
+
+Fig. 189 Inscrição dos pneus internacional (exemplo).
+
+- Nunca utilizar mais do que uma roda de emergência.
+
+- Após a instalação da roda de emergência, a pressão dos pneus deve ser verificada o mais rápido possível -> Página 246, Pressão dos pneus.
+
+Se possível, fixar firmemente a roda de emergência ou a roda substituída no compartimento de bagagem.
+
+| -> Fig. 189 | Inscrição dos pneus (exemplo) | Significado | |
+| --- | --- | --- | --- |
+| 1 | Nome do produto | Denominação dos pneus individuais do fabricante. | |
+| 2 | DOT | O pneu atende às exigências legais do Ministério dos Transportes quanto as normas de segurança dos pneus (Department of Transportation). | |
+| 3 | JHCO CHWS 2213 | Número de inscrição dos pneus ( a) – em alguns casos, somente na parte interna da roda) e data de fabricação: | |
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 189 no manual original.]

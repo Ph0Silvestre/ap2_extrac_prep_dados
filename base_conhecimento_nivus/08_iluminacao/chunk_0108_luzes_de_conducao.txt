@@ -1,0 +1,55 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Iluminação
+SEÇÃO: Luzes de condução (Parte 1/5)
+PÁGINAS MANUAL: 85-86 (PDF: 87-88)
+FIGURAS REFERENCIADAS: Fig. 71
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Ligar e desligar as luzes
+
+Fig. 71 Ao lado do volante: interruptor de luzes (uma variante).
+
+Observar as determinações legais específicas de cada país para a utilização da iluminação do veículo.
+
+Dependendo da versão do veículo, o farol de neblina pode não estar disponível.
+
+Dependendo da versão do veículo, a função pode não estar disponível.
+
+- Girar o interruptor das luzes para a posição correspondente:
+
+Acionamento automático das luzes de condução: as luzes de condução são ligadas e desligadas automaticamente de acordo com a claridade e condição do tempo -> , -> Página 86. Luz de posição ligada. O símbolo no interruptor das luzes acende na cor verde. Farol baixo ligado.
+
+Desligar as luzes
+- Desligar a ignição.
+
+- Girar o interruptor das luzes para a posição correspondente:
+
+As luzes estão desligadas. A função “Leaving home” (iluminação de orientação) pode estar ligada -> Página 87. Luz de posição ligada. O símbolo no interruptor das luzes acende na cor verde. Farol baixo desligado – enquanto a chave do veículo estiver inserida na ignição ou, em veículos com Keyless Access, a porta do condutor estiver fechada, a luz de posição continua acesa.
+
+Luz de condução diurna As luzes de condução diurna, dependendo da configuração do veículo, podem aumentar a visibilidade de seu veículo no tráfego urbano durante o dia.
+
+A luz de condução diurna vai se acender cada vez que a ignição for ligada, quando o interruptor das luzes se encontrar na posição ou (com claridade reconhecida).
+
+A luz de condução diurna não pode ser ligada ou desligada manualmente.
+
+[ATENÇÃO]
+
+Poderão ocorrer acidentes e ferimentos graves se a rua não estiver suficientemente iluminada e o veículo for visto somente com dificuldade ou não for visto por outros condutores.
+
+- Os assistentes de iluminação somente auxiliam. O responsável pela ativação correta da iluminação do veículo é o condutor.
+
+A luz de posição não é intensa o suficiente para iluminar a rua suficientemente e ser vista por outros condutores.
+
+- Ligar o farol baixo sempre na escuridão, neblina ou com má visibilidade.
+
+- As lanternas traseiras não são ligadas junto com a luz de condução diurna. Um veículo sem as lanternas traseiras ligadas pode não ser visto pelos demais condutores na escuridão, na chuva ou em más condições de visibilidade.
+
+[ATENÇÃO]
+
+O controle automático da luz de condução ( ) liga e desliga o farol baixo somente com alterações da luminosidade.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 71 no manual original.]

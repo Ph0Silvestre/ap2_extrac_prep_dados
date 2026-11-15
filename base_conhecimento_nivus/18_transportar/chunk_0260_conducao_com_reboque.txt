@@ -1,0 +1,36 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Transportar
+SEÇÃO: Condução com reboque (Parte 2/7)
+PÁGINAS MANUAL: 195 (PDF: 197)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Observe e no início desse capítulo na página 194.
+
+Utilizar somente um dispositivo de reboque liberado para o peso bruto admissível do reboque que será puxado. O dispositivo de reboque deve ser adequado para o veículo e para o reboque, e deve estar fixado com segurança no chassi do veículo. Verificar e observar sempre as indicações do fabricante do dispositivo de reboque.
+
+Dispositivo de reboque montado no para-choque Nunca montar um dispositivo de reboque no para-choque ou em sua fixação. Um dispositivo de reboque não deve reduzir o efeito do para-choque. Não realizar nenhuma modificação no sistema de escape e no sistema de freio. Verificar periodicamente se o dispositivo de reboque está assentado firmemente.
+
+Sistema de arrefecimento do motor A condução com um reboque exige mais do motor e do sistema de arrefecimento. O sistema de arrefecimento deve conter líquido de arrefecimento suficiente e estar projetado para a carga adicional da condução com reboque.
+
+Freio do reboque Se o reboque possui um sistema de freio próprio, as determinações válidas devem ser observadas. O sistema de freio do reboque nunca deve ser conectado ao sistema de freio do veículo.
+
+Cabo de ruptura Utilizar sempre um cabo de ruptura entre o veículo e o reboque -> Página 196.
+
+Lanternas traseiras do reboque As lanternas traseiras do reboque devem corresponder às prescrições legais -> Página 196.
+
+Nunca conectar as lanternas traseiras do reboque diretamente ao sistema elétrico do veículo. Em caso de dúvida sobre se o reboque está conectado corretamente ao sistema elétrico, consultar uma empresa especializada. Para isso, a Volkswagen recomenda uma Concessionária Volkswagen.
+
+Espelhos retrovisores externos Se a área de tráfego atrás do reboque não puder ser vista com os espelhos retrovisores externos de série do veículo de tração, serão necessários espelhos retrovisores externos complementares conforme as determinações específicas de cada país. Os espelhos retrovisores externos devem ser ajustados antes da condução e proporcionar uma visibilidade traseira suficiente.
+
+[ATENÇÃO]
+
+Um dispositivo de reboque inadequado ou montado incorretamente pode fazer com que o reboque se solte do veículo e provoque ferimentos graves.
+
+[NOTA]
+
+- Se as lanternas traseiras do reboque não forem conectadas corretamente, os componentes eletrônicos do veículo podem ser danificados.

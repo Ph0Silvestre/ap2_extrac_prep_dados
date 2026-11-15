@@ -1,0 +1,38 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Estacionar e manobrar
+SEÇÃO: Auxílio de estacionamento (Park Pilot) (Parte 3/3)
+PÁGINAS MANUAL: 135 (PDF: 137)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Falhas de funcionamento do auxílio de estacionamento são exibidas na primeira ligação por meio de uma mensagem de texto com alerta sonoro e pelo piscar da luz de controle no botão . Se os sensores estiverem sujos ou cobertos, o grupo de sensores correspondente é exibido na exibição do display do auxílio de estacionamento. Além disso, uma indicação de limpeza é exibida (dependendo da versão).
+
+- Limpar os sensores ou remover adesivos ou acessórios dos sensores e da câmera de marcha a ré -> Página 263.
+
+- Verificar a existência de danos.
+
+O sistema se comporta de forma diferente do esperado Diversas causas são possíveis:
+- Os sensores estão sujos -> Página 263. Além de sujeira e neve, a visibilidade do sensor também pode estar comprometida por resíduos de produtos de limpeza ou revestimentos.
+
+- Os pré-requisitos do sistema devem estar satisfeitos -> Página 133.
+
+- Os sensores estão cobertos por água.
+
+- O veículo se encontra danificado na região dos sensores, por exemplo por batidas de estacionamento.
+
+- As áreas de captação dos sensores estão obstruídas por acessórios, por exemplo, sistemas de suporte para bicicletas.
+
+- Foram feitas modificações na pintura na região dos sensores ou modificações construtivas, por exemplo, na parte dianteira do veículo ou no chassi.
+
+- Fontes de ruídos, por exemplo, asfalto áspero ou pavimentação com paralelepípedos interferem no sinal de ultrassom.
+
+Soluções possíveis
+- Desligar temporariamente o sistema.
+
+- Verificar se uma das causas enumeradas confere com o problema.
+
+- Caso o sistema ainda se comporte de forma inesperada, mandar verificar o sistema em uma Concessionária Volkswagen.

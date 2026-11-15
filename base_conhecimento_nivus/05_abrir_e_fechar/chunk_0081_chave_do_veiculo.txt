@@ -1,0 +1,30 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Abrir e fechar
+SEÇÃO: Chave do veículo (Parte 3/3)
+PÁGINAS MANUAL: 66 (PDF: 68)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Remover a capa de proteção da maçaneta da porta do condutor -> Página 70.
+
+- Pressionar o botão da chave do veículo. Enquanto isso, permanecer ao lado do veículo.
+
+- Abrir o veículo dentro de um minuto com a haste da chave. A sincronização está concluída.
+
+- Recolocar a capa de proteção da maçaneta da porta do condutor.
+
+Soluções de problemas Veículo não pode ser travado ou destravado O funcionamento da chave do veículo com comando remoto pode ser temporariamente afetado por obstáculos, condições meteorológicas ruins, bem como uma bateria fraca, pela sobreposição de transmissores que se encontram nas proximidades do veículo e trabalham na mesma faixa de frequências, por exemplo, um aparelho de transmissão ou telefone móvel.
+
+OU: se os botões da chave do veículo ou um dos botões do travamento central forem acionados repetidas vezes em um curto intervalo de tempo, ocorre um desligamento temporário do travamento central para proteção contra sobrecarga. Nesse caso, o veículo fica destravado. Travar o veículo se necessário.
+
+A luz de controle não pisca Quando a luz de controle na chave do veículo não piscar, isso pode indicar que a bateria, ou a própria chave, deverá ser substituída -> Página 65.
+
+Chave de reposição Para a aquisição de uma chave do veículo, é necessário o número do chassi do veículo.
+
+Várias chaves de veículo podem ser válidas para um veículo.
+
+As novas chaves do veículo podem ser obtidas em uma Concessionária Volkswagen.

@@ -1,0 +1,49 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Informações ao condutor
+SEÇÃO: Instrumento combinado (Parte 6/13)
+PÁGINAS MANUAL: 22 (PDF: 24)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+utilizar as setas no volante multifunções ou , selecionar o menu Dados de viagem, selecionar o indicador trip e pressionar brevemente o botão no volante multifunções.
+
+Indicador da temperatura externa Quando a temperatura externa está abaixo de +4 °C, um “símbolo de floco de neve” aparece no indicador da temperatura externa (alerta de gelo na pista). Este símbolo permanece aceso até que a temperatura externa ultrapasse +6 °C -> .
+
+Se o veículo estiver parado ou em uma velocidade de condução muito baixa, a temperatura indicada pode ser um pouco mais alta que a temperatura externa real devido ao calor irradiado pelo motor.
+
+A área de medição vai de -40 °C a +50 °C.
+
+Posições da alavanca seletora (transmissão automática) A posição da alavanca seletora é indicada tanto ao lado da alavanca seletora quanto no display do instrumento combinado. Na posição da alavanca seletora D/S bem como com Tiptronic, a respectiva marcha pode ser indicada, se for o caso, no display do instrumento combinado -> Página 112.
+
+Recomendação de marcha Dependendo da versão do veículo, durante a condução pode ser exibida no display do instrumento combinado uma recomendação para seleção de uma marcha que economize mais combustível -> Página 102.
+
+Rádio Em algumas versões, algumas funções do rádio são mostradas no display do instrumento combinado, somente com a ignição ligada.
+
+Veículos com instrumento combinado analógico.
+- Ligar a ignição, mas o motor não pode funcionar.
+
+- Pressionar e manter pressionado o botão no instrumento combinado por aproximadamente quinze segundos, para que sejam exibidas as letras da identificação do motor.
+
+Veículos com instrumento combinado digital.
+
+- No menu Dados de viagem selecionar o indicador Autonomia no instrumento combinado.
+
+- Manter o botão OK no volante multifunções pressionado por aproximadamente cinco segundos, ao soltar aparecerá o menu de Serviços -> Página 26.
+
+- Acessar o item de menu Código do motor.
+
+[ATENÇÃO]
+
+Mesmo com temperaturas externas acima da temperatura de congelamento, pode haver uma camada de gelo sobre ruas e pontes.
+
+- É possível que haja uma camada de gelo na pista mesmo se a temperatura externa estiver acima de +4 °C e o “símbolo de floco de neve” não aparecer no display.
+
+- Nunca confiar apenas no indicador da temperatura externa!
+
+Indicador de dados de viagem (indicador multifunções)
+
+Observe no início desse capítulo na página 17.

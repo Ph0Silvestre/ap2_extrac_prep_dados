@@ -1,0 +1,20 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Equipamentos práticos
+SEÇÃO: Porta-copos (Parte 2/2)
+PÁGINAS MANUAL: 144 (PDF: 146)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Utilizar somente dispositivos elétricos que tenham sido verificados conforme as diretrizes vigentes com relação à compatibilidade eletromagnética.
+
+- Antes de ligar e desligar a ignição, bem como antes de ligar o motor, os dispositivos elétricos devem ser desligados para evitar danos por variações de corrente.
+
+- Nunca conectar dispositivos elétricos a uma tomada 12 V que consumam mais do que a potência indicada. Ao exceder a potência máxima, o sistema elétrico do veículo poderá ser danificado.
+
+- Observar os manuais de instruções dos dispositivos conectados!
+
+Não deixar o motor em funcionamento com o veículo parado.

@@ -1,0 +1,61 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Sistemas de assistência ao condutor
+SEÇÃO: Controle automático de distância (ACC) (Parte 5/5)
+PÁGINAS MANUAL: 126-127 (PDF: 128-129)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- É possível que o ACC não reconheça todas as situações de condução.
+
+- Esteja sempre pronto para frear você mesmo o veículo.
+
+- Quando o pedal do acelerador é pisado, é anulada a regulagem da velocidade e da distância. Neste caso o ACC não freia automaticamente.
+
+- As prescrições específicas do país em relação à distância mínima devem ser observadas.
+
+- Ajustar sempre uma distância maior em caso de chuva, neve ou má visibilidade.
+
+Problemas e soluções
+
+Observe no início desse capítulo na página 123. O ACC indisponível Um Pictograma é ativado no display
+
+- O sensor do radar está sujo. Limpar o sensor do radar -> Página 260.
+
+- A visibilidade do sensor do radar pode ser comprometida por condições meteorológicas, por exemplo, neve, bem como por resíduos de detergente ou revestimentos. Limpar o sensor do radar -> Página 260
+
+- A visibilidade do sensor do radar é comprometida por peças agregadas, molduras decorativas de suportes da placa de licença ou adesivos. Manter a área ao redor do sensor do radar livre.
+
+cado, por exemplo, devido a um dano da dianteira do veículo. Verificar se pode ser detectado um dano -> Página 270.
+
+- Avaria ou defeito. Desligar o motor e dar nova partida.
+
+- Foram realizados serviços de pintura ou alterações estruturais na dianteira do veículo.
+
+- O logo original Volkswagen não está sendo utilizado.
+
+- Se o problema persistir, procurar uma Concessionária Volkswagen.
+
+O ACC não funciona como o esperado
+- O sensor do radar está sujo. Limpar o sensor do radar -> Página 260.
+
+- Os limites do sistema não são mantidos -> Página 124.
+
+- Os freios estão sobreaquecidos; a regulagem foi automaticamente interrompida. Deixar que os freios esfriem e verificar novamente o funcionamento.
+
+- Se o problema persistir, procurar uma Concessionária Volkswagen.
+
+Não é possível iniciar a regulagem Assegurar que as seguintes premissas sejam atendidas:
+- A alavanca seletora se encontra na posição D/S ou no curso seletor do Tiptronic.
+
+- A lanterna de freio do veículo está funcionando.
+
+- O ESC não regula.
+
+- O pedal do freio não está pisado.
+
+Ruídos incomuns durante a frenagem automática
+- Podem ocorrer e não representam falha no sistema.

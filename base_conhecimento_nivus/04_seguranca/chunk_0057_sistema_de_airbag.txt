@@ -1,0 +1,69 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Segurança
+SEÇÃO: Sistema de airbag (Parte 6/11)
+PÁGINAS MANUAL: 47-48 (PDF: 49-50)
+FIGURAS REFERENCIADAS: Fig. 34, Fig. 35
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Luz de advertência do cinto de segurança .
+
+- Airbags frontais do condutor e do passageiro dianteiro.
+
+- Airbags laterais do condutor e do passageiro dianteiro.
+
+- Luz de controle do airbag .
+
+- PASSENGER AIR BAG Luz de controle na parte superior do console central.
+
+- PASSENGER AIR BAG Luz de controle na parte superior do console central.
+
+- Unidades de controle e sensores.
+
+- Apoios para a cabeça otimizados contra impactos traseiros e com altura ajustável.
+
+- Coluna de direção ajustável.
+
+- Se for necessário, pontos de ancoragem para cadeiras de criança nos assentos laterais do banco traseiro e no banco do passageiro dianteiro.
+
+- Se for o caso, pontos de fixação para o cinto de fixação superior para cadeiras de criança.
+
+Situações em que os airbags frontais e laterais não são acionados:
+- Se a ignição estiver desligada em caso de colisão.
+
+- Se em colisões na parte dianteira do veículo, a intensidade captada pelas unidades de controle for muito pequena.
+
+- Em colisões laterais leves.
+
+- Em colisões traseiras.
+
+- Em um capotamento.
+
+- Se a intensidade do impacto captada pela unidade de controle não for suficiente para o acionamento.
+
+Em caso de acionamento dos airbags - Função detecção de colisão (crash detection) Quando os airbags são acionados em um acidente a função detecção de colisão é ativada e podem ocorrer as seguintes ações:
+
+- Destravamento das portas do veículo (válido para veículos com travamento central) -> Página 68.
+
+- Interrupção da alimentação de combustível -> Página 200.
+
+- Acionamento das lanternas internas do veículo -> Página 89.
+
+- Acionamento das luzes de advertência -> Página 61.
+
+As luzes de advertência podem ser desligadas pelo interruptor no painel de instrumentos.
+
+Airbags frontais
+
+Observe no início desse capítulo na página 44.
+
+Fig. 34 Local de instalação e área de expansão do airbag frontal do condutor.
+
+Fig. 35 Local de instalação e área de expansão do airbag frontal do passageiro dianteiro.
+
+O sistema de airbag frontal proporciona, em complemento aos cintos de segurança, uma proteção adicional para a área da cabeça e do tórax do condutor e do passageiro dianteiro em colisões frontais em acidentes com maior gravidade. É necessário manter sempre a maior distância possível do airbag frontal, no mínimo 25 cm -> Página 34. Assim, os airbags frontais podem se inflar totalmente em caso de expansão e proporcionar, deste modo, sua máxima proteção.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 34, Fig. 35 no manual original.]

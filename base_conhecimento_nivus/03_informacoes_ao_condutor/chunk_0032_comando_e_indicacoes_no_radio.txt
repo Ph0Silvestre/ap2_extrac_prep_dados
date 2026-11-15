@@ -1,0 +1,35 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Informações ao condutor
+SEÇÃO: Comando e indicações no rádio (Parte 2/3)
+PÁGINAS MANUAL: 30 (PDF: 32)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- No menu Carro para poder acessar outros menus ou para configurar os itens do menu, tocar as respectivas superfícies de função.
+
+Se a caixa de seleção na superfície de função estiver ativada , a função correspondente está ligada.
+
+As alterações nos menus de configurações são assumidas automaticamente imediatamente após a inserção.
+
+Vista geral do menu A seguinte vista geral do menu mostra um exemplo de configuração do menu do sistema do rádio. A abrangência real do menu e a designação dos pontos de menu individuais depende da eletrônica do veículo e da abrangência da versão do veículo.
+
+Alguns menus e funções não estão disponíveis em todos os países para todos os veículos.
+
+| Menu | Submenu | Possibilidades de configuração |
+| --- | --- | --- |
+| Luzes | Ilumin. do interior do veículo | – Painel de instrumentos / Iluminação do painel |
+| | Função "Coming / Leaving home" | – Duração da função Coming home – Duração da função Leaving home – Indicação de conveniência |
+| | Controle automático de faróis | – Sensor de chuva |
+| Programa de estabilidade | – | Esc On |
+| | | ASR Off |
+| Hora e data | – | – Fonte de hora (manual, automática) – Formato da hora (24h, 12h) – Hora – Ajustar automaticamente o horário de verão – Fuso horário – Data – Formato da data |
+| Limpadores de para-brisa e Espelhos | Espelho | – Abaixar o espelho retrovisor externo na marcha a ré – Dobrar o espelho retrovisor ao bloquear |
+| | Limpadores dos vidros | – Limpador automático na chuva – Limpador traseiro na marcha a ré |
+| Painel de Instrumentos | Active Info Display | Configurações |
+| | Indicador multifunções | – Indicação digital de velocidade – Temperatura do óleo – Redefinir os dados de viagem – Consumo momentâneo – Consumo médio – Percurso – Velocidade média – Alerta de velocidade – Redefinir dados “Desde a partida” – Redefinir dados “Longo prazo” |
+| Pneus | Configurar | Salvar as pressões dos pneus CONFIRMAR |
+| | Pneus de inverno | Ativar ou desativar o alerta de velocidade Configurar o valor de alerta da velocidade |

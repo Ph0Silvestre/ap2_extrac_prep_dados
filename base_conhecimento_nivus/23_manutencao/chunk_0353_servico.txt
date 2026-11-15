@@ -1,0 +1,50 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Manutenção
+SEÇÃO: Serviço (Parte 4/4)
+PÁGINAS MANUAL: 260 (PDF: 262)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Sistema de limpadores e de lavadores dos vidros e faróis: verificar
+
+- Teste de rodagem: realizar Itens de manutenção Complementarmente aos itens de inspeção (dependendo das condições de uso e do equipamento do veículo como, por exemplo, motor, transmissão ou fluidos) devem ser executados outros itens de manutenção em seu veículo. Estes itens devem ser realizados em função do tempo e/ou quilometragem.
+
+- Aditivos: substituir/completar
+
+- Correia dentada/tensor da correia dentada: verificar/substituir
+
+- Correia Poly-V: substituir
+
+- Filtro de ar: substituir
+
+- Filtro de combustível: substituir (somente veículos TOTALFLEX)
+
+- Fluido de freio: substituir
+
+- Filtro de poeira e pólen: substituir
+
+- Motor: substituir filtro/óleo
+
+- Sistema de acionamento do eixo/diferencial :
+
+substituir óleo
+
+- Transmissão: substituir óleo e filtro
+
+- Velas de ignição: substituir Por razões técnicas (desenvolvimento contínuo de componentes) poderá haver mudanças nos escopos de serviço. As Concessionárias Volkswagen estão sempre informadas sobre as mudanças atuais.
+
+[NOTA]
+
+Para maiores detalhes sobre a composição de cada serviço, consultar no site www.vw.com.br ou em uma Concessionária Volkswagen.
+
+O serviço de carroceria e pintura Os veículos Volkswagen são construídos de forma que, em caso de danos na carroceria, só se torna necessária a substituição das peças que realmente tenham sido afetadas.
+
+Os processos de reparação, testados e verificados na fábrica, com peças parciais ou completas, estão disponíveis a preços acessíveis. Mesmo assim, antes de optar pela substituição das peças da carroceria, verifica-se a possibilidade de repará-las.
+
+Exatamente como nos serviços de carroceria, queremos poupar-lhe gastos desnecessários também na pintura. Por isso, são pintadas apenas as peças que realmente necessitem de pintura e não o veículo todo.
+
+A pintura é executada segundo processos testados na fábrica, com tintas e materiais originais. Desse modo, assegura-se o requisito essencial para salvaguardar o direito de garantia da carroceria -> Página 278, Garantia contra perfuração por corrosão.

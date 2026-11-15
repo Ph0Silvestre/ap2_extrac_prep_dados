@@ -1,0 +1,40 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Informações ao condutor
+SEÇÃO: Instrumento combinado (Parte 7/13)
+PÁGINAS MANUAL: 22-23 (PDF: 24-25)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Observe no início desse capítulo na página 17.
+
+O indicador de dados de viagem (indicador multi-funções) mostra os diferentes valores de condução, de consumo e está equipado com 3 memórias.
+
+Alternar entre os indicadores
+- Veículos com volante multifunções: pressionar o botão ou -> Página 28.
+
+Trocar entre as mémorias Pressionar, com a ignição ligada e a memória exibida, o botão na alavanca dos limpadores dos vidros ou o botão no volante multifunções.
+
+Memória “Desde a partida” Exibição e armazenamento dos valores de condução e consumo coletados desde ligar até desligar a ignição. Em uma interrupção de condução de mais de duas horas, a memória será apagada automaticamente após reiniciar a condução.
+
+Memória “Desde o abastecimento” Exibição e armazenamento dos valores de condução e consumo coletados. A memória é apagada após o abastecimento e ao iniciar o deslocamento do veículo.
+
+Memória “Longo prazo” A memória coleta os valores de condução até 19 horas e 59 minutos ou 99 horas e 59 minutos de tempo de condução ou 1999.9 km ou 9999.9 km de distância percorrida. Quando uma destas marcas máximas1) é ultrapassada, a memória é apagada.
+
+Apagar manualmente a memória de dados de viagem
+- Selecionar a memória que deve ser apagada.
+
+- Manter o botão da alavanca dos limpa-dores dos vidros ou o botão do volante multifunções pressionado por aproximadamente dois segundos.
+
+Selecionar indicadores Dependendo da versão do veículo e da versão do rádio, as possíveis indicações de dados de viagem que devem ser exibidas no display do instrumento combinado podem ser configuradas no sistema do rádio por meio do botão OU tocar na superfície de seleção e tocar na superfície de função Carro -> Página 29.
+
+Indicador “Autonomia” A distância aproximada em km que pode ainda ser percorrida com a quantidade de combustível no tanque, seguindo a mesma forma de condução.
+
+Indicador “Consumo médio” O consumo médio de combustível em km/l é exibido somente após 300 metros rodados, após se ligar a ignição. Até este ponto são exibidos traços. O valor atual exibido é atualizado a cada 5 segundos.
+
+1) Dependendo da versão do instrumento combinado.
+
+Indicador “Consumo” A exibição do consumo de combustível momentâneo ocorre durante a condução em km/l com motor em funcionamento. O valor atual exibido é calculado em intervalos de 30 metros e é atualizado a cada 1 segundo aproximadamente.

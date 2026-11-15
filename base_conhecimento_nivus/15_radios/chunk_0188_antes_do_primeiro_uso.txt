@@ -1,0 +1,12 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rádios
+SEÇÃO: Antes do primeiro uso (Parte 1/1)
+PÁGINAS MANUAL: 145 (PDF: 147)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Lista de controle Antes do primeiro uso, os seguintes passos devem ser executados para comandar o rádio com segurança e poder usar as funções oferecidas em toda a sua abrangência: Observar as recomendações de segurança -> Página 146. Familiarizar-se com a vista geral do aparelho. Em Configurações do sistema, restaurar o rádio para o estado de fornecimento (configurações de fábrica / redefinir sistema) -> Página 176 ou -> Página 186 Utilizar unidades de armazenamento de dados adequadas para a operação de mídia.

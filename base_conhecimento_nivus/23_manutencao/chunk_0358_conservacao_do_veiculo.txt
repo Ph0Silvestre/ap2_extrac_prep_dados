@@ -1,0 +1,34 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Manutenção
+SEÇÃO: Conservação do veículo (Parte 5/15)
+PÁGINAS MANUAL: 263-264 (PDF: 265-266)
+FIGURAS REFERENCIADAS: Fig. 194
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Não polir a pintura do veículo em ambientes com areia ou poeira ou se houver sujeira.
+
+Lavar o veículo somente em locais especialmente previstos para isso, para que a água com eventuais resíduos de óleo, gordura ou combustível não entre na rede de esgoto. Em algumas regiões, é proibido lavar os veículos fora dos locais especialmente reservados para esta finalidade.
+
+Conservar e limpar a parte externa do veículo
+
+Fig. 194 Entre o compartimento do motor e o para-brisa: caixa de água (representação esquemática).
+
+Limpar os vidros e os espelhos retrovisores externos Umedecer os vidros e os espelhos retrovisores externos com um produto de limpeza de vidro convencional à base de álcool.
+
+Secar a superfície dos vidros com uma flanela limpa ou com um pano que não solte fiapos. Um pano que foi usado para limpar as superfícies pintadas do veículo contém resíduos gordurosos de conservantes e, por isso, pode sujar as super-fícies dos vidros.
+
+Resíduos de borracha, óleo, gordura ou silicone podem ser removidos com produto de limpeza de vidro ou removedor de silicone -> .
+
+Remover resíduos de cera Sistemas de lavagem automáticos de veículos ou produtos de conservação podem deixar resíduos de cera sobre as superfícies dos vidros. Esses resíduos de cera podem ser removidos somente com um produto de limpeza especial ou com panos de limpeza. Resíduos de cera provocam perda de desempenho do sistema limpador dos vidros, bem como movimentos irregulares e ruídos excessivos. A Volkswagen recomenda remover os resíduos de cera dos vidros e espelhos retrovisores externos com um pano de limpeza após cada lavagem do veículo.
+
+O atrito excessivo pode ser evitado ao adicionar um produto de limpeza de vidro com propriedades removedoras de cera no reservatório de água dos lavadores dos vidros. Ao adicionar o produto de limpeza, respeitar as proporções de mistura recomendadas. Produtos de limpeza removedores de gordura não conseguem remover tais resíduos de cera -> .
+
+Produtos de limpeza especiais e panos de limpeza de vidros podem ser adquiridos em uma Concessionária Volkswagen.
+
+Remover a neve Remover a neve de todos os vidros e espelhos retrovisores externos com uma pequena escova.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 194 no manual original.]

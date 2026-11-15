@@ -1,0 +1,50 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Telefone (Parte 1/11)
+PÁGINAS MANUAL: 167-168 (PDF: 169-170)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Introdução ao tema As funções de telefone descritas a seguir podem ser controladas pelo aparelho se houver um telefone móvel ativado pareado e conectado.
+
+A condição para que haja uma conexão entre um telefone móvel e o aparelho é que o telefone móvel dê suporte à função Bluetooth®.
+
+Se não houver nenhum telefone ligado ao aparelho, o controle do telefone não ficará disponível.
+
+Indicações para a utilização de um telefone móvel no veículo sem conexão com a antena externa.
+
+As indicações do display dos menus de telefone dependem do escopo de funções do telefone móvel utilizado. É possível que hajam diferenças.
+
+Observar as orientações para a utilização de um telefone móvel no veículo sem conexão com a antena externa -> Página 273.
+
+Utilizar exclusivamente aparelhos compatíveis com Bluetooth®. Informações sobre produtos compatíveis com Bluetooth® podem ser obtidas em uma Concessionária Volkswagen ou pela internet.
+
+Observar o manual de instruções do telefone móvel e do fornecedor de acessórios.
+
+Em “áreas de sombreamento de transmissão” podem ocorrer falhas de recepção e interrupção de chamadas.
+
+A maioria dos aparelhos eletrônicos são blindados contra sinais HF (alta frequência). Em casos raros, porém, aparelhos eletrônicos podem não estar blindados contra os sinais HF do controle do telefone. Podem ocorrer avarias.
+
+[ATENÇÃO]
+
+Telefonar e comandar o controle do telefone durante a viagem pode distrair a atenção do trânsito e causar acidentes.
+
+- Conduzir sempre de forma atenta e responsável.
+
+- Selecionar as regulagens de volume do som de forma que os sinais acústicos externos sejam sempre bem audíveis (por exemplo, o som das sirenes dos serviços de resgate).
+
+- Em regiões sem serviço ou serviço deficiente de rede de comunicação móvel e, dependendo das circunstâncias, em túneis, garagens e passagens subterrâneas, uma chamada telefônica pode ser interrompida e nenhuma chamada telefônica pode ser feita – nem mesmo chamadas de emergência!
+
+[ATENÇÃO]
+
+Um telefone móvel não fixado ou fixado incorretamente pode ser lançado pelo interior do veículo em razão de uma manobra de direção ou de frenagem súbita, bem como em um acidente, e causar ferimentos graves.
+
+- Fixar o telefone móvel sempre corretamente e fora das áreas de expansão do airbag durante a condução.
+
+[ATENÇÃO]
+
+Um telefone móvel ligado pode causar interferências em marca-passos se for carregado diretamente sobre o marca-passo.

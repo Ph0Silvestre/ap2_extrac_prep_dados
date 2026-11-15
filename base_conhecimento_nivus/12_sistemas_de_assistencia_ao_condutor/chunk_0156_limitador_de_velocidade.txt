@@ -1,0 +1,46 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Sistemas de assistência ao condutor
+SEÇÃO: Limitador de velocidade (Parte 1/2)
+PÁGINAS MANUAL: 120-121 (PDF: 122-123)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Introdução ao tema O limitador de velocidade ajuda para que uma velocidade salva não seja ultrapassada.
+
+Dependendo da versão do veículo, o limitador de velocidade pode não estar disponível.
+
+Faixa de velocidades O limitador de velocidade está disponível para a marcha para frente a partir de cerca 30 km/h.
+
+Conduzir com o limitador de velocidade O limite de velocidade pode ser interrompido a qualquer momento, pisando totalmente no pedal do freio e ultrapassando a resistência. Assim que a velocidade salva for ultrapassada, a luz de controle verde pisca e poderá ser dada uma advertência sonora. A velocidade permanece salva.
+
+Assim que a velocidade salva ficar abaixo do limite, a regulagem se liga novamente de modo automático.
+
+Como operar o limitador de velocidade? O limitador de velocidade pode ser comandado pelo volante multifunções -> Página 121.
+
+Indicadores do display Se o limitador de velocidade for ligado, o display do instrumento combinado exibirá a velocidade salva e o status do limitador de velocidade:
+
+Limitador de velocidade ativado e velocidade memorizada.
+
+Representado pequeno ou cinza: regulagem não ativa. Representado grande ou branco: regulagem ativa.
+
+Conduzir em descida Ao conduzir em descidas, a velocidade armazenada pode ser ultrapassada devido ao declive. Neste caso, acende-se a luz de advertência e de controle . Além disso, pode soar um alerta sonoro.
+
+Frear o veículo com o freio e se necessário engatar uma marcha menor.
+
+[ATENÇÃO]
+
+Para evitar a regulagem de velocidade sem supervisão, desligar o limitador de velocidade sempre após a utilização.
+
+- O limitador de velocidade não libera o condutor da responsabilidade da velocidade de condução. Não dirigir com aceleração máxima se isso não for exigido.
+
+- A utilização do limitador de velocidade em condições adversas é perigoso e pode ocasionar graves acidentes, por exemplo por meio de aquaplanagem, neve, gelo, folhas. Somente utilizar o limitador de velocidade, quando a condição da pista e condições meteorológicas permitirem.
+
+- Ao conduzir em descidas, o limitador de velocidade não pode limitar a velocidade do veículo. A velocidade pode aumentar devido ao peso próprio do veículo. Reduzir a velocidade ou frear o veículo com o pedal do freio.
+
+Comandar o limitador de velocidade por meio volante multifunções
+
+Observe no início desse capítulo na página 121.

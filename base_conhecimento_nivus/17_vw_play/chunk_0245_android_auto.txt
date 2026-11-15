@@ -1,0 +1,55 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: VW Play
+SEÇÃO: Android Auto™ (Parte 1/5)
+PÁGINAS MANUAL: 185-186 (PDF: 187-188)
+FIGURAS REFERENCIADAS: Fig. 147, Fig. 148
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Menu Android Auto™
+
+Fig. 147 Menu Android Auto™.
+
+Estabelecer conexão Para utilizar o Android Auto™ o dispositivo móvel precisa suportar o Android Auto™ e ser conectado ao rádio com um cabo USB.
+
+Dependendo do aparelho móvel utilizado, precisa ser instalado um aplicativo adequado para utilizar o Android Auto™ no aparelho.
+
+Quando um dispositivo móvel é conectado pela primeira vez, seguir as instruções no display do rádio e no display do dispositivo móvel.
+
+Pressionar o botão do rádio para acessar as funções do Android Auto™.
+
+Para acessar os comandos do rádio, pressionar o atalho para a tela principal .
+
+Terminar conexão
+- Remover o cabo USB.
+
+- Para retornar a tela principal pressionar o botão .
+
+Particularidades Durante uma conexão Android Auto™ ativa, são válidas as seguintes particularidades:
+
+- Um aparelho Android Auto™ ativo pode estar simultaneamente conectado com o rádio por Bluetooth.
+
+- Conexões por Bluetooth entre outros dispositivos móveis e o rádio não são possíveis.
+
+- Funções de telefone são possíveis através do Android Auto™. Se o aparelho Android Auto™ estiver conectado simultaneamente por Bluetooth com o rádio, a função de telefone do rádio também pode ser utilizada.
+
+- Chamadas telefônicas simultâneas por Android Auto™ e pelo rádio não são possíveis.
+
+- Um aparelho Android Auto™ ativo pode ser utilizado como dispositivo de mídia no menu Media.
+
+- No display do instrumento combinado, não ocorre a exibição de rotas de navegação.
+
+- Para mais informações consultar o manual de instruções do aparelho móvel utilizado.
+
+Introdução ao tema As opções de configurações variam conforme o país e o aparelho e dependem, também, da versão do veículo.
+
+Configurações do sistema
+
+Fig. 148 Menu configurações.
+
+Abrir o menu Configurações Pressionar o botão . Selecionar a função para a área na qual as configurações devem ser feitas. Ao fechar um menu, as alterações são assumidas automaticamente.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 147, Fig. 148 no manual original.]

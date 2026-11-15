@@ -1,0 +1,55 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Operação do rádio (Parte 13/14)
+PÁGINAS MANUAL: 167 (PDF: 169)
+FIGURAS REFERENCIADAS: Fig. 110
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Se a reprodução for terminada na fonte áudio externa ou se for desligada da entrada multimídia AUX-IN, o rádio mantém-se no menu AUX.
+
+Se a fonte de áudio externa for utilizada por meio da tomada 12 V do veículo, é possível que ocorram ruídos de interferência.
+
+Ler e respeitar as instruções de utilização do fabricante da fonte áudio externa.
+
+Conectar fonte de áudio externa por Bluetooth® Conexão de uma fonte de áudio via Bluetooth O modo áudio Bluetooth® pode ser apresentado no display através de na linha superior.
+
+No modo áudio Bluetooth® podem ser reproduzidos arquivos de áudio de uma fonte áudio Bluetooth® ligada via Bluetooth® (por exemplo, um smartphone), utilizando os alto-falantes do veículo (reprodução áudio Bluetooth®).
+
+Requisitos
+- A fonte de áudio externa Bluetooth® deve suportar o perfil A2DP-Bluetooth®.
+
+- No menu Configurações Bluetooth, a função áudio BT (A2DP/AVRCP) tem de estar ativada -> Página 176.
+
+Iniciar a transmissão de áudio Bluetooth®
+
+- Reduzir o volume de base no rádio.
+
+- Ligar visibilidade do Bluetooth® na fonte externa de áudio do Bluetooth® (por exemplo, telefone móvel).
+
+- Pressionar o botão do rádio MEDIA .
+
+- Tocar na superfície de função -> Fig. 110 e selecionar áudio BT .
+
+- Tocar na superfície de função Procurar dispositivo para acoplar uma fonte de áudio externa Bluetooth® pela primeira vez.
+
+- OU: selecionar na lista uma fonte de áudio ex-terna Bluetooth®.
+
+- OU: estabelecer conexão pelo menu Configurações do Bluetooth -> Página 176.
+
+- Observar as orientações para outros procedimentos no display do aparelho e no display da fonte de áudio Bluetooth®.
+
+Se necessário, a reprodução na fonte de áudio Bluetooth® ainda deverá ser iniciada manualmente.
+
+Quando a reprodução na fonte de áudio Bluetooth® termina, o aparelho permanece na operação de áudio Bluetooth®.
+
+Controlar a reprodução O controle da fonte de áudio Bluetooth® através do aparelho depende da fonte de áudio Bluetooth® conectada.
+
+Em leitores de mídia que suportam o perfil Bluetooth® AVRCP, a reprodução pode ser automaticamente iniciada ou parada na fonte de áudio Bluetooth®, se for trocada para a operação de áudio Bluetooth® ou para outra fonte de áudio. Além disso, é possível uma exibição do título ou uma mudança do título através do aparelho.
+
+Em razão da grande diversidade de fontes de áudio Bluetooth®, não pode ser garantido que todas as funções descritas sejam executáveis sem falhas.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 110 no manual original.]

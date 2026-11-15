@@ -1,0 +1,38 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Conduzir
+SEÇÃO: Orientações para condução (Parte 6/16)
+PÁGINAS MANUAL: 104-105 (PDF: 106-107)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Uma camada de sal sobre os discos de freio e sobre as pastilhas de freio retarda o efeito de frenagem e aumenta a distância de frenagem. Quando não tiverem ocorrido frenagens em ruas com camadas de sal por um período prolongado, será necessário raspar a camada de sal por meio de frenagens cautelosas -> .
+
+Corrosão nos discos de freio e sujeira nas pastilhas de freio são favorecidas por períodos longos de parada, pouco desempenho de rodagem e baixa demanda. Em caso de pouca demanda das pastilhas de freio, bem como na existência de corrosão, a Volkswagen recomenda limpar os discos de freio e as pastilhas de freio por meio de diversas freadas a partir de velocidades mais altas, sempre respeitando o limite de velocidade imposto pelo local e a condição de dirigibilidade do momento (por exemplo, pista molhada ou seca, condução noturna ou diurna). Atentar para que, nesse caso, veículos vindos por trás e outros condutores não sejam colocados em perigo -> .
+
+Servofreio O servofreio funciona somente com o motor em funcionamento e amplifica a pressão do pedal que o condutor exerce sobre o pedal do freio.
+
+Quando o servofreio não funcionar ou o veículo for rebocado, o pedal do freio deverá ser pisado com mais força, pois a distância de frenagem aumentará em razão da falta da assistência à força de frenagem -> .
+
+[ATENÇÃO]
+
+Pastilhas de freio novas não têm inicialmente o efeito de frenagem ideal.
+
+- Pastilhas de freio novas ainda não possuem o efeito de frenagem total nos primeiros 300 km de utilização e precisam ser “amaciadas”. Nesse caso, um efeito de frenagem reduzido pode ser aumentado aplicando-se mais pressão sobre o pedal do freio.
+
+- Para reduzir o risco de acidentes, ferimentos graves e a perda do controle do veículo, deve-se conduzir de forma especialmente cuidadosa com pastilhas de freio novas.
+
+- Durante o período de amaciamento das pastilhas de freio novas, nunca se aproximar demais de outros veículos ou gerar situações de condução que resultem em uma solicitação elevada do freio.
+
+[ATENÇÃO]
+
+Freios superaquecidos reduzem o efeito de frenagem e aumentam muito a distância de frenagem.
+
+- Na condução em declives, os freios são solicitados de forma considerável e se aquecem rapidamente.
+
+- Spoilers dianteiros que não sejam de série ou que estejam avariados podem restringir a alimentação de ar dos freios e causar o superaquecimento dos freios.
+
+[ATENÇÃO]

@@ -1,0 +1,57 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Operação do rádio (Parte 1/14)
+PÁGINAS MANUAL: 156-157 (PDF: 158-159)
+FIGURAS REFERENCIADAS: Fig. 121, Fig. 122
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Introdução ao tema Quando se utiliza o rádio, respeitar as regras nacionais e as disposições legais.
+
+Outros dispositivos elétricos adicionais ligados ao veículo podem interferir na receção do sinal de rádio e provocar ruídos nas colunas de som.
+
+Estacionamentos, túneis, prédios altos ou montanhas podem interferir na recepção do sinal do rádio.
+
+Películas ou etiquetas adesivas revestidas de metal nos vidros podem limitar a recepção em veículos com antenas no vidro.
+
+| APP | Retorna para o display App-Connect. No display pode ser finali- |
+| --- | --- |
+| | zada a conexão MirrorLink™. |
+| | Tocar para fechar os aplicativos abertos. |
+| | Em seguida, tocar nos aplicativos que devem ser fechados ou tocar na superfície de função Fechar todos para fechar todos os aplicativos abertos. |
+| | Tocar para visualizar o display do aparelho móvel no display do veículo. |
+| 1 | Tocar para exibir as superfícies de função na margem superior do display. |
+| 2 | Tocar para retornar para o menu principal. |
+
+Fig. 121 Menu principal do rádio.
+
+Fig. 122 Operação do rádio: lista de estações.
+
+Pressionar, com o aparelho ligado, o botão do rádio RADIO . O modo rádio liga-se.
+
+Estão disponíveis as seguintes possibilidades:
+
+- Voltar à emissora memorizada.
+
+- Procurar a emissora seguinte.
+
+- Memorizar as emissoras sintonizadas.
+
+A emissora de rádio momentaneamente sintonizada é apresentada no centro do display. No caso de emissoras de rádio com RDS pode ser indicado o nome da emissora em vez da sua frequência, em caso de boa receção. por exemplo, RADIO 21.
+
+Superfícies de função no menu principal do rádio Sistema de dados de rádio RDS RDS (Radio Data System) é um sistema de dados de rádio através dos serviços adicionais FM, pelo qual são possíveis a indicação de nomes de estações e o texto de rádio.
+
+O RDS não é suportado por todos os aparelhos e não está disponível em toda parte e em todas as estações FM.
+
+Sem RDS basicamente não são possíveis serviços adicionais.
+
+Texto de rádio (RDS) Algumas estações aptas a RDS transmitem adicionalmente informações de texto – o chamado texto de rádio.
+
+O texto de rádio é indicado na metade superior do display sobre os botões de estação -> Fig. 121 A .
+
+As estações transmissoras são responsáveis pelo conteúdo das informações transmitidas.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 121, Fig. 122 no manual original.]

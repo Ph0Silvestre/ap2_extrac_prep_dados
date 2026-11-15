@@ -1,0 +1,29 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Abrir e fechar
+SEÇÃO: Tampa traseira (Parte 5/5)
+PÁGINAS MANUAL: 77 (PDF: 79)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Após alguns acionamentos seguidos do limitador de força, a função de fechamento automático dos vidros poderá ficar fora de funcionamento.
+
+Fechar o vidro sem o limitador de força
+- Tentar fechar o vidro novamente dentro de alguns segundos segurando o botão. A limitação de força é assim desativada!
+
+- Se o processo de fechamento levar mais do que alguns segundos, o limitador de força está ativo novamente. O vidro para em caso de dificuldade de movimentação ou por um obstáculo e abre novamente de modo automático.
+
+Se continuar não sendo possível fechar o vidro, procurar uma Concessionária Volkswagen ou uma empresa especializada.
+
+[ATENÇÃO]
+
+O fechamento dos vidros elétricos sem limitador de força pode causar ferimentos graves.
+
+- Fechar sempre os vidros elétricos com atenção.
+
+- Ninguém deve permanecer na área de funcionamento dos vidros elétricos, principalmente se o fechamento for realizado sem limitador de força.
+
+- O limitador de força não evita que os dedos e outras partes do corpo sejam pressionados contra o quadro do vidro e, assim, sofram ferimentos.

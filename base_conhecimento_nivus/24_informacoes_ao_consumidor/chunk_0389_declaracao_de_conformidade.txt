@@ -1,0 +1,19 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Informações ao consumidor
+SEÇÃO: Declaração de conformidade (Parte 1/1)
+PÁGINAS MANUAL: 280 (PDF: 282)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+O respectivo fabricante declara que os produtos relacionados a seguir se encontram em conformidade com os requisitos básicos e outras determinações e regulamentações relevantes vigentes na data de fabricação do veículo:
+
+Equipamentos de radiofrequência
+- Imobilizador eletrônico.
+
+- Chave do veículo com comando remoto.
+
+- Sistema de travamento e de partida Keyless Access.

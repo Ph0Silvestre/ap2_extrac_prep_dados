@@ -1,0 +1,48 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: Fluido de freio (Parte 5/8)
+PÁGINAS MANUAL: 237 (PDF: 239)
+FIGURAS REFERENCIADAS: Fig. 182, Fig. 183
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+reconhecer nitidamente as cores. Jamais utilizar chamas expostas ou objetos incandescentes como iluminação.
+
+- O visor redondo -> Fig. 182 na parte superior da bateria do veículo muda de cor conforme o nível do eletrólito.
+
+- Bater levemente no visor, para eliminar eventuais bolhas de ar que poderiam alterar a cor.
+
+Amarelo claro ou incolor Nível de eletrólito da bateria do veículo baixo demais. A bateria do veículo deve ser verificada por uma Concessionária Volkswagen ou por uma empresa especializada e, se necessário, substituída.
+
+Preto Nível de eletrólito da bateria do veículo em ordem.
+
+Eventuais cores diferentes destinam-se ao diagnóstico da bateria em uma Concessionária Volkswagen ou em uma empresa especializada.
+
+[ATENÇÃO]
+
+Trabalhos na bateria do veículo podem causar queimaduras químicas, explosões ou choques elétricos graves.
+
+- Usar sempre luvas e óculos de proteção.
+
+- O eletrólito da bateria é muito agressivo. Ele pode queimar a pele e provocar a perda da visão. Ao manusear a bateria, proteger principalmente as mãos, os braços e os olhos de respingos de eletrólito.
+
+- Nunca virar a bateria do veículo. Eletrólito pode sair das aberturas de ventilação e causar queimaduras químicas.
+
+- Jamais abrir uma bateria do veículo.
+
+- Em caso de respingos de eletrólito na pele ou nos olhos, lavar imediatamente a área afetada com água gelada por alguns minutos. Em seguida, procurar imediatamente um médico.
+
+- Em caso de ingestão do eletrólito, procurar um médico imediatamente.
+
+Carregar, substituir, desconectar ou conectar a bateria do veículo
+
+Observe e no início desse capítulo na página 235.
+
+Fig. 183 As baterias contêm substâncias tóxicas e a sua reciclagem é obrigatória. Por isso, é proibido o seu descarte / disposição com o lixo doméstico e a bateria deve ser devolvida ao revendedor, após a substituição.
+
+Carregar a bateria do veículo A carga da bateria do veículo deve ser realizada por uma empresa especializada, pois a tecnologia da bateria do veículo instalada de fábrica requer uma carga de tensão restrita -> . Para isso, a Volkswagen recomenda as Concessionárias Volkswagen.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 182, Fig. 183 no manual original.]

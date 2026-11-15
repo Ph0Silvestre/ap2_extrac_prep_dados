@@ -1,0 +1,55 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Iluminação
+SEÇÃO: Luzes de condução (Parte 3/5)
+PÁGINAS MANUAL: 87-88 (PDF: 89-90)
+FIGURAS REFERENCIADAS: Fig. 72
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Ao engatar a marcha a ré, o farol de conversão pode se acender nos dois lados do veículo durante a manobra.
+
+Alertas sonoros para luz não desligada Se a chave do veículo for retirada do cilindro da ignição e a porta do condutor for aberta, os alertas sonoros serão emitidos diante das seguintes condições:
+
+- interruptor das luzes na posição .
+
+Com a função “Coming Home” ligada, quando a porta do condutor é aberta, nenhum alerta sonoro soa para indicar que a luz ainda está ligada.
+
+Fig. 72 À esquerda na coluna de direção: alavanca dos indicadores de direção e do farol alto.
+
+- Ligar a ignição e o farol baixo.
+
+- Colocar a alavanca dos indicadores de direção e do farol alto a partir da posição central para a seguinte posição:
+
+Farol alto ligado.
+
+Acionar o sinal de luz ou desligar o farol alto. O sinal de luz permanece aceso enquanto a alavanca for puxada.
+
+Com os faróis altos ligados ou ao dar sinal de luz, a luz de controle azul se acende no instrumento combinado.
+
+[ATENÇÃO]
+
+Um farol com regulagem muito alta e a utilização inadequada do farol alto podem distrair e impedir a visão de outros condutores. Isto pode causar acidentes e ferimentos graves.
+
+- Atentar para que o farol esteja regulado corretamente.
+
+- Nunca utilizar o farol alto ou o sinal de luz quando a visão de outros condutores puder ser ofuscada.
+
+Função “Coming Home” e “Leaving Home” (iluminação de orientação)
+
+Com a iluminação de orientação, a região próxima ao veículo é iluminada quando se sai (“Coming Home”) e quando se chega no veículo (“Leaving Home”). Para veículos com sensor de luz e chuva, a função “Leaving Home”, por sua vez, é controlada automaticamente.
+
+Com a função “Coming Home” ou “Leaving Home” ativada, se acende o farol baixo e a luz de posição como iluminação de orientação.
+
+Dependendo da versão do veículo e da versão do rádio, a duração do tempo de iluminação temporizada pode ser configurada no sistema do rádio por meio do botão no menu Configurações do veículo e a função, ativada ou desativada OU tocar na superfície de seleção e tocar na superfície de função Carro para abrir o menuConfigurações de luzes -> Página 29:
+
+Ligar a função “Coming Home”
+- Desligar a ignição.
+
+- Acionar o sinal de luz por aproximadamente um segundo.
+
+A iluminação “Coming Home” é ligada ao abrir a porta do condutor. O tempo da iluminação temporizada se inicia com o fechamento da última porta do veículo ou da tampa traseira.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 72 no manual original.]

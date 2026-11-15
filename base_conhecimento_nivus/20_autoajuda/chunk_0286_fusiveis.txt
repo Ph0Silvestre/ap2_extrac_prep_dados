@@ -1,0 +1,35 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Autoajuda
+SEÇÃO: Fusíveis (Parte 2/5)
+PÁGINAS MANUAL: 213-214 (PDF: 215-216)
+FIGURAS REFERENCIADAS: Fig. 165, Fig. 166
+ALERTAS PRESENTES: NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Abrir a caixa de fusíveis do painel de instrumentos
+- Segurar a cobertura da caixa de fusíveis -> Fig. 165 e puxar para frente.
+
+- Para instalar, colocar a cobertura no alojamento do painel de instrumentos e pressionar até que trave de forma audível.
+
+[NOTA]
+
+- Remover cuidadosamente as coberturas das caixas de fusíveis e reinstalar corretamente para evitar danos no veículo.
+
+- Caixas de fusíveis abertas devem ser protegidas contra a penetração de impurezas e umidade. Impurezas e umidade nas caixas de fusíveis podem causar danos ao sistema elétrico.
+
+Caixa de fusíveis no painel de instrumentos
+
+Observe e no início desse capítulo na página 212.
+
+Fig. 166 No painel de instrumentos: disposição dos fusíveis.
+
+Alguns fusíveis indicados podem ser específicos de determinadas versões.
+
+Abaixo são representadas as localizações com suas respectivas funções para os equipamentos que podem estar disponíveis para o seu veículo:
+
+Livre Carregador USB de telefone celular (Universal Dock Station) Amplificador do subwoofer Interruptor das luzes (BCM Entry) Livre Travamento central Livre Ventilação interna (Climatronic) Livre Livre Livre Livre F1 F2 F3 F4 F5 F6 F7 F8 F9 F10 F11 F12 Tomada de diagnóstico / Sensor de chuva e de luz / Alavanca dos Indicadores de direção e alavanca dos limpadores dos vidros (BCM Standard) / Interruptor das luzes (BCM Standard) Alavanca dos limpadores dos vidros / Sistema dos limpadores dos vidros / Sistema do lavador dos vidros Instrumento combinado Iluminação externa do veículo - parte 1 (BCM Standard) Indicador de direção e luzes de freio - parte 1 (BCM Entry) Acionamento elétrico dos vidros - dianteiro direito / Acionamento elétrico dos vidros - traseiro direito / Espelho retrovisor externo elétrico do lado direito / Rebaixamento do espelho retrovisor externo direito (tilt down) Limpador do para-brisa Rádio Desembaçador do vidro traseiro Cilindro de ignição / Motor de partida solenoide (partida com cilindro de ignição) Luz de condução diurna (BCM Entry) Câmera de marcha a ré Display do rádio com sistema de navegação Volante multifunções Unidade eletrônica de controle (somente veículo equipado com Controle automático de distância (ACC)) Farol alto do lado direito (BCM Entry) / Farol alto do lado esquerdo (BCM Entry) Sensor de ultrassom (alarme) Livre Livre Unidade de comando do Climatronic Unidade de comando do ar-condicionado Cilindro da ignição Acionamento elétrico dos vidros - dianteiro esquerdo / Acionamento elétrico dos vidros - traseiro esquerdo / Espelho retrovisor externo elétrico do lado esquerdo Sinal de luz do farol (lampejo) (BCM Entry) Iluminação externa do veículo - parte 2 (BCM Standard) Indicador de direção e luzes de freio - parte 2 (BCM Entry) Buzina F14 F15 F16 ou F17 F18 F19 F20 F21 F22 F23 F24 F25 F26 F27 F28 F29 F30 F31 ou F32 F33 F34 F35 ou F36 Livre Unidade eletrônica de controle / Iluminação interna (BCM Entry) Unidade eletrônica de controle / Iluminação interna (BCM Standard) Unidade de comando do sensor de estacionamento / Unidade de controle automático de distância (ACC) Interruptor das luzes (BCM Standard) / Interruptor das luzes de marcha a ré / Tomada de diagnóstico / Espelho retrovisor interno / Câmera de marcha a ré / interruptor da regulagem de alcance do farol Livre Relé 1 de partida assistida / Relé 2 de partida assistida / Pressostato do ar-condicionado Limpador do vidro traseiro Sistema de airbag Conjunto do farol esquerdo com tecnologia LED Conjunto do farol direito com tecnologia LED Iluminação da placa de licença lado direito (BCM Entry) / Iluminação da placa de licença lado esquerdo (BCM Entry) Unidade de comando Keyless Access Farol baixo lado esquerdo (BCM Entry) Farol baixo lado direito (BCM Entry) Livre Luz de posição lado direito (BCM Entry) / Luz de condução diurna lado direito (BCM Entry) Alavanca seletora da transmissão automática / Bloqueio de remoção da chave do cilindro da ignição (somente para veículos com transmissão automática e sem Keyless Access) Luz de posição lado esquerdo (BCM Entry) / Luz de condução diurna lado esquerdo (BCM Entry) Tomada 12 V Ventilação interna Interruptor das luzes / Farol de neblina (BCM Entry) Lavadores do para-brisa / Lavador do vidro traseiro Livre Livre Livre ou F39 F40 F41 F42 F43 F44 F45 F46 F47 F48 F49 F50 F51 F52 F53 F54 F55 F56 F57 F58 F59 F60 F61 Fusíveis no compartimento do motor
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 165, Fig. 166 no manual original.]

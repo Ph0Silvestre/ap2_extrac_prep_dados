@@ -1,0 +1,42 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Segurança
+SEÇÃO: Transporte de crianças no veículo (Parte 8/12)
+PÁGINAS MANUAL: 57-58 (PDF: 59-60)
+FIGURAS REFERENCIADAS: Fig. 42
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Encaixar a cadeira de criança nos olhais de retenção -> Fig. 42 no sentido da seta. A cadeira de criança deve engatar de forma segura e audível (click).
+
+| | Grupo (classe de pesos) de cadeiras de criança com ISOFIX | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Grupo 0: até 10 kg | | Grupo 0: até 10 kg | | | Grupo 1: 9 a 18 kg | | | | |
+| | | | Grupo 0+: até 13 kg | | | | | | | |
+| Direção de instalação | Para trás (sentido contrário à direção) | | Para trás (sentido contrário à direção) | | | Para trás (sentido contrário à direção) | | Para frente (sentido de direção) | | |
+| Classe de tamanho | F | G | C | D | E | C | D | A | B | B1 |
+| Instalação no banco do passageiro dianteiro | Assento sem pontos de ancoragem, sem fixação com ISOFIX / LATCH | | | | | | | | | |
+| Instalação nos assentos do banco traseiro | IL-SU | | IL-SU | | | IL-SU | | IUF/IL-SU | | |
+
+talar o apoio para cabeça para evitar a interferência com a cadeira de criança -> Página 82.
+
+- Realizar um teste de tração em ambos os lados da cadeira de criança, para verificar que as duas travas estão engatadas.
+
+Cadeira de criança com cintos de fixação reguláveis (LATCH)
+- Observar e seguir as orientações -> Página 54, Instalação e utilização de cadeiras de crianças no veículo.
+
+- Na instalação ou desinstalação, observar a instrução do fabricante da cadeira de criança -> .
+
+- Colocar a cadeira de criança sobre a superfície do banco e prender os ganchos dos cintos de fixação nos olhais de retenção -> Fig. 42, caso os cintos de fixação sejam fornecidos junto com a cadeira de criança.
+
+- Empurrar completamente para cima ou desinstalar o apoio para cabeça para evitar a interferência com a cadeira de criança -> Página 82.
+
+- Esticar uniformemente os cintos de fixação no respectivo dispositivo de regulagem. A cadeira de criança deve estar bem encostada no banco do veículo.
+
+- Realizar um teste de tração em ambos os lados da cadeira de criança, para verificar que as duas travas estão engatadas.
+
+Os pontos de ancoragem inferiores para cadeiras de criança não são olhais de amarração de carga. Fixar somente cadeiras de criança adequadas para essa aplicação nos pontos de ancoragem inferiores.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 42 no manual original.]

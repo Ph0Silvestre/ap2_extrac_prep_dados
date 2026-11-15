@@ -1,0 +1,38 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Operação do rádio (Parte 8/14)
+PÁGINAS MANUAL: 163-164 (PDF: 165-166)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Reprodução aleatória. A superfície de função muda para . Todos os títulos que se encontram no mesmo nível de memória que o título atual reproduzido serão incluídos. No menu Configurações de mídias Mix/Repetir inclusive subpasta ativada, sub-pastas também são incluídas -> Página 164.
+
+- No menu principal MEDIA, pressionar novamente o botão do rádio MEDIA , para fazer uma passagem por todas as fontes de mídia disponíveis.
+
+Na janela de pop-up não há no momento fontes de mídias selecionáveis apresentadas como inativas (a cinzento).
+
+A fonte de mídia que está sendo utilizada é mostrada no display.
+
+Se não puder ser selecionada nenhuma fonte de mídia, isso é mostrado no menu principal MEDIA.
+
+Se uma fonte de mídia anteriormente reproduzida for selecionada de novo, a reprodução é retomada no último ponto reproduzido.
+
+A indicação de informações de título pode ser desativada na Lista de reprodução -> Página 164.
+
+Mudar o título no menu principal de mídia Os títulos das fontes de mídia em reprodução podem ser sucessivamente percorridos através dos botões de setas -> Página 164, Seleção do título na lista de títulos.
+
+Através dos botões de setas não é possível comutar à reprodução a partir de uma playlist. A reprodução a partir de uma playlist tem de ser iniciada manualmente através do menu de seleção do título -> Página 164, Seleção do título na lista de títulos.
+
+Comando pelo menu principal de mídia
+
+| Ação Tocar brevemente na superfície de função < uma vez. | Efeito Em uma duração de reprodução menor do que 3 segundos, é trocado para o início do título anterior. Em uma duração de título de 3 segundos ou mais, é trocado para o início do título atual. | |
+| --- | --- | --- |
+| Tocar brevemente na superfície de função > uma vez. | Para o próximo título. Do último título é alterado para o primeiro título da | |
+
+Seleção do título na lista de títulos Para abrir a lista de títulos no menu principal ME- DIA pressionar na área de função OU girar o botão seletor. O título que está a ser reproduzido é apresentado em destaque.
+
+Pesquisar a lista de títulos e pressionar no título pretendido. Se estiverem disponíveis informações sobre o título, são apresentados o número e o nome dos títulos ou os nomes dos arquivos (MP3) em vez de Título + nº 1). A lista de títulos pode não ser suportada pela fonte.

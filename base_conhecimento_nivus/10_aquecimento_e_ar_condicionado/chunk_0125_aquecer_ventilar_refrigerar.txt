@@ -1,0 +1,62 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Aquecimento e ar-condicionado
+SEÇÃO: Aquecer, ventilar, refrigerar (Parte 3/5)
+PÁGINAS MANUAL: 98-99 (PDF: 100-101)
+FIGURAS REFERENCIADAS: Fig. 81, Fig. 82
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Climatronic: pressionar o botão -> Fig. 82 4 para posição desejada, a distribuição selecionada será indicada no display 8 .
+- Distribuição de ar para a parte superior do corpo com o difusor de ar do painel de instrumentos.
+- Distribuição de ar para a área para os pés.
+
+Climatronic – Distribuição de ar para a parte superior do corpo e para a área para os pés.
+- Distribuição de ar para o para-brisa e para a área para os pés. Ar-condicionado – Distribuição de ar para o para-brisa. Climatronic – Distribuição de ar para o para-brisa.
+
+/ – Função desembaçamento A função de desembaçamento elimina o embaçamento do para-brisa.
+
+- Ar-condicionado: girar o regulador direito para a posição -> Fig. 81 4 .
+
+- Climatronic: pressionar o botão -> Fig. 82 1 .
+
+Ar-condicionado: na função de desembaçamento, o modo de recirculação de ar é desligado, e o compressor do ar-condicionado do sistema de refrigeração é ligado para retirar a umidade do ar. Com a função de desembaçamento ligada, o modo de recirculação de ar não pode ser ligado e o compressor do ar-condicionado não pode ser desligado.
+
+Climatronic: na função de desembaçamento, o ar é desumidificado e o ventilador é regulado em um nível alto.
+
+- Desembaçador do vidro traseiro
+- Pressionar o botão para ligar e desligar o aquecimento dos vidros traseiros com o motor funcionando.
+
+O desembaçador do vidro traseiro desliga-se automaticamente após, aproximadamente 10 minutos.
+
+Regulagens recomendadas do ar-condicionado
+- Desligar o modo de recirculação de ar.
+
+- Regular o ventilador no nível ou .
+
+- Colocar o regulador de temperatura na posição do meio.
+
+- Abrir e alinhar todos os difusores de ar no painel de instrumentos.
+
+- Girar o regulador da distribuição de ar para a posição desejada.
+
+- Pressionar o botão no painel para ligar o sistema de refrigeração.
+
+Regulagens recomendadas do Climatronic
+- Pressionar o botão .
+
+- Regular a temperatura para +22 °C.
+
+- Abrir e alinhar os difusores de ar no painel de instrumentos.
+
+Resfriamento rápido no interior do veículo Para obter um resfriamento rápido no interior do veículo, proceder da seguinte maneira:
+
+- Girar o regulador da temperatura totalmente para a esquerda.
+
+- Selecionar a distribuição de ar para a posição
+
+- Girar o regulador do ventilador para o nível máximo. O ar-condicionado e o modo de recirculação de ar serão ligados automaticamente.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 81, Fig. 82 no manual original.]

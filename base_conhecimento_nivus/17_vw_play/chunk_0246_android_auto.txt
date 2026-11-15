@@ -1,0 +1,16 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: VW Play
+SEÇÃO: Android Auto™ (Parte 2/5)
+PÁGINAS MANUAL: 186 (PDF: 188)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Abrir o menu Configurações Pressionar o botão . Selecionar a função para a área na qual as configurações devem ser feitas. Ao fechar um menu, as alterações são assumidas automaticamente.
+
+Superfície de função: efeito Sistema : realizar ajustes do sistema. Bluetooth : ajustes do Bluetooth®. Visibilidade : tornar o Bluetooth® vísivel ou invísivel. Nome do Bluetooth : exibe ou altera o nome do dispositivo. Administrador de dispositivos : exibe os dispositivos pareados. Desconexão e conexão de aparelhos Bluetooth® individuais e perfis Bluetooth®. Telefone : realizar ajustes do telefone. Bluetooth : ajustes do Bluetooth®. Toques de chamada : ajuste do som do toque de chamada. Áudio : realizar ajustes de volume e tom.
+
+Lembrete de telefone : se há uma conexão Bluetooth® com um telefone móvel, ao desligar a ignição, a mensagem “Não esqueça o seu telefone” é exibida. Áudio : realizar ajustes de volume. Volume máximo de ligação : estabelecer volume inicial máximo. Volume dependente de velocidade : estabelecer intensidade da adequação do volume em relação à velocidade. Anúncio de navegação :estabelecer volume de reprodução dos avisos do sistema de navegação. Redução de entretenimento (estacionamento) : estabelecer volume de reprodução de áudio durante a ativação do sensor de estacionamento. Volume de toque de chamada : estabelecer volume da chamada telefônica. Volume de áudio BT : estabelecer volume de áudio Bluetooth®. Tom : realizar ajustes de tom. Equalizador : ajustar característica do som. Balance e Fader : ajustar a distribuição do som. A grade reticular mostra o ponto de equilíbrio atual do som no interior do veículo. Para alterar a distribuição do som, tocar na posição desejada na vista do interior do veículo ou utilizar os botões de setas para a alteração em etapas. Para centralizar a distribuição do som na vista do interior do veículo, tocar na superfície de função entre as setas. Som touchscreen : ativar ou desativar o som de confirmação ao tocar em uma superfície de função no display. Tela : realizar ajustes do display. Desligar Tela (em 10 s) : se a função está ativa e o rádio não for utilizado, o display se desliga automaticamente após 10 segundos. Ao tocar na tela, o display se liga novamente. Brilho : selecionar nível de luminosidade do display. Som touchscreen : ativar o som de confirmação ao se tocar em um botão na tela.

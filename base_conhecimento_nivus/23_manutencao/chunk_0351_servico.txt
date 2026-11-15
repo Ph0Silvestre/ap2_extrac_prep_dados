@@ -1,0 +1,42 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Manutenção
+SEÇÃO: Serviço (Parte 2/4)
+PÁGINAS MANUAL: 258-259 (PDF: 260-261)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+[NOTA]
+
+A Volkswagen não se responsabiliza por danos causados ao veículo em razão de serviços insuficientes ou da falta de peças.
+
+Serviços de manutenção regulares no veículo servem não apenas para a manutenção do valor do veículo, mas também contribuem para a segurança operacional e do trânsito. Por esse motivo, os serviços de manutenção devem ser realizados sempre conforme as diretrizes da Volkswagen.
+
+Plano de manutenção Volkswagen É fundamental para preservar as características técnicas e a integridade do veículo, assim como as condições de garantia, que o Plano de manutenção Volkswagen seja respeitado, de acordo com as características de uso descritas a seguir:
+
+Troca de óleo preventiva
+- Trânsito frequente em baixos regimes de rotação do motor com tráfego intenso, onde o motor permanece um longo período em marcha lenta (como “anda e para”, tráfego urbano).
+
+- Em trajetos curtos (abaixo de 8 km diários) ou com motor funcionando em temperaturas abaixo do regime considerado ideal.
+
+- Em situações de longa inatividade.
+
+Perante estas condições se faz necessária a realização de uma troca de óleo entre as revisões de 10.000 km ou 12 meses, para que as características e as propriedades do motor sejam preservadas.
+
+Condições adversas Realizar os serviços sempre a cada 10.000 km ou 6 meses, prevalecendo o que ocorrer primeiro, caso o veículo seja utilizado nas condições adversas descritas abaixo:
+
+- Trânsito frequente em estradas ou vias ruins, com alto índice de poeira ou sem pavimentação.
+
+- Trânsito predominantemente em situações com elevado índice de partículas suspensas (em regiões com operação de indústrias mineradoras, de cimento e siderurgia, marmorarias, salinas, etc.).
+
+- Trânsito predominantemente com reboque ou em rodagens com carga.
+
+Condições normais Caso o uso do veículo não se enquadre nas condições adversas, realizar os serviços sempre a cada 10.000 km ou 12 meses, prevalecendo o que ocorrer primeiro.
+
+Informações complementares
+- Os prazos de verificação e substituição estipulados devem ser rigorosamente seguidos. É admissível uma tolerância para mais, de até 1.000 km nos serviços executados por quilometragem ou até um mês nos executados por tempo.
+
+- São da responsabilidade do proprietário do veículo todos os custos com peças e mão de obra.

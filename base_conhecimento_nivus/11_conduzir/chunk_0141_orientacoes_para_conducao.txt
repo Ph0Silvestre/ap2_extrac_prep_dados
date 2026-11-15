@@ -1,0 +1,54 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Conduzir
+SEÇÃO: Orientações para condução (Parte 13/16)
+PÁGINAS MANUAL: 110 (PDF: 112)
+FIGURAS REFERENCIADAS: Fig. 86
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Levar sempre todas as chaves do veículo ao deixar o veículo. Crianças ou pessoas não autorizadas podem travar o veículo, ligar o motor ou ligar a ignição e, com isso, acionar os equipamentos elétricos, como, por exemplo, os vidros elétricos.
+
+Ao sair do veículo, sempre desligar a ignição manualmente ou, se for o caso, observar as orientações no display do instrumento combinado.
+
+Períodos longos de parada com a ignição ligada podem fazer com que a bateria do veículo 12 V se descarregue e não seja mais possível dar a partida no motor.
+
+Se, por exemplo, a bateria da chave do veículo estiver muito fraca ou descarregada, o motor não poderá ser acionado com o botão de partida. Neste caso, utilizar a função de partida de emergência -> Página 112.
+
+Dar a partida no motor Veículos com cilindro da ignição:
+- Girar a chave do veículo na posição -> Fig. 86 1 . A ignição está ligada.
+
+- Pisar no pedal do freio firmemente e mantê-lo pressionado.
+
+- Colocar alavanca seletora na posição P ou N.
+
+- Girar a chave do veículo no cilindro da ignição para a posição -> Fig. 86 2 – não acelerar. Quando o motor começar a funcionar, soltar a chave do veículo no cilindro da ignição.
+
+- Se o motor não começar a funcionar, interromper o procedimento de partida e repeti-lo após aproximadamente um minuto.
+
+- Soltar o freio de estacionamento quando estiver pronto para partir -> Página 132.
+
+Veículos com botão de partida
+- Pressionar o botão de partida uma vez. A ignição está ligada.
+
+- Pisar no pedal do freio firmemente e mantê-lo pressionado.
+
+- Colocar alavanca seletora na posição P ou N.
+
+não acelerar. Para ligar o motor, deve haver uma chave do veículo válida no interior do veículo. Quando o motor começar a funcionar, soltar o botão de partida.
+
+- Se o motor não começar a funcionar, interromper o procedimento de partida e repeti-lo após aproximadamente um minuto.
+
+- Se necessário, executar a partida de emergência -> Página 112.
+
+- Soltar o freio de estacionamento quando estiver pronto para partir -> Página 132.
+
+[ATENÇÃO]
+
+O risco de ferimentos graves pode ser reduzido com o motor em funcionamento ou durante a partida do motor.
+
+- Nunca ligar o motor ou deixá-lo funcionando em locais fechados ou sem ventilação. O sistema de escape do motor contêm, entre outros, monóxido de carbono, um gás tóxico inodoro e incolor. O monóxido de carbono pode causar desmaios e morte.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 86 no manual original.]

@@ -1,0 +1,32 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: Luz de advertência central (Parte 1/1)
+PÁGINAS MANUAL: 239 (PDF: 241)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Bateria fraca.
+
+A bateria do veículo é carregada pelo alternador durante a condução porém o nível de carga não é suficiente.
+
+- Carregar a bateria, fazendo circular o veículo por um período mais longo.
+
+Substituir a bateria.
+
+A bateria do veículo não está em bom estado.
+
+- Procurar uma Concessionária Volkswagen ou uma empresa especializada.
+
+Ao ligar a ignição, algumas luzes de advertência e de controle se acendem rapidamente para verificação da função. Elas se apagam após alguns segundos.
+
+[ATENÇÃO]
+
+A observância das luzes de advertência acesas e das mensagens de texto é essencial para a segurança do condutor e dos passageiros, evitando possíveis paradas do veículo, bem como eventuais acidentes.
+
+- Nunca ignorar as luzes de advertência acesas e as mensagens de texto.
+
+- Parar o veículo assim que possível em um local seguro a todos os passageiros do veículo e aos demais condutores.

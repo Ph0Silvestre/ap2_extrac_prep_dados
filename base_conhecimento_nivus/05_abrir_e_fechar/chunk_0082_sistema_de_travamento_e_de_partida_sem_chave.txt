@@ -1,0 +1,58 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Abrir e fechar
+SEÇÃO: Sistema de travamento e de partida sem chave “Keyless Access” (Parte 1/3)
+PÁGINAS MANUAL: 66-67 (PDF: 68-69)
+FIGURAS REFERENCIADAS: Fig. 51, Fig. 52
+ALERTAS PRESENTES: NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Introdução ao tema Dependendo da versão do veículo, o sistema de travamento e de partida Keyless Access pode não estar disponível.
+
+Sistema de travamento e partida Keyless Access sem chave permite que o veículo seja destravado e travado sem a utilização ativa da chave. Para isto, uma chave do veículo válida deve se encontrar na área de aproximação do veículo.
+
+Destravar ou travar o veículo com Keyless Access
+
+Fig. 51 Keyless Access: áreas de aproximação.
+
+Fig. 52 Keyless Access: superfícies do sensor.
+
+Destravar e travar o veículo Destravar:
+- Tocar o sensor -> Fig. 52 A na parte interna da maçaneta da porta do condutor ou da porta do passageiro dianteiro.
+
+- Abrir a porta.
+
+Travar:
+
+- Desligar a ignição.
+
+- Fechar a porta do condutor ou do passageiro dianteiro.
+
+- Tocar na superfície do sensor -> Fig. 52 B na parte externa da maçaneta da porta do condutor ou da porta do passageiro dianteiro uma vez.
+
+O destravamento do veículo é indicado ao piscarem duas vezes todos os indicadores de direção, e o travamento, ao piscarem uma única vez.
+
+Destravar e travar a tampa do compartimento de bagagem Quando o veículo está travado e uma chave do veículo se encontra na área de aproximação da tampa do compartimento de bagagem, esta destrava automaticamente ao ser aberta -> Fig. 51.
+
+A tampa do compartimento de bagagem é travada automaticamente após o fechamento.
+
+Se o veículo estiver completamente destravado, então a tampa do compartimento de bagagem não se tranca automaticamente depois de ser fechada.
+
+Desativar Keyless Access temporariamente
+- Travar o veículo com o botão na chave do veículo.
+
+- Além disto, dentro de 5 segundos, tocar uma vez no sensor na parte externa da maçaneta da porta -> Fig. 52 B .
+
+- Para verificar a desativação, aguardar pelo menos 10 segundos e puxar novamente a maçaneta da porta. A porta não pode ser aberta.
+
+O veículo somente pode ser destravado com a chave do veículo. Depois do próximo destravamento, o Keyless Access está ativo novamente.
+
+Funções de conforto Para a abertura de conforto de todos os vidros elétricos empunhar a maçaneta da porta e manter pressionados, ao mesmo tempo, o sensor da parte interna da maçaneta -> Fig. 52 A e a superfície do sensor B .
+
+Para o fechamento de conforto de todos os vidros elétricos manter um dedo durante alguns segundos sobre a superfície do sensor -> Fig. 52 B no lado externo da maçaneta da porta do condutor ou do passageiro dianteiro.
+
+[NOTA]
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 51, Fig. 52 no manual original.]

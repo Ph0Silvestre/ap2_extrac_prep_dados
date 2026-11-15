@@ -1,0 +1,18 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Informações ao condutor
+SEÇÃO: Luzes de advertência e de controle (Parte 3/3)
+PÁGINAS MANUAL: 17 (PDF: 19)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Antes de abrir a tampa do compartimento do motor, desligar o motor e aguardar até que sua temperatura tenha baixado suficientemente.
+
+- O compartimento do motor de todo veículo é uma área perigosa e pode causar ferimentos graves -> Página 221, Orientações de segurança para trabalhos no compartimento do motor.
+
+[NOTA]
+
+Observar sempre as luzes de controle acesas e as mensagens de texto para evitar danos no veículo.

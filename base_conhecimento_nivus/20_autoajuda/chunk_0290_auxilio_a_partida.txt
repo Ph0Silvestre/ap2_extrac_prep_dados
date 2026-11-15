@@ -1,0 +1,42 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Autoajuda
+SEÇÃO: Auxílio à partida (Parte 1/4)
+PÁGINAS MANUAL: 218-219 (PDF: 220-221)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Introdução ao tema Se o motor não der partida porque a bateria do veículo 12 V está descarregada, é possível utilizar a bateria 12 V de outro veículo para dar a partida.
+
+A bateria descarregada deve ser corretamente ligada ao sistema elétrico do veículo.
+
+Os cabos auxiliares de partida devem ser apropriados e com o comprimento suficiente para manter os veículos afastados.
+
+[ATENÇÃO]
+
+A utilização inadequada dos cabos auxiliares de partida e um auxílio à partida realizado de forma incorreta podem causar uma explosão da bateria do veículo e ferimentos graves. Para reduzir o risco de explosão da bateria do veículo, observar o seguinte:
+
+- Todos os trabalhos na bateria do veículo e no sistema elétrico podem causar queimaduras graves, incêndios e choques elétricos. Antes de qualquer trabalho na bateria do veículo, ler e observar sempre os seguintes alertas e precauções de segurança -> Página 235, Bateria do veículo.
+
+- A bateria do veículo fornecedora de corrente deve ter a mesma tensão (12 V) e aproximadamente a mesma capacidade (ver gravação na bateria do veículo) que a bateria do veículo descarregada.
+
+- Nunca carregar uma bateria do veículo congelada ou que tenha sido descongelada. Uma bateria do veículo descarregada pode congelar em temperaturas em torno de 0 ºC.
+
+- Uma bateria do veículo congelada ou que tenha sido descongelada deve ser substituída.
+
+- Durante o auxílio à partida, uma mistura de gás detonante altamente explosiva é formada na bateria do veículo. Manter fogo, faíscas, chamas expostas e cigarros em brasa sempre distantes da bateria do veículo. Nunca utilizar um telefone móvel enquanto os cabos auxiliares de partida são conectados e desconectados.
+
+- Carregar a bateria do veículo somente em locais bem ventilados, pois no auxílio à partida é formada uma mistura de gás detonante altamente explosiva.
+
+- Os cabos auxiliares de partida nunca devem entrar em contato com peças giratórias no compartimento do motor.
+
+- Nunca confundir o polo positivo com o polo negativo ou conectar os cabos auxiliares de partida incorretamente.
+
+- Observar o manual de instruções do fabricante do cabo auxiliar de partida.
+
+Para evitar danos consideráveis ao sistema elétrico do veículo, observar o seguinte:
+
+- Cabos auxiliares de partida conectados incorretamente podem provocar um curto-circuito.

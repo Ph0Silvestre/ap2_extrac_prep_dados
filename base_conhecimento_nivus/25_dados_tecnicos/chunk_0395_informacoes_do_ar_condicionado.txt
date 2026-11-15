@@ -1,0 +1,30 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Dados técnicos
+SEÇÃO: Informações do ar-condicionado (Parte 2/3)
+PÁGINAS MANUAL: 285-286 (PDF: 287-288)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+a) A indicação da reserva ocorrerá quando o nível total do tanque de combustível for reduzido para aproximadamente 8 litros de combustível.
+
+| | 1.0 TOTALFLEX 85/94 kW - TSI |
+| --- | --- |
+| Reservatório de água dos lavadores dos vidros ( -> Página 226) | 3,1 litros |
+| Tanque de combustível ( -> Página 201) | aproximadamente 52 litros, dos quais aproximadamente 7,5 litros de reservaa) |
+| Quantidade de óleo do motor ( -> Página 228) | 4,0 litros |
+
+a) Número de peça Volkswagen. Utilizar apenas as velas de ignição recomendadas pela Volkswagen para o seu veículo, para não danificar o motor e atender à legislação de emissões vigente.
+
+b) Os valores correspondem ao modelo básico. É possível ocorrer pequenas divergências de acordo com o combustível local utilizado, os opcionais que equipam o veículo, a carga, a pressão dos pneus, a temperatura ambiente, a altitude, a rota de utilização e o modo de dirigir o veículo.
+
+c) Peso para modelo básico sem equipamentos opcionais.
+
+d) CMT = peso bruto admissível do veículo + carga de reboque.
+
+e) Este veículo está em conformidade com a Lei para controle da poluição sonora para veículos automotores (PROCONVE).
+
+f) Este veículo está em conformidade com o Programa para preservação do meio ambiente para veículos automotores (PROCONVE).

@@ -1,0 +1,50 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: No compartimento do motor (Parte 5/6)
+PÁGINAS MANUAL: 224-225 (PDF: 226-227)
+FIGURAS REFERENCIADAS: Fig. 173, Fig. 174, Fig. 175
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Levantar um pouco a tampa do compartimento do motor e, ao mesmo tempo, pressionar a alavanca de destravamento no sentido da seta -> Fig. 173 2 , que está localizada na parte interna da tampa, para abrir completamente a tampa do compartimento do motor.
+
+- Retirar a haste de sustentação do suporte no sentido da seta -> Fig. 174 e posicioná-la na abertura na tampa do compartimento do motor -> Fig. 174 .
+
+to do motor -> .
+
+- Retirar a haste de sustentação do furo -> Fig. 174 e encaixá-la no suporte do fecho -> Fig. 174 .
+
+- Soltar a tampa do compartimento do motor de uma altura de aproximadamente 20 cm na região da trava do fecho – não pressionar!
+
+Se a tampa do compartimento do motor não se fechar, abrir a tampa novamente e fechá-la corretamente.
+
+A tampa do compartimento do motor fechada corretamente fica alinhada com as peças adjacentes da carroceria.
+
+[ATENÇÃO]
+
+Quando a tampa do compartimento do motor estiver aberta apoiada pela haste de sustentação não se apoiar ou aplicar esforço de fechamento na tampa, pois a haste será danificada e pode causar ferimentos graves.
+
+[ATENÇÃO]
+
+Uma tampa do compartimento do motor fechada incorretamente pode se abrir subitamente durante a condução e bloquear a vista para frente. Isto pode causar acidentes e ferimentos graves.
+
+- Após fechar a tampa do compartimento do motor, verificar se a trava engatou corretamente no fecho. A tampa do compartimento do motor deve estar alinhada com as peças adjacentes da carroceria.
+
+- Se for constatado durante a condução que a tampa do compartimento do motor não está fechada corretamente, parar imediatamente e fechar a tampa do compartimento do motor.
+
+- Abrir ou fechar a tampa do compartimento do motor somente se não houver ninguém em seu raio de abertura.
+
+[NOTA]
+
+Para evitar danos à tampa do compartimento do motor e aos braços dos limpadores dos vidros, somente abrir a tampa do compartimento do motor com os limpadores dos vidros rebatidos.
+
+Fig. 175 No display do instrumento combinado: tampa do compartimento do motor aberta ou fechada incorretamente (representação esquemática).
+
+Dependendo da versão do veículo, representação da tampa do compartimento do motor no display pode não estar disponível.
+
+Uma representação simbólica -> Fig. 175 no display do instrumento combinado indica que a tampa do compartimento de motor está aberta ou não fechada corretamente.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 173, Fig. 174, Fig. 175 no manual original.]

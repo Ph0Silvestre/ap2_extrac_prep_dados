@@ -1,0 +1,44 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Conduzir
+SEÇÃO: Transmissão automática (Parte 4/7)
+PÁGINAS MANUAL: 115-116 (PDF: 117-118)
+FIGURAS REFERENCIADAS: Fig. 92
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Com o modo kick-down, o aumento automático para a próxima marcha mais alta ocorre somente quando é atingida a rotação máxima prescrita do motor.
+
+[ATENÇÃO]
+
+Uma aceleração rápida pode ocasionar a perda de tração e derrapagens, principalmente em estradas escorregadias. Isto pode ocasionar a perda de controle do veículo, acidentes e ferimentos graves.
+
+- Adequar sempre a forma de condução ao fluxo do trânsito.
+
+- Utilizar o kick-down ou a aceleração rápida somente se as condições de visibilidade, do clima, da pista e do trânsito permitirem e os demais usuários da via não correrem risco causado pela aceleração do veículo e a forma de condução.
+
+[ATENÇÃO]
+
+Nunca deixar os freios “deslizarem” com frequência e por muito tempo ou acionar o pedal do freio com frequência e por muito tempo. Frenagens constantes causam superaquecimento dos freios. Isto pode diminuir bastante o desempenho de frenagem, aumentar a distância de frenagem e, sob certas circunstâncias, causar a falha total do sistema de freio.
+
+[NOTA]
+
+- Ao parar em aclives com uma posição de marcha engatada, não impedir a movimentação do veículo por meio do pedal do acelerador. Isto pode superaquecer e danificar a transmissão automática.
+
+- Nunca deixar o veículo rodar na posição da alavanca seletora N, especialmente com o motor desligado. A transmissão automática não é lubrificada e, por isso, pode ser danificada.
+
+[NOTA]
+
+- Nunca deixar os freios “deslizarem” com uma pressão leve no pedal se não for realmente necessário frear. Isto aumenta o desgaste.
+
+- Antes de percorrer um trecho mais longo em declives acentuados, diminuir a velocidade, mudar para uma marcha de recuperação mais adequada. Assim, é possível aproveitar o efeito de frenagem do acionamento elétrico e o freio é aliviado. Caso contrário, o freio pode se superaquecer e, possivelmente, falhar. Usar os freios somente se necessário para diminuir a velocidade ou parar.
+
+Soluções de problemas
+
+Fig. 92 Desinstalar a cobertura da alavanca seletora e destravar o bloqueio da alavanca seletora emergencialmente.
+
+As luzes de controle acendem.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 92 no manual original.]

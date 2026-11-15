@@ -1,0 +1,73 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Manutenção
+SEÇÃO: Serviço (Parte 3/4)
+PÁGINAS MANUAL: 259-260 (PDF: 261-262)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- São da responsabilidade do proprietário do veículo todos os custos com peças e mão de obra.
+
+- Em todas as verificações, as peças e os materiais são sempre analisados pela sua Concessionária Volkswagen, que o informará sobre uma eventual necessidade de substituição.
+
+- O nível do óleo do motor deverá ser controlado periodicamente -> Página 228.
+
+- Abastecer seu veículo com combustíveis de boa qualidade. O comportamento, rendimento e a longevidade do motor dependem, em grande parte, da qualidade do combustível -> Página 204.
+
+A Volkswagen recomenda utilizar o óleo MAXI PERFORMANCE® original Volkswagen (disponível nas Concessionárias Volkswagen).
+
+Para mais informações sobre óleo original Volkswagen, consultar o site www.vw.com.br.
+
+Escopos de serviço Dependendo do modelo/versão do veículo, alguns itens dos escopos de serviço podem não estar disponíveis e/ou não serem aplicados ao veículo.
+
+Os escopos de serviço incluem todos os itens de inspeção e itens de manutenção necessários para manter seu veículo seguro para a condução e para o trânsito (dependendo das condições de uso e dos equipamentos do veículo como, por exemplo, motor, transmissão ou fluidos). Os trabalhos de manutenção estão divididos em itens de inspeção e itens de manutenção. Você poderá consultar em detalhe quais atividades são necessárias na sua Concessionária Volkswagen.
+
+Itens de inspeção Sistema elétrico
+- Bateria: verificar
+
+- Buzina: verificar
+
+- Iluminação (interna e externa): verificar
+
+- Indicador do intervalo de serviço: zerar Motor/Transmissão
+
+- Correia Poly-V: verificar
+
+- Motor e componentes no compartimento do motor (partes superior e inferior): verificar
+
+- Sistema de arrefecimento: verificar
+
+- Sistema de escapamento: verificar
+
+- Transmissão e sistema de acionamento do eixo: verificar Chassi
+
+- Amortecedores/molas helicoidais: verificar
+
+- Coifas protetoras das articulações: verificar
+
+- Direção elétrica/hidráulica: verificar
+
+- Guias de articulação/barras de direção: verificar
+
+- Nível do fluido de freio: verificar
+
+- Pastilhas/discos de freio: verificar
+
+- Pneus: verificar
+
+- Pressão dos pneus em todas as rodas: verificar
+
+- Sistema de freios e amortecedores: verificar
+
+- Drenos de água: verificar
+
+- Palheta dos limpadores dos vidros: verificar
+
+- Para-brisa: verificar
+
+- Parte inferior do veículo: verificar
+
+- Sistema de limpadores e de lavadores dos vidros e faróis: verificar

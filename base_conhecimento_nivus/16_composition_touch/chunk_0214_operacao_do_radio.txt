@@ -1,0 +1,38 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Operação do rádio (Parte 9/14)
+PÁGINAS MANUAL: 164 (PDF: 166)
+FIGURAS REFERENCIADAS: Fig. 110
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Pesquisar a lista de títulos e pressionar no título pretendido. Se estiverem disponíveis informações sobre o título, são apresentados o número e o nome dos títulos ou os nomes dos arquivos (MP3) em vez de Título + nº 1). A lista de títulos pode não ser suportada pela fonte.
+
+Títulos, pastas e listas de reprodução também podem ser marcados, girando-se o botão de ajuste, e podem ser acessados e abertos pressionando-se o botão.
+
+Configurações específicas de mídia Abrir o menu Configurações de mídias No menu principal MEDIA, tocar na superfície de função .
+
+1) Em função da fonte.
+
+Introdução ao tema Alguns aparelhos externos podem ser conectados com o rádio através de ligações com e sem fios (se existirem) no veículo.
+
+O tipo e o número de ligações com e sem fios dependem do país e do veículo. Dentro de uma gama de modelos e em modelos especiais diferentes as ligações podem revelar diferenças.
+
+Utilizar nas ligações com fios exclusivamente os cabos originais do aparelho ou - se existirem - os cabos fornecidos de fábrica para o respectivo veículo.
+
+Entrada de cartão SD Na entrada de cartão SD -> Fig. 110 6 somente podem ser inseridos cartões SD com as dimensões de 32 mm x 24 mm x 2,1 mm (1,26 x 0,94 x 0,083 polegadas) ou 32 mm x 24 mm x 1,4 mm (1,26 x 0,94 x 0,055 polegadas).
+
+Somente são exibidos os arquivos de áudio suportados -> Página 160. Outros arquivos serão ignorados.
+
+| Ação | Efeito | | Área de função: efeito | |
+| --- | --- | --- | --- | --- |
+| Manter pressionada superfície de função | unidade de armazenamento de dados executada. Retrocesso rápido. | | Som: abre o menu Configurações do som -> Página 177. Mix/Repeat incl. subpastas: subpastas são incluídas no modo de reprodução selecionado -> Página 162. | |
+| < . | | | Bluetooth: abre o menu Configurações de Bluetooth. | |
+| Manter pressionada superfície de função > . | Avanço rápido. | | Remover: remover a unidade de dados (unidade de armazenamento de dados USB ou cartão SD) desejada do sistema. A respectiva superfície de | |
+| Tocar na superfície de função uma vez brevemente. | A reprodução é interrompida. A superfície de função muda para . | | função é desativada depois que a unidade de dados for removida do sistema com sucesso. | |
+| Tocar na superfície de função uma vez brevemente. | A reprodução é retomada. A superfície de função muda para . | | Conexões com e sem fios | |
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 110 no manual original.]

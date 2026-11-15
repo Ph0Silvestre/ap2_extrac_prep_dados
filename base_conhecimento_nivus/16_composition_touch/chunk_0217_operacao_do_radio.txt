@@ -1,0 +1,58 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Operação do rádio (Parte 12/14)
+PÁGINAS MANUAL: 166-167 (PDF: 168-169)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Unidade de armazenamento de dados ilegível Se uma unidade de armazenamento de dados é conectada e os dados não podem ser lidos, é exibida uma observação correspondente no display do aparelho.
+
+Se for conectado um Media Player externo ao mesmo tempo pelo Bluetooth® e pela entrada USB com o aparelho, a conexão de áudio do Bluetooth® é automaticamente separada após a troca para a entrada USB.
+
+Se um dispositivo conectado não for reconhecido, remover todas as conexões e reconectar os dispositivos novamente. Se necessário, verificar o funcionamento do cabo de conexão utilizado.
+
+Se houver falhas no funcionamento dos aparelhos conectados, reiniciar o respectivo aparelho. Normalmente isso soluciona o problema.
+
+Não utilizar nenhum adaptador de cartão de memória, cabo de extensão USB ou USB- Hubs (distribuidores USB)!
+
+Ler e observar o Manual de instruções do fabricante da unidade de armazenamento de dados externa.
+
+Conectar fonte de áudio externa na entrada multimídia AUX-IN Dependendo da versão e do modelo do veículo a entrada multimídia AUX-IN, pode não estar disponível.
+
+A entrada multimídia AUX-IN somente pode ser operada com um conector de 3,5 mm.
+
+A fonte de áudio externa conectada é reproduzida pelos alto-falantes do veículo e não pode ser controlada pelo aparelho.
+
+Uma fonte de áudio externa conectada é indicada por AUX no display.
+
+Conectar uma fonte de áudio externa à entrada multimídia AUX-IN
+- Reduzir o volume no rádio.
+
+- Conectar uma fonte de áudio externa à entrada multimídia AUX-IN.
+
+- Iniciar a reprodução na fonte áudio externa.
+
+- Pressionar o botão do rádio MEDIA , para visualizar o menu de seleção das fontes média disponíveis -> Página 181.
+
+- Pressionar o botão de função .
+
+O volume de reprodução da fonte de áudio externa deve ser ajustado ao volume das demais fontes de áudio.
+
+Particularidades na operação de uma fonte de áudio externa via entrada multimídia AUX-IN
+
+| Ação | Efeito | |
+| --- | --- | --- |
+| Seleção de outra fonte | A fonte de áudio exter- | |
+| de áudio no aparelho. | na continua em execução no fundo. | |
+| Encerrar a reprodução | O aparelho continua no | |
+| na fonte de áudio ex- | menu AUX. | |
+| terna. | | |
+| Remover o conector da | O aparelho continua no | |
+| entrada multimídia | menu AUX. | |
+| AUX-IN. | | |
+
+Se a reprodução for terminada na fonte áudio externa ou se for desligada da entrada multimídia AUX-IN, o rádio mantém-se no menu AUX.

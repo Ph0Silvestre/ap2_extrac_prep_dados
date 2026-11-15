@@ -1,0 +1,37 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Estacionar e manobrar
+SEÇÃO: Sistemas de assistência à frenagem (Parte 1/5)
+PÁGINAS MANUAL: 137-138 (PDF: 139-140)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Informações para os sistemas de assistência à frenagem O veículo está equipado com sistema de assistência à frenagem:
+- Sistema ESC: o ESC, EDS, ASR, BAS, ABS e EBV funcionam somente com o motor em funcionamento e contribuem significativamente para a segurança de uma condução ativa.
+
+Quando os sistemas de assistência à frenagem estão em funcionamento, o pedal do freio pode pulsar ou podem ocorrer ruídos. Manter a pressão necessária sobre o pedal do freio constantemente.
+
+Controle de tração (ASR) O ASR diminui a força de acionamento do motor no caso de escorregamento das rodas e ajusta a força à condição do acionamento e às condições da pista de rodagem. Com o ASR, o arranque, a aceleração e a subida são facilitadas, mesmo sob condições adversas da pista de rodagem.
+
+Quando o sistema de controle de tração está em funcionamento a luz de controle piscará no display do instrumento combinado.
+
+Programa eletrônico de estabilidade (ESC) O ESC ajuda a reduzir o risco de derrapagem e melhorar a estabilidade de condução em determinadas situações de condução -> .
+
+Em marcha è ré, o sistema ESC pode limitar a velocidade para garantir a estabilidade do veículo.
+
+Quando o ESC está regulando, a luz de controle piscará no display do instrumento combinado.
+
+No ESC, os sistemas ABS, BAS, ASR e o EDS estão integrados. O ESC permanece sempre acionado. Se em algumas situações de condução não for mais atingida a propulsão suficiente, o ASR pode ser desligado através do rádio -> Página 29. Em seguida, ligar o ASR novamente -> Página 139.
+
+Sistema antibloqueio do freio (ABS) O ABS pode impedir um travamento das rodas em frenagens até pouco antes da parada do veículo e apoia o condutor a conduzir e a manter o controle do veículo. Isto significa que o veículo tem pouca tendência a derrapar mesmo em uma frenagem total:
+
+- Pisar fortemente no pedal do freio e mantê-lo pressionado. Não retirar o pé do pedal do freio ou diminuir a força sobre o pedal do freio!
+
+- Não “bombear” com o pedal do freio ou diminuir a pressão sobre o pedal do freio!
+
+- Conduzir o veículo enquanto o pedal do freio é pisado fortemente.
+
+- Ao soltar o pedal do freio ou ao reduzir a força sobre o pedal do freio, o ABS desliga-se.

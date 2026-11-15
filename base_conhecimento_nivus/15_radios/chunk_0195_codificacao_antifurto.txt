@@ -1,0 +1,16 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rádios
+SEÇÃO: Codificação antifurto (Parte 1/1)
+PÁGINAS MANUAL: 148 (PDF: 150)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+O rádio está protegido contra roubo e uso não autorizado por meio de um código de segurança (codificação antifurto).
+
+Após a primeira introdução do número do código antifurto, esse número é guardado na memória do veículo (codificação de conforto do rádio). Se for necessário desativar manualmente a codificação antifurto como, por exemplo, ao instalar o rádio em um outro veículo, procurar uma Concessionária Volkswagen.
+
+Caso a bateria do veículo tenha sido desconectada, ligar a ignição antes de ligar o aparelho de rádio.

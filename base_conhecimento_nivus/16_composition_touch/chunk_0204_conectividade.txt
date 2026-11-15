@@ -1,0 +1,51 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Conectividade (Parte 3/4)
+PÁGINAS MANUAL: 154-155 (PDF: 156-157)
+FIGURAS REFERENCIADAS: Fig. 117, Fig. 118
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Informações sobre as premissas técnicas, os aparelhos finais compatíveis, os aplicativos aplicáveis e a disponibilidade estão disponíveis através do www.vw.com.br/conectividade ou nas Concessionárias Volkswagen.
+
+- Ou ainda para mais informações consultar o manual de instruções do aparelho móvel utilizado.
+
+Fig. 117 Escolha do aparelho móvel.
+
+Fig. 118 Menu Android Auto™.
+
+Requisitos Android Auto™ Para utilizar o Android Auto™ precisam ser atendidas as seguintes premissas: O aparelho móvel precisa suportar o Android Auto™. O aparelho móvel precisa ser conectado ao aparelho com um cabo USB. O cabo USB utilizado precisa ser um cabo original do fabricante do smartphone. Dependendo do aparelho móvel utilizado, precisa ser instalado um aplicativo adequado para utilizar o Android Auto™ no aparelho.
+
+Estabelecer conexão Quando um aparelho móvel é conectado pela primeira vez, seguir as instruções no display do rádio e no display do aparelho móvel.
+
+- Pressionar o botão APP .
+
+- Selecione o seu aparelho conectado pressionado sobre o ícone correspondente.
+
+Desligar conexão
+- Na operação do Android Auto™, tocar na superfície de função , -> Fig. 118 1 .
+
+- Selecionar a função Retornar a Volkswagen para acessar o menu principal App-Connect.
+
+Particularidades Durante uma conexão Android Auto™ ativa, são válidas as seguintes particularidades:
+
+- Um aparelho Android Auto™ ativo pode estar simultaneamente conectado com o rádio por Bluetooth.
+
+- Conexões por Bluetooth entre outros aparelhos móveis e o rádio não são possíveis.
+
+- Funções de telefone são possíveis através do Android Auto™. Se o aparelho Android Auto™ estiver conectado simultaneamente por Bluetooth com o aparelho, a função de telefone também pode ser utilizada.
+
+- Chamadas telefônicas simultâneas por Android Auto™ e pelo rádio não são possíveis.
+
+- Um aparelho Android Auto™ ativo não pode ser utilizado como dispositivo de mídia no menu Media.
+
+Comando de voz Dependendo da versão e do modelo do veículo o comando de voz pode não estar disponível.
+
+- Pressionar, no volante multifunções ou no telefone móvel, VOICE ou brevemente para iniciar o comando de voz do rádio.
+
+- Pressionar, no volante multifunções ou no telefone móvel, VOICE ou por alguns segundos para iniciar o comando de voz do aparelho final conectado.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 117, Fig. 118 no manual original.]

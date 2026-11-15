@@ -1,0 +1,42 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Segurança
+SEÇÃO: Sistema de airbag (Parte 7/11)
+PÁGINAS MANUAL: 48-49 (PDF: 50-51)
+FIGURAS REFERENCIADAS: Fig. 34, Fig. 35
+ALERTAS PRESENTES: ATENÇÃO, PERIGO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+O airbag frontal do condutor se encontra no volante -> Fig. 34 e o airbag frontal do passageiro dianteiro no painel de instrumentos -> Fig. 35. Os locais de instalação dos airbags estão identificados pela inscrição “AIRBAG”.
+
+As áreas destacadas em vermelho -> Fig. 34 e -> Fig. 35 são cobertas pelos airbags frontais acionados (área de expansão). Por esse motivo, nunca podem ser colocados ou fixados objetos nessas áreas -> .
+
+Na insuflação dos airbags frontais do condutor e do passageiro dianteiro, as coberturas dos airbags são rebatidas para fora do volante -> Fig. 34 e do painel de instrumentos -> Fig. 35. As coberturas dos airbags permanecem ligadas ao volante e ao painel de instrumentos.
+
+[PERIGO]
+
+A inflação de um airbag acionado ocorre em frações de segundos e com velocidade muito alta.
+
+- Deixar as áreas de expansão dos airbags frontais sempre livres.
+
+- Nunca fixar objetos nas coberturas, bem como na área de expansão dos módulos dos airbags, como, por exemplo, porta-copos, suportes para telefones celulares, GPS, etc.
+
+- Pessoas, animais ou objetos não devem ser colocados entre os ocupantes dos bancos dianteiros e a área de expansão do airbag.
+
+- Não fixar objetos, como por exemplo, aparelhos móveis de navegação, no para-brisa acima do airbag frontal do passageiro dianteiro.
+
+- Não colar, revestir, alterar ou colocar qualquer material sobre a superfície do centro do volante (acionador de buzina) e da superfície do módulo do airbag frontal do passageiro dianteiro no painel de instrumentos.
+
+[ATENÇÃO]
+
+Os airbags frontais se inflam diante do volante -> Fig. 34 e do painel de instrumentos -> Fig. 35.
+
+- Segurar o volante durante a condução sempre com as duas mãos lateralmente na borda externa: posição das 9h e 3h.
+
+- Ajustar o banco do condutor de modo que haja no mínimo 25 cm de espaço entre o tórax e o centro do volante. Se esta exigência não puder ser atendida em razão de particularidades físicas, entrar em contato obrigatoriamente com uma Concessionária Volkswagen para eventualmente efetuar instalações especiais.
+
+- Ajustar o banco do passageiro dianteiro de modo que exista a maior distância possível entre o passageiro e o painel de instrumentos.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 34, Fig. 35 no manual original.]

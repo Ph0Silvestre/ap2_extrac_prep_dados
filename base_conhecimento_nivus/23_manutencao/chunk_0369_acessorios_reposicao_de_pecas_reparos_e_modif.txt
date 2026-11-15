@@ -1,0 +1,32 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Manutenção
+SEÇÃO: Acessórios, reposição de peças, reparos e modificações (Parte 1/9)
+PÁGINAS MANUAL: 270 (PDF: 272)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Acessórios e peças de reposição A Volkswagen recomenda que você se informe em uma Concessionária Volkswagen antes da compra de acessórios, peças de reposição ou recursos. Por exemplo, se o veículo precisar ser equipado com acessórios ou se for necessário substituir peças. A Concessionária Volkswagen assessora em questões regulatórias e recomendações de fábrica a respeito de acessórios, peças de reposição e recursos.
+
+A Volkswagen recomenda que apenas Acessórios Volkswagen e Peças Originais Volkswagen sejam utilizados. Para isso, a Volkswagen tem estabelecido credibilidade, segurança e qualificação. Além disso, uma Concessionária Volkswagen está qualificada para uma instalação profissional.
+
+Apesar do monitoramento constante do mercado, produtos não liberados pela Volkswagen não podem ser avaliados pela Volkswagen no tocante à credibilidade, segurança e qualificação para uso no veículo. Por esse motivo, a Volkswagen também não se responsabiliza, mesmo em casos em que haja uma aprovação por uma associação técnica de testes e de fiscalização oficialmente reconhecida, ou uma aprovação por um órgão oficial.
+
+Reparos e modificações realizados de forma inadequada no veículo podem comprometer a eficácia dos airbags, bem como causar falhas de funcionamento, acidentes e ferimentos fatais.
+
+- Jamais colocar, montar ou acoplar objetos tais como porta-copos, suporte de telefone móvel e GPS (sistema de posicionamento global) ao lado ou sobre as coberturas dos módulos do airbag ou nas áreas de expansão do airbag.
+
+- Objetos colocados, montados ou acoplados dentro da área de expansão dos airbags poderão causar ferimentos graves ou fatais se os airbags forem acionados.
+
+[ATENÇÃO]
+
+Peças de reposição e acessórios inadequados, bem como trabalhos, modificações e reparos realizados de maneira incorreta podem causar danos no veículo, acidentes e ferimentos graves.
+
+- A Volkswagen recomenda que apenas acessórios liberados pela Volkswagen e peças originais Volkswagen sejam utilizados. Para isso, a Volkswagen tem estabelecido credibilidade, segurança e qualificação.
+
+- Reparos e modificações no veículo devem ser realizados somente por uma Concessionária Volkswagen. As Concessionárias Volkswagen possuem as ferramentas necessárias, aparelhos de diagnóstico, informações de reparo e pessoal qualificado.
+
+- Instalar apenas peças que correspondam à versão e às características originais de fábrica do veículo.

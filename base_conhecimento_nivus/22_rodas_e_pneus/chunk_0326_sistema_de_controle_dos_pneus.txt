@@ -1,0 +1,49 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rodas e pneus
+SEÇÃO: Sistema de controle dos pneus (Parte 1/4)
+PÁGINAS MANUAL: 240-241 (PDF: 242-243)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Introdução ao tema O sistema de controle dos pneus alerta o condutor quanto à pressão muito baixa dos pneus.
+
+Dependendo da versão do veículo, o sistema de controle dos pneus pode não estar disponível.
+
+[ATENÇÃO]
+
+A tecnologia inteligente do sistema de controle dos pneus não pode ir além dos limites impostos pela física e funciona somente dentro dos limites do sistema. O uso inadequado das rodas e dos pneus pode ocasionar a perda de pressão súbita dos pneus, o descolamento da banda de rodagem dos pneus e até fazer com que os pneus estourem.
+
+- Verificar regularmente a pressão dos pneus e manter sempre o valor indicado para a pressão dos pneus -> Página 246. Se a pressão do pneu for muito baixa, o pneu pode se aquecer tanto que a banda de rodagem pode se soltar e o pneu estourar.
+
+- Com os pneus frios calibrar sempre a pressão, conforme indicado na etiqueta adesiva -> Página 246.
+
+- Verificar regularmente a pressão com o pneu frio. Se necessário, calibrar os pneus montados no carro a frio de acordo com os dados indicados na etiqueta -> Página 246.
+
+- Verificar os pneus regularmente, procurando sinais de desgaste e de danos.
+
+- Nunca exceder a velocidade máxima e a capacidade de carga permitidas para os pneus montados.
+
+Uma pressão dos pneus muito baixa aumenta o consumo de combustível e o desgaste do pneu.
+
+Ao conduzir pela primeira vez com pneus novos em alta velocidade, eles podem se expandir um pouco e, assim, pode ser emitido um único alerta de pressão dos pneus.
+
+Substituir pneus velhos somente por pneus liberados pela Volkswagen para o respectivo modelo de veículo.
+
+Não confiar apenas no sistema de controle dos pneus. Verificar regularmente os pneus para se assegurar de que a pressão dos pneus está correta e de que os pneus não têm sinal de danos, como, por exemplo, furos, cortes, rachaduras ou bolhas. Remover corpos estranhos do perfil do pneu antes que eles penetrem no interior do pneu.
+
+Indicador de controle dos pneus
+
+Observe no início desse capítulo na página 240.
+
+Descrição de funcionamento O indicador de controle dos pneus compara, com a ajuda dos sensores do ABS, a rotação e, consequentemente, o diâmetro de rolamento de cada uma das rodas, entre outras coisas.
+
+O diâmetro de rolamento do pneu pode se alterar:
+- Se a pressão dos pneus tiver sido alterada.
+
+- Se a pressão dos pneus estiver muito baixa.
+
+- Se o pneu tiver danos estruturais.

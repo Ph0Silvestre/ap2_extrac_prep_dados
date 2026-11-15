@@ -1,0 +1,45 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Sistemas de assistência ao condutor
+SEÇÃO: Sistema regulador de velocidade (GRA) (Parte 2/2)
+PÁGINAS MANUAL: 120 (PDF: 122)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Iniciar a regulagem
+- Durante a condução, pressionar o botão .
+
+A velocidade atual é salva e regulada. Adicionalmente, a luz de controle verde se acende .
+
+Ajustar a velocidade A velocidade salva pode ser ajustada enquanto o GRA está regulando:
+
++ 1 km/h
+- 1 km/h + 10 km/h
+- 10 km/h Para alterar continuamente a velocidade salva, manter pressionado o botão ou . O veículo ajusta a velocidade atual, acelerando ou desacelerando. O veículo não freia de modo ativo.
+
+Interromper a regulagem
+- Pressionar brevemente o botão ou . Como alternativa, pisar no pedal do freio.
+
+A velocidade permanece salva.
+
+A velocidade armazenada é retomada e regulada.
+
+Desligar
+- Pressionar o botão por alguns instantes.
+
+O GRA será desligado e a velocidade salva, apagada.
+
+Soluções de problemas
+
+Observe no início desse capítulo na página 119. Avaria no GRA
+- A Volkswagen recomenda procurar uma Concessionária Volkswagen A regulagem é interrompida automaticamente.
+
+Diversas causas são possíveis:
+- O condutor pisou no pedal do freio.
+
+- O veículo ultrapassou por um tempo mais longo a velocidade memorizada.
+
+- Falha de funcionamento. Desligar o GRA e procurar uma Concessionária Volkswagen.

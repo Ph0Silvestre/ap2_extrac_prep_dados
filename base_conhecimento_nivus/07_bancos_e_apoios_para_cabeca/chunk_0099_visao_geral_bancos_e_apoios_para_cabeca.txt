@@ -1,0 +1,26 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Bancos e apoios para cabeça
+SEÇÃO: Visão Geral - Bancos e apoios para cabeça (Parte 1/1)
+PÁGINAS MANUAL: 79 (PDF: 81)
+FIGURAS REFERENCIADAS: Fig. 62
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Empurrar a alavanca 1 sempre pelo manípulo com firmeza para cima após o ajuste, para travar a posição do volante.
+
+- Nunca ajustar o volante durante a condução. Se, durante a condução, for constatado que é necessário um ajuste, parar o veículo de forma segura para então ajustar a posição do volante.
+
+- A não observância dos cuidados acima citados compromete o movimento de giro do volante pelo condutor.
+
+- O volante deve ser posicionado na direção do tórax (e não na direção do rosto), para maximizar a eficiência da proteção oriunda do airbag em caso de acidente.
+
+- Durante a condução, sempre segurar o volante com ambas as mãos lateralmente na borda externa nas posições de 9h e 3h -> Fig. 62, para reduzir ferimentos causados por um acionamento do airbag frontal do condutor.
+
+- Nunca segurar o volante na posição 12h ou outras posições em que os braços fiquem sobre o airbag, pois no caso de acidente braços e mãos podem ser feridos devido a deflagração do airbag.
+
+- A não observância dos cuidados acima citados influem diretamente na proteção do condutor em caso de colisão frontal do veículo.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 62 no manual original.]

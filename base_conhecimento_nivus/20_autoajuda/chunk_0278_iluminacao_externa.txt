@@ -1,0 +1,40 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Autoajuda
+SEÇÃO: Iluminação externa (Parte 1/6)
+PÁGINAS MANUAL: 208 (PDF: 210)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Introdução ao tema Antes da troca de uma lâmpada incandescente, verifique se é uma lâmpada incandescente ou uma lanterna de LED que queimou. Quando a iluminação externa, conforme versão e modelo, for de tecnologia LED, a troca das lanternas de LED ou dos LEDs individuais por você mesmo não é possível. A queima de LEDs individuais pode ser uma indicação para a possível ocorrência de queima de outros LEDs. Neste caso, as lanternas devem ser verificadas e, se necessário, trocadas por uma Concessionária Volkswagen.
+
+A troca de uma lâmpada incandescente requer aptidão profissional. Por isso, em caso de dúvidas, a Volkswagen recomenda que uma troca de lâmpada incandescente seja feita por uma Concessionária Volkswagen ou procurar uma empresa especializada. Em princípio, é necessário um técnico quando, além das respectivas lâmpadas, outras peças do veículo tiverem que ser removidas.
+
+É recomendável levar uma caixinha sempre a bordo do veículo, com as lâmpadas de reposição necessárias para a segurança do trânsito. Lâmpadas incandescentes de reposição podem ser encontradas nas Concessionárias Volkswagen.
+
+A condução com dispositivos de iluminação ex-terna queimados pode ser ilegal.
+
+Especificações adicionais de lâmpadas incandescentes Algumas lâmpadas incandescentes podem apresentar determinadas especificações de fábrica que divergem das lâmpadas incandescentes convencionais. A respectiva designação consta no soquete da lâmpada ou no bulbo de vidro.
+
+Lâmpadas de LED no veículo As lanternas e o farol que utilizam LED (Light Emitting Diode) possuem vida útil longa e não necessitam de trocas frequentes.
+
+A Volkswagen recomenda que a troca das lanternas e farol que utilizem LED seja feita em uma Concessionária Volkswagen.
+
+As lanternas do veículo que utilizam LED estão relacionadas a seguir:
+
+- Farol dianteiro.
+
+- Indicador de direção lateral: localizados nos espelhos retrovisores externos.
+
+- Lanterna de freio elevada (brake light): localizada na tampa traseira, acima do vidro traseiro, no lado externo do veículo.
+
+- Luz de condução diurna: localizada no farol de neblina ou localizada no farol dianteiro (dependendo da versão do veículo pode não estar disponível).
+
+- Lanterna traseira.
+
+[ATENÇÃO]
+
+A condução com lâmpadas incandescentes queimadas, além de irregular, gera um potencial risco de acidentes. Eventuais lâmpadas incandescentes queimadas devem ser substituídas o mais breve possível.

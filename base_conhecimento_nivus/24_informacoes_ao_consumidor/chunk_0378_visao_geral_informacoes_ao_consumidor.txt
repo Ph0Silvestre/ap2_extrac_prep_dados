@@ -1,0 +1,20 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Informações ao consumidor
+SEÇÃO: Visão Geral - Informações ao consumidor (Parte 1/1)
+PÁGINAS MANUAL: 276 (PDF: 278)
+FIGURAS REFERENCIADAS: Fig. 195
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+A umidade pode danificar a entrada do carregador USB do suporte para telefone celular no painel de instrumentos.
+
+- Limpar a seco o suporte para telefone celular. Utilizar um pano seco.
+
+A Volkswagen recomenda sempre levar consigo o telefone celular ao sair do veículo.
+
+O suporte para telefone celular tem garantia de 3 anos, com exceção da haste deslizante (garra) -> Fig. 195 4 que tem garantia de 1 ano.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 195 no manual original.]

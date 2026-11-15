@@ -1,0 +1,46 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: VW Play
+SEÇÃO: Apple CarPlay™ (Parte 1/1)
+PÁGINAS MANUAL: 184-185 (PDF: 186-187)
+FIGURAS REFERENCIADAS: Fig. 146
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Menu Apple CarPlay™
+
+Fig. 146 Menu Apple CarPlay™.
+
+Estabelecer conexão Para utilizar o Apple CarPlay™ o dispositivo móvel precisa suportar o Apple CarPlay™.
+
+É possível conectar via Bluetooth® ou através do cabo USB, dependendo da versão do aparelho móvel.
+
+Quando um dispositivo móvel é conectado pela primeira vez, seguir as instruções no display do rádio e no display do dispositivo móvel.
+
+Confirmar no aparelho móvel e no display do rádio a utilização do Apple CarPlay™.
+
+cabo USB.
+
+- Para conexões via Bluetooth® ou através do wireless seguir as instruções do seu smartphone.
+
+- É possível terminar a conexão do Apple CarPlay™ Wireless reconectando a conexão Wi-Fi -> Página 183.
+
+Particularidades Durante uma conexão Apple CarPlay™ ativa, são válidas as seguintes particularidades:
+
+- Se conectado através do cabo USB, as conexões por Bluetooth entre dispositivos móveis e o rádio não são possíveis.
+
+- Funções de telefone são possíveis através do Apple CarPlay™ e através da função de telefone do rádio.
+
+- Se conectado através do wireless Apple CarPlay™ a conexão Wi-Fi fica indisponível.
+
+- Com o veículo em movimento as funções do Apple CarPlay™ podem sofrer restrições.
+
+- Um aparelho Apple CarPlay™ ativo pode ser utilizado como dispositivo de mídia no menu Media.
+
+- No display do instrumento combinado, não ocorre a exibição de rotas de navegação.
+
+- Para mais informações consultar o manual de instruções do aparelho móvel utilizado.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 146 no manual original.]

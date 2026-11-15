@@ -1,0 +1,52 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Abreviaturas e Índice remissivo
+SEÇÃO: Visão Geral - Abreviaturas e Índice remissivo (Parte 8/18)
+PÁGINAS MANUAL: 294 (PDF: 296)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+| Escopos de serviço 259 | Farol |
+| --- | --- |
+| Espelho | lavadores 91 |
+| área que não é vista 92 | viagens internacionais 88 |
+| ponto cego 92 | Farol baixo 85 |
+| Espelho retrovisor interno 93 | Farol de conversão 87 |
+| Espelhos retrovisores 92, 93 | com marcha a ré engatada 87 |
+| dobrar 95 | Farol de neblina 86 |
+| espelho retrovisor interno 93 | Favoritos (botões de discagem rápida) 175 |
+| externos 94 rebatimento do espelho retrovisor externo di- | Fechamento de conforto vidros elétricos 76 |
+| reito 94 | Fechamento de emergência |
+| Espelhos retrovisores externos 94 | porta do passageiro dianteiro 71 |
+| conduzir com um reboque 195 | portas traseiras 71 |
+| conservação do veículo 263 falha de funcionamento 95 memorizar para marcha a ré 94 rebater 94 | Fechamento ou abertura de emergência destravar emergencialmente a alavanca seletora 116 porta do condutor 70 |
+| ESS - Emergency Stop Signal 62 | tampa traseira 76 |
+| Estação | Fechar |
+| busca automática (SCAN) 159 busca por estação 159 | portas 68 tampa do tanque de combustível 201 |
+| Estacionar 131 | vidros 76 |
+| Estacionar e manobrar 131 | Ferramenta |
+| Estilo de condução econômico 102 | consultar ferramentas de bordo 205 |
+| Etanol 201 indicador do nível de combustível 20 | Ferramentas de bordo 205 acesso às ferramentas 205 |
+| Etiqueta de dados do veículo 282 | acomodação 205 |
+| Etiqueta de identificação 282 | componentes 206 |
+| Etiquetas adesivas 279 | Filtro de carvão ativado 203 |
+| Exterior | Filtro de poeira 100 |
+| permanência mais prolongada com o veícu- | Filtro de pólen 100 |
+| lo 107 | Filtro de poluentes 100 |
+| venda do veículo 107 | Fixação com ISOFIX |
+| Extintor de incêndio 63 | cadeira de criança 57 |
+| | Fixação com LATCH 57 |
+| F | Fluido de freio 234 |
+| Fader 177 | especificação 234 |
+| Faixa de frequências AM 157 | Fluidos 225 FM 157, 287 |
+| FM 157 | Fone de ouvido 280 |
+| selecionar 157 | Fonte de áudio externa |
+| trocar 157 | adaptar o volume de reprodução 178 |
+| Falha de funcionamento | Fontes áudio externas |
+| ar-condicionado 100 | Ligação USB 165 |
+| auxílio ao estacionamento 133 catalisador 204 espelhos retrovisores externos elétricos 95 | Fontes de áudio externas áudio Bluetooth 167 entrada multimídia AUX-IN 166 |
+| imobilizador 112 recepção do rádio 279 sensor de chuva 91 sistema de controle dos pneus 241 sistema de reconhecimento de cansaço 25 vidros elétricos 77 | Freio ajustar pastilhas de freio 104 fluido de freio 234 freio de estacionamento 132 indicador de frenagem de emergência 62 pastilhas de freio 104 |
+| Falha de uma lâmpada incandescente ver iluminação externa 208 | servofreio 105 |

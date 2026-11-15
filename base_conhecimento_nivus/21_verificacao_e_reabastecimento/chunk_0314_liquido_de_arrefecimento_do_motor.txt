@@ -1,0 +1,31 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: Líquido de arrefecimento do motor (Parte 5/5)
+PÁGINAS MANUAL: 233-234 (PDF: 235-236)
+FIGURAS REFERENCIADAS: Fig. 179
+ALERTAS PRESENTES: NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Quando o motor tiver esfriado, deve-se atentar ao seguinte antes de abrir a tampa do compartimento do motor:
+- Puxar o freio de estacionamento e colocar a alavanca seletora na posição P .
+- Desligar a ignição e retirar a chave do veículo do cilindro da ignição.
+- Manter crianças sempre longe do compartimento do motor e sob a supervisão de adultos.
+
+- Com o motor quente, o sistema de arrefecimento do motor está sob pressão. Nunca abrir a tampa do reservatório do líquido de arrefecimento do motor com o motor quente. Caso isso seja feito, o líquido de arrefecimento pode respingar e causar queimaduras e ferimentos graves.
+- Girar a tampa lentamente e com muito cuidado no sentido anti-horário enquanto pressiona a tampa levemente para baixo.
+- Proteger sempre o rosto, as mãos e os braços do líquido de arrefecimento do motor quente ou do vapor com um pano grande e espesso.
+
+- Ao reabastecer, não derramar fluidos sobre partes do motor ou sobre o sistema de escape. Os fluidos derramados podem causar incêndios. Em certas circunstâncias o etilenoglicol do líquido de arrefecimento do motor pode pegar fogo.
+
+[NOTA]
+
+- Completar com líquido de arrefecimento do motor somente até a borda superior da faixa marcada -> Fig. 179. Caso contrário, ao aquecer-se, o líquido excedente será expulso do sistema de arrefecimento do motor e poderá causar danos.
+
+- Em caso de maiores perdas de líquido de arrefecimento do motor, completar com líquido de arrefecimento somente com o motor totalmente resfriado. Atribuem-se maiores perdas de líquido de arrefecimento do motor a vazamentos do sistema de arrefecimento. O sistema de arrefecimento do motor deve ser verificado por uma Concessionária Volkswagen. Caso contrário, podem ocorrer danos ao motor!
+
+- Ao reabastecer com fluidos, certificar-se de que o reservatório correto está sendo preenchido. A utilização de fluidos incorretos pode resultar em falhas de funcionamento graves e danos ao motor!
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 179 no manual original.]

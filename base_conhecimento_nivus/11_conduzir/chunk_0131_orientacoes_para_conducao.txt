@@ -1,0 +1,45 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Conduzir
+SEÇÃO: Orientações para condução (Parte 3/16)
+PÁGINAS MANUAL: 103 (PDF: 105)
+FIGURAS REFERENCIADAS: Fig. 85
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Conduzir preventivamente e “acompanhar” o trânsito Frenagens e acelerações frequentes aumentam o consumo de combustível. Uma condução preventiva com uma distância suficiente do veículo à frente pode ser compensada somente pela desaceleração das variações de velocidade. Uma frenagem ativa e uma aceleração não são, então, obrigatoriamente necessárias.
+
+Conduzir com tranquilidade e com regularidade Mais importante do que a velocidade é a constância. Quanto mais regularmente se conduz, menor é o consumo de combustível.
+
+Em condução na estrada, uma velocidade constante e moderada é mais eficiente do que acelerações e frenagens permanentes. Via de regra, chega-se ao destino tão rápido quanto com uma forma de condução constante.
+
+Aplicar consumidores adicionais de forma moderada O conforto do veículo é bom e importante, porém deve ser usado com consciência ecológica.
+
+Assim, alguns equipamentos ligados aumentam o consumo de combustível (exemplos):
+
+- Sistema de refrigeração do ar-condicionado:
+
+quando o ar-condicionado precisar gerar uma diferença muito grande de temperatura, ele precisará de muita energia que é gerada pelo motor. Por esse motivo, a diferença de temperatura no veículo não deve ser demasiadamente grande com relação à temperatura externa. Pode ser útil ventilar o veículo antes do início da condução e depois conduzir com os vidros abertos por um trecho curto. Somente então ligar o ar-condicionado com os vidros fechados.
+
+- Manter os vidros fechados em altas velocidades. Vidros abertos aumentam o consumo de combustível.
+
+- Desligar o desembaçador do vidro traseiro quando o vidro estiver desembaçado.
+
+Outros fatores que aumentam o consumo de combustível (exemplos):
+- Unidade de controle do motor avariada.
+
+- Condução em região montanhosa.
+
+- Condução com um reboque.
+
+Evitar trechos curtos O motor frio consome nitidamente mais combustível imediatamente após a partida. Somente após alguns quilômetros o motor está devidamente aquecido e o consumo de combustível é normalizado.
+
+Para reduzir o consumo de combustível e a emissão de poluentes de forma eficaz, o motor e o catalisador devem ter atingido sua temperatura de serviço ideal. Nesse aspecto, a temperatura ambiente também é decisiva.
+
+A -> Fig. 85 mostra a variação de consumo de combustível para o mesmo percurso, a +20 °C e a -10 °C.
+
+Por esse motivo, evitar trechos curtos supérfluos e agrupar caminhos.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 85 no manual original.]

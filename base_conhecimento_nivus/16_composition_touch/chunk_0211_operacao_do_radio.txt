@@ -1,0 +1,52 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Operação do rádio (Parte 6/14)
+PÁGINAS MANUAL: 161-162 (PDF: 163-164)
+FIGURAS REFERENCIADAS: Fig. 127
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Cartões de memória SDHC de até no máximo 64 GB no sistema de arquivos FAT16, FAT32 e exFAT. Cartões de memória SDHC de até no máximo 256 GB no sistema de arquivos FAT16, FAT32 e exFAT. Unidade de armazenamento de dados USB especificada de acordo com USB 1.X, 2.0, 3.0 no sistema de arquivos FAT16, FAT32 e exFAT. iPods™, iPads™ e iPhones™ de diferentes geraçõesa) ( Somente com conector Apple Dock ou conector Lightning).
+
+a) iPod™, iPad™ e iPhone™ são marcas protegidas da Apple Inc.
+
+Não utilizar adaptadores de cartões SD.
+
+O cartão SD com os dados de navegação não pode ser usado como armazenamento para outros arquivos, os arquivos salvos não são reconhecidos pelo rádio.
+
+Não são de responsabilidade da Volkswagen arquivos danificados ou perdidos nas mídias de dados.
+
+Sequência de reprodução de unidades de armazenamento de dados de áudio
+
+Fig. 127 Possível estrutura de uma unidade de ar-mazenamento de dados.
+
+| Fonte de mídia | Premissas para reprodução |
+| --- | --- |
+| Reprodução de fontes de áudio externas por meio da entrada USB. | – Unidade de armazenamento de dados externa no USB -> Página 165. |
+| Reprodução de arquivos de áudio via Bluetooth®. Reprodução de fontes de áudio externas pelo | – Media Player externo deve suportar o perfil Bluetooth® A2DP -> Página 169. – Conector macho de 3,5 mm conectável para |
+| AUX-IN. | a reprodução de áudio -> Página 166. |
+
+Em uma unidade de armazenamento de dados, arquivos de áudio são separados frequentemente por pastas de dados e playlists , para assim definir uma determinada sequência de reprodução .
+
+As faixas, pastas e listas de reprodução são classificadas em ordem numérica e alfabética de acordo com o nome na unidade de armazenamento de dados.
+
+A figura -> Fig. 127 mostra, por exemplo, uma unidade de armazenamento de dados que contém faixas , pastas e subpastas..
+
+As faixas e as pastas desta unidade de armazenamento de dados são, portanto, executadas e exibidas na seguinte sequência1):
+
+1. 2.
+
+Título 1 e 2 no diretório principal (Root). Título 3 e 4 na primeira pasta F1 no diretório principal (indicação: 01). Título 5 na primeira subpasta F1.1 da pasta F1 (exibição: 02). Título 6 na primeira subpasta F1.1.1 da subpasta F1.1 (exibição: 03). Título 7 na segunda subpasta F1.2 da pasta F1 (exibição: 04). Título 8 e 9 na segunda pasta F2 (exibição: 05).
+
+3.
+
+4.
+
+5.
+
+6.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 127 no manual original.]

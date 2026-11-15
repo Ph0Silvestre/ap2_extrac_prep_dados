@@ -1,0 +1,52 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Conduzir
+SEÇÃO: Orientações para condução (Parte 14/16)
+PÁGINAS MANUAL: 110-111 (PDF: 112-113)
+FIGURAS REFERENCIADAS: Fig. 86, Fig. 87
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Nunca ligar o motor ou deixá-lo funcionando em locais fechados ou sem ventilação. O sistema de escape do motor contêm, entre outros, monóxido de carbono, um gás tóxico inodoro e incolor. O monóxido de carbono pode causar desmaios e morte.
+
+- Nunca deixar o veículo com o motor em funcionamento sem a devida atenção. O veículo poderia se deslocar subitamente ou um evento incomum poderia ocorrer, causando danos e ferimentos graves.
+
+- Nunca utilizar um acelerador de partida. Um acelerador de partida pode explodir ou causar um súbito aumento da rotação do motor.
+
+[ATENÇÃO]
+
+Nunca sair do veículo com o motor em funcionamento. O veículo pode deslocar-se subitamente e, especialmente com a respectiva posição de marcha engatada, causar acidentes e ferimentos graves.
+
+[NOTA]
+
+- O motor de partida ou o motor podem ser danificados ao tentar ligar o motor durante a condução ou quando o motor for acionado novamente imediatamente após ser desligado.
+
+- Com o motor frio, evitar rotações do motor elevadas, aceleração total e forte demanda do motor.
+
+- Não empurrar ou puxar o veículo para dar partida no motor. O combustível não queimado pode danificar o catalisador.
+
+Não deixar o motor aquecer com o veículo parado. Colocar o veículo em movimento imediatamente quando houver boa visibilidade através dos vidros, com cuidado para não forçar o motor enquanto estiver frio. Desta forma, o motor atinge sua temperatura de trabalho mais rapidamente e gera menos emissões.
+
+Ao ligar o motor, os consumidores elétricos maiores são desligados temporariamente.
+
+Após ligar um motor frio, podem ocorrer ruídos mais fortes de funcionamento por um curto período. Isto é normal e não deve causar preocupação.
+
+Desligar o motor
+
+- Parar o veículo completamente -> .
+
+- Veículos com cilindro da ignição: girar a chave do veículo no cilindro da ignição na posição -> Fig. 86 0 .
+
+- Veículos com botão de partida: pressionar o botão de partida brevemente -> Fig. 87. Se o motor não puder ser desligado, executar o desligamento de emergência -> Página 112.
+
+- Observar as indicações no instrumento combinado -> Página 15.
+
+[ATENÇÃO]
+
+Nunca desligar o motor enquanto o veículo estiver em movimento. Isto pode causar a perda de controle do veículo e provocar acidentes e ferimentos graves.
+
+- Os airbags e os pré-tensionadores dos cintos de segurança não funcionam com a ignição desligada.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 86, Fig. 87 no manual original.]

@@ -1,0 +1,22 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: VW Play
+SEÇÃO: Android Auto™ (Parte 3/5)
+PÁGINAS MANUAL: 187 (PDF: 189)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Skins : dependendo da versão e modelo do veículo é possível alterar as combinações de cores do rádio. Para isto, acesse a App store e faça o download de novas skins. Valet automaticamente : quando a porta é aberta ou a chave se afasta do veículo o modo Valet é ativado automaticamente -> Página 188. Remover de forma segura : remover a unidade de dados USB desejada do sistema. A respectiva superfície de função é desativada depois que a unidade de dados for removida do sistema com sucesso. WI-FI : configurar a rede Wi-Fi. Gerenciar redes salvas : realizar ajustes nas conexões Wi-Fi realizadas. Gerar chave de segurança : gerar uma nova chave de conexão para o wireless Apple CarPlay™. Encontrar hotspot : buscar por uma nova conexão de rede. Unidades : definir unidades de medida para exibição no veículo. Seleção de idioma : selecionar o idioma desejado. Data e hora : realizar configurações de hora e data. Informação do sistema : exibir as informações de sistema (número do dispositivo, estado do hardware e software). Vídeo de boas-vindas : assistir novamente ao vídeo de boas-vindas. Redefinir sistema : retornar às configurações de fábrica: todas as configurações ou individualmente. Copyright : informações sobre os direitos autorais.
+
+Carro : ajustar as funções do veículo.
+
+Mídia : realizar ajustes de mídia. Áudio : realizar ajustes de volume. Bluetooth : ajustar o Bluetooth®. Configurações de rádio : ajustes de estações de rádio. Buscar estações : buscar as estações disponíveis na atual faixa de frequência.
+
+Botões de setas : ajustar os botões de seta e , para alternar para a próxima estação na faixa de frequência ou para a próxima estação salva. Apagar pré-ajustes : apagar as estações salvas. Ordenar por : ordenar as estações de rádio por ordem alfabética ou frequência. Remover de forma segura : remover a unidade de dados USB desejada do sistema. A respectiva superfície de função é desativada depois que a unidade de dados for removida do sistema com sucesso.
+
+Apps : realizar ajustes dos aplicativos. Ordenar por : ordenar os aplicativos por ordem alfabética ou data de instalação. Gestão de aplicativos : gerenciar os aplicativos instalados. É possível também atualizar e desinstalar os aplicativos. WI-FI : configurar a rede Wi-Fi.
+
+Notificações : informações do estado do veículo.

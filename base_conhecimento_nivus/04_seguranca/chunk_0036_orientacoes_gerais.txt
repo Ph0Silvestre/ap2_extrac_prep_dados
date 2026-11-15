@@ -1,0 +1,33 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Segurança
+SEÇÃO: Orientações gerais (Parte 3/18)
+PÁGINAS MANUAL: 33 (PDF: 35)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO, NOTA, PERIGO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Controles ao abastecer Nunca realizar trabalhos no motor ou no compartimento do motor sem o conhecimento das ações necessárias e das precauções de segurança, bem como sem os recursos, fluidos e ferramentas adequadas à disposição -> Página 221 ! Nesse caso, deixar que seja realizado por uma Concessionária Volkswagen ou por uma empresa especializada. Atentar para a verificação regular dos seguintes pontos, preferencialmente ao abastecer: Nível da água dos lavadores dos vidros -> Página 226 Nível do óleo do motor -> Página 226 Nível do líquido de arrefecimento do motor -> Página 231 Nível do fluido de freio -> Página 234 Pressão dos pneus -> Página 246 Iluminação do veículo, necessária para a segurança do trânsito:
+- Indicadores de direção
+- Luz de posição, farol baixo e farol alto
+- Lanterna traseira Informações sobre a troca de lâmpadas incandescentes -> Página 208.
+
+[PERIGO]
+
+Observar as indicações importantes de segurança relativas ao airbag frontal do passageiro dianteiro -> Página 54, Instalação e utilização de cadeiras de crianças no veículo.
+
+[ATENÇÃO]
+
+Conduzir sob a influência de álcool, drogas, medicamentos e/ou entorpecentes pode causar acidentes graves e ferimentos fatais.
+
+- Álcool, drogas, medicamentos e/ou entorpecentes podem diminuir consideravelmente o grau de percepção, os tempos de reação e a segurança da condução, o que pode causar a perda de controle do veículo.
+
+[ATENÇÃO]
+
+Respeitar sempre as regras de trânsito atuais e os limites de velocidade e conduzir preventivamente. A avaliação correta da situação de condução pode fazer a diferença entre chegar ao destino da viagem em segurança e sofrer um acidente com ferimentos graves.
+
+[NOTA]
+
+A Volkswagen não se responsabiliza por danos causados ao veículo em razão de combustível de baixa qualidade, manutenção insuficiente/incorreta e utilização de peças não originais.

@@ -1,0 +1,36 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: No compartimento do motor (Parte 1/6)
+PÁGINAS MANUAL: 221 (PDF: 223)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Orientações de segurança para trabalhos no compartimento do motor Antes de qualquer trabalho no motor ou no compartimento do motor, estacionar sempre o veículo com segurança sobre um piso plano e firme.
+
+O compartimento do motor de um veículo é uma área perigosa. Nunca realizar trabalhos no motor ou no compartimento do motor sem o conhecimento das ações necessárias e das precauções de segurança geralmente válidas, bem como sem os recursos, fluidos e ferramentas adequadas à disposição -> . Caso necessário, deixar que todos os trabalhos sejam realizados por uma Concessionária Volkswagen. Trabalhos inadequados podem causar ferimentos graves.
+
+[ATENÇÃO]
+
+Movimentos involuntários do veículo durante os trabalhos de manutenção podem causar ferimentos graves.
+
+- Nunca trabalhar sob o veículo quando este não estiver seguro contra movimentação. Se for necessário trabalhar sob o veículo enquanto as rodas estiverem em contato com o solo, o veículo deve estar parado em um plano, as rodas devem estar travadas e a chave do veículo deve estar fora do cilindro da ignição.
+
+- Se for necessário trabalhar sob o veículo, este deve ser apoiado adicionalmente com cavaletes adequados. O macaco não é suficiente para essa finalidade e pode falhar, o que pode causar ferimentos graves.
+
+[ATENÇÃO]
+
+O compartimento do motor de todo veículo é uma área perigosa e pode causar ferimentos graves!
+
+- Em todos os trabalhos, ser sempre extremamente prevenido e cauteloso, bem como observar as precauções de segurança geralmente válidas. Nunca assumir um risco pessoal.
+
+- Realizar trabalhos no motor e no compartimento do motor somente quando estiver familiarizado com as ações necessárias. Quando houver insegurança sobre o que fazer, os trabalhos necessários deverão ser realizados por uma Concessionária Volkswagen. Ferimentos graves podem resultar de trabalhos realizados incorretamente.
+
+- Nunca abrir ou fechar a tampa do compartimento do motor enquanto sair vapor ou líquido de arrefecimento. Vapor quente ou líquido de arrefecimento podem causar queimaduras graves. Esperar sempre até que não note mais vapor ou líquido de arrefecimento saindo do compartimento do motor.
+
+- Deixar sempre o motor esfriar antes de abrir a tampa do compartimento do motor.
+
+- Peças quentes do motor ou do sistema de escape podem queimar a pele se tocadas.

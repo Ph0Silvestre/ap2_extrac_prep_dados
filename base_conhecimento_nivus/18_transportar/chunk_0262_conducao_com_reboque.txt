@@ -1,0 +1,48 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Transportar
+SEÇÃO: Condução com reboque (Parte 4/7)
+PÁGINAS MANUAL: 196-197 (PDF: 198-199)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Carga de reboque e carga de apoio A carga de reboque é a carga que o veículo é capaz de puxar -> . A carga de apoio é a carga que exerce pressão verticalmente sobre a rótula de engate do dispositivo de reboque -> Página 194.
+
+As indicações da carga de reboque e da carga de apoio na etiqueta de identificação do dispositivo de reboque são valores de referência do dispositivo. Os valores relativos ao veículo, que frequentemente estão abaixo desses valores, estão relacionados nos documentos do veículo. As indicações dos documentos de licenciamento do veículo sempre têm prioridade.
+
+Para garantir a segurança da condução, a Volkswagen recomenda sempre aproveitar a carga de apoio máxima admissível. Uma carga de apoio muito baixa limita o comportamento de direção do conjunto.
+
+A carga de apoio existente aumenta o peso sobre o eixo traseiro e reduz o carregamento do veículo admissível.
+
+Capacidade máxima de tração A capacidade máxima de tração é composta pelos pesos reais do veículo de tração carregado e do reboque carregado.
+
+Carregar o reboque O conjunto deve estar balanceado. Para isto, aproveitar a carga de apoio máxima admissível e não carregar o reboque com a carga na frente ou atrás:
+
+- Distribuir a carga no reboque de modo que os objetos pesados se encontrem o mais próximos possível do eixo ou sobre ele.
+
+- Fixar a carga corretamente no reboque.
+
+Pressão dos pneus A pressão dos pneus para as rodas do reboque é orientada pela recomendação do fabricante do reboque.
+
+Encher as rodas do veículo de tração com a pressão máxima dos pneus na condução com reboque -> Página 243.
+
+Exceder a carga máxima admissível sobre o eixo e a carga de apoio, bem como a capacidade máxima ou total de tração do veículo e do reboque pode resultar em acidentes e ferimentos graves.
+
+- Nunca exceder os valores indicados.
+
+- Nunca exceder a carga máxima admissível sobre o eixo com o peso atual no eixo dianteiro e traseiro. Nunca exceder o peso bruto máximo admissível com o peso dianteiro ou traseiro do veículo.
+
+[ATENÇÃO]
+
+Se a carga deslizar, a estabilidade e a segurança de condução do conjunto podem ser bastante reduzidas, causando acidentes e ferimentos graves.
+
+- Carregar sempre o reboque corretamente.
+
+- Fixar sempre a carga com fitas de amarração ou cintas tensoras adequadas e em boas condições de uso.
+
+Conduzir com um reboque
+
+Observe e no início desse capítulo na página 194.

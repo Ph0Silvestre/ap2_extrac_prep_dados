@@ -1,0 +1,53 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rodas e pneus
+SEÇÃO: Informações importantes sobre rodas e pneus (Parte 10/14)
+PÁGINAS MANUAL: 249 (PDF: 251)
+FIGURAS REFERENCIADAS: Fig. 188
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Fig. 188 No compartimento de bagagem: manípulo para fixação da roda de emergência.
+
+Remover a roda de emergência
+- Abrir a tampa traseira -> Página 74.
+
+- Levantar e remover o revestimento do assoalho do compartimento de bagagem.
+
+- Girar totalmente o manípulo localizado no meio da roda de emergência -> Fig. 188 no sentido anti-horário e remover a roda de emergência.
+
+de bordo de volta no compartimento específico no compartimento de bagagem.
+
+- Colocar a roda substituída na cavidade para a roda de emergência de tal forma que o orifício central do aro esteja posicionado exatamente sobre o pino rosqueável.
+
+- Girar o manípulo no sentido horário sobre o pino rosqueável até que a roda substituída esteja fixada com segurança.
+
+- Recolocar o revestimento do assoalho sobre o assoalho do compartimento de bagagem.
+
+- Fechar a tampa traseira.
+
+Se a roda de emergência for diferente das rodas instaladas Se a roda de emergência for diferente em sua versão dos pneus de rodagem, por exemplo, a roda de emergência deve ser utilizada somente em caso de emergência, temporariamente e com a devida e cuidadosa forma de condução -> . Ver também -> Página 254.
+
+Ela deve ser substituída o mais rápido possível por uma roda de rodagem normal.
+
+Observar as orientações para condução:
+
+- Não conduzir em velocidade superior a 80 km/h!
+
+- Evitar arranques e frenagens bruscos, bem como a condução em curvas em alta velocidade!
+
+- Verificar a pressão dos pneus o mais rápido possível após a instalação da roda de emergência -> Página 247.
+
+A pressão do pneu da roda de emergência deve ser verificada juntamente com a pressão dos pneus de rodagem pelo menos uma vez a cada 15 dias -> Página 246.
+
+[ATENÇÃO]
+
+Um uso inadequado da roda de emergência pode ocasionar a perda de controle do veículo, colisões ou outros acidentes e ferimentos graves.
+
+- Em nenhuma hipótese utilizar a roda de emergência se ela estiver danificada ou desgastada até os indicadores de desgaste.
+
+- Em alguns veículos, a roda de emergência pode ter dimensões diferentes das rodas e pneus -> Página 254, Roda de emergência com dimensões diferentes das rodas de utilização. A roda de emergência com diferentes dimensões pode ser reconhecida por uma etiqueta adesiva e pela inscrição “80 km/h”. Esta inscrição identifica a velocidade máxima com a qual o pneu pode rodar com segurança.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 188 no manual original.]

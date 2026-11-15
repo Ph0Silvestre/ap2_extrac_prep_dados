@@ -1,0 +1,65 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rodas e pneus
+SEÇÃO: Troca de roda (Parte 6/6)
+PÁGINAS MANUAL: 257 (PDF: 259)
+FIGURAS REFERENCIADAS: Fig. 193
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Observe no início desse capítulo na página 253.
+
+Fig. 193 Troca de roda: sequência de remoção dos parafusos da roda.
+
+Remover a roda
+- Observar a lista de controle -> Página 253.
+
+- Soltar os parafusos da roda -> Página 254.
+
+- Levantar o veículo -> Página 255.
+
+- Remover totalmente os parafusos da roda A soltos com a chave de roda e guardar em uma superfície limpa.
+
+- Remover a roda.
+
+Instalar a roda de emergência Se necessário, observar o sentido de rodagem do pneu -> Página 240.
+
+- Colocar a roda de emergência.
+
+- Posicionar os parafusos da roda e apertá-los levemente.
+
+- Abaixar o veículo com o macaco.
+
+- Apertar todos os parafusos da roda firmemente com a chave de roda -> . Para isso, não apertar em sequência, mas sempre alternando entre parafusos da roda opostos.
+
+[ATENÇÃO]
+
+Um torque de aperto incorreto ou parafusos da roda tratados incorretamente podem ocasionar a perda de controle do veículo, provocando acidentes e ferimentos graves.
+
+- Manter todos os parafusos da roda e orifícios rosqueáveis dos cubos das rodas sempre limpos e isentos de óleo e graxa. Os parafusos da roda devem ser de fácil manuseio e apertados com o torque de aperto prescrito.
+
+Os parafusos da roda devem estar limpos e girar livremente. Nunca os lubrifique.
+
+Durante a troca da roda, se constatar que os parafusos têm corrosão ou estão espanados, eles devem ser substituídos, antes de se verificar o torque de aperto, e a rosca do cubo de roda deve ser limpa.
+
+Após a troca da roda
+
+Observe no início desse capítulo na página 253.
+
+- Se for o caso, limpar as ferramentas de bordo e recolocar no compartimento de bagagem -> Página 205.
+
+- Guardar a roda de emergência ou a roda trocada de forma segura no compartimento de bagagem.
+
+- Mandar verificar o torque de aperto dos para-fusos da roda o mais rápido possível com um torquímetro.
+
+- Mandar substituir a roda danificada assim que possível.
+
+[ATENÇÃO]
+
+Após a troca da roda, sempre se certificar de que as ferramentas de bordo e a roda de emergência estão fixadas corretamente em seus alojamentos.
+
+Em veículos com indicador de controle dos pneus, após a troca de roda, o sistema deve ser reprogramado -> Página 241.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 193 no manual original.]

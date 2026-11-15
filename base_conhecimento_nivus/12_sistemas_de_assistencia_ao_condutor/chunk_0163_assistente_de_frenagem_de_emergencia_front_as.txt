@@ -1,0 +1,40 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Sistemas de assistência ao condutor
+SEÇÃO: Assistente de frenagem de emergência (Front Assist) (Parte 1/5)
+PÁGINAS MANUAL: 127-128 (PDF: 129-130)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Introdução ao tema O sistema de monitoramento periférico (Front Assist), incluindo a função de frenagem de emergência City pode auxiliar a evitar colisões.
+
+Dependendo da versão do veículo, o Assistente de frenagem de emergência (Front Assist) pode não estar disponível.
+
+O Front Assist pode alertar o condutor dentro dos limites do sistema antes de colisões iminentes, preparar o veículo para uma frenagem de emergência, auxiliar na frenagem e conduzir a uma frenagem automática. O momento de alerta varia conforme a situação de trânsito e o comportamento do condutor.
+
+O Front Assist não pode substituir a atenção do condutor.
+
+Conduzir com o Front Assist A intervenção automática de frenagem do Front Assist pode ser interrompida ao desviar ou ao pisar no pedal do acelerador.
+
+Procedimento automático de frenagem O Front Assist pode desacelerar até a parada do veículo. Porém, em seguida, o veículo não é mantido parado permanentemente. Pisar no pedal do freio!
+
+Durante uma frenagem automática, o pedal do freio oferece mais resistência.
+
+Sensor do radar O Front Assist capta situações de condução com o auxílio do sensor do radar na parte dianteira do veículo. O alcance do sensor do radar é de aproximadamente até 120 m.
+
+Funções contidas A função de frenagem de emergência City são componentes do Front Assist e automaticamente ativos quando o Front Assist é ligado.
+
+A tecnologia inteligente do Front Assist não pode ir além dos limites impostos pela física e trabalha somente dentro dos limites do sistema. Não se pode permitir nunca que o maior conforto oferecido pelo Front Assist incentive a colocar a segurança em risco. A responsabilidade por frear em tempo hábil é sempre do condutor.
+
+- Dependendo da situação do trânsito, frear o veículo imediatamente ou desviar do obstáculo assim que o Front Assist alertar.
+
+- Se o Front Assist emitir uma advertência, frear imediatamente o veículo, independentemente da situação do trânsito ou desvie do obstáculo.
+
+- Adequar a velocidade e a distância de segurança em relação aos veículos à frente sempre de acordo com as condições de visibilidade, climáticas, da pista e do trânsito.
+
+- O Front Assist não pode evitar sozinho acidentes e ferimentos graves.
+
+- O Front Assist pode emitir alertas indesejados em situações de condução complexas e executar uma intervenção de frenagem não desejada, por exemplo, em canteiros.

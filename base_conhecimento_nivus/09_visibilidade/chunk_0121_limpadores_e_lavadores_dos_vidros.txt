@@ -1,0 +1,38 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Visibilidade
+SEÇÃO: Limpadores e lavadores dos vidros (Parte 8/8)
+PÁGINAS MANUAL: 95 (PDF: 97)
+FIGURAS REFERENCIADAS: Fig. 80
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+[ATENÇÃO]
+
+Os espelhos retrovisores externos devem ser ajustados antes de colocar o veículo em movimento, para não desviar a atenção do condutor no trânsito.
+
+O rebatimento desatento para dentro ou para fora dos espelhos retrovisores externos pode causar ferimentos.
+
+- Rebater os espelhos retrovisores externos para dentro ou para fora somente quando não houver nenhum obstáculo em sua área de funcionamento.
+
+- Atentar sempre para que nenhum dedo seja preso entre o espelho retrovisor externo e a base do espelho quando o espelho retrovisor externo se mover.
+
+[NOTA]
+
+Em um sistema de lavagem automático, rebater sempre os espelhos retrovisores externos para dentro.
+
+- Não rebater manualmente os espelhos retrovisores externos elétricos para dentro ou para fora, pois isso pode danificar o acionamento elétrico.
+
+Em caso de avaria, os espelhos retrovisores externos elétricos podem ser ajustados manualmente por meio de pressão na borda da superfície da lente do espelho.
+
+Proteção solar
+
+Para-sol
+
+Fig. 80 Para-sol.
+
+Dependendo da versão do veículo, o para-sol pode conter diferentes combinações, contendo ou não: iluminação, cobertura do espelho e espelho de cortesia.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 80 no manual original.]

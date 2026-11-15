@@ -1,0 +1,33 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: Fluido de freio (Parte 6/8)
+PÁGINAS MANUAL: 237-238 (PDF: 239-240)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Carregar a bateria do veículo A carga da bateria do veículo deve ser realizada por uma empresa especializada, pois a tecnologia da bateria do veículo instalada de fábrica requer uma carga de tensão restrita -> . Para isso, a Volkswagen recomenda as Concessionárias Volkswagen.
+
+Substituir a bateria do veículo A bateria do veículo é desenvolvida sob medida para o seu local de instalação e conta com atributos de segurança. Se a bateria do veículo precisar ser substituída, informar-se antes da compra em uma Concessionária Volkswagen sobre a compatibilidade elétrica, capacidade de carga (A/h) adequada para as características do veículo, o tamanho e as exigências de manutenção, desempenho e segurança da nova bateria do veículo. A Volkswagen recomenda que a bateria do veículo seja substituída em uma Concessionária Volkswagen.
+
+Desconectar a bateria do veículo Caso a bateria do veículo precise ser desconectada do sistema elétrico do veículo, observar o seguinte:
+
+- Destravar o veículo antes da desconexão, pois, caso contrário o sistema de alarme será disparado.
+
+- Primeiramente, desconectar o cabo negativo e, então, o cabo positivo -> .
+
+Se o veículo necessitar ficar imobilizado por um longo período, desligue o cabo negativo da bateria do veículo, pois, caso contrário, a bateria poderá ser descarregada pelos consumidores de corrente existentes no veículo, impossibilitando a partida do motor.
+
+Conectar a bateria do veículo
+- Antes da reconexão da bateria do veículo, desligar a ignição e todos os consumidores elétricos.
+
+- Primeiramente deve ser conectado o cabo positivo e, então, o cabo negativo -> .
+
+Em caso de problemas na partida e na marcha lenta, ligar a ignição durante 30 segundos e depois desligar. Em seguida, dê a partida no motor.
+
+Após conectar uma bateria do veículo e ligar a ignição, podem se acender diversas luzes de controle. Elas se apagam após alguns segundos. Caso as luzes de controle continuem acesas, procurar uma Concessionária Volkswagen para verificação do veículo.
+
+Se a bateria do veículo tiver ficado desconectada por longos períodos, o próximo serviço que ocorrer pode não ser mostrado ou calculado corretamente -> Página 17. Observar os intervalos máximos de manutenção permitidos no -> Página 258.

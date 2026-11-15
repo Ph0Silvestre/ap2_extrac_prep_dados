@@ -1,0 +1,44 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: Líquido de arrefecimento do motor (Parte 3/5)
+PÁGINAS MANUAL: 232-233 (PDF: 234-235)
+FIGURAS REFERENCIADAS: Fig. 179, Fig. 180
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Nunca misturar aditivos do líquido de arrefecimento do motor originais, com outros líquidos de arrefecimento não liberados pela Volkswagen. A mistura com líquidos de arrefecimento não homologados pode causar graves danos ao motor e ao sistema de arrefecimento do motor.
+
+- Quando o líquido no reservatório compensador do líquido de arrefecimento do motor estiver com a coloração marrom, o líquido de arrefecimento do motor foi contaminado. Nesse caso, o líquido de arrefecimento do motor deve ser trocado imediatamente. Caso contrário, podem ocorrer falhas de funcionamento graves ou danos ao motor!
+
+Em circunstância nenhuma, o líquido de ar-refecimento do motor velho deve ser reutilizado. Atentar para as normas específicas para o descarte deste produto.
+
+A Volkswagen recomenda realizar o reabastecimento ou a troca do líquido de arrefecimento do motor e seus aditivos em uma Concessionária Volkswagen, que descarta os fluidos corretamente. Nunca descarte os fluidos usados em jardins, áreas florestais, esgotos, ruas e vias, rios ou afluentes, para não poluir o meio ambiente.
+
+Verificar o nível do líquido de arrefecimento do motor e reabastecer com líquido de arrefecimento do motor
+
+Observe no início desse capítulo na página 231.
+
+Fig. 179 No compartimento do motor: marcação no reservatório de expansão do líquido de arrefecimento do motor.
+
+Fig. 180 No compartimento do motor: tampa do reservatório de expansão do líquido de arrefecimento do motor.
+
+Se o nível do líquido de arrefecimento do motor estiver baixo demais, a luz de advertência do líquido de arrefecimento do motor se acenderá.
+
+Preparações
+- Estacionar o veículo em uma superfície plana e firme.
+
+- Deixar o motor esfriar -> .
+
+- Abrir a tampa do compartimento do motor -> Página 221.
+
+- O reservatório do líquido de arrefecimento do motor é reconhecido pelo símbolo na tampa -> Fig. 180.
+
+Verificar o nível do líquido de arrefecimento do motor
+- Com o motor frio, verificar o nível do líquido de arrefecimento do motor pela marcação lateral do reservatório -> Fig. 179.
+
+- Se o nível do líquido no reservatório estiver abaixo da marca mínima (“min”), reabastecer com líquido de arrefecimento do motor. Com o motor quente, o nível do líquido de arrefecimento do motor pode ficar um pouco acima da borda superior da área demarcada.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 179, Fig. 180 no manual original.]

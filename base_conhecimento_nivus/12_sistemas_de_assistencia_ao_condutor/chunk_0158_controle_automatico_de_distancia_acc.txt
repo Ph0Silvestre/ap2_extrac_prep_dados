@@ -1,0 +1,38 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Sistemas de assistência ao condutor
+SEÇÃO: Controle automático de distância (ACC) (Parte 1/5)
+PÁGINAS MANUAL: 122-123 (PDF: 124-125)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Introdução ao tema O controle automático de distância (ACC = Adaptive Cruise Control) mantém constante uma velocidade ajustada pelo condutor. Se o veículo se aproximar de um veículo à frente, o ACC ajustará a velocidade automaticamente e através disto mantém a distância ajustada entre eles.
+
+Dependendo da versão do veículo, o Controle automático de distância (ACC) pode não estar disponível.
+
+Faixa de velocidade O ACC regula numa faixa de velocidade entre 30 km/h e 210 km/h.
+
+Conduzir com o ACC A regulagem do ACC pode ser definida a qualquer momento. Ao frear, a regulagem é suspensa. Ao acelerar, a regulagem é interrompida pelo momento da aceleração e, em seguida, retomada.
+
+Se estiver conectado um reboque, a regulagem do ACC será menos dinâmica.
+
+Solicitação de frenagem Quando a desaceleração automática através do ACC não for suficiente, o ACC solicita por meio de uma mensagem no instrumento combinado que o freio seja adicionalmente acionado. Além disso, a luz de advertência vermelha acende e um aviso de advertência é emitido. Frear imediatamente!
+
+Sensor do radar O controle automático de distância detecta as situações de condução com o auxílio do sensor do radar na parte dianteira do veículo. O alcance do sensor do radar é de aproximadamente até 120 m.
+
+A tecnologia inteligente do ACC não pode ir além dos limites impostos pela física e trabalha somente dentro dos limites do sistema. Não se pode permitir nunca que o conforto aumentado oferecido incentive a colocar a segurança em risco. Uma utilização desatenta ou sem supervisão do ACC pode causar acidentes e ferimentos graves. O sistema não pode substituir a atenção do condutor.
+
+- Adequar a velocidade e a distância em relação aos veículos à frente sempre de acordo com as condições de visibilidade, climáticas, da pista e do trânsito.
+
+- Nunca utilizar o ACC em tráfego intenso, em distâncias muito pequenas, em trechos íngremes, cheios de curvas e escorregadios, por exemplo, por neve, gelo ou cascalho nem em ruas alagadas.
+
+- O ACC não reage a veículos parados.
+
+- O ACC não reage a pessoas, animais, veículos que cruzam ou veículos que vêm na direção contrária na mesma faixa de rodagem.
+
+- Frear imediatamente se a redução de velocidade por meio do ACC não for suficiente.
+
+- Frear imediatamente assim que uma solicitação de freio for exibida no display do instrumento combinado.

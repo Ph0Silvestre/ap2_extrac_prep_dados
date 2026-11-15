@@ -1,0 +1,52 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: VW Play
+SEÇÃO: Conecte-se (Parte 1/2)
+PÁGINAS MANUAL: 182-183 (PDF: 184-185)
+FIGURAS REFERENCIADAS: Fig. 142, Fig. 143
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Bluetooth®
+
+Fig. 142 Conectar via Bluetooh.
+
+Fig. 143 Função telefone.
+
+Conexão via Bluetooth®
+
+- Para conectar o Bluetooth®, pressionar o botão configurações e tocar em Conectar .
+
+- Selecionar o botão Dispositivos e em seguida selecionar adicionar dispositivo.
+
+- O rádio irá buscar automaticamente os aparelhos disponíveis, para isto ligar a visibilidade do Bluetooth® no seu aparelho. Para mais informações consulte o manual de instruções do seu dispositivo de áudio.
+
+- Para estabelecer uma conexão, selecionar o nome do dispositivo que deseja realizar a conexão. Comparar o código exibido no display com o código exibido no telefone móvel. Se ele coincidir, confirmar o código para realizar a conexão.
+
+- É possível conectar mais de um dispositivo simultaneamente. Para estabelecer qual a função do dispositivo, selecionar o botão telefone para utilizar as funções de telefone e selecionar o botão mídia para utilizar as funções de mídia -> Fig. 142.
+
+Função de áudio Bluetooth® Para ativar o modo de áudio Bluetooth®, após realizar a conexão o botão áudio deve estar ativo. Neste modo, arquivos de áudio de uma fonte de áudio ligada via Bluetooth® (por exemplo, um smartphone) serão reproduzidos utilizando os alto-falantes do veículo.
+
+Após conectado a fonte de áudio Bluetooth®, acompanhar as funções no menu Mídia -> Página 181.
+
+Função de telefone As exibições do display dos menus de telefone dependem do escopo de funções do telefone móvel utilizado. É possível que haja diferenças.
+
+Para ativar o modo de telefone via Bluetooth®, após realizar a conexão o botão telefone deve estar ativo. Neste modo, é possível acessar os contatos do seu telefone e realizar e atender chamadas que serão reproduzidas utilizando os altofalantes do veículo.
+
+Receber uma chamada telefônica:
+
+- Para receber uma chamada, pressionar o botão Realizar uma chamada telefônica:
+
+- Na função telefone , você pode digitar o número que deseja chamar e pressionar o botão .
+
+- Ou acessar sua agenda de contatos através do botão contatos . Selecione o contato que deseja realizar a chamada e pressione o botão .
+
+- Caso precise realizar uma busca na sua agenda de contatos, pressione o botão contatos e na barra superior Buscar em contatos, digite o nome que deseja procurar.
+
+Durante uma chamada telefônica:
+
+- Para silenciar o microfone durante a chamada telefônica pressionar o botão . Pressionar novamente o botão , para ativar o microfone novamente.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 142, Fig. 143 no manual original.]

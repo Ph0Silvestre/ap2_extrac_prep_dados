@@ -1,0 +1,18 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Estacionar e manobrar
+SEÇÃO: Orientações de segurança para sistemas de estacionamento (Parte 2/2)
+PÁGINAS MANUAL: 133 (PDF: 135)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Fontes sonoras externas e determinadas superfícies de objetos e vestimentas podem influenciar os sinais dos sensores. Sob determinadas circunstâncias pessoas e objetos podem não ser detectados ou detectados erroneamente.
+
+- Determinados objetos podem, devido à resolução do display e em condições insuficientes de luz, não ser exibidos ou ser exibidos de forma insuficiente, por exemplo, postes finos ou grades.
+
+- Os sinais e indicações dos sistemas de estacionamento possuem tempos de reação que a uma aproximação muito rápida podem não ser suficientes para a emissão de um alerta.
+
+A Volkswagen recomenda praticar o manuseio dos sistema de auxílio de estacionamento em um local ou em estacionamento sem trânsito, para familiarizar-se com os sistemas e com as funções.

@@ -1,0 +1,50 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Garantia e Plano Digital de Serviços
+SEÇÃO: Visão Geral - Garantia e Plano Digital de Serviços (Parte 4/4)
+PÁGINAS MANUAL: 5 (PDF: 7)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+| – Codificação antifurto | 148 | – Óleo do motor | 226 |
+| --- | --- | --- | --- |
+| – Display | 148 | – Líquido de arrefecimento do motor | 231 |
+| Composition Touch (R 340G) – Vista geral do aparelho | 149 | – Fluido de freio – Bateria do veículo | 234 235 |
+| – Informações básicas de comando | 150 | Rodas e pneus | |
+| – Conectividade | 152 | – Sistema de controle dos pneus | 240 |
+| – Operação do rádio | 156 | – Informações importantes sobre rodas e | |
+| – Operação de mídia | 160 | pneus | 243 |
+| – Conexões com e sem fios | 164 | – Troca de roda | 253 |
+| – Telefone – Configurações | 167 176 | Manutenção – Serviço | 258 |
+| VW Play | | – Conservação do veículo | 260 |
+| – Bem-vindo ao VW Play | 179 | – Acessórios, reposição de peças, reparos e | |
+| – Vista geral do aparelho | 179 | modificações | 270 |
+| – Telas de acesso rápido – Rádio – Mídia – Conecte-se – App store | 180 180 181 182 183 | Informações ao consumidor – Garantia Volkswagen – Etiquetas adesivas e plaquetas – Recepção do rádio e antena – Instalar o rádio | 276 279 279 279 |
+| – Apple CarPlay™ | 184 | – Volume do rádio ou do sistema de | |
+| – Android Auto™ | 185 | navegação | 280 |
+| – Configurações | 186 | – Fone de ouvido | 280 |
+| Transportar | | – Serviço de atendimento ao cliente | 280 |
+| – Acomodar volumes de bagagem | 189 | – Declaração de conformidade | 280 |
+| – Compartimento de bagagem | 189 | – Licença de utilização (ANATEL) | 281 |
+| – Bagageiro do teto | 191 | Dados técnicos | |
+| – Condução com reboque | 194 | – Orientações sobre os dados técnicos | 281 |
+| Combustível | | – Dados de identificação do veículo | 282 |
+| – Orientações de segurança para o | | – Informações do ar-condicionado | 283 |
+| manuseio de combustível | 199 | – Dimensões | 284 |
+| – Tipos de combustível e abastecimento | 200 | – Capacidades | 285 |
+| – Unidade de controle do motor e sistema de controle de emissões dos gases de | | – Motor 1.0 TOTALFLEX 85/94 kW - TSI | 286 |
+| escape – Qualidade dos combustíveis | 202 204 | Abreviaturas utilizadas | 287 |
+| Autoajuda | | Índice remissivo | 289 |
+| – Ferramentas de bordo | 205 | | |
+| – Palhetas dos limpadores dos vidros | 206 | | |
+| – Iluminação externa | 208 | | |
+| – Fusíveis | 212 | | |
+| – Auxílio à partida | 218 | | |
+| – Puxar e rebocar | 220 | | |
+| Verificação e reabastecimento | | | |
+| – No compartimento do motor | 221 | | |
+| – Fluidos e recursos | 225 | | |
+| – Água dos lavadores dos vidros | 226 | | |

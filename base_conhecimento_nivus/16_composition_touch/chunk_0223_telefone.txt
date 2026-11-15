@@ -1,0 +1,48 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Telefone (Parte 4/11)
+PÁGINAS MANUAL: 170 (PDF: 172)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Fornecer por meio do telefone móvel o código PIN exibido no display do aparelho e confirmar.
+
+OU:
+
+- Comparar o código PIN exibido no display do aparelho com o código PIN exibido no telefone móvel. Se ele coincidir, ele deve ser confirmado em ambos os aparelhos.
+
+Ao ser realizado o pareamento com êxito, o menu principal PHONE é exibido e a agenda telefônica e as listas de chamadas salvas no telefone móvel são carregadas automaticamente. Se for o caso, é preciso confirmar no telefone móvel.
+
+A duração do processo de carregamento depende da quantidade de dados salvos no telefone móvel. Após encerrado o processo de carregamento, os dados do aparelho ficam disponíveis.
+
+Pareamento e conexão de telefones móveis É possível parear vários telefones móveis ao aparelho. Todavia, apenas um telefone móvel pode estar conectado com um aparelho de cada vez.
+
+Ao ligar o rádio, é realizada automaticamente uma conexão com o último telefone móvel conectado. Se não for possível estabelecer uma conexão com esse telefone móvel, o controle do telefone tenta automaticamente realizar uma conexão com o próximo telefone móvel da lista de aparelhos pareados.
+
+O raio de alcance máximo de uma conexão Bluetooth® é de aproximadamente 10 metros. Conexões de Bluetooth® existentes são interrompidas ao ser ultrapassada essa distância. A conexão é restabelecida automaticamente assim que o aparelho se encontrar novamente no raio de alcance Bluetooth®.
+
+Para mais informações sobre o pareamento e a conexão de telefones móveis, consultar uma Concessionária Volkswagen.
+
+Observe e no início desse capítulo na página 168.
+
+- Encerrar a chamada ativa.
+
+- Desligar a ignição.
+
+- Retirar a chave do veículo da ignição.
+
+- Desligar telefone móvel.
+
+Se a chave do veículo permanecer no contato após desligar a ignição, o controle do telefone não estará desligado. O controle do telefone somente é desligado depois de decorrer o tempo de desligamento (de fábrica de aproximadamente 15 minutos).
+
+Se um telefone móvel estava conectado com o controle do telefone, após desligarse o controle do telefone a unidade de transmissão do telefone móvel permanece ligada. Possivelmente o telefone móvel deverá ser desligado.
+
+Descrição do controle do telefone
+
+Observe e no início desse capítulo na página 168.
+
+Algumas funções e ajustes só são possíveis com o veículo parado e não são suportadas por todos os telefones móveis.

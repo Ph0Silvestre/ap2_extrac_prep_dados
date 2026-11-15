@@ -1,0 +1,56 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Conectividade (Parte 2/4)
+PÁGINAS MANUAL: 153-154 (PDF: 155-156)
+FIGURAS REFERENCIADAS: Fig. 115, Fig. 116
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Info : exibição de mais informações.
+
+Abrir o menu Configurações do App-Connect No menu principal App-Connect, tocar na superfície de função Config. .
+
+Informações sobre as premissas técnicas, os aparelhos finais compatíveis, os aplicativos aplicáveis e a disponibilidade estão disponíveis através do www.vw.com.br/conectividade ou nas Concessionárias Volkswagen.
+
+- Ou ainda para mais informações consultar o manual de instruções do aparelho móvel utilizado ou as lojas on-line da marca.
+
+Fig. 115 Escolha do aparelho móvel.
+
+Fig. 116 Menu Apple CarPlay™.
+
+Requisitos Apple CarPlay™ Para utilizar o Apple CarPlay™ precisam ser atendidas as seguintes premissas: O aparelho móvel precisa suportar o Apple CarPlay™. O aparelho móvel precisa ser conectado ao aparelho com um cabo USB. O cabo USB utilizado precisa ser um cabo original do fabricante do smartphone.
+
+Estabelecer conexão Quando um aparelho móvel é conectado pela primeira vez, seguir as instruções no display do aparelho e no display do aparelho móvel.
+
+- As premissas para utilização do Apple CarPlay™ precisam ser atendidas.
+
+- Pressionar o botão APP .
+
+- Selecione o seu aparelho conectado pressionado sobre o ícone correspondente.
+
+perfície de função -> Fig. 116 1 , para acessar o App-Connect no menu principal.
+
+- Tocar na superfície de função -> Fig. 115 1 para desligar a conexão ativa.
+
+Particularidades Durante uma conexão Apple CarPlay™ ativa, são válidas as seguintes particularidades:
+
+- Conexões por Bluetooth entre aparelhos móveis e o rádio não são possíveis.
+
+- Uma conexão por Bluetooth ativa é encerrada automaticamente.
+
+- Funções de telefone são possíveis somente através do Apple CarPlay™. As funções do rádio descritas neste manual não estão disponíveis.
+
+- O aparelho conectado não pode ser utilizado como dispositivo de mídia no menu Media.
+
+Comando de voz Dependendo da versão e do modelo do veículo o comando de voz pode não estar disponível.
+
+- Pressionar, no volante multifunções ou no telefone móvel, VOICE ou brevemente para iniciar o comando de voz do aparelho.
+
+- Pressionar, no volante multifunções ou no telefone móvel, VOICE ou por alguns segundos para iniciar o comando de voz do aparelho conectado.
+
+Informações sobre as premissas técnicas, os aparelhos finais compatíveis, os aplicativos aplicáveis e a disponibilidade estão disponíveis através do www.vw.com.br/conectividade ou nas Concessionárias Volkswagen.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 115, Fig. 116 no manual original.]

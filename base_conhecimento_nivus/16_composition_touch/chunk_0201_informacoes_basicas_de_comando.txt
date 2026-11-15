@@ -1,0 +1,38 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Informações básicas de comando (Parte 3/3)
+PÁGINAS MANUAL: 152 (PDF: 154)
+FIGURAS REFERENCIADAS: Fig. 113
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Máscaras de entrada para a seleção de um registro armazenado Na introdução, somente é possível selecionar letras, caracteres e símbolos especiais que, em sua combinação, correspondam a uma entrada salva.
+
+Caso sejam selecionáveis menos do que 99 inserções, a quantidade das inserções remanescentes é exibida atrás da linha de inserção -> Fig. 113 3 . O toque nesta superfície de função mostra as inserções remanescentes em uma lista. Se houver menos de 5 entradas selecionáveis, a lista é auto-maticamente aberta.
+
+Vista geral das superfícies de função 123 : tocar para abrir a máscara de inserção para numerais e símbolos especiais. OU:
+
+ABC : tocar para alternar para a máscara de inserção de letras. Tocar para alternar para um outro idioma do teclado. Os idiomas do teclado podem ser selecionados no menu Configurações do sistema . Mostra a quantidade e abre a lista de inserções correspondentes às prescrições ainda selecionáveis.
+
+Tocar para assumir a linha de inserção.
+
+Letras e números 1) Apple CarPlay™ é uma marca certificada da Apple Inc.
+
+2) Android Auto™ é uma marca certificada do Google Inc.
+
+3) MirrorLink™ e o logotipo Mirror Link são marcas certificadas do Car Connectivity Consortium LLC.
+
+Manter pressionado para mostrar uma janela pop-up com os símbolos especiais baseados nessas letras. Aplicar os caracteres desejados por meio de toque. Alguns sinais especiais também podem ser transcritos (por exemplo, “AE” para “Ä”). Tocar para alternar entre maiúsculas e minúsculas e para números e caracteres especiais.
+
+Tocar para inserir um espaço em branco. Tocar para assumir a sugestão da linha de introdução e fechar a máscara de inserção. Tocar para apagar símbolos na linha de inserção da direita para a esquerda. Manter pressionado, para apagar vários símbolos. Tocar para fechar a máscara de inserção.
+
+OK Exibições adicionais e opções de exibição Indicações no display podem variar dependendo dos ajustes e divergir das representações descritas aqui.
+
+Na linha de status do display o horário pode ser mostrado.
+
+Todas as indicações podem ser exibidas somente após uma inicialização completa do rádio.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 113 no manual original.]

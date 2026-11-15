@@ -1,0 +1,165 @@
+RELATÓRIO DE AUDITORIA DE QUALIDADE DOS CHUNKS (CRITÉRIO 3)
+================================================================================
+Total de arquivos auditados: 414
+1. Erros de cabeçalho/metadados: 0
+2. Chunks curtos (< 250 caracteres): 3
+3. Inícios em minúscula (possível quebra de frase): 13
+4. Términos sem pontuação terminal: 14
+5. Tabelas Markdown com desalinhamento: 0
+6. Arquivos com glifos PUA ou hífen quebrado residual: 0
+
+--- DETALHAMENTO DOS CASOS SINALIZADOS ---
+
+[Chunks Curtos < 250 chars]
+- 05_abrir_e_fechar/chunk_0078_visao_geral_abrir_e_fechar.txt (85 chars): 'O triângulo de segurança deve atender às especificações legais vigentes de cada país.'
+- 22_rodas_e_pneus/chunk_0325_visao_geral_rodas_e_pneus.txt (97 chars): 'Observar sempre as luzes de controle acesas e as mensagens de texto para evitar danos no veículo.'
+- 26_abreviaturas_e_indice_remissivo/chunk_0406_visao_geral_abreviaturas_e_indice_remissivo.txt (56 chars): '| Habitáculo | 12 |\n| --- | --- |\n| Hodômetro | 17, 18 |'
+
+[Inícios em Minúscula]
+- 03_informacoes_ao_condutor/chunk_0022_instrumento_combinado.txt: 'utilizar as setas no volante multifunções ou , selecionar o menu Dados de viagem, selecion'
+- 04_seguranca/chunk_0066_transporte_de_criancas_no_veiculo.txt: 'todos os países. Prescrições e determinações legais têm prioridade sobre as descrições nes'
+- 21_verificacao_e_reabastecimento/chunk_0319_fluido_de_freio.txt: 'reconhecer nitidamente as cores. Jamais utilizar chamas expostas ou objetos incandescentes'
+- 22_rodas_e_pneus/chunk_0343_informacoes_importantes_sobre_rodas_e_pneus.txt: 'máximo 150 km/h máximo 160 km/h máximo 170 km/h máximo 180 km/h máximo 190 km/h máximo 200'
+- 22_rodas_e_pneus/chunk_0346_troca_de_roda.txt: 'pressões ou ondulações. Os impactos sofridos ao se passar por obstáculos como estes podem '
+- 26_abreviaturas_e_indice_remissivo/chunk_0398_visao_geral_abreviaturas_e_indice_remissivo.txt: 'kg Quilograma, unidade de massa no Sistema Internacional de unidades.\n\nQuilo Pascal, unida'
+- 26_abreviaturas_e_indice_remissivo/chunk_0400_visao_geral_abreviaturas_e_indice_remissivo.txt: 'água embaixo do veículo 101 AUTO (modo automático) 98 comandos 97 desembaçador dos vidros '
+- 26_abreviaturas_e_indice_remissivo/chunk_0405_visao_geral_abreviaturas_e_indice_remissivo.txt: 'sistema de assistência à frenagem 137 troca do fluido de freio 234 Freio de estacionamento'
+- 26_abreviaturas_e_indice_remissivo/chunk_0407_visao_geral_abreviaturas_e_indice_remissivo.txt: 'aparelho de transmissão 272 telefone do veículo 272 Instalar o rádio 279 Instrumento combi'
+- 26_abreviaturas_e_indice_remissivo/chunk_0410_visao_geral_abreviaturas_e_indice_remissivo.txt: 'arquivos 161 do banco de dados de USB 161 dos cartões de memória 161 dos CDs 161 Pré-tensi'
+- 26_abreviaturas_e_indice_remissivo/chunk_0411_visao_geral_abreviaturas_e_indice_remissivo.txt: 've 49 desligar o airbag frontal do passageiro dianteiro 49 diferenças entre os sistemas de'
+- 26_abreviaturas_e_indice_remissivo/chunk_0412_visao_geral_abreviaturas_e_indice_remissivo.txt: 'comandar 130 soluções de problemas 130 Sistema de reconhecimento de cansaço 24 comando 24 '
+- 26_abreviaturas_e_indice_remissivo/chunk_0413_visao_geral_abreviaturas_e_indice_remissivo.txt: 'ver RDS 157 Timeout 149 TIN 250 Tipos de combustível e abastecimento 200 Tiptronic 114 Tom'
+
+[Términos sem Pontuação Terminal]
+- 03_informacoes_ao_condutor/chunk_0030_comando_do_instrumento_combinado.txt: 'o botão VIEW pressionado para selecionar da lista de perfis de informação pré configuradas'
+- 07_bancos_e_apoios_para_cabeca/chunk_0100_banco_dianteiro.txt: ' dianteiros não deve ser restringida por objetos.\n\nAjustar mecanicamente o banco dianteiro'
+- 11_conduzir/chunk_0143_orientacoes_para_conducao.txt: 'as podem ser obtidas em uma Concessionária Volkswagen -> Página 64.\n\nSoluções de problemas'
+- 13_estacionar_e_manobrar/chunk_0172_auxilio_de_estacionamento_park_pilot.txt: 'de frenagem de manobra “ativo” na caixa de seleção, através do menu do rádio -> Página 29;'
+- 16_composition_touch/chunk_0226_telefone.txt: ' aparelho. Dependendo do volume de dados a serem transmitidos, o processo pode demorar até'
+- 20_autoajuda/chunk_0283_iluminacao_externa.txt: ' versão do veículo, a luz de controle da iluminação pode não estar disponível.\n\nIluminação'
+- 20_autoajuda/chunk_0286_fusiveis.txt: 'F48 F49 F50 F51 F52 F53 F54 F55 F56 F57 F58 F59 F60 F61 Fusíveis no compartimento do motor'
+- 20_autoajuda/chunk_0287_fusiveis.txt: ' ou F21 F22 F23 F24 F25 F26 F27 F28 Caixa de fusíveis no compartimento do motor na bateria'
+- 21_verificacao_e_reabastecimento/chunk_0322_fluido_de_freio.txt: 'ueza e sonolência).\n\nObserve e no início desse capítulo na página 235.\n\nBateria do veículo'
+- 22_rodas_e_pneus/chunk_0336_informacoes_importantes_sobre_rodas_e_pneus.txt: 'ciente aumenta o consumo de combustível.\n\nProfundidade do perfil e indicadores de desgaste'
+- 22_rodas_e_pneus/chunk_0342_informacoes_importantes_sobre_rodas_e_pneus.txt: '0 km/h máximo 210 km/h máximo 240 km/h máximo 270 km/h máximo 300 km/h P Q R S T U H V W Y'
+- 23_manutencao/chunk_0352_servico.txt: ' veículo: verificar\n\n- Sistema de limpadores e de lavadores dos vidros e faróis: verificar'
+- 24_informacoes_ao_consumidor/chunk_0379_garantia_volkswagen.txt: 'as peças de reposição instaladas nas Concessionárias Volkswagen, constante na nota fiscal;'
+- 24_informacoes_ao_consumidor/chunk_0380_garantia_volkswagen.txt: 'utilização inadequada, acidentes de qualquer natureza e casos fortuitos ou de força maior;'
+
+[Problemas em Tabelas]
+
+================================================================================
+AMOSTRAS ESTRATÉGICAS PARA VALIDAÇÃO SEMÂNTICA
+================================================================================
+
+>>> AMOSTRA 1A (TRANSIÇÃO MULTI-PARTE - PARTE 1): 00_garantia_e_plano_digital/chunk_0001_visao_geral_garantia_e_plano_digital_de_servi.txt
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Garantia e Plano Digital de Serviços
+SEÇÃO: Visão Geral - Garantia e Plano Digital de Serviços (Parte 1/4)
+PÁGINAS MANUAL: 0-1 (PDF: 2-3)
+FIGURAS REFERENCIADAS: Fig. 1
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Sim
+---
+-los de forma simples e rápida no aplicativo Meu Volkswagen ou em qualquer concessionária da rede, sempre que quiser! Baixe gratuitamente o aplicativo para ter acesso ao Plano Digital de Serviços. O aplicativo Meu Volkswagen está disponível para as plataformas iOS (Apple) e Android (Google).
+
+Carimbo da Concessionária Volkswagen
+
+| | Identificação do veículo |
+| --- | --- |
+| 1. Modelo e versão | |
+| 2. Código Basys | |
+| 3. Número do chassi (VIN) | |
+| 4. Código da cor | |
+| 5. Código do estofamento | |
+| 6. Código de acabamento dos opcionais (No PR's) | |
+| 7. Número do motor | |
+| 8. Código de faturamento | |
+
+Fig. 1
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 1 no manual original.]
+
+>>> AMOSTRA 1B (TRANSIÇÃO MULTI-PARTE - PARTE 2): 00_garantia_e_plano_digital\chunk_0002_visao_geral_garantia_e_plano_digital_de_servi.txt
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Garantia e Plano Digital de Serviços
+SEÇÃO: Visão Geral - Garantia e Plano Digital de Serviços (Parte 2/4)
+PÁGINAS MANUAL: 1-3 (PDF: 3-5)
+FIGURAS REFERENCIADAS: Fig. 1, Fig. 2
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+---
+Fig. 1
+
+Fig. 2 Com este Volkswagen, você está recebendo um veículo com a mais moderna tecnologia e diversos equipamentos de conforto que, certamente você desejará usar em suas viagens diárias. Antes da primeira utilização, leia atentamente as informações contidas neste Manual de instruções - Versão Digital para que você conheça de forma rápida e abrangente o veículo, bem como para poder reconhecer e evitar possíveis perigos para si e para terceiros. Caso você tenha mais perguntas sobre o seu veículo ou acredite que a literatura de bordo não esteja completa, entre em contato com nossa Central de Relacionamento ou com a sua Concessionária Volkswagen. Suas dúvidas, sugestões ou críticas são mui
+
+>>> AMOSTRA 2 (ALERTA CRÍTICO DE SEGURANÇA): 04_seguranca/chunk_0036_orientacoes_gerais.txt
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Segurança
+SEÇÃO: Orientações gerais (Parte 3/18)
+PÁGINAS MANUAL: 33 (PDF: 35)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO, NOTA, PERIGO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+---
+Controles ao abastecer Nunca realizar trabalhos no motor ou no compartimento do motor sem o conhecimento das ações necessárias e das precauções de segurança, bem como sem os recursos, fluidos e ferramentas adequadas à disposição -> Página 221 ! Nesse caso, deixar que seja realizado por uma Concessionária Volkswagen ou por uma empresa especializada. Atentar para a verificação regular dos seguintes pontos, preferencialmente ao abastecer: Nível da água dos lavadores dos vidros -> Página 226 Nível do óleo do motor -> Página 226 Nível do líquido de arrefecimento do motor -> Página 231 Nível do fluido de freio -> Página 234 Pressão dos pneus -> Página 246 Iluminação do veículo, necessária para a segurança do trânsito:
+- Indicadores de direção
+- Luz de posição, farol baixo e farol alto
+- Lanterna traseira Informações sobre a troca de lâmpadas incandescentes -> Página 208.
+
+[PERIGO]
+
+Observar as indicações importantes de segurança relativas ao airbag frontal do passageiro dianteiro -> Página 54, Instalação e utilização de cadeiras de crianças no veículo.
+
+[ATENÇÃO]
+
+Conduzir sob a influência de álcool, drogas, medicamentos e/ou entorpecentes pode causar acidentes graves e ferimentos fatais.
+
+- Álcool, drogas, medicamentos e/ou entorpecentes podem diminuir consideravelmente o grau de percepção, os tempos de reação e a segurança da condução, o que pode causar a perda de controle do veículo.
+
+[ATENÇÃO]
+
+Respeitar sempre as regras de trânsito atuais e os limites de velocidade e conduzir preventivamente. A avaliação correta da situação de condução pode fazer a diferença entre chegar ao destino da viagem em segurança e sofrer um acidente com ferimentos graves.
+
+[NOTA]
+
+A Volkswagen não se responsabiliza por danos causados ao veículo em razão de combustível de baixa qualidade, manutenção insuficiente/incorreta e utilização de peças não originais.
+
+>>> AMOSTRA 3 (TABELA TÉCNICA): 22_rodas_e_pneus/chunk_0340_informacoes_importantes_sobre_rodas_e_pneus.txt
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rodas e pneus
+SEÇÃO: Informações importantes sobre rodas e pneus (Parte 11/14)
+PÁGINAS MANUAL: 249-250 (PDF: 251-252)
+FIGURAS REFERENCIADAS: Fig. 189
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Sim
+---
+- Em alguns veículos, a roda de emergência pode ter dimensões diferentes das rodas e pneus -> Página 254, Roda de emergência com dimensões diferentes das rodas de utilização. A roda de emergência com diferentes dimensões pode ser reconhecida por uma etiqueta adesiva e pela inscrição “80 km/h”. Esta inscrição identifica a velocidade máxima com a qual o pneu pode rodar com segurança.
+
+- Jamais conduzir em velocidade superior a 80 km/h. Evitar arranques e frenagens bruscas, bem como curvas em alta velocidade.
+
+- Substituir a roda de emergência o mais rápido possível por uma roda normal. A roda de emergência destina-se apenas para um uso breve.
+
+Inscrição dos pneus e tipo de pneus
+
+Observe no início desse capítulo na página 243.
+
+Fig. 189 Inscrição dos pneus internacional (exemplo).
+
+- Nunca utilizar mais do que uma roda de emergência.
+
+- Após a instalação da roda de emergência, a pressão dos pneus deve ser verificada o mais rápido possível -> Página 246, Pressão dos pneus.
+
+Se possível, fixar firmemente a roda de emergência ou a roda substituída no compartimento de bagagem.
+
+| -> Fig. 189 | Inscrição dos pneus (exemplo) | Significado | |
+| --- | --- | --- | --- |
+| 1 | Nome do produto | Denominação dos pneus individuais do fabricante. | |
+| 2 | DOT | O pneu atende às exigências legais do Ministério dos Transportes quanto as normas de segurança dos pneus (Department of Transportation). | |
+| 3 | JHCO CHWS 2213 | Número de inscrição dos pneus ( a) – em alguns casos, somente na parte interna da roda) e data de fabricação: | |
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 189 no manual original.]

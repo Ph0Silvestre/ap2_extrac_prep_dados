@@ -1,0 +1,32 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: Fluido de freio (Parte 8/8)
+PÁGINAS MANUAL: 238-239 (PDF: 240-241)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Nunca carregar uma bateria do veículo congelada ou que tenha sido descongelada. Uma bateria do veículo descarregada pode congelar em temperaturas em torno de 0 °C.
+
+- Substituir sem falta uma bateria do veículo que já tenha congelado.
+
+- Cabos de conexão que não tenham sido conectados corretamente podem causar um curto-circuito. Primeiramente, conectar o cabo positivo, para então conectar o cabo negativo.
+
+[NOTA]
+
+- Somente é necessário recodificar o rádio, se a bateria for reconectada e o rádio for ligado antes da ignição ser ligada. Caso necessário recodificar o rádio, dirigir-se a uma Concessionária Volkswagen.
+
+- Nunca desconectar ou conectar a bateria do veículo com a ignição ligada ou com o motor em funcionamento nem conectá-la a outra, pois senão o sistema elétrico e os componentes eletrônicos podem ser danificados.
+
+- Nunca conectar na tomada 12 V ou no acendedor de cigarro acessórios que forneçam corrente para carregar a bateria do veículo, como painéis solares ou carregadores de baterias. Caso contrário, o sistema elétrico do veículo pode ser danificado.
+
+As baterias contêm substâncias tóxicas, como ácido sulfúrico e chumbo. Por isso, é proibido o seu descarte / disposição com o lixo doméstico. A legislação determina procedimentos específicos de descarte / disposição de baterias usadas. Para sua maior segurança e conforto, a Volkswagen recomenda fazer a substituição da bateria do veículo somente em uma Concessionária Volkswagen ou em uma empresa especializada.
+
+A solução ácida e o chumbo contidos na bateria, se descartados de forma incorreta, podem contaminar o solo, subsolo e as águas. O consumo de águas contaminadas por chumbo pode causar hipertensão arterial, severos distúrbios gastrointestinais e anemias (desânimo, fraqueza e sonolência).
+
+Observe e no início desse capítulo na página 235.
+
+Bateria do veículo

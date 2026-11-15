@@ -1,0 +1,64 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Conectividade (Parte 1/4)
+PÁGINAS MANUAL: 152-153 (PDF: 154-155)
+FIGURAS REFERENCIADAS: Fig. 114
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+App-Connect No menu App-Connect estão disponíveis as seguintes interfaces:
+
+- Apple CarPlay™1)
+
+- Android Auto™2)
+
+- MirrorLink™3)
+
+Para evitar distrair o condutor, durante a condução somente podem ser utilizados aplicativos especialmente aplicados -> .
+
+Com isso, é possível que as funções e o conteúdo exibidos nos aparelhos móveis sejam exibidos e comandados no display.
+
+[ATENÇÃO]
+
+A utilização de aplicativos durante a condução pode distrair dos acontecimentos do trânsito. A distração do condutor pode provocar acidentes e ferimentos.
+
+- Conduzir sempre de forma atenta e responsável.
+
+[ATENÇÃO]
+
+Um aparelho móvel não fixado ou fixado incorretamente pode ser lançado pelo compartimento interno do veículo em razão de uma manobra súbita de arranque ou de frenagem assim como em um acidente e causar ferimentos.
+
+- Fixar ou guardar em segurança o aparelho móvel sempre de maneira correta e fora da área de expansão do airbag durante a condução.
+
+[ATENÇÃO]
+
+Aplicativos que são realizados inadequada ou impropriamente, podem causar danos ao veículo, acidentes e ferimentos graves.
+
+- A Volkswagen recomenda somente a utilização de aplicativos oferecidos pela Volkswagen para o próprio veículo.
+
+- Proteger o aparelho móvel com os seus aplicativos do mau uso.
+
+- Nunca alterar os aplicativos.
+
+- Observar o manual de instruções do aparelho móvel.
+
+[NOTA]
+
+Em ambientes com prescrições especiais e quando a utilização de aparelhos móveis for proibida, o aparelho móvel deve estar sempre desligado. A irradiação emitida pelo aparelho móvel ligado pode causar interferências em equipamentos técnicos e médicos sensíveis, o que pode resultar em falha de função ou danos nos aparelhos.
+
+A Volkswagen não se responsabiliza por danos causados ao veículo em razão de aplicativos de baixa qualidade ou com defeito, programação insuficiente dos aplicativos, rede insuficiente, por perda de dados na transmissão, ou pelo mau uso de aparelhos móveis.
+
+Informações sobre as premissas técnicas, os aparelhos finais compatíveis, os aplicativos aplicáveis e a disponibilidade estão disponíveis através do www.vw.com.br/conectividade ou nas Concessionárias Volkswagen.
+
+- Ou ainda para mais informações consultar o manual de instruções do aparelho móvel utilizado.
+
+Menu principal do App-Connect
+
+Fig. 114 Menu principal do App-Connect.
+
+Info : exibição de mais informações.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 114 no manual original.]

@@ -1,0 +1,54 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Visibilidade
+SEÇÃO: Limpadores e lavadores dos vidros (Parte 1/8)
+PÁGINAS MANUAL: 90 (PDF: 92)
+FIGURAS REFERENCIADAS: Fig. 74, Fig. 75
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Alavanca dos limpadores dos vidros
+
+Fig. 74 À direita da coluna de direção: comandar os limpadores / lavadores do para-brisa.
+
+Fig. 75 À direita da coluna de direção: comandar o limpador / lavador do vidro traseiro.
+
+Os limpadores dos vidros funcionam somente com a ignição ligada e os lavadores funcionam também com a ignição desligada.
+
+Mover a alavanca dos limpadores do para-brisa para a posição desejada -> :
+
+Limpadores do para-brisa / vidro traseiro desligados.
+
+Temporizador dos limpadores do para-brisa ou operação do sensor de chuva e de luz. O temporizador dos limpadores do para-brisa funciona de acordo com a velocidade de condução. Quanto mais rápido o veículo, mais frequente é a limpeza dos limpadores dos vidros.
+
+x Movimento único dos limpadores do para-brisa – limpeza breve.
+
+Sistema do lavador do para-brisa acionado enquanto a alavanca estiver puxada.
+
+Regular a sensibilidade do sensor de chuva.
+
+Sistema do limpador do vidro traseiro ligado. O limpador do vidro traseiro efetua um movimento a cada 6 segundos, aproximadamente.
+
+Sistema do lavador do vidro traseiro acionado enquanto a alavanca estiver pressionada.
+
+[ATENÇÃO]
+
+Em baixas temperaturas, a água dos lavadores dos vidros sem anticongelante suficiente pode congelar sobre o para-brisa e limitar a visibilidade frontal.
+
+- Utilizar os lavadores dos vidros somente com anticongelante suficiente em temperaturas de inverno.
+
+- Nunca utilizar os lavadores dos vidros em temperaturas de inverno enquanto o para-brisa não tiver sido aquecido com o sistema de ventilação. Caso contrário, o aditivo anti-congelante pode congelar sobre o para-brisa e reduzir a visibilidade.
+
+[ATENÇÃO]
+
+Palhetas dos limpadores dos vidros gastas ou sujas reduzem a visibilidade e aumentam o risco de acidentes e de ferimentos graves.
+
+- Sempre que estiverem danificadas ou gastas, as palhetas dos limpadores dos vidros devem ser substituídas.
+
+[NOTA]
+
+Se a ignição for desligada com os limpadores dos vidros ligados, os limpadores dos vidros continuarão a limpar a partir do mesmo estágio de limpeza quando a ignição for ligada novamente, porém, nesta condição (ignição desligada com os limpadores dos vidros ligados) os limpadores dos vidros retornam para posição de origem. Geada, neve e outros obstáculos sobre o vidro podem ocasionar danos aos limpadores dos vidros e ao motor dos limpadores dos vidros.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 74, Fig. 75 no manual original.]

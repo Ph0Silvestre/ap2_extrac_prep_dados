@@ -1,0 +1,72 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Abreviaturas e Índice remissivo
+SEÇÃO: Visão Geral - Abreviaturas e Índice remissivo (Parte 2/18)
+PÁGINAS MANUAL: 288 (PDF: 290)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+kg Quilograma, unidade de massa no Sistema Internacional de unidades.
+
+Quilo Pascal, unidade padrão de pressão e tensão no Sistema Internacional de Unidades.
+
+kPa Quilowatt, indicação da potência do motor.
+
+kW Litro, unidade de capacidade do sistema métrico.
+
+Diodo emissor de luz (Light Emitting Diode).
+
+LED Metro, unidade de medida de comprimento do Sistema Internacional de unidades.
+
+Milímetro, unidade de comprimento equivalente a um milésimo do metro.
+
+mm Formato para compressão de arquivos de áudio.
+
+MP3 Norma Brasileira.
+
+NBR Newton-metro, unidade de medida para indicação do torque do motor.
+
+Nm o C Graus Celsius, unidade de medida de temperatura.
+
+Número de identificação pessoal.
+
+PIN Programa de controle de emissões veiculares.
+
+PROCONVE Libra por polegada quadrada, indicação de pressão dos pneus.
+
+psi Sistema de dados de rádio para serviços adicionais (Radio Data System).
+
+RDS Rotação do motor por minuto.
+
+rpm Segundos, unidade básica de medida de tempo do Sistema Internacional de unidades.
+
+Módulo de identificação do interlocutor (Subscriber Identity Module).
+
+SIM Serviço de mensagens curtas (Short Message Service).
+
+SMS Tecnologia de display de cristal líquido (Thin-film transistor).
+
+TFT TSI® Injeção direta de combustível com turboalimentação.
+
+Indicador de desgaste do perfil (Trade Wear Indicator).
+
+TWI Padrão de rede móvel (Universal Mobile Telecommunications System).
+
+UMTS Universal Serial Bus.
+
+USB Volts, unidade de medida de diferença de potencial elétrico.
+
+Bitrate variável.
+
+VBR Número do chassi (Vehicle Identification Number).
+
+VIN Número de identificação do veículo parcial com os 8 últimos digitos finais do chassi (Vehicle Indicator Section).
+
+VIS Watts, unidade de medida de energia mecânica ou elétrica, de fluxo térmico e de fluxo energético de irradiação.
+
+Formato para compressão de arquivos de áudio.
+
+WMA Extensão do bloqueio eletrônico do diferencial.

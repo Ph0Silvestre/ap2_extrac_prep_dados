@@ -1,0 +1,40 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Manutenção
+SEÇÃO: Acessórios, reposição de peças, reparos e modificações (Parte 7/9)
+PÁGINAS MANUAL: 273-274 (PDF: 275-276)
+FIGURAS REFERENCIADAS: Fig. 195
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Um telefone móvel que esteja conectado à antena de telefone integrada ao veículo ou a uma antena externa de telefone reduz a emissão da radiação eletromagnética que atua sobre o corpo humano. Além disso, dessa forma uma melhor qualidade de conexão é obtida.
+
+Se o telefone móvel for utilizado no interior do veículo sem o sistema de viva voz, ele não estará fixado com segurança no veículo, tão pouco conectado à antena de telefone externa do veículo. Além disso, o telefone móvel não será recarregado pelo suporte, e é de se esperar que a ligação existente possa ser interrompida e a qualidade da ligação seja afetada.
+
+Assim, utilizar um telefone móvel no veículo somente se ele estiver conectado a um sistema de viva voz. A Volkswagen recomenda utilizar uma antena externa para o uso de telefone móvel no veículo.
+
+Bluetooth® é uma marca registrada da Bluetooth® SIG, Inc.
+
+Um telefone móvel não fixado ou fixado incorretamente pode ser lançado pelo interior do veículo em razão de uma manobra de direção ou de frenagem súbita, bem como em um acidente, e causar ferimentos graves.
+
+- Fixar o telefone móvel, outros aparelhos, bem como acessórios do telefone, como por exemplo, suportes para telefone móvel, bloco de notas e GPS (sistema de posicionamento global) de maneira correta ou acomodálos de maneira segura durante a condução e fora das áreas de expansão do airbag.
+
+[ATENÇÃO]
+
+Ao utilizar um telefone móvel sem conexão com uma antena externa, os valores limite de radiação eletromagnética no veículo podem ser excedidos e, assim, a saúde do condutor e dos passageiros pode ser prejudicada. Isto também é válido com uma antena externa não instalada de maneira correta.
+
+- Manter uma distância mínima de 20 centímetros entre as antenas do telefone móvel e um marca-passo cardíaco, pois telefones móveis podem influenciar na função de marca-passos cardíacos.
+
+- Não carregar telefones móveis ligados no bolso do peito diretamente sobre o marcapasso.
+
+- No caso de suspeita de interferência do telefone móvel com um marca-passo cardíaco ou com outro dispositivo médico, desligar o telefone móvel imediatamente.
+
+Suporte para telefone celular e entrada carregador USB
+
+Fig. 195 No console central: suporte para telefone celular e ajustes.
+
+O suporte para telefone celular pode não estar disponível para todas as versões.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 195 no manual original.]

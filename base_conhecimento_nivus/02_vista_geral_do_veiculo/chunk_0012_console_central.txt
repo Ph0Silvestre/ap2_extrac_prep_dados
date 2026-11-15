@@ -1,0 +1,32 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Vista geral do veículo
+SEÇÃO: Console central (Parte 1/1)
+PÁGINAS MANUAL: 13-14 (PDF: 15-16)
+FIGURAS REFERENCIADAS: Fig. 7, Fig. 8, Fig. 9
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Fig. 7 Vista geral da parte superior do console central.
+
+Fig. 8 Vista geral da parte inferior do console central.
+
+| Legenda para -> Fig. 7: Rádio............................................................................................................................................................................. 1 | | 145 | |
+| --- | --- | --- | --- |
+| 2 | Luz de controle de desativação do airbag frontal do passageiro dianteiro ....................... | 45 | |
+| 3 | Botão para ligar e desligar as luzes de advertência ............................................................................ | 61 | |
+| 4 | Difusores de ar.......................................................................................................................................................... – Dependendo da versão do veículo, podem existir difusores de ar para os passageiros | 96 | |
+| 5 | do banco traseiro. Comandos do ar-condicionado ou do Climatronic.................................................................................... | 96 | |
+| Legenda para -> Fig. 8: Alavanca para: 1 | | | |
+| | – Transmissão automática................................................................................................................................. | 112 | |
+| 2 | Porta-cartão............................................................................................................................................................... | 141 | |
+| 3 | Tomada 12 V.............................................................................................................................................................. | 144 | |
+| 4 | Porta-objetos com porta-copos no console central................................................................................ | 143 | |
+| 5 | Alavanca do freio de estacionamento............................................................................................................ | 132 | |
+| 6 | Botão de partida do motor (Press & Drive)................................................................................................... | 109 | |
+
+Fig. 9 Vista geral do lado do passageiro dianteiro.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 7, Fig. 8, Fig. 9 no manual original.]

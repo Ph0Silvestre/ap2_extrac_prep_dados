@@ -1,0 +1,44 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Garantia e Plano Digital de Serviços
+SEÇÃO: Visão Geral - Garantia e Plano Digital de Serviços (Parte 3/4)
+PÁGINAS MANUAL: 3-4 (PDF: 5-6)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+a) É admissível uma tolerância, para mais, de até 1.000 km ou até um mês.
+
+| Sobre este Manual de instruções | 6 | – Apoios para cabeça | 82 |
+| --- | --- | --- | --- |
+| Significados dos símbolos | 7 | – Funções do banco Iluminação | 84 |
+| Reparos nos componentes do | | – Indicadores de direção | 85 |
+| conceito de segurança do veículo | 8 | – Luzes de condução | 85 |
+| | | – Iluminação interna | 89 |
+| Manual de instruções | | Visibilidade | |
+| | | – Limpadores e lavadores dos vidros | 90 |
+| Vista geral do veículo | | – Espelhos retrovisores | 92 |
+| – Vista frontal | 9 | – Proteção solar | 95 |
+| – Vista traseira – Porta do condutor – Lado do condutor | 10 11 12 | Aquecimento e ar-condicionado – Aquecer, ventilar, refrigerar | 96 |
+| – Console central | 13 | Conduzir | |
+| – Lado do passageiro dianteiro | 14 | – Orientações para condução | 101 |
+| – Símbolos no revestimento do teto | 14 | – Ligar e desligar o motor | 108 |
+| Informações ao condutor – Luzes de advertência e de controle – Instrumento combinado | 15 17 | – Transmissão automática – Sistema de assistência nas subidas – Direção assistida | 112 117 117 |
+| – Comando do instrumento combinado | 28 | Sistemas de assistência ao condutor | |
+| – Comando e indicações no rádio | 29 | – Sistema regulador de velocidade (GRA) | 119 |
+| Segurança – Orientações gerais – Ajustar a posição do banco – Cintos de segurança | 32 34 36 | – Limitador de velocidade – Controle automático de distância (ACC) – Assistente de frenagem de emergência (Front Assist) | 120 122 127 |
+| – Sistema de airbag | 44 | Estacionar e manobrar | |
+| – Transporte de crianças no veículo | 52 | – Estacionar | 131 |
+| – Em caso de emergência | 61 | – Freio de estacionamento | 132 |
+| Abrir e fechar | | – Orientações de segurança para sistemas de estacionamento | 132 |
+| – Chave do veículo – Sistema de travamento e de partida sem chave “Keyless Access” – Portas e botão do travamento central | 64 66 68 | – Auxílio de estacionamento (Park Pilot) – Câmera de marcha a ré (Rear View) – Sistemas de assistência à frenagem | 133 135 137 |
+| – Sistema de alarme antifurto | 72 | Equipamentos práticos | |
+| – Monitoramento do interior do veículo | 73 | – Porta-objetos | 141 |
+| – Tampa traseira | 74 | – Porta-copos | 143 |
+| – Vidros | 76 | – Tomada | 144 |
+| Volante | | Rádios | |
+| – Ajustar a posição do volante | 78 | – Antes do primeiro uso | 145 |
+| Bancos e apoios para cabeça – Banco dianteiro – Bancos traseiros | 79 80 | – Outros documentos aplicáveis – Vista geral de conforto – Recomendações de segurança – Indicações de utilização | 145 145 146 147 |
+| | | – Gestão de energia | 148 |

@@ -1,0 +1,61 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Autoajuda
+SEÇÃO: Fusíveis (Parte 4/5)
+PÁGINAS MANUAL: 216-218 (PDF: 218-220)
+FIGURAS REFERENCIADAS: Fig. 169, Fig. 170, Fig. 171
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Observe e no início desse capítulo na página 212.
+
+Fig. 169 No compartimento do motor em cima da bateria: disposição dos fusíveis.
+
+Os fusíveis estão localizados no compartimento do motor, acima da bateria do veículo -> em Introdução ao tema na página 212.
+
+Os fusíveis no compartimento do motor só deverão ser substituídos por uma empresa especializada. Para isto, a Volkswagen recomenda as Concessionárias Volkswagen.
+
+Abaixo são representadas as localizações com suas respectivas funções e intensidade de corrente em Amperes para os equipamentos que podem estar disponíveis para o seu veículo:
+
+350 A, alternador. 80 A, livre. 150 A, alimentação da caixa de fusíveis do compartimento do motor. 80 A, alimentação 2 da caixa de fusíveis do painel de instrumentos. 125 A, alimentação 1 da caixa de fusíveis do painel de instrumentos. 80 A, direção assistida.
+
+Substituir os fusíveis queimados
+
+Observe e no início desse capítulo na página 212.
+
+Fig. 170 Fusível queimado: fusível plano, fusível de bloqueio.
+
+Fig. 171 Retirar ou colocar o fusível com a pinça de plástico: : fusível plano, : fusível de bloqueio.
+
+Versões de fusíveis
+- Fusível plano padrão (ATO®).
+
+- Fusível plano pequeno (MINI®).
+
+- Fusível de bloqueio (JCASE®).
+
+Identificação da cor dos fusíveis Fusíveis (ATO - MINI)
+
+Corrente nominal em ampere Cor preto marrom claro marrom vermelho azul amarelo branco ou incolor verde laranja 1 A 5 A 7,5 A 10 A 15 A 20 A 25 A 30 A 40 A Fusíveis (JCASE)
+
+Corrente nominal em ampere 20 A 25 A 30 A 40 A 50 A 60 A Cor azul branco ou incolor rosa verde vermelho amarelo Preparações
+- Desligar a ignição, a luz e todos os consumidores elétricos.
+
+- Abrir a respectiva caixa de fusíveis -> Página 213.
+
+neira, um fusível queimado pode ser reconhecido mais facilmente.
+
+- Um fusível plano (ATO®, MINI®) queimado é reconhecido de cima ou de lado pela carcaça transparente nas faixas metálicas derretidas -> Fig. 170 .
+
+- Um fusível de bloqueio (JCASE®) queimado é reconhecido pelas faixas metálicas derretidas por cima da carcaça transparente -> Fig. 170 .
+
+Substituir o fusível
+- Se necessário, retirar a pinça de plástico -> Fig. 171 1 da cobertura da caixa de fusíveis.
+
+- De acordo com a versão do fusível, colocar as garras adequadas do alicate plástico -> Fig. 171 1 ou -> Fig. 171 1 lateralmente no fusível.
+
+- Retirar o fusível queimado.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 169, Fig. 170, Fig. 171 no manual original.]

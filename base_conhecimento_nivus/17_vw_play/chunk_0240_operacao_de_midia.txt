@@ -1,0 +1,42 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: VW Play
+SEÇÃO: Operação de mídia (Parte 1/1)
+PÁGINAS MANUAL: 181-182 (PDF: 183-184)
+FIGURAS REFERENCIADAS: Fig. 141
+ALERTAS PRESENTES: NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Fig. 141 Menu principal: Mídia.
+
+Abrir o menu principal Pressionar o botão de mídia e selecionar a fonte de mídia desejada. Pressionar a seta .
+
+As seguintes fontes de mídias estão disponíveis:
+
+- USB : unidade de armazenamento de dados externa no USB.
+
+- Telefone : áudio Bluetooth®.
+
+Funções básicas
+- Para trocar entre os títulos de mídias pressionar os botões < / > .
+
+- Para interromper a reprodução da mídia, pressionar o botão .
+
+- Para retomar a reprodução, pressionar o botão
+
+- É possível ordenar as mídias por: artista, álbum, músicas, gêneros e arquivos de vídeo.
+
+Modo aleatório Reproduzir áudio aleatório.
+
+Modo de repetição
+- Para repetir todos os títulos, selecionar o modo .
+
+- Para repetir somente o título atual, selecionar o modo .
+
+[NOTA]
+
+Durante a condução a tela é bloqueada para a reprodução de vídeos e jogos.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 141 no manual original.]

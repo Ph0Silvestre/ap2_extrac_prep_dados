@@ -1,0 +1,52 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Telefone (Parte 2/11)
+PÁGINAS MANUAL: 168-169 (PDF: 170-171)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Um telefone móvel ligado pode causar interferências em marca-passos se for carregado diretamente sobre o marca-passo.
+
+- Manter uma distância mínima de 20 centímetros entre as antenas do telefone móvel e do marca-passo cardíaco, pois telefones móveis podem influenciar na função de marcapassos cardíacos.
+
+- Não carregar telefones móveis prontos para operar no bolso do peito diretamente sobre o marca-passo cardíaco.
+
+- Desligar o telefone móvel imediatamente quando houver suspeita de interferências.
+
+[NOTA]
+
+Velocidades altas, condições climáticas e de estradas ruins, bem como a qualidade da rede podem prejudicar uma chamada telefônica no veículo.
+
+Lugares com prescrições especiais
+
+Observe e no início desse capítulo na página 168.
+
+Desligar o telefone móvel e a preparação para telefone móvel em lugares com risco de explosões. Esses lugares são frequentes, porém nem sempre identificados claramente -> em Introdução ao tema na página 168. São locais desse tipo, por exemplo:
+
+- Imediações de tubulações e tanques, nos quais se encontram produtos químicos.
+
+- Conveses inferiores em navios e balsas.
+
+- Imediações de veículos que são acionadas por gás líquido (como, por exemplo, propano ou butano).
+
+- Lugares nos quais se encontram produtos químicos ou partículas como farinha, pó ou pó metálico na atmosfera.
+
+- Qualquer outro lugar no qual o motor do veículo deve ser desligado.
+
+Desligar o telefone móvel em lugares com risco de explosões!
+
+[NOTA]
+
+Em ambientes com prescrições especiais e quando a utilização de telefones móveis for proibida, o telefone móvel deve estar sempre desligado. A radiação emitida pelo telefone móvel ligado pode causar interferências em equipamentos técnicos e médicos sensíveis, o que pode resultar em falha de função ou danos nos aparelhos.
+
+Bluetooth®
+
+Observe e no início desse capítulo na página 168.
+
+Bluetooth® A tecnologia Bluetooth® serve para a conexão de um telefone móvel com o controle do telefone do veículo. Para a utilização do controle do telefone com um telefone móvel Bluetooth® é necessário um único processo de pareamento.
+
+Alguns telefones móveis Bluetooth® são reconhecidos e conectados automaticamente ao ligar a ignição, se anteriormente já houve uma conexão. Ao mesmo tempo, o próprio telefone móvel, bem como o Bluetooth® no telefone móvel, devem estar ligados e todas as conexões Bluetooth® ativas com outros aparelhos devem estar separadas.

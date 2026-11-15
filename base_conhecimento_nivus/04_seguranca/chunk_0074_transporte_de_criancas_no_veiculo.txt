@@ -1,0 +1,35 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Segurança
+SEÇÃO: Transporte de crianças no veículo (Parte 12/12)
+PÁGINAS MANUAL: 61 (PDF: 63)
+FIGURAS REFERENCIADAS: Fig. 44
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Trava de segurança para crianças desativada.
+
+Trava de segurança para crianças ativada.
+
+A trava de segurança para crianças impede a abertura das portas traseiras por dentro, para que crianças não abram a porta durante a condução.
+
+Com a trava de segurança para crianças acionada, a porta somente pode ser aberta pelo lado de fora.
+
+Ativar ou desativar a trava de segurança para crianças
+- Destravar o veículo e abrir a respectiva porta traseira.
+
+- Rebater a haste da chave para fora -> Página 64.
+
+- Introduzir a haste da chave na ranhura da trava de segurança para crianças para ativar ou desativar -> Fig. 44.
+
+[ATENÇÃO]
+
+Com a trava de segurança para crianças ativada, a respectiva porta não pode ser aberta por dentro.
+
+- Nunca deixar crianças ou pessoas com necessidades especiais sozinhas no veículo quando as portas forem travadas. Isto poderá fazer com que estas pessoas fiquem trancadas dentro do veículo em caso de emergência. Pessoas trancadas podem ficar expostas a temperaturas muito altas ou muito baixas, ou ainda com falta de ar.
+
+- Conforme a estação do ano, podem ocorrer temperaturas muito altas ou muito baixas no interior de um veículo fechado, que podem causar ferimentos graves e enfermidades, principalmente em crianças pequenas, levando-as à morte.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 44 no manual original.]

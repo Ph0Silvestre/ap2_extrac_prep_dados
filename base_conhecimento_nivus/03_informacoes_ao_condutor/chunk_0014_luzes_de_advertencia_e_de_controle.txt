@@ -1,0 +1,24 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Informações ao condutor
+SEÇÃO: Luzes de advertência e de controle (Parte 1/3)
+PÁGINAS MANUAL: 15 (PDF: 17)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+As luzes de advertência e de controle indicam alertas -> , avarias -> ou funções específicas. Algumas luzes de advertência e de controle se acendem quando a ignição é ligada, e devem se apagar quando o motor estiver em funcionamento ou durante a condução.
+
+Conforme a versão, o display do instrumento combinado pode exibir mensagens de texto adicionais com informações mais detalhadas ou solicitações para alguma ação -> Página 17.
+
+De acordo com os equipamentos do veículo, é possível que, em vez de uma luz de advertência, um símbolo seja exibido no display do instrumento combinado.
+
+Quando algumas luzes de advertência e de controle se acendem, também soam sinais sonoros.
+
+Símbolo Significado -> Luz de advertência central. Observar as informações adicionais no display do instrumento combinado.
+
+Não prosseguir! Freio de estacionamento puxado. -> Página 132 Não prosseguir! Nível do fluido de freio muito baixo ou sistema de freio avariado. -> Página 234 Pisar no pedal do freio! -> Página 122 Não prosseguir! Temperatura do líquido de arrefecimento do motor muito alta ou nível do líquido de arrefecimento do motor muito baixo. -> Página 231 Não prosseguir! Pressão do óleo do motor muito baixa. -> Página 226 Piscando: Não prosseguir! Direção avariada. -> Página 117 Aceso: direção eletromecânica não funciona. -> Página 117 Alerta de colisão -> Página 128 Cinto de segurança não colocado pelo condutor ou pelo passageiro dianteiro. -> Página 36 Alternador avariado. -> Página 235 Luz de advertência central. Observar as informações adicionais no display do instrumento combinado.
+
+Aceso: ESC avariado ou desligado pelo sistema. -> Página 137 Piscando: ESC ou ASR ativado e atuando. -> Página 137 Controle de tração (ASR) desligado manualmente. -> Página 137 ABS avariado ou não funciona. -> Página 137 Iluminação de condução não funciona parcialmente ou totalmente. -> Página 208 Deficiência no sistema de controle de emissão de poluentes. -> Página 202 Deficiência no controle eletrônico de potência do motor. -> Página 202 Limpadores do para-brisa avariados. -> Página 92 Alerta de colisão desativado. -> Página 130 Controle automático de distância (ACC) não disponível. -> Página 126 Direção eletromecânica reduzida. -> Página 117 Pressão dos pneus muito baixa ou sistema de controle dos pneus avariado. -> Página 240

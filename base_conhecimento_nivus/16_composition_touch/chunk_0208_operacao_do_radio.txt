@@ -1,0 +1,33 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Operação do rádio (Parte 3/14)
+PÁGINAS MANUAL: 159 (PDF: 161)
+FIGURAS REFERENCIADAS: Fig. 124, Fig. 125, Fig. 126
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+| Áreas de função e respectivo significado no me- | Salvar estações | |
+| --- | --- | --- |
+| nu principal do rádio -> Fig. 124 e -> Fig. 125: | Tocar na superfície de função | |
+| lista de estações é fechada au- | -> Fig. 124 ou girar o botão | |
+| tomaticamente depois de al- | de configuração para abrir a lis- | |
+| gum tempo. | ta de estações. | |
+| Atualizar a lista de estações A lista de estações pode ser atualizada manualmente pela superfície de função | Estações já salvas em um botão de estação são identificadas na lista de estações com o símbo- | |
+| -> Fig. 125. | Salvar estação lo . | |
+| Ajustar a frequência de estações manualmente Introduzir a banda de frequências Tocar na superfície de função -> Fig. 124. Mudar a fre- Girar o botão de ajuste. | da lista de estações em um botão de estação Manter pressionado no display para selecionar estação desejada. Tocar no botão de estação desejado, no qual a estação deve ser salva. | |
+| quência passo a passo OU: tocar nos botões de seta direitos ou esquerdos da banda de frequências. | Um sinal sonoro é soado e a estação é salva neste botão de estação. Repetir o procedimen- | |
+| Tocar em um dos botões de seta na parte superior no display | to para salvar outras estações da lista de estações. | |
+| -> Fig. 124. A próxima estação disponível é ajustada automati- | Apagar esta- No menu Configurações do Rádio todas as estações salvas podem | |
+| camente. | ções salvas ser apagadas individualmente | |
+| Percorrer a banda de frequências rapidamente OU: manter pressionado um dos botões de seta -> Fig. 124 em cima no display. Após soltar, a próxima estação de rádio que pode ser recebida é sinto- | ou de uma vez -> Página 160. Busca automática (SCAN) | |
+| nizada automaticamente. | | |
+| OU: manter o dedo pressionado na banda de frequência e puxar o regulador deslizante para deslocá-lo. | | |
+| Pressionar o botão de ajuste brevemente. | | |
+| Ocultar a banda de frequências Quando uma estação é selecionada por um botão de estação, isto também encerra a seleção manual de frequências. Sem comando, a banda de frequências é ocultada automaticamente depois de algum tempo. | Fig. 126 Operação do rádio: busca automática em andamento (SCAN). | |
+| Salvar estações | Com a busca automática em funcionamento, ca- | |
+| Salvar estação atualmente ouvida em um botão de estação Manter pressionado o botão de estação desejado -> Fig. 124 até soar um sinal sonoro. A estação atualmente ouvida é salva nesse botão de estação. | da uma das estações disponíveis é tocada por aproximadamente 5 segundos. No display é exibido SCAN . | |
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 124, Fig. 125, Fig. 126 no manual original.]

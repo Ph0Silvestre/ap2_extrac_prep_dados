@@ -1,0 +1,34 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Conduzir
+SEÇÃO: Transmissão automática (Parte 1/7)
+PÁGINAS MANUAL: 112-113 (PDF: 114-115)
+FIGURAS REFERENCIADAS: Fig. 89
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Transmissão automática: engatar a marcha
+
+Fig. 89 Alavanca seletora da transmissão automática com botão bloqueador (seta).
+
+Dependendo da versão do veículo, a transmissão automática pode não estar disponível.
+
+A marcha engatada ou o programa de condução da transmissão são indicados no instrumento combinado com a ignição ligada.
+- Bloqueio de estacionamento As rodas de tração estão bloqueadas mecanicamente. Engatar somente com o veículo parado. Para tirar a alavanca seletora da posição com a ignição ligada, pisar no pedal do freio e pressionar o botão bloqueador na alavanca seletora.
+- Marcha a ré A marcha a ré está engatada. Engatar somente com o veículo parado.
+- Neutro A transmissão está na posição neutra. Não há transmissão de força para as rodas e o efeito de frenagem do motor não está disponível.
+- Posição permanente para condução para frente Posição de marcha : programa normal Todas as marchas à frente são aumentadas e reduzidas automaticamente. O momento da troca de marcha depende da carga do motor, do estilo de condução individual e da velocidade da condução.
+
+Posição de marcha : programa esporte As marchas são aumentadas mais tarde e reduzidas mais cedo do que na posição de marcha D para aproveitar completamente as reservas de potência do motor. O momento da troca de marcha depende da carga do motor, do estilo de condução individual e da velocidade da condução.
+
+Para trocar entre a posição de marcha D e S, leve a alavanca seletora para trás -> Fig. 89.
+
+Nisto, a alavanca seletora sempre voltará elasticamente à posição D/S. Isto funciona também no curso seletor do Tiptronic -> Página 114.
+
+Bloqueio da alavanca seletora Na posição P ou N, o bloqueio da alavanca seletora impede que uma posição de marcha possa ser engatada por descuido, o que colocaria o veículo involuntariamente em movimento.
+
+Para liberar o bloqueio da alavanca seletora com a ignição ligada, pisar no pedal do freio e mantêlo pressionado. Ao mesmo tempo, pressionar o botão bloqueador da alavanca seletora na direção da seta -> Fig. 89.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 89 no manual original.]

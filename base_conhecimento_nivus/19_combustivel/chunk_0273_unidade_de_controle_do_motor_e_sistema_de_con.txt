@@ -1,0 +1,40 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Combustível
+SEÇÃO: Unidade de controle do motor e sistema de controle de emissões dos gases de escape (Parte 3/3)
+PÁGINAS MANUAL: 204 (PDF: 206)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Luzes de controle Unidade de controle do motor avariada (Electronic Power Control). Acesa: o motor deve ser verificado imediatamente por uma Concessionária Volkswagen. Deficiência de emissões do sistema de escape (OBD). Acesa: diminuir a velocidade. Conduzir com cuidado até uma Concessionária Volkswagen mais próxima. O motor deve ser verificado. Piscando: catalisador avariado. Diminuir a velocidade. Conduzir com cuidado até uma Concessionária Volkswagen ou uma empresa especializada mais próxima. O motor deve ser verificado.
+
+Ao ligar a ignição, algumas luzes de advertência e de controle se acendem rapidamente para verificação da função. Elas se apagam após alguns segundos.
+
+[ATENÇÃO]
+
+A observância das luzes de advertência acesas e das mensagens de texto é essencial para a segurança do condutor e passageiros, evitando possíveis paradas do veículo, bem como eventuais acidentes.
+
+- Nunca ignorar as luzes de advertência acesas e as mensagens de texto.
+
+- Parar o veículo assim que possível em um local seguro a todos os passageiros do veículo e aos demais condutores.
+
+[NOTA]
+
+Observar sempre as luzes de controle acesas e suas descrições e orientações para evitar danos no veículo.
+
+Enquanto as luzes de controle ou estiverem acesas, será necessário contar com avarias do motor, com um maior consumo de combustível e com uma redução da potência do motor.
+
+Considerando-se que é praticamente impossível a fiscalização de todos os postos de combustível, a Volkswagen recomenda que o veículo seja abastecido em postos das Redes de Distribuidores, que tenham programas transparentes, para a certificação da qualidade do produto ofertado.
+
+As Concessionárias Volkswagen estão informadas sobre o que se deve fazer no caso de já se terem formado sedimentos no motor.
+
+Sistema de injeção de combustível O veículo está equipado com um sistema de injeção de combustível que, em condições normais, dispensa qualquer tipo de limpeza periódica, seja com aditivos adicionados ao combustível ou com a desmontagem das válvulas injetoras para limpeza em sistemas de ultrassom.
+
+A limpeza deve ser realizada só quando forem detectadas avarias ou mau funcionamento do motor, em função da utilização de combustível de má qualidade. Nesse caso, a Volkswagen recomenda, que se dirija a uma Concessionária Volkswagen, que possui os aditivos e equipamentos adequados.
+
+[NOTA]
+
+Os danos provocados no motor pela utilização de combustível de qualidade ruim ou insuficiente estão excluídos da garantia.

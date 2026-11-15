@@ -1,0 +1,48 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: Fluido de freio (Parte 2/8)
+PÁGINAS MANUAL: 234-235 (PDF: 236-237)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+[ATENÇÃO]
+
+Uma falha do freio ou um efeito de frenagem reduzido podem ser causados por um nível do fluido de freio muito baixo ou por um fluido de freio muito velho ou inadequado.
+
+- Mandar verificar regularmente o sistema de freio e o nível do fluido de freio!
+
+- Realizar regularmente a troca do fluido de freio.
+
+- Uma solicitação intensa dos freios com fluido de freio velho pode causar uma formação de bolhas de vapor. Bolhas de vapor reduzem o efeito de frenagem, aumentam consideravelmente a distância de frenagem e podem causar a falha total do sistema de freio.
+
+- Atentar para que seja utilizado o fluido de freio correto. Utilizar somente fluido de freio com a especificação DOT 4. Qualquer outro fluido de freio pode restringir a função de frenagem e reduzir o efeito de frenagem.
+
+Não utilizar o fluido de freio se a especificação DOT 4 não constar na embalagem do fluido de freio.
+
+- O fluido de freio reabastecido deve ser novo.
+
+[ATENÇÃO]
+
+O fluido de freio é tóxico.
+
+- Para reduzir o perigo de intoxicação, nunca utilizar garrafas de bebida ou outros recipientes para guardar o fluido de freio. Esses recipientes podem induzir pessoas a beber os líquidos, mesmo quando o recipiente estiver identificado.
+
+- Conservar o fluido de freio sempre nos recipientes originais e fora do alcance de crianças.
+
+[NOTA]
+
+O fluido de freio, derramado ou vazado danifica a pintura do veículo, as peças de plástico e os pneus. Limpar imediatamente o fluido de freio derramado ou vazado sobre a pintura do veículo ou sobre outras peças do veículo.
+
+- Nunca misture fluidos de freio diferentes.
+
+- Limpar a tampa antes de retirá-la e antes de colocá-la no reservatório para fechar.
+
+O fluido do freio pode contaminar o meio ambiente. Coletar e descartar os fluidos utilizados corretamente.
+
+A substituição do fluido de freio exige cuidados especiais, equipamentos e conhecimentos quanto às normas de destinação ambientalmente adequada. Por isto, é proibido o descarte / disposição do fluido de freio e de sua respectiva embalagem com o lixo doméstico. A legislação determina procedimentos específicos nestes casos. Para sua maior segurança e conforto, a Volkswagen recomenda fazer a substituição do fluido de freio em uma Concessionária Volkswagen.
+
+Introdução ao tema A bateria do veículo é parte integrante do sistema elétrico do veículo.

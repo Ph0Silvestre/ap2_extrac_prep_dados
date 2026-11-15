@@ -1,0 +1,46 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Abrir e fechar
+SEÇÃO: Sistema de travamento e de partida sem chave “Keyless Access” (Parte 2/3)
+PÁGINAS MANUAL: 67-68 (PDF: 69-70)
+FIGURAS REFERENCIADAS: Fig. 52
+ALERTAS PRESENTES: NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+[NOTA]
+
+Para veículos com a função Keyless Access, se o travamento central já estiver acionado previamente e a chave do veículo for deixada dentro do compartimento de bagagem, ao fechar a tampa traseira, ela trava e destrava automaticamente em seguida.
+
+Com a bateria do veículo ou a bateria da chave do veículo fraca ou descarregada, possivelmente o veículo não poderá ser destravado ou travado por meio do Keyless Access. O veículo pode ser destravado ou travado manualmente -> Página 70.
+
+Para que seja possível controlar um fechamento bem-sucedido do veículo, desativar a função de destravamento por alguns segundos.
+
+Um veículo com transmissão automática somente poderá ser travado se a alavanca seletora estiver na posição P.
+
+Se a superfície do sensor for tocada duas vezes, é desabilitado o monitoramento interno do veículo, permanecendo o monitoramento de abertura de portas e tampas ativo.
+
+Keyless Access não funciona O funcionamento das superfícies dos sensores pode ser restringido devido ao excesso de sujeira.
+
+- Limpar a superfície do sensor.
+
+Todos os indicadores de direção piscam quatro vezes
+- A chave do veículo utilizada por último se encontra ainda no veículo.
+
+Desligamento automático das superfícies do sensor Nas seguintes condições, as superfícies do sensor se desligam:
+- Quando o veículo não é destravado ou travado por tempo prolongado.
+
+- Quando uma superfície de sensor é acionada com demasiada frequência.
+
+As superfícies do sensor são ativadas:
+
+- Destravar o veículo com o botão da chave do veículo.
+
+[NOTA]
+
+Um forte jato de água ou de vapor pode ativar as superfícies dos sensores nas maçanetas se, ao mesmo tempo, uma chave do veículo válida estiver na área de aproximação. Se no mínimo um vidro estiver aberto e a superfície do sensor -> Fig. 52 B em uma maçaneta da porta for ativada permanentemente, todos os vidros serão fechados. Se o jato de água ou de vapor se afastar brevemente da superfície do sensor -> Fig. 52 A de uma maçaneta da porta e voltar a ser direcionado para ela, possivelmente todos os vidros se abrirão.
+
+Se, no display do instrumento combinado, for exibida a mensagem Keyless com defeito, podem ocorrer falhas de funcionamento no Keyless Access. Procurar uma Concessionária Volkswagen.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 52 no manual original.]

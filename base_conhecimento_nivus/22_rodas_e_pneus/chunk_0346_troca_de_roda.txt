@@ -1,0 +1,47 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rodas e pneus
+SEÇÃO: Troca de roda (Parte 3/6)
+PÁGINAS MANUAL: 254-255 (PDF: 256-257)
+FIGURAS REFERENCIADAS: Fig. 190
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+pressões ou ondulações. Os impactos sofridos ao se passar por obstáculos como estes podem danificar os pneus de seu veículo e as rodas. Se necessário dirigir nestas condições, é imprescindível a verificação posterior dos pneus e das rodas do veículo, ou solicitar o suporte de uma Concessionária Volkswagen ou de uma empresa especializada.
+
+- Se perceber qualquer dano no pneu, é necessário realizar a substituição o mais rápido possível, pois há risco de estouro e perda de controle do veículo.
+
+[ATENÇÃO]
+
+Um uso inadequado da roda de emergência de aro com dimensões diferentes por tempo prolongado, ou por substituição definitiva ao aro 16 e 17 polegadas, pode ocasionar a perda de controle do veículo, colisões ou outros acidentes com riscos de ferimentos graves.
+
+- Jamais conduzir em velocidade superior a 80 km/h com a roda de emergência com dimensões diferentes da roda de utilização do veículo. Evitar arranques e frenagens bruscas, bem como curvas acentuadas.
+
+- Nunca utilize mais de uma roda de aro com dimensões diferentes ao mesmo tempo.
+
+Parafusos da roda
+
+Observe no início desse capítulo na página 253.
+
+Fig. 190 Troca de roda: soltar os parafusos da roda.
+
+Para soltar os parafusos da roda, utilizar somente a chave de roda pertencente ao veículo.
+
+Enquanto o veículo não estiver levantado pelo macaco, soltar os parafusos da roda cerca de uma volta apenas.
+
+Caso haja dificuldade em soltar um parafuso da roda, pressionar cautelosamente com o pé sobre a extremidade da chave de roda. Para isso, segurar-se no veículo e atentar para uma posição segura.
+
+Soltar os parafusos da roda
+- Encaixar a chave de roda no parafuso da roda até o batente -> Fig. 190.
+
+- Segurar na extremidade da chave de roda e girar o parafuso da roda aproximadamente uma volta no sentido anti-horário -> .
+
+Informações importantes sobre os parafusos da roda Os parafusos da roda foram projetados especificamente para as rodas montadas de fábrica. Por isso, para cada mudança de roda devem ser utilizados os parafusos da roda correspondentes, com o comprimento e a convexidade corretos. A correta fixação das rodas e o funcionamento do sistema de freio dependem disto.
+
+Torque de aperto dos parafusos da roda Torque de aperto prescritos para aros de roda de aço e roda de liga leve:
+
+- 120 Nm Parafusos da roda corroídos e de rosqueamento difícil devem ser substituídos e os orifícios rosqueáveis do cubo da roda devem ser limpos antes da verificação do torque de aperto.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 190 no manual original.]

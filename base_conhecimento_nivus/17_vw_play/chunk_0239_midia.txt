@@ -1,0 +1,37 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: VW Play
+SEÇÃO: Mídia (Parte 1/1)
+PÁGINAS MANUAL: 181 (PDF: 183)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Introdução ao tema São designadas como “fontes de mídia” as seguintes fontes áudio que contêm dados de áudio em diferentes unidades de armazenamento de dados, por exemplo, MP3 Player externo, arquivos de áudio. Estes arquivos de áudio podem ser reproduzidos pelas respectivas unidades ou entradas de áudio do sistema de rádio (entrada USB ou interface Bluetooth®).
+
+Direitos autorais Arquivos de áudio e vídeo armazenados em mídia de dados podem estar sujeitos à legislação de proteção de dados e direitos autorais, conforme determinações nacionais e internacionais aplicáveis. Observar as determinações legais.
+
+Não são de responsabilidade da Volkswagen arquivos danificados ou perdidos.
+
+Pré-requisitos do banco de dados e de arquivos Os formatos de arquivo reproduzíveis listados são designados resumidamente como “arquivos de áudio e vídeo”.
+
+Sistema de arquivos
+
+- Arquivos de aúdio MP3 (mp3), WMA (.wma), WAV (.wav), FLAC (.flac) e AAC (.aac).
+- Arquivos de vídeo WMV (.wmv), ASF (.asf), MKV (.mkv), MOV (.mov), AVI (.avi) e MP4 (.mp4).
+- No máximo 2.000 elementos por nível de pasta.
+- No máximo 20.000 ar-quivos de áudio e vídeo por unidade de armazenamento de dados. Tamanho máximo de um arquivo no sistema FAT32: 4GB. Reprodução de ar-quivos de áudio via Bluetooth®a).
+
+Unidade de armazenamento de dados especificada de acordo com USB 2.0.
+
+FAT16, FAT32, NTFS, exFAT, Ext3 e Ext4
+
+- Media Player externo deve suportar o perfil Bluetooth® A2DP. Reprodução de fontes de áudio externas por meio da entrada USB.
+
+- Unidade de armazenamento de dados externa no USB .
+
+a) Bluetooth® é uma marca registrada da Bluetooth® SIG, Inc.
+
+Não são de responsabilidade da Volkswagen arquivos danificados ou perdidos nas mídias de dados.

@@ -1,0 +1,50 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Operação do rádio (Parte 10/14)
+PÁGINAS MANUAL: 165 (PDF: 167)
+FIGURAS REFERENCIADAS: Fig. 110
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Introduzir o cartão SD Introduzir o cartão SD com a borda recortada para cima e as inscrições a esquerda (superfícies de contato para baixo), cuidadosamente na entrada do cartão SD.
+
+Se não for possível inserir um cartão SD, verificar a posição de introdução e o cartão SD.
+
+Ejetar o cartão SD Para evitar a perda de dados, um cartão SD inserido deve ser preparado para a retirada, pelo seguinte processo a seguir: SETUP Remover c/segur. Cartão SD .
+
+Em seguida, pressionar o cartão SD inserido. O cartão SD “salta” para a posição de ejeção e pode ser retirado.
+
+Cartão SD ilegível Se for inserido um cartão SD e os dados não puderem ser lidos, será exibida uma orientação correspondente no display do rádio.
+
+O cartão SD não é de responsabilidade da Volkswagen e não é ofertado em conjunto com o rádio. É necessário adquirir um cartão SD para utilizar no rádio.
+
+Não utilizar nenhum adaptador de cartões SD.
+
+O cartão SD com dados de navegação não pode ser utilizado como memória para outros arquivos, os arquivos salvos não são reconhecidos pelo rádio.
+
+Reprodução de um cartão SD
+
+- Introduzir cuidadosamente o cartão SD, com a borda recortada para cima e as inscrições a esquerda na entrada para cartões SD -> Fig. 110 6 .
+
+- Para retirar o cartão SD, primeiramente ver as configurações do sistema e executar a ação Retirar fonte com segurança. Pressionar ligeiramente o cartão SD, de modo a que este “salte” para a posição de saída.
+
+- Pressionar o botão do rádio MEDIA .
+
+É retomada a reprodução da última fonte de mídia que foi utilizada. Para reproduzir o cartão SD, pressionar o botão .
+
+Na vista das pastas, navegue com o botão de função e o botão seletor. Pressionar para ir para o nível superior das pastas e girar o botão seletor para selecionar a pasta desejada.
+
+Para mudar para o título seguinte ou anterior, pressionar um dos botões de função.
+
+Mantenha um dos botões de setas pressionado por alguns segundos para avançar ou retroceder na reprodução.
+
+Durante a reprodução do cartão SD, encontramse disponíveis algumas teclas de função na parte inferior do display. Os botões de função ativos ficam destacados.
+
+Conexão USB A entrada USB encontra-se na parte frontal do aparelho -> Fig. 110 5 .
+
+Arquivos de áudio em uma unidade de armazenamento de dados externa, conectada à entrada USB , podem ser reproduzidos e controlados pelo aparelho.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 110 no manual original.]

@@ -1,0 +1,16 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Autoajuda
+SEÇÃO: Luz indicadora central (Parte 1/1)
+PÁGINAS MANUAL: 212 (PDF: 214)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+OU e mensagens de texto adicionais
+
+Iluminação de condução não funciona parcial ou totalmente.
+
+Verificar a iluminação do veículo e, se necessário, trocar a respectiva lâmpada incandescente -> Página 208. Se todas as lâmpadas incandescentes estiverem em ordem ou se houver uma avaria procurar uma Concessionária Volkswagen.

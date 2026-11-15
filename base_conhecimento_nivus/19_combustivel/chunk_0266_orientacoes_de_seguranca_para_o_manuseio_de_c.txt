@@ -1,0 +1,36 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Combustível
+SEÇÃO: Orientações de segurança para o manuseio de combustível (Parte 1/2)
+PÁGINAS MANUAL: 199-200 (PDF: 201-202)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+[ATENÇÃO]
+
+Um abastecimento incorreto e o uso inadequado do combustível podem causar explosões, incêndios, queimaduras graves e outros ferimentos.
+
+- Garantir sempre o fechamento correto da tampa do tanque de combustível para evitar a evaporação e o vazamento de combustível.
+
+- O combustível é altamente explosivo e facilmente inflamável e pode causar queimaduras graves e outros ferimentos.
+
+- Abastecer com o motor em funcionamento ou com o bico da bomba desencaixado do bocal de abastecimento do tanque de combustível pode fazer com que o combustível espirre ou transborde. Isso pode causar incêndios, explosões, queimaduras graves e outros ferimentos.
+
+- Por motivos de segurança, desligar o motor e a ignição ao abastecer.
+
+- Ao abastecer, desligar sempre o telefone móvel, rádios portáteis e outros equipamentos de rádio. Radiações eletromagnéticas podem gerar faíscas e, assim, causar um incêndio.
+
+- Nunca entrar no veículo ao abastecer. Se for necessário entrar no veículo, fechar a porta e tocar uma superfície metálica antes de segurar novamente a pistola de abastecimento. Isto impede a geração de descargas eletrostáticas causadoras de faíscas. Ao abastecer, faíscas podem iniciar um incêndio.
+
+- Nunca abastecer ou encher um recipiente para reserva perto de chamas expostas, faíscas ou objetos em brasa, por exemplo, cigarros.
+
+- Evitar descargas eletrostáticas e radiações eletromagnéticas ao abastecer.
+
+- Observar as indicações de segurança do posto de combustível.
+
+- Nunca derramar combustível no veículo ou no compartimento de bagagem.
+
+Por motivos de segurança, a Volkswagen recomenda não carregar um recipiente para reserva de combustível no veículo. Sobretudo em caso de acidente, o recipiente cheio ou vazio pode derramar combustível e se inflamar. Isso pode causar explosões, incêndios e ferimentos.

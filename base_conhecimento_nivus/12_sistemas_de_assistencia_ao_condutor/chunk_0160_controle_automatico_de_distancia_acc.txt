@@ -1,0 +1,60 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Sistemas de assistência ao condutor
+SEÇÃO: Controle automático de distância (ACC) (Parte 3/5)
+PÁGINAS MANUAL: 124-125 (PDF: 126-127)
+FIGURAS REFERENCIADAS: Fig. 96, Fig. 97, Fig. 98
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Conduções em estradas com cascalho.
+
+- Veículos sem impedimento de ultrapassagem à direita: conduções em pistas com diversas faixas quando outros veículos na faixa de ultra-passagem estiverem mais lentos.
+
+Reação com atraso Se o sensor de radar for exposto a condições de meio ambiente que prejudicam seu funcionamento, pode ser que o sistema detecte este fato com atraso. Assim, as limitações possíveis de funcionamento no início da condução e durante a condução só são exibidas com atraso -> em Introdução ao tema na página 123.
+
+Objetos não detectados O sensor de radar apenas detecta veículos que se movem no mesmo sentido. Não detecta:
+- Pessoas
+
+- Animais
+
+- Veículos parados
+
+- Veículos que estão no sentido contrário ou que se cruzam transversalmente
+
+- Outros obstáculos imóveis Por exemplo, se um veículo detectado pelo ACC virar ou mudar de faixa, e se houver um veículo parado à frente deste veículo, o ACC não reagirá ao veículo parado -> Fig. 97 .
+
+Curvas O sensor do radar sempre realiza as medições em sentido reto. Por isso, veículos em curvas fechadas podem ser acidentalmente detectados ou veículos a frente podem não ser detectados -> Fig. 96 .
+
+Nas seguintes situações de condução, o ACC pode não reagir, reagir de modo indesejado ou reagir com atraso:
+- Veículos que conduzem fora da área do sensor em pequena distância do próprio veículo, por exemplo, motocicletas -> Fig. 96 .
+
+- Veículos que mudam para a faixa onde você se encontra com pouca distância do veículo -> Fig. 97 .
+
+- Veículos com acessórios que sobressaem do veículo.
+
+[ATENÇÃO]
+
+Se utilizar o ACC nas situações mencionadas, podem ser provocados acidentes e ferimentos graves, e cometidas possíveis infrações legais.
+
+Ligar e desligar o ACC
+
+Observe no início desse capítulo na página 123.
+
+Fig. 98 Lado esquerdo do volante multifunções: botões para comandar o ACC.
+
+Ligar o ACC
+- Pressione o botão .
+
+O ACC ainda não regula, a luz de controle correspondente à situação de condução se acende em cinza Iniciar a regulagem
+- Pressionar o botão durante a condução para a frente.
+
+O ACC salva a velocidade atual e mantém a distância ajustada. Se a velocidade atual se encontra fora da faixa de velocidades pré-estabelecida, o ACC ajusta a velocidade mínima (em condução a baixa velocidade) ou a velocidade máxima (em condução mais acelerada).
+
+Conforme a situação de condução, as seguintes luzes de controle se acendem:
+
+O ACC está regulando.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 96, Fig. 97, Fig. 98 no manual original.]

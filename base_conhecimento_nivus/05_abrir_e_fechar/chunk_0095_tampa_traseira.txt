@@ -1,0 +1,44 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Abrir e fechar
+SEÇÃO: Tampa traseira (Parte 4/5)
+PÁGINAS MANUAL: 77 (PDF: 79)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Para interromper as funções, soltar o botão de destravamento ou o botão de travamento OU soltar a maçaneta e retirar o dedo da superfície do sensor.
+
+Para isso, uma chave do veículo válida precisa estar na área de aproximação. Se todos os vidros estiverem fechados, as lanternas dos indicadores de direção piscarão uma vez, como confirmação.
+
+Dependendo da versão do veículo e da versão do rádio, podem ser efetuadas no sistema do rádio por meio do botão OU tocar na superfície de seleção e tocar na superfície de função Carro , configurações diferentes para o comando dos vidros -> Página 29.
+
+[ATENÇÃO]
+
+Uma utilização sem a devida atenção dos vidros por acionamento elétrico pode causar ferimentos graves.
+
+- Abrir ou fechar os vidros por acionamento elétrico somente quando não houver nada ou ninguém em sua área de funcionamento.
+
+- Ninguém deve permanecer no interior do veículo quando as portas forem travadas, especialmente crianças e pessoas com necessidades especiais.
+
+- Levar sempre todas as chaves do veículo consigo ao deixar o veículo. Após se desligar a ignição, os vidros ainda podem ser abertos ou fechados pelos botões das portas por um breve período, enquanto a porta do condutor ou do passageiro dianteiro não for aberta.
+
+- Ao transportar crianças no banco traseiro, desativar sempre os vidros elétricos traseiros com o botão de segurança, para que não possam ser abertos ou fechados.
+
+[NOTA]
+
+Com os vidros abertos, a chuva pode molhar o acabamento interno do veículo e ocasionar danos no veículo.
+
+Em uma falha de funcionamento dos vidros elétricos, a função de fechamento e abertura automática, bem como o limitador de força, não funcionam corretamente. Procurar uma Concessionária Volkswagen ou a uma empresa especializada.
+
+Limitador de força dos levantadores dos vidros O limitador de força dos vidros elétricos pode reduzir o perigo de ferimentos por esmagamento durante o fechamento dos vidros.
+
+Quando o processo de fechamento automático de um vidro for afetado por dificuldade de movimentação ou por um obstáculo, o vidro será aberto imediatamente -> .
+
+- Verificar por que o vidro não fechou.
+
+- Tentar fechar o vidro novamente.
+
+- Após alguns acionamentos seguidos do limitador de força, a função de fechamento automático dos vidros poderá ficar fora de funcionamento.

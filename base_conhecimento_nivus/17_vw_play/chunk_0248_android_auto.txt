@@ -1,0 +1,68 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: VW Play
+SEÇÃO: Android Auto™ (Parte 4/5)
+PÁGINAS MANUAL: 187-188 (PDF: 189-190)
+FIGURAS REFERENCIADAS: Fig. 149, Fig. 150
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Notificações : informações do estado do veículo.
+
+Atalhos do menu Configurações Na página principal do menu Configurações há acessos rápidos para algumas configurações.
+
+- OFF Tela: colocar a tela em stand-by.
+
+- Áudio: acessar configurações de áudio.
+
+- Conectar: acessar as configurações de conexões.
+
+- Perfil: alterar os configurações do perfil -> Página 188.
+
+- Luzes: alterar configurações de luzes do veículo.
+
+- Modo Valet: ativa o modo manobrista -> Página 188.
+
+- Brilho: realizar ajuste de brilho da tela.
+
+Redefinir sistema Para redefinir o sistema, pressionar o botão Configurações e no menu Sistema, pressionar o item Redefinir sistema.
+
+É possível redefinir todas as configurações ou individualmente.
+
+Busca Em caso de dúvidas, utilize a barra de busca no menu Configurações.
+
+[ATENÇÃO]
+
+A distração do condutor pode causar acidentes e ferimentos.
+
+- Jamais efetuar configurações durante a condução.
+
+[ATENÇÃO]
+
+Jamais redefinir o sistema com o veículo em movimento.
+
+Para um funcionamento perfeito do rádio, é importante que data e hora estejam corretamente ajustadas no veículo.
+
+Modo manobrista
+
+Fig. 149 Ativação do modo manobrista automático.
+
+Fig. 150 Tela de bloqueio do modo manobrista.
+
+O modo manobrista bloqueia a utilização do rádio e pode ser ativado automaticamente ou manualmente.
+
+É possível ativar o modo manobrista automático através do menu Configurações, acessar Tela e selecionar Valet automaticamente . Quando ativado, o rádio será bloqueado após 10 segundos da abertura da porta do condutor com o motor ligado -> Fig. 149. Para veículos com keyless, o rádio é bloqueado imediatamente quando a chave se afasta do veículo com motor ligado. Para maior conveniência e segurança recomenda-se ativar esta função.
+
+Caso esqueça o código PIN, é necessário restaurar todos os dados e configurações de fábrica. Para restaurar, pressione Restaurar todos os dados e configurações no display.
+
+Configurar código PIN Para configurar o código PIN é necessário acessar o menu Configurações e selecionar o Modo Valet.
+
+O código PIN deve conter 4 dígitos.
+
+Perfil de usuário O rádio possibilita configurar o nome e a imagem do avatar do perfil de usuário.
+
+Para configurar é necessário pressionar o avatar no canto superior direito da tela ou acessar o menu Configurações e pressionar o menu Perfil. Você deve pressionar o botão Editar meu nome e avatar para editar o nome e a imagem do avatar.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 149, Fig. 150 no manual original.]

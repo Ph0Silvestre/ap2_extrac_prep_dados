@@ -1,0 +1,58 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Aquecimento e ar-condicionado
+SEÇÃO: Aquecer, ventilar, refrigerar (Parte 2/5)
+PÁGINAS MANUAL: 97-98 (PDF: 99-100)
+FIGURAS REFERENCIADAS: Fig. 81, Fig. 82
+ALERTAS PRESENTES: NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+[NOTA]
+
+- Se houver dúvidas de que o ar-condicionado possa ter sido danificado, desligar o ar-condicionado. Assim, danos secundários podem ser evitados. O ar-condicionado deve ser verificado por uma Concessionária Volkswagen ou por uma empresa especializada.
+
+- Reparos no ar-condicionado exigem conhecimentos especializados e ferramentas especiais. Para isso, a Volkswagen recomenda as Concessionárias Volkswagen.
+
+Fig. 82 Comandos do Climatronic.
+
+Algumas funções e botões são dependentes da versão e dependem do tipo de sistema montado.
+
+Desligar
+- Ar-condicionado: girar o regulador do ventilador para o nível -> Fig. 81 5 .
+
+- Climatronic: girar o regulador do ventilador para a esquerda até o batente -> Fig. 82 7
+
+- Modo automático Com o botão -> Fig. 82 6 é possível ligar o modo automático do Climatronic.
+
+O modo automático garante temperaturas constantes no interior do veículo. A temperatura do ar, o volume de ar e a distribuição de ar são regulados automaticamente. O funcionamento auto-mático se desliga quando a ventilação é alterada manualmente ou com a alteração da distribuição de ar através do botão -> Fig. 82 4 pressionar.
+
+- Modo de refrigeração
+- Pressionar o botão para ligar e desligar o funcionamento da refrigeração.
+
+No modo de refrigeração o ar é desumidificado.
+
+/ – Temperatura
+- Ar-condicionado: girar o regulador rotativo esquerdo -> Fig. 81 1 .
+
+- Climatronic: girar o regulador rotativo esquerdo -> Fig. 82 9 .
+
+No display do Climatronic -> Fig. 82 8 é indicada a temperatura ajustada.
+
+- Ventilador
+- Ar-condicionado: girar o regulador do ventilador -> Fig. 81 5 .
+
+- Climatronic: girar o regulador do ventilador -> Fig. 82 7 .
+
+- Modo de recirculação de ar No modo de recirculação de ar, não chega ar ex-terno ao interior do veículo -> Página 100.
+- Pressionar o botão -> Fig. 81 6 ou -> Fig. 82 3 .
+
+Distribuição de ar
+- Ar-condicionado: girar o regulador da direita -> Fig. 81 4 para posição desejada.
+
+- Climatronic: pressionar o botão -> Fig. 82 4 para posição desejada, a distribuição selecionada será indicada no display 8 .
+- Distribuição de ar para a parte superior do corpo com o difusor de ar do painel de instrumentos.
+- Distribuição de ar para a área para os pés.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 81, Fig. 82 no manual original.]

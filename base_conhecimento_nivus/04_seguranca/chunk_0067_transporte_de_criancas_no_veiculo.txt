@@ -1,0 +1,32 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Segurança
+SEÇÃO: Transporte de crianças no veículo (Parte 5/12)
+PÁGINAS MANUAL: 55-56 (PDF: 57-58)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: PERIGO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Exceções previstas para o transporte de crianças no banco dianteiro -> .
+
+- Quando a quantidade de crianças com idade inferior a 10 anos exceder a capacidade de lotação do banco traseiro. Neste caso, será admitido o transporte daquela de maior estatura no banco dianteiro, utilizando o cinto de segurança do veículo ou o sistema de retenção adequado à idade da criança.
+
+Um acionamento do airbag frontal do passageiro dianteiro na utilização de uma cadeira de criança voltada para trás pode causar ferimentos graves ou fatais -> .
+
+Cadeiras de criança voltadas para trás somente podem ser utilizadas no banco do passageiro dianteiro se o airbag frontal do passageiro dianteiro estiver desligado. Um airbag frontal do passageiro dianteiro desligado é indicado com uma luz de controle PASSENGER AIR BAG permanentemente acesa no console central. Desligar o airbag frontal do passageiro dianteiro -> Página 49.
+
+Não desativar o airbag frontal do passageiro dianteiro na utilização de uma cadeira de criança voltada para frente. Ao instalar a cadeira de criança, estabelecer a maior distância possível, respeitando as instruções de montagem da cadeira de criança, em relação ao airbag frontal do passageiro dianteiro. Um acionamento do airbag frontal do passageiro dianteiro pode causar ferimentos graves -> .
+
+Nem todas as cadeiras de criança estão aprovadas para o uso sobre o banco do passageiro dianteiro. A cadeira de criança deve estar liberada pelo fabricante especialmente para a utilização no banco do passageiro dianteiro de veículos com airbags dianteiros e laterais. A Concessionária Volkswagen mantém à disposição uma lista atual com as cadeiras de criança liberadas.
+
+Perigos relacionados com os airbags laterais Em um acionamento do airbag lateral, a criança pode ser atingida na cabeça com o airbag e pode ser gravemente ferida -> .
+
+[PERIGO]
+
+Nunca deixar uma criança em uma cadeira de criança voltada para trás no banco do passageiro dianteiro quando o airbag frontal do passageiro dianteiro estiver ligado. A criança pode ser morta no acionamento do airbag frontal, pois a cadeira de criança é atingida com força e lançada contra o encosto do banco.
+
+[PERIGO]
+
+Na utilização de uma cadeira de criança voltada para trás no banco do passageiro dianteiro, é maior o risco de ferimentos graves ou fatais na criança em caso de um acidente.

@@ -1,0 +1,59 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Informações ao condutor
+SEÇÃO: Instrumento combinado (Parte 1/13)
+PÁGINAS MANUAL: 17-18 (PDF: 19-20)
+FIGURAS REFERENCIADAS: Fig. 10, Fig. 11
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Introdução ao tema Dependendo da versão o veículo pode estar equipado com um instrumento combinado analógico ou digital (Active Info Display).
+
+Instrumento combinado analógico
+
+Observe no início desse capítulo na página 17.
+
+Fig. 10 Instrumento combinado analógico no painel de instrumentos.
+
+Alguns controles e funções aqui representados pertencem a determinados modelos e versões ou são opcionais.
+
+1) Dependendo da versão do veículo, o relógio pode ser também ajustado através do menu de configurações no display do rádio.
+
+Após a partida do motor com a bateria do veículo totalmente descarregada ou com uma bateria substituída no veículo, as configurações do sistema (hora, data, configurações de conforto e programações) podem estar desajustadas ou deletadas. Verificar e corrigir as configurações depois que a bateria do veículo tiver sido suficientemente recarregada.
+
+[ATENÇÃO]
+
+A distração do condutor pode causar acidentes e ferimentos.
+
+- Nunca comandar os botões do instrumento combinado durante a condução.
+
+- Realizar todas as configurações dos indicadores do display do instrumento combinado e da exibição do display no sistema do rádio apenas com o veículo parado para reduzir o risco de acidentes e de ferimentos.
+
+Tacômetro (conta-giros) (rotações x 1000 por minuto do motor em funcionamento) -> Página 19.
+
+Botão de ajuste do relógio1) -> Página 25.
+
+Indicadores do display -> Página 21.
+
+Botão para zerar ou para exibição do hodômetro parcial (trip).
+- Pressionar o botão por aproximadamente 2 segundos para zerar o hodômetro parcial.
+
+Velocímetro (medidor de velocidade).
+
+Instrumento combinado digital (Active Info Display)
+
+Observe no início desse capítulo na página 17.
+
+Fig. 11 Active Info Display no painel de instrumentos.
+
+O Active Info Display é um instrumento combinado digital com um display colorido de alta resolução TFT. Com a seleção de diferentes perfis de informação, podem ser representados outros instrumentos redondos clássicos, como tacômetro ou velocímetro.
+
+Dependendo da versão do veículo, o instrumento combinado digital e as funções do indicador de dados de viagem podem não estar disponíveis.
+
+1) Dependendo da versão do veículo, o relógio pode ser também ajustado através do menu de configurações no display do rádio.
+
+Indicador de temperatura do líquido de arrefecimento do motor (depende da versão do veículo) -> Página 21.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 10, Fig. 11 no manual original.]

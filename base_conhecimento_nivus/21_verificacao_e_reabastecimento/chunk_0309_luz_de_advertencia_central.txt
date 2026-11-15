@@ -1,0 +1,26 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: Luz de advertência central (Parte 1/1)
+PÁGINAS MANUAL: 230 (PDF: 232)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Verificar o nível do óleo. Nível do óleo do motor muito baixo. Desligar o motor. Verificar o nível do óleo do motor -> Página 228.
+
+Aceso: nível de óleo do motor muito baixo. Desligar o motor. Verificar o nível do óleo do motor -> Página 228.
+
+Piscando: sistema de óleo do motor avariado. Procurar uma Concessionária Volkswagen ou uma empresa especializada imediatamente.
+
+[ATENÇÃO]
+
+A observância das luzes de advertência acesas e das mensagens de texto é essencial para a segurança do condutor e dos passageiros, evitando possíveis paradas do veículo, bem como eventuais acidentes.
+
+- Nunca ignorar as luzes de advertência e as mensagens de texto.
+
+- Parar o veículo assim que possível em um local seguro a todos os passageiros do veículo e aos demais condutores.
+
+A luz de advertência da pressão do óleo não é um indicador do nível do óleo do motor. O nível do óleo do motor deve ser controlado em intervalos regulares, de preferência sempre que abastecer o tanque de combustível.

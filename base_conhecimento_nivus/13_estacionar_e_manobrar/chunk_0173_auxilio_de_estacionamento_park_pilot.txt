@@ -1,0 +1,44 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Estacionar e manobrar
+SEÇÃO: Auxílio de estacionamento (Park Pilot) (Parte 2/3)
+PÁGINAS MANUAL: 134-135 (PDF: 136-137)
+FIGURAS REFERENCIADAS: Fig. 102
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Função de frenagem de manobra “ativo” na caixa de seleção, através do menu do rádio -> Página 29;
+
+- O sistema de auxilio de estacionamento está ativo, ao se engatar a marcha a ré ou ativar o sistema de auxilio de estacionamento através da tecla dependendo da versão do veículo;
+
+- A velocidade não pode ser maior do que 10 km/h;
+
+A função de frenagem automática está inativa nas seguintes condições:
+
+- Se o auxílio de estacionamento tiver sido ativado automaticamente;
+
+- Por cinco metros depois de uma frenagem na mesma direção, estando ativo novamente após uma troca de marcha.
+
+Tocar na superfície de função , no menu do rádio, para ligar ou desligar a função de frenagem de manobra.
+
+Para a realização da função de frenagem automática, os sensores ultrassônicos do sistema Auxílio de estacionamento e Assistente de direção para estacionamento são utilizados. A prevenção completa de colisão não pode ser garantida por esses sensores ultrassônicos.
+
+Representação no display
+
+Fig. 102 Indicação no sistema do rádio: modo de tela cheia. As áreas registradas dependem da versão do veículo.
+
+No sistema do rádio, as áreas detectadas estão representadas em vários segmentos -> Fig. 102. Quanto mais o veículo se aproxima de um obstáculo, mais o segmento se aproxima do veículo representado. Simultaneamente soam sinais sonoros.
+
+Obstáculo próximo. Soa um som contínuo. Não prosseguir! Obstáculo no percurso do veículo. Soa um som descontínuo. Quanto menor a distância, mais curtos são os intervalos entre os alertas. Obstáculo fora do percurso.
+
+Silenciar os sinais sonoros.
+
+Ligar e desligar a função de frenagem de manobra (dependendo da versão). Comutar para câmera de marcha a ré (dependendo da versão). Sistema na área examinada com falha (dependendo da versão).
+
+Sensor sem visibilidade, aviso de falha, o sistema se desliga No caso de avaria em um sensor, a área de detecção do sensor é desligada de modo permanente.
+
+Falhas de funcionamento do auxílio de estacionamento são exibidas na primeira ligação por meio de uma mensagem de texto com alerta sonoro e pelo piscar da luz de controle no botão . Se os sensores estiverem sujos ou cobertos, o grupo de sensores correspondente é exibido na exibição do display do auxílio de estacionamento. Além disso, uma indicação de limpeza é exibida (dependendo da versão).
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 102 no manual original.]

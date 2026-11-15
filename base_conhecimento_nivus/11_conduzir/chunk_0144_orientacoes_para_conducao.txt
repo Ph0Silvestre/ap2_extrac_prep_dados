@@ -1,0 +1,38 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Conduzir
+SEÇÃO: Orientações para condução (Parte 16/16)
+PÁGINAS MANUAL: 112 (PDF: 114)
+FIGURAS REFERENCIADAS: Fig. 88
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Soluções de problemas
+
+Fig. 88 À direita na coluna de direção: função de partida de emergência em veículos com sistema de travamento e de partida Keyless Access sem chave.
+
+Luzes de controle e de advertência no instrumento combinado As luzes de advertência e de controle estão acesas:
+
+Unidade de controle do motor avariada (Electronic Power Control). O motor deve ser verificado imediatamente por uma Concessionária Volkswagen. Deficiência de emissões do sistema de escape (OBD). Diminuir a velocidade. Conduzir com cuidado até uma Concessionária Volkswagen mais próxima. O motor deve ser verificado.
+
+Chave do veículo não autorizada Quando uma chave do veículo não habilitada é introduzida no cilindro da ignição, ela pode ser retirada da seguinte forma:
+
+- Pressionar e soltar o botão bloqueador da alavanca seletora. Retirar a chave do veículo do cilindro da ignição.
+
+Função de partida de emergência Se não for identificada uma chave do veículo válida no interior do veículo, executar a função de partida de emergência. No display do instrumento combinado aparecerá um indicador correspondente. Este pode ser o caso, por exemplo, da bateria da chave do veículo fraca ou descarregada:
+
+- Manter a chave do veículo diretamente após pressionar o botão de partida à direita da coluna de direção -> Fig. 88.
+
+- A ignição é ligada automaticamente e, se for o caso, é dada a partida no motor.
+
+Desligamento de emergência Se o motor não puder ser desligado pressionando-se brevemente o botão de partida, será preciso executar um desligamento de emergência:
+
+- Pressionar o botão de partida duas vezes dentro de alguns segundos ou manter pressionado uma vez por longo tempo.
+
+- O motor se desliga automaticamente -> em Botão de partida na página 109.
+
+Falha de funcionamento do imobilizador Quando da utilização de uma chave do veículo não válida ou de uma avaria do sistema, surge uma indicação correspondente no display do instrumento combinado. O motor não pode ser ligado. Usar uma chave válida ou procurar uma Concessionária Volkswagen.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 88 no manual original.]

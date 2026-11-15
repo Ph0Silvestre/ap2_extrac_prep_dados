@@ -1,0 +1,58 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rodas e pneus
+SEÇÃO: Troca de roda (Parte 4/6)
+PÁGINAS MANUAL: 255-256 (PDF: 257-258)
+FIGURAS REFERENCIADAS: Fig. 191, Fig. 192
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- 120 Nm Parafusos da roda corroídos e de rosqueamento difícil devem ser substituídos e os orifícios rosqueáveis do cubo da roda devem ser limpos antes da verificação do torque de aperto.
+
+Nunca engraxar ou lubrificar os parafusos da roda ou os orifícios rosqueáveis do cubo das rodas. Eles podem se soltar durante a condução, mesmo com o torque de aperto prescrito.
+
+Após uma troca de roda, o torque de aperto deve ser verificado imediatamente com um torquímetro calibrado.
+
+[ATENÇÃO]
+
+Parafusos da roda apertados incorretamente podem se soltar durante a condução e causar acidentes, ferimentos graves e a perda de controle do veículo.
+
+- Utilizar somente parafusos da roda correspondentes a respectiva roda.
+
+- Nunca utilizar parafusos da roda diferentes.
+
+- Os parafusos da roda e os orifícios rosqueáveis dos cubos das rodas devem estar limpos, de fácil manuseio e sem óleo e graxa.
+
+- Utilizar apenas a chave de roda fornecida de fábrica com o veículo para soltar e apertar os parafusos da roda.
+
+- Enquanto o veículo não estiver levantado pelo macaco, soltar os parafusos da roda cerca de uma volta apenas.
+
+- Se os parafusos da roda forem apertados com um torque de aperto muito baixo, os parafusos da roda e as rodas podem se soltar durante a condução. Um torque de aperto excessivo pode ocasionar danos aos parafusos da roda ou à rosca.
+
+Levantar o veículo com o macaco
+
+Observe no início desse capítulo na página 253.
+
+Fig. 191 Pontos de apoio do macaco.
+
+Fig. 192 Pontos de apoio do macaco e macaco posicionado no lado esquerdo traseiro do veículo.
+
+O macaco somente pode ser posicionado nos pontos de apoio indicados (marcação na carroceria) -> Fig. 191. É válido o ponto de apoio localizado próximo à roda correspondente -> .
+
+Lista de controle Os seguintes pontos devem ser observados na sequência indicada, para garantir a própria segurança e a segurança dos passageiros -> :
+
+1. Escolher um piso plano e firme para levantar o veículo.
+
+2. Desligar o motor, colocar a alavanca seletora na posição P -> Página 112 e puxar o freio de estacionamento -> Página 132.
+
+3. Assegure-se de que todos os passageiros deixem o veículo.
+
+4. Colocar um calço na roda oposta, utilizando uma pedra ou similar.
+
+5. Em condução com reboque: desacoplar o reboque do veículo de tração e estacionar de maneira correta.
+
+6. Soltar os parafusos da roda a ser trocada -> Página 254.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 191, Fig. 192 no manual original.]

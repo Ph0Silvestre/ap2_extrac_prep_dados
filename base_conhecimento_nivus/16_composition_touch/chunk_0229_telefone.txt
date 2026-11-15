@@ -1,0 +1,39 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Telefone (Parte 10/11)
+PÁGINAS MANUAL: 175-176 (PDF: 177-178)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Perfil do usuário: abre o menu Configurações do perfil do usuário -> Página 176.
+
+Lembrete do telefone móvel: se há uma conexão Bluetooth® com um telefone móvel, ao desligar a ignição, é exibida a mensagem “Não esquecer telefone móvel”.
+
+| | No menu principal PHONE, tocar em uma superfície de função livre. |
+| --- | --- |
+| Alocar favorito | Selecionar o contato desejado da lista. Se para o contato desejado mais números de telefone foram salvos, selecionar o número desejado. |
+| | No menu principal PHONE manter o favorito pressionado até que o menu Contatos seja aberto. |
+| Editar favorito | Selecionar o contato desejado da lista. Se para o contato desejado mais números de telefone foram salvos, selecionar o número desejado. |
+| | Para fechar o menu Contatos sem assumir alterações, tocar na superfície de função . |
+
+Observe e no início desse capítulo na página 168.
+
+Abrir o menu Configurações do Bluetooth No menu principal PHONE , tocar na superfície de função . OU: pressionar o botão SETUP . Em seguida, tocar na superfície de função Bluetooth. Tocar na superfície de função para a faixa na qual os ajustes devem ser feitos. Ao fechar um menu, as alterações são assumidas automaticamente.
+
+Superfície de função: efeito Bluetooth: tocar para desligar Bluetooth®. Todas as conexões estabelecidas são separadas.
+
+Visibilidade: ligar e desligar a visibilidade do Bluetooth®. Visível: a visibilidade do Bluetooth® está ativada. Não visível: a visibilidade do Bluetooth® está desativada. A visibilidade do Bluetooth® precisa estar ligada para o pareamento ex-terno de um dispositivo Bluetooth® com o rádio.
+
+Nome: exibe ou altera o nome do dispositivo. Esse nome é exibido em outros dispositivos Bluetooth® nas configurações Bluetooth®.
+
+Dispositivos acoplados: exibe o dispositivo pareado. Desconexão e conexão de aparelhos Bluetooth® individuais e perfis Bluetooth®.
+
+Procurar dispos.: busca por dispositivos Bluetooth® ligados visíveis que se encontram na área de alcance do aparelho. O raio de alcance máximo é de aproximadamente 10 metros.
+
+Áudio BT (A2DP/AVRCP): se uma fonte de áudio externa deve ser conectada com o aparelho por Bluetooth®, essa função deve estar ativa.
+
+Observe e no início desse capítulo na página 168.

@@ -1,0 +1,14 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Informações ao consumidor
+SEÇÃO: Recepção do rádio e antena (Parte 1/1)
+PÁGINAS MANUAL: 279 (PDF: 281)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Nos aparelhos de rádio instalados de fábrica está instalada uma antena com recepção do rádio no teto do veículo.
+
+Podem ocorrer falhas de recepção da banda AM do rádio se aparelhos elétricos como, por exemplo, telefones móveis, forem operados nas proximidades da antena do teto.

@@ -1,0 +1,38 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Operação do rádio (Parte 4/14)
+PÁGINAS MANUAL: 160 (PDF: 162)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Configurações de rádio
+
+- Selecionar a banda de frequência pretendida.
+
+- Tocar em RADIO , para mudar entre as bandas de frequência.
+
+- Tocar em e abrir as configurações pretendidas.
+
+Superfície de função: efeito Scan: busca automática (SCAN). Com a busca automática em funcionamento, cada uma das estações disponíveis da atual faixa de frequências é tocada por aproximadamente 5 segundos -> Página 159.
+
+Som: ajustes do som -> Página 177.
+
+Botões de setas: definir ajustes para botões de setas < e > . O ajuste é assumido para todas as faixas de frequências (FM). Memória: com os botões de seta são trocadas todas as estações salvas da faixa de frequências selecionada. Proc. emis.: com os botões de seta são trocadas todas as estações receptíveis da faixa de frequências selecionada.
+
+Apagar memória: excluir todas ou algumas estações salvas. Todas: todas as estações salvas são excluídas.
+
+Introdução ao tema São designadas como “fontes de mídia” as seguintes fontes áudio que contêm dados de áudio em diferentes unidades de armazenamento de dados, por exemplo, MP3 Player externo, arquivos de áudio. Estes arquivos de áudio podem ser reproduzidos pelas respectivas unidades ou entradas de áudio do sistema de rádio (entrada USB, interface Bluetooth®, cartão SD ou entrada multimídia AUX-IN).
+
+Direitos autorais Arquivos de áudio e vídeo armazenados em mídia de dados podem estar sujeitos à legislação de proteção de dados e direitos autorais, conforme determinações nacionais e internacionais aplicáveis. Observar as determinações legais.
+
+Este produto é protegido pelos direitos de proteção e autorais da Microsoft Corporation. É proibida a utilização ou a comercialização desse tipo de tecnologia fora deste produto sem uma licença da Microsoft ou de uma das filiais autorizadas da Microsoft.
+
+Não são de responsabilidade da Volkswagen arquivos danificados ou perdidos.
+
+Limitações e recomendações relativas aos suportes de dados As sujeiras, temperaturas altas e danos mecânicos podem inutilizar um suporte de dados. Prestar atenção às instruções do fabricante do suporte de dados.
+
+As diferenças de qualidade nos suportes de dados de fabricantes diferentes podem provocar interferências na reprodução.

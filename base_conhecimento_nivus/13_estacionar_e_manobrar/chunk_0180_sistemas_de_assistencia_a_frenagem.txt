@@ -1,0 +1,55 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Estacionar e manobrar
+SEÇÃO: Sistemas de assistência à frenagem (Parte 4/5)
+PÁGINAS MANUAL: 139 (PDF: 141)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Apesar de os sistemas de assistência à frenagem serem muito eficientes e auxiliarem a controlar o veículo em situações difíceis, lembrar sempre que a estabilidade da condução depende da aderência dos pneus.
+
+- Ao acelerar sobre uma pista escorregadia, por exemplo, sobre gelo ou neve, acelerar cautelosamente. Mesmo com os sistemas de assistência à frenagem, as rodas poderão patinar. Isto pode ocasionar a perda de controle do veículo.
+
+[ATENÇÃO]
+
+A eficiência do ESC pode ser bastante reduzida quando outros componentes e sistemas que envolvam a dinâmica do veículo não tiverem recebido manutenção correta ou não estiverem funcionando. Isto se refere também a freios, pneus e outros sistemas mencionados anteriormente, mas não somente a eles.
+
+- Lembrar sempre que conversões e alterações no veículo podem influenciar o funcionamento do ABS, BAS, ASR, EDS e ESC.
+
+- Modificações na suspensão ou a utilização de combinações de rodas e pneus não liberadas podem influenciar o funcionamento do ABS, BAS, ASR, EDS e ESC e reduzir sua eficiência.
+
+- A eficiência do ESC também é definida pelo pneu adequado -> Página 243, Informações importantes sobre rodas e pneus.
+
+[ATENÇÃO]
+
+A condução sem servofreio pode aumentar consideravelmente a distância de frenagem e, assim, causar acidentes e ferimentos graves.
+
+- Nunca deixar o veículo rodar com o motor desligado.
+
+- Se o servofreio não funcionar, o pedal do freio deverá ser pisado com mais força, pois a distância de frenagem aumentará em razão da falta da assistência à força de frenagem.
+
+Em procedimentos de regulagem dos sistemas descritos podem ocorrer ruídos de funcionamento.
+
+Ligar e desligar ASR Se não for atingida propulsão suficiente, você pode desligar o ASR (para veículos com ESC):
+
+- Ao conduzir sobre um piso solto ou sobre neve profunda.
+
+- Ao “giro livre” das rodas do veículo atolado.
+
+Em seguida, voltar a ligar a função ASR.
+
+Desligar e ligar o ASR
+- Dependendo da versão do veículo e da versão do rádio, pressionar o botão no sistema do rádio -> Página 29.
+
+- Abrir o menu Configurações do veículo no sistema do rádio.
+
+- Tocar na superfície de função Sistema ESC: .
+
+- Desligar o ASR: selecionar a opção ASR desativado .
+
+- Ligar o ASR: selecionar a opção Ativado .
+
+- Dependendo da versão do veículo e da versão do rádio, no sistema do rádio por meio do botão OU tocar na superfície de seleção e tocar na superfície de função Carro -> Página 29.

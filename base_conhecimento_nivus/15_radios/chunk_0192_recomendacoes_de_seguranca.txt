@@ -1,0 +1,46 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rádios
+SEÇÃO: Recomendações de segurança (Parte 2/3)
+PÁGINAS MANUAL: 146-147 (PDF: 148-149)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Aparelhos externos soltos ou não fixados corretamente podem ser arremessados no interior do veículo em uma manobra súbita de direção ou de frenagem, bem como em um acidente e causar ferimentos.
+
+- Nunca colocar nem montar aparelhos externos nas portas, no para-brisa, sobre ou próximos à área marcada com “AIRBAG” no volante, no painel de instrumentos, nos encostos dos bancos ou entre essas áreas e o próprio ocupante do veículo. Aparelhos externos podem ocasionar ferimentos graves em caso de acidente, especialmente se os airbags forem acionados.
+
+[ATENÇÃO]
+
+Desligar telefones celulares em lugares com perigo de explosões!
+
+[ATENÇÃO]
+
+Condições de luz desfavoráveis e um display danificado ou sujo podem fazer com que indicações e informações não possam ser lidas no display ou não lidas corretamente.
+
+- Indicações e informações no display nunca devem dar motivo para correr um risco de segurança. O display não tem condições de substituir a atenção do condutor.
+
+Estações de rádio podem transmitir avisos importantes. As seguintes condições podem comprometer a recepção dos sinais de rádio:
+
+- Se a sua localização atual for em regiões com recepção insuficiente ou sem qualquer recepção de sinais de rádio. Estas regiões incluem túneis, desfiladeiros urbanos, garagens, passagens subterrâneas, montanhas e vales.
+
+- Se, em regiões com recepção de sinal de rádio suficiente, as faixas de frequência das estações de rádio estiverem com interferência ou indisponíveis.
+
+- Se os componentes no veículo necessários para recepção do rádio estiverem danificados, inoperantes ou sem energia elétrica suficiente.
+
+[NOTA]
+
+Em ambientes com prescrições especiais e quando a utilização de telefones celulares for proibida, o telefone celular deve estar sempre desligado. A radiação emitida pelo telefone celular ligado pode causar interferências em aparelhagem médica e equipamentos técnicos sensíveis, o que pode resultar em falha de função ou danos nos aparelhos.
+
+[NOTA]
+
+Uma reprodução muito alta ou distorcida pode danificar os alto-falantes do veículo.
+
+[NOTA]
+
+A introdução de objetos, a colocação incorreta e a introdução de unidades de armazenamento de dados de formato e tamanho diferentes podem danificar os leitores de mídia e o rádio.
+
+- Observar a posição correta de inserção ao inserir uma unidade de armazenamento de dados.

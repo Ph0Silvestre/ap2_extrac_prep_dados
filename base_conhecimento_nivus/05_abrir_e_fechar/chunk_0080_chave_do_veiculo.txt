@@ -1,0 +1,60 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Abrir e fechar
+SEÇÃO: Chave do veículo (Parte 2/3)
+PÁGINAS MANUAL: 65-66 (PDF: 67-68)
+FIGURAS REFERENCIADAS: Fig. 50
+ALERTAS PRESENTES: NOTA, PERIGO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Toda chave do veículo contém componentes eletrônicos. Proteger as chaves contra avarias, umidade e vibrações intensas.
+
+Somente pressionar os botões da chave do veículo quando a respectiva função for realmente necessária. Um acionamento desnecessário do botão pode provocar um destravamento involuntário ou o disparo do alarme do veículo. Isso também se aplica quando se acredita estar fora da área de alcance.
+
+Fig. 50 Chave do veículo: substituir a bateria.
+
+Legenda para -> Fig. 50:
+
+Retirar a cobertura.
+
+Retirar a bateria.
+
+A Volkswagen recomenda substituir a bateria em uma Concessionária Volkswagen.
+
+- Rebater a haste da chave para fora.
+
+- Retirar a cobertura 1 no sentido da seta -> .
+
+- Remover a bateria do alojamento da bateria com uma ferramenta adequada 2 .
+
+- Posicionar a nova bateria e pressionar no sentido contrário ao da seta 2 para dentro do alojamento da bateria -> .
+
+- Pressionar a cobertura no sentido contrário ao da seta 1 sobre a carcaça da chave do veículo até encaixar.
+
+[PERIGO]
+
+Se forem ingeridas baterias com diâmetro de 20 mm ou outras baterias de lítio, poderão ocorrer lesões graves ou até fatais em um curto espaço de tempo.
+
+- Conservar sempre a chave do veículo, bem como chaveiros com baterias, baterias de reposição, baterias tipo botão e outras baterias, fora do alcance de crianças.
+
+- Procurar auxílio médico imediatamente se houver suspeita de que uma bateria tenha sido engolida.
+
+[NOTA]
+
+- Uma troca de bateria realizada de forma inadequada pode danificar a chave do veículo.
+
+- Baterias inadequadas podem danificar a chave do veículo. Substituir baterias descarregadas somente por baterias novas com a mesma tensão, tamanho e especificação.
+
+- Na instalação da bateria, observar a polaridade correta.
+
+As baterias contém substâncias tóxicas. Por isto, é proibido o seu descarte / disposição com o lixo doméstico. A legislação determina procedimentos específicos para o descarte / disposição de baterias usadas. Para sua maior segurança e conforto, a Volkswagen recomenda fazer a substituição da bateria em uma Concessionária Volkswagen.
+
+Sincronizar a chave do veículo Quando não for possível destravar ou travar o veículo com a chave do veículo, sincronizar a chave do veículo ou substituir a bateria -> Página 65.
+
+- Rebater a haste da chave para fora.
+
+- Remover a capa de proteção da maçaneta da porta do condutor -> Página 70.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 50 no manual original.]

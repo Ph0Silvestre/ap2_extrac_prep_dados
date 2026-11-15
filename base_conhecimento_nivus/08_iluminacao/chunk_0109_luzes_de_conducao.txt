@@ -1,0 +1,37 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Iluminação
+SEÇÃO: Luzes de condução (Parte 2/5)
+PÁGINAS MANUAL: 86-87 (PDF: 88-89)
+FIGURAS REFERENCIADAS: Fig. 71
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+O controle automático da luz de condução ( ) liga e desliga o farol baixo somente com alterações da luminosidade.
+
+- Ligue o farol baixo manualmente em caso de condições climáticas especiais, por exemplo, neblina.
+
+Ligar e desligar o farol de neblina O farol de neblina pode ser ligado com a ignição ligada e o interruptor das luzes nas posições , luzes de posição e farol baixo :
+- Ligar o farol de neblina : Puxe o interruptor das luzes para fora e girar para a esquerda -> Fig. 71. A luz de controle se acende no interruptor na cor verde.
+
+- Para desligar o farol de neblina pressionar o interruptor das luzes para dentro ou girar para a posição .
+
+Funções das luzes Luz de posição Quando o interruptor das luzes se encontrar na posição , se acendem os dois faróis com a luz de posição, partes da lanterna traseira, a iluminação da placa de licença e os botões no console central e os botões no painel de instrumentos. Com a ignição ligada, também se acende a luz de condução diurna.
+
+Controle automático da luz de condução Dependendo da versão do veículo, o controle automático da luz de condução ( ) pode não estar disponível.
+
+O controle automático da luz de condução é simplesmente um auxílio e não pode reconhecer suficientemente todas as situações de condução.
+
+Com o comando automático da luz de condução em funcionamento, os faróis baixos e as lanternas são automaticamente ligados em virtude do sensor crepuscular detectar que o ambiente ex-terno ao veículo tem baixa luminosidade, como quando se atravessa, por exemplo, um túnel de dia ou quando escurece. Quando o veículo circular em um ambiente com iluminação solar intensa, com o interruptor das luzes na posição , os faróis baixos e as lanternas serão automaticamente desligados pela central elétrica. E será acesa a luz de condução diurna.
+
+O sensor crepuscular está localizado junto ao sensor de chuva -> Página 91.
+
+Farol de conversão (cornering light) Dependendo da versão do veículo o farol de conversão pode não estar disponível.
+
+Em conversões lentas ou em curvas muito fechadas, o farol de conversão se acende automaticamente. O farol de conversão está integrado no farol de neblina e se acende somente ao conduzir com velocidade abaixo de aproximadamente 40 km/h.
+
+Ao engatar a marcha a ré, o farol de conversão pode se acender nos dois lados do veículo durante a manobra.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 71 no manual original.]

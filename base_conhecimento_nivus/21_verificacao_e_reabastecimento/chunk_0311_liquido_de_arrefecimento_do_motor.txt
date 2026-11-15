@@ -1,0 +1,34 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: Líquido de arrefecimento do motor (Parte 2/5)
+PÁGINAS MANUAL: 231-232 (PDF: 233-234)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+O sistema de arrefecimento do motor é abastecido de fábrica com uma mistura de água destilada e de uma parte de 40% de aditivo do líquido de arrefecimento do motor G12evo (TL-VW 774 L).
+
+Essa mistura oferece não somente proteção anti-congelante até -25 °C, como também protege as peças de liga leve do sistema de arrefecimento do motor contra corrosão. Além disso, a mistura evita o acúmulo de calcário e eleva bastante o ponto de ebulição do líquido de arrefecimento do motor.
+
+Para a proteção do sistema de arrefecimento do motor, a parte de aditivo do líquido de arrefecimento do motor deve equivaler sempre a, no mínimo 40%, mesmo em climas quentes, quando não é necessária a proteção anticongelante.
+
+Se, por razões climáticas, for necessária uma proteção anticongelante mais forte, a parte de aditivo no líquido de arrefecimento do motor pode ser aumentada. Contudo, a parte de aditivo no líquido de arrefecimento do motor não pode ultra-passar 60%, porque assim a proteção anticongelante volta a diminuir e há a piora na performace do sistema de arrefecimento.
+
+Ao reabastecer com líquido de arrefecimento do motor, utilizar uma mistura de água destilada e pelo menos 40% de aditivo do líquido de arrefecimento do motor, para manter a proteção anticorrosiva ideal -> .
+
+A mistura de G 12evo com os líquidos de arrefecimento do motor G 13 (TL-VW 774 J), G 12 plusplus (TL-VW 774 G), G 12 plus (TL-VW 774 F) ou G 12 (coloração vermelha) piora sensivelmente a proteção anticorrosiva e, por isso, deve ser evitada.
+
+Nas Concessionárias Volkswagen estão disponíveis informações sobre o líquido de arrefecimento homologado pela Volkswagen. Por isso a Volkswagen recomenda que as trocas do líquido de arrefecimento sejam sempre realizadas em uma Concessionária Volkswagen.
+
+[ATENÇÃO]
+
+Proteção anticongelante insuficiente no sistema de arrefecimento do motor pode levar ao colapso do motor.
+
+- Assegurar que seja prevista a proporção correta de aditivo do líquido de arrefecimento do motor de acordo com a temperatura ambiente na qual o veículo será operado.
+
+[NOTA]
+
+Nunca misturar aditivos do líquido de arrefecimento do motor originais, com outros líquidos de arrefecimento não liberados pela Volkswagen. A mistura com líquidos de arrefecimento não homologados pode causar graves danos ao motor e ao sistema de arrefecimento do motor.

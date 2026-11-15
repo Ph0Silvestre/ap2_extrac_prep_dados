@@ -1,0 +1,42 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Estacionar e manobrar
+SEÇÃO: Orientações de segurança para sistemas de estacionamento (Parte 1/2)
+PÁGINAS MANUAL: 132-133 (PDF: 134-135)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Os seguintes sistemas são sistemas de estacionamento:
+
+- Auxílio de estacionamento -> Página 133.
+
+- Câmera de marcha a ré (Rear View)
+
+-> Página 135 Quais dos sistemas listados estão disponíveis depende da versão do veículo.
+
+Limites dos sistemas de estacionamento Objetos, por exemplo, hastes finas, cercas, postes, árvores, obstáculos muito baixos ou muito altos e tampas traseiras abertas ou se abrindo podem não ser reconhecidos pelos sensores ou câmeras.
+
+Em alguns casos, sujeira ou gelo sobre os sensores ou câmeras podem ser registrados como obstáculo.
+
+Limites da câmera de marcha à ré A câmera de marcha a ré exibe somente imagens bidimensionais no display. Devido à ausência de profundidade, os objetos salientes ou reentrâncias na pista são difíceis de serem identificados ou nem são identificados.
+
+As linhas de orientação são sobrepostas à imagem pelo sistema independentemente dos arredores do veículo, não há um reconhecimento automático de objetos. O condutor é responsável por avaliar se o veículo cabe na vaga de estacionamento.
+
+A tecnologia inteligente dos sistemas de estacionamento não pode ir além dos limites impostos pela física e opera exclusivamente dentro dos limites do sistema. O maior conforto oferecido pelos sistemas de estacionamento não deve levar a assumir uma situação de risco. Os sistemas de estacionamento não podem substituir a atenção do condutor.
+
+- Adequar sempre a velocidade e a forma de condução às condições de visibilidade, climáticas, da pista e do trânsito.
+
+- Movimentos sem supervisão do veículo podem causar ferimentos graves.
+
+- Ter em vista sempre o sentido de estacionamento e as áreas relevantes ao redor do veículo.
+
+- Não deixe a atenção do trânsito ser desviada pelas indicações no display do instrumento combinado ou pelas imagens mostradas no sistema do rádio.
+
+- Observar sempre o entorno do veículo, uma vez que crianças pequenas, animais e objetos não são sempre reconhecidos pelos sistemas de estacionamento.
+
+- Os sistemas de estacionamento possuem campos cegos nos quais pessoas e objetos não podem ser detectados.
+
+- Fontes sonoras externas e determinadas superfícies de objetos e vestimentas podem influenciar os sinais dos sensores. Sob determinadas circunstâncias pessoas e objetos podem não ser detectados ou detectados erroneamente.

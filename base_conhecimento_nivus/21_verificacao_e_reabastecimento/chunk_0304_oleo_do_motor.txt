@@ -1,0 +1,46 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: Óleo do motor (Parte 3/6)
+PÁGINAS MANUAL: 227-228 (PDF: 229-230)
+FIGURAS REFERENCIADAS: Fig. 177, Fig. 178
+ALERTAS PRESENTES: NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Utilizar um recipiente apropriado para a coleta do óleo usado, que possa comportar no mínimo a quantidade total de óleo do motor.
+
+- Nunca utilizar latas de alimentos, garrafas ou outros recipientes vazios para armazenar o óleo do motor, pois assim o óleo do motor ali contido nem sempre poderá ser identificado por outras pessoas.
+
+- O óleo do motor é tóxico e deve ser conservado fora do alcance de crianças.
+
+[NOTA]
+
+Não misturar aditivos lubrificantes adicionais ao óleo do motor. Danos causados por tais aditivos estão excluídos da cobertura em garantia.
+
+A Volkswagen recomenda que o óleo e o filtro sejam substituídos, preferencialmente, em uma Concessionária Volkswagen, que dispõe da ferramenta especial, da competência técnica necessária e está apta a resolver a questão da eliminação do óleo usado de maneira ambientalmente adequada.
+
+- Nunca descartar o óleo usado em jardins, áreas florestais, esgoto, ruas e vias, rios ou afluentes, para não poluir o meio ambiente.
+
+- Para escoar totalmente o óleo usado, utilize um recipiente apropriado e com capacidade suficiente para recolher a totalidade de óleo presente no motor, ver -> Página 285, Capacidades.
+
+Consumo de óleo do motor
+
+Observe no início desse capítulo na página 226.
+
+O consumo de óleo do motor pode variar de motor para motor. Devido à concepção dos motores a combustão interna, para que haja lubrificação adequada dos componentes, parte do óleo lubrificante é consumido durante o funcionamento normal do motor, assim, o consumo de óleo do motor pode variar ao longo da vida útil do motor. Além disso, dependendo da forma de condução e das condições de uso do veículo, o consumo de óleo pode chegar até 0,5 l em 1.000 km. Por isso, o nível do óleo do motor deve ser verificado em intervalos regulares – de preferência a cada abastecimento ou antes de viagens longas Em caso de alta demanda do motor, o nível do óleo do motor deve estar o mais próximo possível da área -> Fig. 177 A – sem ultrapassar, como, por exemplo, em longas conduções em estrada durante o verão ou durante travessias de montanhas.
+
+Verificar o nível do óleo do motor e reabastecer com óleo do motor
+
+Observe no início desse capítulo na página 226.
+
+Fig. 177 Vareta de medição do óleo com marcas de nível do óleo do motor.
+
+Fig. 178 No compartimento do motor: tampa da abertura para enchimento de óleo do motor.
+
+Legenda para -> Fig. 177:
+
+O óleo do motor não pode ser reabastecido.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 177, Fig. 178 no manual original.]

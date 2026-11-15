@@ -1,0 +1,36 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Manutenção
+SEÇÃO: Acessórios, reposição de peças, reparos e modificações (Parte 2/9)
+PÁGINAS MANUAL: 270-271 (PDF: 272-273)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Instalar apenas peças que correspondam à versão e às características originais de fábrica do veículo.
+
+- Utilizar apenas combinações de rodas e pneus liberadas pela Volkswagen para o modelo de veículo.
+
+Reparos e modificações técnicas Em caso de reparos e modificações técnicas, as diretrizes Volkswagen devem ser estritamente seguidas -> !
+
+Intervenções nos componentes eletrônicos e nos respectivos softwares podem ocasionar falhas de funcionamento. Devido à configuração em rede dos componentes eletrônicos, avarias podem comprometer também sistemas que não estejam diretamente envolvidos. Isso implica em um sério comprometimento da segurança de condução do veículo, no aumento do desgaste das peças do veículo e, por fim, na perda de funcionalidade operacional.
+
+A Concessionária Volkswagen não pode oferecer garantia contra danos que tenham sido causados por modificações técnicas e reparos inadequados.
+
+A Concessionária Volkswagen não é responsável por danos originados por modificações técnicas e reparos inadequados. Tais danos também não são cobertos pela garantia Volkswagen.
+
+A Volkswagen recomenda que todas as modificações técnicas e reparos sejam realizados pelas Concessionárias Volkswagen autorizadas com Peças Originais Volkswagen.
+
+[ATENÇÃO]
+
+Reparos e modificações realizados de forma inadequada podem causar deficiências de funcionamento e danos ao veículo e comprometer a eficácia do sistema de assistência ao condutor. Isso pode ocasionar acidentes e ferimentos graves.
+
+- Reparos e modificações no veículo só devem ser realizados por uma Concessionária Volkswagen.
+
+Reparos e limitações do sistema de airbag Em caso de reparos e modificações técnicas, as diretrizes Volkswagen devem ser estritamente seguidas -> !
+
+Modificações e reparos no para-choque dianteiro, nas portas, no revestimento do teto ou na carroceria devem ser realizados somente por uma Concessionária Volkswagen. É possível que essas peças do veículo estejam equipadas com componentes do sistema e com sensores do sistema de airbag.
+
+Durante todos os trabalhos no sistema de airbag, bem como na instalação e desinstalação de suas peças em razão de outros reparos, é possível que peças do sistema de airbag sejam danificadas. Isso pode fazer com que os airbags funcionem ou não funcionem corretamente em caso de acidente.

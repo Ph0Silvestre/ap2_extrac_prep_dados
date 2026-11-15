@@ -1,0 +1,64 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Informações ao condutor
+SEÇÃO: Instrumento combinado (Parte 13/13)
+PÁGINAS MANUAL: 27-28 (PDF: 29-30)
+FIGURAS REFERENCIADAS: Fig. 17
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+A quilometragem ou o tempo especificado correspondem a quilometragem ou o período até o próximo serviço.
+
+Realização do serviço Quando um serviço estiver para vencer ressoa, ao ligar a ignição, um sinal sonoro e por um breve período pode aparecer no display do instrumento combinado o símbolo da chave fixa junto com outras exibições -> Fig. 17.
+
+Consultar o prazo de serviço Com a ignição ligada, o motor desligado e o veículo parado, é possível acessar o prazo de serviço atual:
+
+Consulta do prazo de serviço no sistema do rádio, dependendo da versão do veículo e da versão do rádio.
+
+- Pressionar o botão do rádio .
+
+- Tocar na superfície de função para abrir o menu Configurações do veículo.
+
+- OU
+
+- Tocar na superfície de seleção .
+
+- Tocar na superfície de função Carro para abrir o menu.
+
+- Selecionar o item de menu Serviço para exibir informações de serviço.
+
+Veículos com instrumento combinado analógico.
+
+- Pressionar e manter o botão no instrumento combinado pressionado até aparecer a inscrição Serviço no display.
+
+- Soltar o botão e aguardar aproximadamente dois segundos ou pressionar o botão . O prazo de serviço atual é exibido no display.
+
+Veículos com instrumento combinado digital (Active Info Display).
+
+- O prazo pode ser consultado através do menu de Serviços -> Página 26.
+
+Reinicializar o indicador do intervalo de serviço Se o serviço não tiver sido realizado em uma Concessionária Volkswagen, o indicador no instrumento combinado poderá ser reinicializado da seguinte forma:
+
+Veículos com instrumento combinado analógico.
+
+- Desligar a ignição.
+
+- Pressionar e manter pressionado o botão no instrumento combinado.
+
+- Ligar a ignição novamente.
+
+- Soltar o botão .
+
+- Confirmar a pergunta de reiniciar o serviço no painel de instrumentos com o botão .
+
+Veículos com instrumento combinado digital (Active Info Display).
+
+- O indicador do intervalo de serviço apenas pode ser reiniciado através do menu de Serviços -> Página 26.
+
+Não reinicializar o indicador do intervalo de serviço entre os intervalos dos serviços. Isso pode gerar indicações incorretas.
+
+A mensagem de serviço se apaga após alguns segundos com o motor em funcionamento ou após pressionar o botão ou no instrumento combinada, ou ainda no botão OK do volante multifunções.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 17 no manual original.]

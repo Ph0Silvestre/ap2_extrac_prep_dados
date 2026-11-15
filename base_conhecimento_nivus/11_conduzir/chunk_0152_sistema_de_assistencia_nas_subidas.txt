@@ -1,0 +1,39 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Conduzir
+SEÇÃO: Sistema de assistência nas subidas (Parte 1/1)
+PÁGINAS MANUAL: 117 (PDF: 119)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: CUIDADO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+O sistema de assistência em subidas (HHC - Hill Hold Control) auxilia o condutor no arranque em aclives, segurando o veículo.
+
+As seguintes condições devem ser atendidas simultaneamente:
+
+Manter o veículo parado com o pedal do freio em uma subida de aproximadamente 5%.
+
+O motor funciona “de maneira regular”.
+
+Com a alavanca seletora na posição D/S para conduzir para frente ladeira acima ou na posição R para conduzir de ré ladeira acima.
+
+Para o arranque, tirar o pé do pedal do freio e acelerar de acordo com necessário. O freio é liberado lentamente no arranque.
+
+O sistema de assistência nas subidas é imediatamente desativado:
+- Assim que uma das condições mencionadas acima não for mais atendida -> Página 117, O sistema de assistência em subidas é ativado automaticamente sob as seguintes premissas.
+
+- Se a porta do condutor for aberta.
+
+- No caso de funcionamento irregular ou deficiências no motor.
+
+- Se o motor for desligado ou morrer.
+
+[CUIDADO]
+
+- Se o veículo não arrancar imediatamente depois de se soltar o pedal do freio, poderá eventualmente rodar para trás. Acione, neste caso, imediatamente o pedal do freio ou puxe o freio de estacionamento.
+
+- Se o motor morrer, acione imediatamente o pedal do freio ou puxe o freio de estacionamento.
+
+- Se estiver em uma subida, com trânsito intenso, e pretender evitar que o veículo rode para trás no arranque, acione o pedal do freio durante alguns segundos, antes de arrancar.

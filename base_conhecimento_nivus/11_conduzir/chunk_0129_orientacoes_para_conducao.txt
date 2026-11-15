@@ -1,0 +1,60 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Conduzir
+SEÇÃO: Orientações para condução (Parte 1/16)
+PÁGINAS MANUAL: 101-102 (PDF: 103-104)
+FIGURAS REFERENCIADAS: Fig. 83, Fig. 84
+ALERTAS PRESENTES: ATENÇÃO, CUIDADO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Pedais
+
+Fig. 83 Na área para os pés: pedais em veículos com transmissão automática.
+
+Legenda para -> Fig. 83:
+
+Pedal do acelerador Pedal do freio O acionamento e a liberdade de movimento de todos os pedais nunca devem ser limitados por objetos ou tapetes para os pés.
+
+Utilizar somente tapetes que deixem a região dos pedais livre e que estejam fixados com segurança e que não escorreguem na área para os pés.
+
+[ATENÇÃO]
+
+Objetos na área para os pés do condutor podem impedir o livre acionamento dos pedais. Isto pode causar a perda de controle do veículo e aumentar o risco de ferimentos graves.
+
+- Atentar para que todos os pedais possam ser acionados sem impedimentos.
+
+- Acomodar os tapetes sempre com segurança na área para os pés.
+
+- Nunca colocar tapetes para os pés ou outros revestimentos de assoalho sobre o tapete para os pés instalado.
+
+- Atentar para que nenhum objeto possa alcançar a área para os pés do condutor durante a condução.
+
+O acionamento dos pedais deve estar desimpedido o tempo todo. Desta forma, em caso de falha de um circuito do freio, por exemplo, é necessária uma distância de frenagem maior para parar o veículo. Nesse caso, pisar no pedal do freio mais fundo e forte que o usual.
+
+Recomendação de troca de marcha
+
+Fig. 84 No instrumento combinado: indicador de troca de marcha.
+
+Legenda para -> Fig. 84:
+
+Marcha atual engatada.
+
+Marcha recomendada para o engate.
+
+Dependendo do equipamento do veículo, durante a condução pode ser exibida no display do instrumento combinado uma recomendação para seleção de uma marcha que economize mais combustível.
+
+A alavanca seletora da transmissão automática deve estar na posição Tiptronic -> Página 112.
+
+Se a marcha ideal estiver selecionada não é recomendada nenhuma marcha. É exibida a marcha atual engatada.
+
+[CUIDADO]
+
+A recomendação de marcha é apenas um meio auxiliar e não deve interferir na atenção do condutor com o trânsito à sua volta.
+
+- O indicador de troca de marcha visa tão somente auxiliar o condutor a obter uma maior economia de combustível. É de exclusiva responsabilidade do condutor avaliar, durante a condução se as condições do veículo, da pista e do trânsito permitem que seja seguido o indicador de troca de marcha, como, por exemplo, em ultrapassagens ou na condução do veículo totalmente carregado.
+
+Os textos de advertência podem variar, dependendo da versão do instrumento combinado.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 83, Fig. 84 no manual original.]

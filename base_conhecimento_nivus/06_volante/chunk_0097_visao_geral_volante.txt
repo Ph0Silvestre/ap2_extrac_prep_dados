@@ -1,0 +1,24 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Volante
+SEÇÃO: Visão Geral - Volante (Parte 1/1)
+PÁGINAS MANUAL: 78 (PDF: 80)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+O limitador de força também ocorre no fechamento de conforto dos vidros com a chave do veículo.
+
+Soluções de problemas Restabelecer a função automática de fechamento e abertura dos vidros Se a bateria do veículo tiver sido desconectada ou descarregada com os vidros não fechados por completo ou, ainda, após alguns acionamentos da função limitador de força, a função automática de fechamento e abertura estará desativada e deverá ser restabelecida:
+
+- Ligar a ignição.
+
+- Fechar todos os vidros e todas as portas.
+
+- Puxar o botão do respectivo vidro para cima e manter nesta posição por alguns segundos.
+
+- Soltar o botão e puxar novamente para cima e segurar. A função automática de fechamento e abertura está pronta para o uso.
+
+É possível restabelecer os vidros elétricos auto-máticos individualmente ou para vários vidros simultaneamente.

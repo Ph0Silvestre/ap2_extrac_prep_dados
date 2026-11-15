@@ -1,0 +1,47 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Combustível
+SEÇÃO: Tipos de combustível e abastecimento (Parte 1/3)
+PÁGINAS MANUAL: 200-201 (PDF: 202-203)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Introdução ao tema A portinhola do tanque de combustível está localizada do lado direito da traseira do veículo.
+
+Na parte interna da portinhola do tanque de combustível há uma etiqueta adesiva com a indicação do tipo de combustível apropriado para o veículo.
+
+[ATENÇÃO]
+
+O uso inadequado do combustível pode causar explosões, incêndios, queimaduras graves e outros ferimentos.
+
+- O combustível é altamente explosivo e facilmente inflamável.
+
+- Manter qualquer tipo de chama (como aquelas produzidas por isqueiros), peças quentes e faíscas longe do combustível.
+
+- Observar as indicações de segurança e as prescrições locais válidas para o uso de combustíveis.
+
+[NOTA]
+
+- Se o veículo TOTALFLEX ficar imobilizado por “falta de combustível”, será necessário abastecer o veículo com o mesmo tipo do último combustível utilizado - gasolina ou etanol.
+
+- Se for necessário abastecer o tanque com combustível diferente do que estava sendo utilizado, poderá ocorrer:
+- Perceptíveis quedas no rendimento do motor.
+
+- O veículo deverá percorrer aproximadamente 5 quilômetros para reconhecer o novo combustível, para que não ocorra uma das situações acima.
+
+Quando os airbags são acionados em um acidente, a alimentação de combustível é interrompida -> Página 48.
+
+Observe e no início desse capítulo na página 200.
+
+Tipos de gasolina O veículo deve ser abastecido somente com gasolina do tipo C, sem chumbo ou outros aditivos metálicos (por exemplo, manganês), com porcentagem de etanol anidro definida pela legislação vigente no país.
+
+Aditivos para gasolina A qualidade da gasolina influencia o comportamento de rodagem, a potência e a vida útil do motor. Por isso, abastecer com gasolina de qualidade e, quando necessário, utilizar os aditivos adequados.
+
+A utilização de aditivos para gasolina inadequados pode causar sérios danos ao motor e danificar o catalisador. Aditivos para gasolina com metal não devem ser usados em nenhuma hipótese.
+
+[NOTA]
+
+- Se, em caso de emergência, o veículo precisar ser abastecido com gasolina com maior ou menor proporção de etanol anidro, o motor deve ser conduzido com rotação média e com menor demanda. Evitar as altas rotações e demandas intensas do motor. Caso contrário, podem ocorrer danos ao motor! Assim que possível, reabastecer com a gasolina recomendada.

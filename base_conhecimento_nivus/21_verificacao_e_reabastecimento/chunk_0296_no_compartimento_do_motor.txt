@@ -1,0 +1,42 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: No compartimento do motor (Parte 3/6)
+PÁGINAS MANUAL: 222 (PDF: 224)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Nunca encostar na área do ventilador do radiador ou diretamente na ventoinha. O contato com as lâminas do rotor pode causar ferimentos graves. A ventoinha é controlada por temperatura e pode ligar por conta própria - mesmo com a ignição desligada ou com a chave do veículo fora do cilindro da ignição.
+
+- Quando for necessário realizar trabalhos durante o processo de partida ou com o motor em funcionamento, existe um perigo de morte devido às peças giratórias, por exemplo, correia dentada ou Poly-V, gerador, ventilador do radiador e devido ao sistema de ignição de alta tensão. Agir sempre com extrema cautela.
+- Atentar sempre para que nenhuma parte do corpo, joias, gravatas, peças de roupa folgadas e cabelos compridos possam alcançar peças giratórias do motor. Antes do trabalho, remover sempre joias e gravatas, prender cabelos compridos para cima e apertar todas as peças de roupa contra o corpo para evitar que se prendam em peças do motor.
+- Acionar o pedal do acelerador sempre com cautela e nunca desatentamente. O veículo pode entrar em movimento mesmo com o freio de estacionamento puxado.
+
+- Não deixar nenhum objeto como, por exemplo, panos de limpeza ou ferramentas no compartimento do motor. Objetos deixados para trás podem causar deficiências de funcionamento, danos ao motor e um incêndio.
+
+[ATENÇÃO]
+
+Isolamentos adicionais, como cobrir o compartimento do motor, podem avariar o funcionamento do motor, causar incêndios e ocasionar ferimentos graves.
+
+- Nunca cobrir o motor com capas ou outros isolamentos.
+
+[ATENÇÃO]
+
+Fluidos e alguns materiais no compartimento do motor são facilmente inflamáveis e podem causar incêndios e ferimentos graves!
+
+- Nunca fumar nas proximidades do compartimento do motor.
+
+- Nunca trabalhar nas proximidades de chamas expostas ou faíscas.
+
+- Nunca derramar fluidos sobre o motor. Estes podem inflamar com peças quentes do motor e causar ferimentos.
+
+- Se forem necessários trabalhos no sistema de combustível ou no sistema elétrico, observar o seguinte:
+- Desconectar sempre a bateria do veículo.
+
+Atentar para que o veículo esteja destravado quando a bateria do veículo for desconectada, pois, caso contrário, o sistema de alarme será ativado.
+- Nunca trabalhar perto de aquecimentos, aquecedores de passagem ou outras chamas expostas.
+
+[NOTA]

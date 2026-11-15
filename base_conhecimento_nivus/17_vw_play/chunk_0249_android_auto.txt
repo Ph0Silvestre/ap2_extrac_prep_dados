@@ -1,0 +1,14 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: VW Play
+SEÇÃO: Android Auto™ (Parte 5/5)
+PÁGINAS MANUAL: 188 (PDF: 190)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Para configurar é necessário pressionar o avatar no canto superior direito da tela ou acessar o menu Configurações e pressionar o menu Perfil. Você deve pressionar o botão Editar meu nome e avatar para editar o nome e a imagem do avatar.
+
+Também é possível editar o código PIN, acessar o menu Configurações e pressionar o menu Perfil, selecionar Editar código PIN e digitar novamente o código com 4 dígitos.

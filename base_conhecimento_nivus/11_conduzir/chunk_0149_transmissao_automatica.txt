@@ -1,0 +1,44 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Conduzir
+SEÇÃO: Transmissão automática (Parte 5/7)
+PÁGINAS MANUAL: 116 (PDF: 118)
+FIGURAS REFERENCIADAS: Fig. 92
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+As luzes de controle acendem.
+
+Não prosseguir! Transmissão avariada. Deixar a transmissão esfriar na posição da alavanca seletora P. Se o alerta não apagar, não prosseguir e procurar auxílio técnico especializado. Caso contrário, podem ocorrer danos significativos à transmissão. Pedal do freio não pressionado, por exemplo, durante a tentativa de selecionar outra posição de marcha com a alavanca seletora. Para engatar uma posição de marcha, pisar no pedal do freio.
+
+As luzes de controle piscam.
+
+O botão bloqueador da alavanca seletora não está pressionado. O arranque é impedido. Encaixar o bloqueio da alavanca seletora -> Página 113.
+
+Solução de problema no bloqueio da alavanca seletora Em casos raros, em veículos com transmissão automática, o bloqueio da alavanca seletora pode não engatar. A propulsão é, então, desenergizada para impedir um arranque sem supervisão. A luz de controle pisca e, adicionalmente, é exibido um texto de informação. Para engatar o bloqueio da alavanca seletora, proceder da seguinte forma:
+
+- acionar o pedal do freio e soltar o pedal novamente.
+
+Destravamento emergencial da alavanca seletora Se o veículo tiver que ser rebocado durante uma falha da alimentação de corrente, por exemplo, bateria do veículo 12 V descarregada, deve ser realizado um destravamento de emergência do bloqueio da alavanca seletora. Para isso, procurar auxílio técnico especializado.
+
+O destravamento de emergência encontra-se abaixo da cobertura do quadro da alavanca seletora.
+
+Desmontar a cobertura da alavanca seletora
+- Puxar o freio de estacionamento.
+
+- Desligar a ignição.
+
+na região da guarnição da alavanca seletora com os cabos elétricos conectados.
+
+- Inverter a cobertura para cima sobre a alavanca seletora -> .
+
+Destravar emergencialmente o bloqueio da alavanca seletora
+- Com o auxílio de uma chave de fenda pressionar cuidadosamente a alavanca de destravamento no sentido da seta e manter nessa posição -> Fig. 92.
+
+- Pressionar o botão bloqueador na alavanca seletora e levar a alavanca para a posição N.
+
+- Após o destravamento emergencial recolocar e pressionar cuidadosamente a cobertura no console central, atentando para a correta posição dos cabos elétricos.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 92 no manual original.]

@@ -1,0 +1,60 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Sistemas de assistência ao condutor
+SEÇÃO: Sistema regulador de velocidade (GRA) (Parte 1/2)
+PÁGINAS MANUAL: 119-120 (PDF: 121-122)
+FIGURAS REFERENCIADAS: Fig. 93
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Introdução ao tema O sistema regulador de velocidade (GRA) auxilia o condutor a manter constante uma velocidade configurada.
+
+Dependendo da versão do veículo, o sistema regulador de velocidade (GRA) pode não estar disponível.
+
+Faixa de velocidades O GRA está disponível para condução para frente a partir de cerca 20 km/h.
+
+Indicadores do display Se o GRA for desligado, o display do instrumento combinado exibirá a velocidade salva e o status do GRA:
+
+GRA ativo.
+
+Representado pequeno ou cinza: o GRA não regulando. Representado grande ou branco: o GRA ligado, regulagem ativa.
+
+Se não houver velocidade salva, em vez da velocidade, o display do instrumento combinado exibe .
+
+Condução em descida Quando da condução em descida a velocidade memorizada pode ser ultrapassada devido ao declive.
+
+Frear o veículo com o freio e se necessário engatar uma marcha menor.
+
+Como eu controlo o GRA? Você pode controlar o GRA pelo volante multi-funções -> Página 120.
+
+Se não for possível conduzir com segurança, com uma distância suficiente e a uma velocidade constante, a utilização do sistema regulador de velocidade pode causar acidentes e ferimentos graves.
+
+- Nunca utilizar o sistema regulador de velocidade (GRA) em trânsito intenso, em distâncias muito pequenas, em trechos íngremes, com muitas curvas ou com piso escorregadio como, por exemplo, neve, gelo, umidade ou cascalho e também não em ruas alagadas.
+
+- Nunca utilizar o GRA em terreno livre ou em ruas não pavimentadas.
+
+- Ajustar a velocidade e a distância de segurança em relação aos veículos à frente, as condições do clima, da pista e do trânsito.
+
+- Para evitar uma regulagem de velocidade indesejada, sempre desligar o GRA após a utilização.
+
+- É perigoso retomar a velocidade armazenada se a velocidade para as condições atuais da rua, do trânsito ou atmosféricas for muito alta.
+
+- Ao conduzir em descidas, o GRA não pode manter a velocidade do veículo constante. O peso próprio do veículo aumenta a velocidade. Reduzir marcha ou frear o veículo com o freio.
+
+Comandar o GRA por meio do volante multifunções
+
+Observe no início desse capítulo na página 119.
+
+Fig. 93 Lado esquerdo do volante multifunções: botões para comandar o GRA.
+
+Ligar
+- Pressionar o botão .
+
+Nenhuma velocidade está salva e ainda não é feita nenhuma regulagem.
+
+Iniciar a regulagem
+- Durante a condução, pressionar o botão .
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 93 no manual original.]

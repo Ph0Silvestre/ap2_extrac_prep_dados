@@ -1,0 +1,43 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Informações ao condutor
+SEÇÃO: Instrumento combinado (Parte 8/13)
+PÁGINAS MANUAL: 23-24 (PDF: 25-26)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Indicador “Consumo” A exibição do consumo de combustível momentâneo ocorre durante a condução em km/l com motor em funcionamento. O valor atual exibido é calculado em intervalos de 30 metros e é atualizado a cada 1 segundo aproximadamente.
+
+Indicador “Temperatura do óleo” Dependendo da versão do veículo, a temperatura do óleo no display do instrumento combinado pode não estar disponível.
+
+Temperatura do óleo do motor atual como indicador digital.
+
+Indicador “Aviso em --- km/h” Válido para o instrumento combinado analógico.
+
+Quando a velocidade gravada for excedida (no intervalo entre 30 km/h e 150 km/h) é emitido um alerta visual e sonoro.
+
+Indicador velocidade digital Velocidade de condução atual como indicador digital.
+
+Indicador “Velocidade média” A velocidade média é exibida somente após 300 metros rodados, após se ligar a ignição. Até este ponto são exibidos traços. O valor atual exibido é atualizado a cada 5 segundos.
+
+Indicador “Percurso” Percurso percorrido em km após se ligar a ignição.
+
+Indicador “Tempo de viagem” Tempo de viagem em horas (h) e minutos (min) decorrido após ligar a ignição.
+
+Armazenar a velocidade para o alerta de velocidade Válido para o instrumento combinado analógico.
+- Selecionar o indicador Aviso em --- km/h.
+
+- Pressionar o botão da alavanca dos limpadores dos vidros ou o botão do volante multifunções para salvar a velocidade atual e ativar o alerta.
+
+- Ajustar a velocidade desejada com o botão da alavanca dos limpadores dos vidros ou com os botões ou do volante multifunções dentro de 5 segundos. Pressionar o botão ou novamente ou aguardar alguns segundos. A velocidade está salva e o alerta ativado.
+
+- Para desativar, pressionar novamente o botão ou . A velocidade armazenada é deletada.
+
+Textos de advertência e de informação
+
+Observe no início desse capítulo na página 17.
+
+Ao ligar a ignição ou durante a condução, algumas funções do veículo e dos componentes do veículo têm seu estado verificado. As falhas de funcionamento são indicadas por símbolos de alertas vermelhos ou amarelos com mensagens de texto no display do instrumento combinado ( -> Página 15) e, se necessário, também por meio de alertas sonoros. Conforme a versão do instrumento combinado, a representação dos textos e dos símbolos pode variar.

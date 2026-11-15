@@ -1,0 +1,46 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Sobre este Manual de instruções
+SEÇÃO: Reparos nos componentes do conceito de segurança do veículo (Parte 1/1)
+PÁGINAS MANUAL: 8 (PDF: 10)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+A Volkswagen recomenda que reparos nos componentes do conceito de segurança do veículo sejam realizados somente por uma Concessionária Volkswagen.
+
+As Concessionárias Volkswagen possuem ferramentas, aparelhos de diagnóstico, informações de reparo e pessoal qualificado necessários, bem como peças originais Volkswagen, garantindo a qualidade do reparo executado e, consequentemente, a sua segurança e a dos seus passageiros.
+
+São considerados componentes do conceito de segurança de um veículo:
+
+- airbags;
+
+- apoios para cabeça;
+
+- bancos;
+
+- cintos de segurança;
+
+- coluna de direção;
+
+- freios / freio de estacionamento;
+
+- limitador de força dos cintos de segurança;
+
+- luz de advertência dos cintos de segurança;
+
+- luz de controle de desativação do airbag frontal do passageiro dianteiro ;
+
+- luz de controle dos airbags;
+
+- pontos de ancoragem para cadeiras de criança;
+
+- pontos de fixação para o cinto de fixação superior para cadeiras de criança;
+
+- pré-tensionador dos cintos de segurança;
+
+- regulagem de altura dos cintos de segurança;
+
+- unidades de controle e sensores.

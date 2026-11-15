@@ -1,0 +1,64 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Operação do rádio (Parte 7/14)
+PÁGINAS MANUAL: 162-163 (PDF: 164-165)
+FIGURAS REFERENCIADAS: Fig. 128, Fig. 129
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+6.
+
+A sequência de execução pode ser modificada pela seleção de diferentes modos de reprodução -> Página 163.
+
+As listas de reprodução não são tocadas automaticamente, mas deverão ser selecionadas individualmente no menu de seleção de títulos -> Página 164.
+
+1) No menu Configurações de mídias a função Mix/Repetir inclusive subpasta deve estar ativada -> Página 164.
+
+Fig. 128 Menu principal de mídia.
+
+Fig. 129 Operação do rádio: lista de estações.
+
+Pelo menu principal: MEDIA podem ser selecionadas e reproduzidas diferentes fontes de mídia.
+
+- Pressionar o botão MEDIA para abrir o menu principal MEDIA -> Fig. 128.
+
+A reprodução da fonte de mídia executada por último é continuada no último ponto executado.
+
+As fontes de mídia que são reproduzidas atualmente são exibidas na superfície de função na parte inferior esquerda -> Fig. 128.
+
+Se nenhuma fonte de mídia for selecionável, é mostrado no menu principal MEDIA.
+
+Legenda da -> Fig. 128 e -> Fig. 129: Os títulos, pastas e playlists podem também ser marcados, rodando o botão do menu e acedidos ou abertos, pressionando-o.
+
+Exibe a fonte de mídia atual selecionada. Tocar para selecionar uma outra fonte de mídia -> Página 163.
+
+Cartão SD : cartão de memória -> Página 164.
+
+USB : unidade de armazenamento de dados externa no USB -> Página 165.
+
+Fonte Áudio BT : áudio Bluetooth® -> Página 167.
+
+AUX : dependendo da versão do veículo, a fonte de áudio externa na entrada multimídia AUX-IN -> Página 166.
+
+Abre a lista de reprodução -> Página 164.
+
+< / > Troca de título na operação de mídia -> Página 163.
+
+A reprodução é interrompida. A superfície de função muda para -> Página 163.
+
+A reprodução é retomada. A superfície de função muda para -> Página 163.
+
+Abre o menu Configurações de mídias -> Página 164.
+
+Tocar para trocar entre os modos disponíveis.
+
+: repetir os títulos atuais.
+
+: repetir todos os títulos. Todos os títulos que se encontram no mesmo nível de memória que o título atual reproduzido serão repetidos. No menu Configurações de mídias Mix/Repetir inclusive subpasta ativada, sub-pastas também são incluídas -> Página 164.
+
+Reprodução aleatória. A superfície de função muda para . Todos os títulos que se encontram no mesmo nível de memória que o título atual reproduzido serão incluídos. No menu Configurações de mídias Mix/Repetir inclusive subpasta ativada, sub-pastas também são incluídas -> Página 164.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 128, Fig. 129 no manual original.]

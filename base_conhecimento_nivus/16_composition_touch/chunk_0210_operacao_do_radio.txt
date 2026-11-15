@@ -1,0 +1,32 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Operação do rádio (Parte 5/14)
+PÁGINAS MANUAL: 160-161 (PDF: 162-163)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+As diferenças de qualidade nos suportes de dados de fabricantes diferentes podem provocar interferências na reprodução.
+
+A configuração de um suporte de dados ou os aparelhos e programas utilizados na gravação podem fazer com que alguns dos títulos ou suportes de dados deixem de ser legíveis. As informações sobre a melhor forma de criar arquivos de áudio e suportes de dados (taxa de compressão, ID3-tag etc.) podem ser encontradas, por exemplo, na Internet.
+
+| | Pressionar o botão de ajuste brevemente. | |
+| --- | --- | --- |
+| Iniciar a busca automática | OU: tocar na superfície de função e, em seguida, selecionar SCAN . Tocar na superfície de função SCAN para encerrar a busca automática na estação sintonizada. | |
+| | A busca automática também é encerrada, se uma estação é selecionada manualmente pelos botões de estação. | |
+
+Em função do tamanho, do estado de uso (número de cópias e eliminações), da estrutura das pastas e do tipo de arquivo do suporte de dados utilizado, o tempo de leitura pode variar substancialmente.
+
+Uma playlist define apenas uma determinada ordem de reprodução. Nas playlists não são memorizados arquivos. As playlists não são reproduzidas, se os arquivos no suporte de dados não não estiverem memorizados, no local para onde a playlist remete (dados relativos do caminho).
+
+Pré-requisitos do banco de dados e de arquivos No rádio, podem ser introduzidos cartões SD com tamanho físico de 32 mm x 24 mm x 2,1 mm (1,26 x 0,94 x 0,083 polegadas) ou 1,4 mm (0,055 polegadas).
+
+Fonte de mídia Premissas para reprodução Cartões de memória SD e MMC de até no máximo 2 GB (Gigabyte) no sistema de ar-quivos FAT16, FAT32 e exFAT.
+- Arquivos MP3 (.mp3) com taxas de bits de 32 a 320 kbit/s ou taxa de bits variável.
+- Arquivos WMA (.wma) até 9.2 mono/estéreo sem proteção de cópia.
+- Listas de reprodução nos formatos M3U, PLS, ASX e WPL.
+- Listas de reprodução não maiores do que 20 kB e com não mais do que 1000 registros.
+- Nome do arquivo e indicações de caminho não mais longos do que 256 símbolos.

@@ -1,0 +1,44 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Visibilidade
+SEÇÃO: Limpadores e lavadores dos vidros (Parte 5/8)
+PÁGINAS MANUAL: 93-94 (PDF: 95-96)
+FIGURAS REFERENCIADAS: Fig. 77, Fig. 78
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+[ATENÇÃO]
+
+O espelho retrovisor interno com a função antiofuscante automático contêm um fluido eletrolítico que pode vazar, caso o vidro do espelho seja quebrado.
+
+- O fluido eletrolítico vazado pode irritar a pele, os olhos e os órgãos do sistema respiratório, sobretudo em pessoas com asma ou enfermidades semelhantes. Garantir a entrada imediata de ar fresco suficiente e sair do veículo ou, caso isso não seja possível, abrir todos os vidros e portas.
+
+- Em caso de contato do fluido eletrolítico com os olhos ou com a pele, lavar imediatamente com água em abundância por pelo menos 15 minutos e procurar um médico.
+
+- Em caso de contato do fluido eletrolítico com calçados e roupas, lavar imediatamente com água em abundância por pelo menos 15 minutos. Limpar cuidadosamente os calçados e as roupas antes de reutilizá-los.
+
+- Em caso de ingestão do fluido eletrolítico, enxaguar imediatamente a boca com água em abundância por pelo menos 15 minutos. Não induzir o vômito caso isso não tenha sido prescrito por um médico. Procurar ajuda médica imediatamente.
+
+[NOTA]
+
+Em espelhos retrovisores antiofuscantes auto-máticos, o fluido eletrolítico pode vazar de um vidro do espelho quebrado. Este fluido danifica as superfícies plásticas. Remover o fluido o mais rápido possível, por exemplo, com uma esponja úmida.
+
+Observe e no início desse capítulo na página 92.
+
+Fig. 77 No para-brisa: espelho retrovisor interno com antiofuscante automático.
+
+Fig. 78 No para-brisa: espelho retrovisor interno com antiofuscante manual.
+
+O condutor deve sempre ajustar o espelho retrovisor interno para assegurar uma visibilidade traseira suficiente através do vidro traseiro.
+
+A visibilidade traseira pode ser restringida ou impedida, por exemplo, por objetos colocados sobre a cobertura do compartimento de bagagem.
+
+Espelho retrovisor interno com antiofuscante automático Com a ignição ligada, os sensores medem a incidência da luz por trás -> Fig. 77 1 e pela frente 2 .
+
+Dependendo dos valores medidos, o espelho retrovisor interno é automaticamente ofuscado.
+
+Quando a incidência de luz sobre os sensores é comprometida ou interrompida, o espelho retrovisor interno com antiofuscante automático não funciona ou poderá apresentar falhas. Da mesma forma, aparelhos de navegação externos no para-brisa ou próximos ao espelho retrovisor interno com função antiofuscante automática podem influenciar os sensores -> .
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 77, Fig. 78 no manual original.]

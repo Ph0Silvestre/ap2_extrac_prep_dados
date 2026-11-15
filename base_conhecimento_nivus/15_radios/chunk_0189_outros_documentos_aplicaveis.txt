@@ -1,0 +1,18 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rádios
+SEÇÃO: Outros documentos aplicáveis (Parte 1/1)
+PÁGINAS MANUAL: 145 (PDF: 147)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Para a utilização deste rádio e de seus componentes, observe, além desta instrução, também as seguintes documentações:
+
+- Manual de instruções do aparelho de telefonia móvel.
+
+- Manual de instruções das unidades de armazenamento de dados externos e aparelhos de reprodução.
+
+- Instruções para acessório instalado posteriormente.

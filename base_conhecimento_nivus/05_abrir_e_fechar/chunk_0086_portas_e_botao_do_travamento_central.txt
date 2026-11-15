@@ -1,0 +1,42 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Abrir e fechar
+SEÇÃO: Portas e botão do travamento central (Parte 2/5)
+PÁGINAS MANUAL: 69 (PDF: 71)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Uma utilização incorreta do travamento central pode causar ferimentos graves.
+
+- O travamento central trava todas as portas. Um veículo travado por dentro pode impedir uma abertura involuntária das portas e a invasão de pessoas não autorizadas. Em caso de emergência ou acidente, entretanto, portas travadas dificultam o acesso de socorristas ao interior do veículo para atender as pessoas.
+
+- Nunca deixar crianças ou pessoas com necessidades especiais sozinhas no veículo. O acionamento do botão do travamento central poderá travar as portas do veículo por dentro, dificultando ou impedindo a saída. Pessoas trancadas podem ficar expostas a temperaturas muito altas ou muito baixas.
+
+- Conforme a estação do ano, podem ocorrer temperaturas muito altas ou muito baixas no interior de um veículo fechado, que podem causar ferimentos graves e enfermidades, principalmente em crianças pequenas, ou levar à morte.
+
+- Nunca deixar pessoas dentro de um veículo travado. Em caso de emergência, elas poderiam não ter condições de deixar o veículo sozinhas ou de ajudarem a si mesmas.
+
+- Somente abrir ou fechar as portas e a tampa traseira quando não houver ninguém em seu raio de abertura.
+
+[NOTA]
+
+Ao executar um fechamento ou abertura de emergência, as peças devem ser removidas cuidadosamente e reinstaladas corretamente para evitar danos ao veículo.
+
+Luz de controle na porta do condutor
+
+Observe e no início desse capítulo na página 68.
+
+Na porta do condutor encontra-se a luz de controle do travamento central -> Página 11.
+
+O veículo trava: o LED vermelho pisca por aproximadamente dois segundos em intervalos curtos, em seguida mais lentamente. A luz de controle não pisca, se o veículo tiver sido travado com o botão do travamento central na porta do condutor -> Página 70.
+
+Travamento e destravamento automático
+
+Observe e no início desse capítulo na página 68.
+
+O travamento central possibilita um destravamento e travamento de todas as portas, da tampa traseira e da portinhola do tanque de combustível.
+
+Dependendo da versão do veículo e da versão do rádio, as configurações para o travamento central podem ser efetuadas no sistema do rádio por meio do botão OU tocar na superfície de seleção e tocar na superfície de função Carro -> Página 29.

@@ -1,0 +1,36 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Combustível
+SEÇÃO: Unidade de controle do motor e sistema de controle de emissões dos gases de escape (Parte 2/3)
+PÁGINAS MANUAL: 203 (PDF: 205)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Jamais completar o nível de óleo do motor em excesso -> Página 226.
+
+- Não puxar e/ou empurrar o veículo para forçar a partida (“trancos”), mas sim utilizar o auxílio à partida -> Página 218.
+
+Se ocorrerem falhas de ignição, queda de potência ou um mau funcionamento do motor durante a condução, reduzir imediatamente a velocidade e mandar verificar o veículo em uma Concessionária Volkswagen ou em uma empresa especializada. Do contrário, o combustível não queimado pode chegar ao sistema de escape e, consequentemente, à atmosfera. Além disso, o catalisador também pode ser danificado por superaquecimento!
+
+[NOTA]
+
+Um único abastecimento com gasolina com chumbo ou outros aditivos metálicos (por exemplo, manganês) é suficiente para reduzir a eficácia do catalisador e para danificá-lo.
+
+Mesmo com o sistema de escape em perfeitas condições de funcionamento, pode ocorrer um cheiro sulfuroso nas emissões do escapamento, em certas condições de funcionamento do motor. Isso depende do teor de enxofre do combustível. Muitas vezes, basta optar por uma marca de combustível diferente.
+
+Filtro de carvão ativado - sistema de alimentação
+
+Observe no início desse capítulo na página 202.
+
+O sistema de alimentação possui um filtro de carvão ativado que acumula os hidrocarbonetos (vapores) que são gerados no tanque de combustível (controle das emissões evaporativas), este sistema não permite a liberação destes hidrocarbonetos na atmosfera. Durante o funcionamento do motor, estes hidrocarbonetos acumulados são admitidos e entram no processo de combustão normal do motor.
+
+O filtro de carvão ativado não permite que os hidrocarbonetos dos gases do tanque de combustível sejam liberados para a atmosfera.
+
+Soluções de problemas
+
+Observe no início desse capítulo na página 202.
+
+Se, durante a condução, o motor funcionar de forma irregular ou ocorrerem solavancos, isto poderá ser atribuído a um combustível de qualidade ruim ou insuficiente, por exemplo, água no combustível. Ao surgirem esses sinais, reduzir imediatamente a velocidade e procurar a Concessionária Volkswagen ou empresa especializada mais próxima conduzindo somente com rotação média e com baixa demanda do motor. Se estes sinais surgirem imediatamente após o abastecimento, o motor deve ser desligado imediatamente – também para evitar danos secundários – e devese procurar uma Concessionária Volkswagen ou uma empresa especializada.

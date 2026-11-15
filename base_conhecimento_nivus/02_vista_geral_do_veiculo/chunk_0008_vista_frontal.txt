@@ -1,0 +1,25 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Vista geral do veículo
+SEÇÃO: Vista frontal (Parte 1/4)
+PÁGINAS MANUAL: 9-10 (PDF: 11-12)
+FIGURAS REFERENCIADAS: Fig. 3, Fig. 4
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Fig. 3 Vista frontal do veículo.
+
+| Legenda para -> Fig. 3: Maçanetas externas das portas......................................................................................................................... 1 | | 68 |
+| --- | --- | --- |
+| 2 | Farol dianteiro........................................................................................................................................................... | 85, 208 |
+| 3 | Farol de neblina........................................................................................................................................................ | 85, 208 |
+| 4 | Sensores dianteiros para o auxílio de estacionamento........................................................................... | 133 |
+| 5 6 | Atrás do logo VW: sensor de radar dos sistemas de assistência Alavanca de destravamento da tampa do compartimento do motor.............................................. | 223 |
+| 7 | Para-brisa – Limpadores do para-brisa............................................................................................................................... | 90 |
+| | – Sensor de chuva e de luz na região do retrovisor interno................................................................ | 91 |
+
+Fig. 4 Vista traseira do veículo.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 3, Fig. 4 no manual original.]

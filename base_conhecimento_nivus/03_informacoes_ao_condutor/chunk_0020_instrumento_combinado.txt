@@ -1,0 +1,50 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Informações ao condutor
+SEÇÃO: Instrumento combinado (Parte 4/13)
+PÁGINAS MANUAL: 20-21 (PDF: 22-23)
+FIGURAS REFERENCIADAS: Fig. 12, Fig. 13, Fig. 14, Fig. 15
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Fig. 13 No instrumento combinado digital: indicador do nível de combustível.
+
+O indicador do nível de combustível pode ser diferente conforme o modelo do veículo -> Fig. 12 ou -> Fig. 13. Tanque de combustível quase vazio A luz de controle se acende em amarelo. A quantidade de reserva, marca vermelha, será consumida -> .
+
+Ao ligar a ignição, algumas luzes de advertência e de controle se acendem rapidamente para verificação da função. Elas se apagam após alguns segundos.
+
+[ATENÇÃO]
+
+Conduzir com um nível de combustível muito baixo pode causar paradas do veículo no trânsito, acidentes e ferimentos graves.
+
+- Um nível de combustível muito baixo pode causar uma alimentação de combustível do motor irregular, especialmente em trechos de subida ou descida.
+
+- A direção e todos os sistemas de assistência ao condutor e de frenagem não funcionarão quando o motor parar de funcionar por falta ou abastecimento irregular de combustível.
+
+- Abastecer sempre que o indicador do nível de combustível estiver próximo a 1/4, evitando assim uma parada por falta de combustível.
+
+[NOTA]
+
+- Observar sempre as luzes de controle acesas e suas descrições e orientações para evitar danos no veículo.
+
+- Nunca conduzir até esvaziar completamente o tanque de combustível. O abastecimento de combustível irregular pode causar falhas de ignição e acúmulo de combustível não queimado no sistema de escape. Isso pode danificar o catalisador!
+
+A pequena seta ao lado do símbolo da bomba de combustível no mostrador -> Fig. 12 ou -> Fig. 13 indica de que lado do veículo está a portinhola do tanque de combustível.
+
+Indicador de temperatura do líquido de arrefecimento do motor
+
+Observe no início desse capítulo na página 17.
+
+Fig. 14 Indicador de temperatura do líquido de arrefecimento do motor no instrumento combinado analógico: A área fria; B área normal; C área de alerta.
+
+Fig. 15 Indicador de temperatura do líquido de arrefecimento do motor no instrumento combinado digital: A área fria; B área normal; C área de alerta.
+
+Área fria. O motor ainda não está aquecido na temperatura operacional. Evitar sobrecarga e alta rotação do motor enquanto o motor ainda não estiver aquecido.
+
+Área normal.
+
+Área de advertência. Temperatura do líquido de arrefecimento do motor muito alta. e Líquido de arrefecimento do motor A luz de advertência central vermelha está acesa. Adicionalmente aparece uma mensagem de texto no display do instrumento combinado.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 12, Fig. 13, Fig. 14, Fig. 15 no manual original.]

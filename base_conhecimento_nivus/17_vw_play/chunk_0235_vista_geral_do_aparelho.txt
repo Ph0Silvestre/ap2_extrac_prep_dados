@@ -1,0 +1,40 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: VW Play
+SEÇÃO: Vista geral do aparelho (Parte 1/1)
+PÁGINAS MANUAL: 179-180 (PDF: 181-182)
+FIGURAS REFERENCIADAS: Fig. 139
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Fig. 139 Vista geral dos comandos.
+
+O rádio é fornecido em diferentes versões do aparelho que se distinguem pelo conjunto de funcionalidades, pelas inscrições e funções dos botões do rádio, bem como pela disposição dos comandos.
+
+Display: tela de toque.
+
+Atalho para a tela inicial: retornar a tela inicial.
+
+Telefone: pressionar para acessar a interface para telefone.
+
+Mídia: pressionar para acessar a interface de mídias e o rádio.
+
+As configurações iniciais demandam atenção e tempo e devem ser feitas somente com o veículo estacionado.
+
+Caso não haja conexão da rede Wi-Fi, pode não ser possível definir algumas funções do rádio na configuração inicial.
+
+Power: pressionar para ativar a função mudo. Pressionar por 3 segundos para ativar a função stand-by.
+
+App store: pressionar para acessar a interface de aplicativos.
+
+Volume: pressionar para ajuste do volume.
+
+Configurações: pressionar para acessar as configurações.
+
+Interruptores virtuais: comandos para os sistemas de assistência e abertura do porta-malas, se disponíveis.
+
+Ícones de status e relógio: pressionar para alterar as informações do perfil de usuário. Se conectado, status da conexão Wi-Fi e Bluetooth®, carga da bateria do celular e informações de sinal da rede móvel.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 139 no manual original.]

@@ -1,0 +1,24 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: Óleo do motor (Parte 6/6)
+PÁGINAS MANUAL: 230 (PDF: 232)
+FIGURAS REFERENCIADAS: Fig. 177
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Utilizar apenas panos que não desfiem e não soltem fiapos para limpar a vareta de medição do nível do óleo, esses resíduos podem causar danos ao motor.
+
+O nível do óleo do motor não deve em nenhuma hipótese ultrapassar a área -> Fig. 177 A . Com o nível acima dessa área, o óleo pode ser aspirado pela ventilação do cárter, sendo lançado na atmosfera pelo sistema de escape. Além disso, o óleo pode ser queimado dentro do catalisador, danificando-o.
+
+O vazamento ou derramamento do óleo do motor pode contaminar o meio ambiente. Para que isto não ocorra, a Volkswagen recomenda substituir o óleo do motor preferencialmente em uma Concessionária Volkswagen, que dispõe da ferramenta especial, da competência técnica necessária e está apta a resolver a questão da eliminação do óleo usado.
+
+Soluções de problemas
+
+Observe no início desse capítulo na página 226.
+
+No display do instrumento combinado, podem ser exibidas luzes de advertência e mensagens de texto. Além disso, podem soar sinais sonoros.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 177 no manual original.]

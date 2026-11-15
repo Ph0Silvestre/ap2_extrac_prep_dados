@@ -1,0 +1,32 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Configurações (Parte 2/3)
+PÁGINAS MANUAL: 177-178 (PDF: 179-180)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Configurações de som e de volume Dependendo da versão do veículo ou modelo, as funções e opções de configurações de som e de volume podem variar.
+
+Pressionar o botão do SETUP e depois selecionar Som .
+
+Superfície de função: efeito Volume: realizar ajustes volume. Volume inicial máx.: determinar o volume inicial máximo. Adequação do volume: estabelecer a intensidade da adequação do volume em relação à velocidade. O volume de áudio é aumentado automaticamente à medida que a velocidade aumenta. Redução entretenimento: estabelecer volume de reprodução dos avisos. Volume AUX: definir o volume de reprodução de fontes de áudio conectadas pela entrada multimídia AUX-IN (Baixo, Médio ou Alto). Ver também -> Página 178, Adaptar o volume de reprodução das fontes de áudio externas. Áudio Bluetootha): estabelecer volume de reprodução de fontes de áudio conectadas por Bluetooth® (Baixo, Médio ou Alto). Ver também -> Página 178, Adaptar o volume de reprodução das fontes de áudio externas.
+
+Balance - Fader: ajustar a equalização do som. A grade reticular mostra a equalização do som no interior do veículo. Para alterar a equalização do som, tocar na posição desejada na vista do interior do veículo ou utilizar os botões de setas para a alteração em etapas. Para centralizar a equalização do som na vista do interior do veículo, tocar na superfície de função entre as setas.
+
+Graves - médios - agudos: ajustar a característica do som (grave - médio - agudo).
+
+Som do touchscreen: o som de confirmação ao tocar em uma superfície de função no display está ativo.
+
+a) Em função do país e do aparelho.
+
+Modo de funcionamento do aumento do volume em função da velocidade O aumento do volume em função da velocidade regula automaticamente o volume, de acordo com a velocidade do veículo.
+
+O aumento do volume é regulado em níveis de 1 a 7.
+
+Se estiver definido um valor baixo, o volume é pouco aumentado a velocidades mais altas; se o valor definido for elevado, o volume aumenta acentuadamente. No nível 0 o aumento do volume em função da velocidade está desligado.
+
+Adaptar o volume de reprodução das fontes de áudio externas Quando o volume de reprodução de uma fonte de áudio externa deve ser aumentado, reduzir antes o volume de base do aparelho.

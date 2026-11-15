@@ -1,0 +1,54 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Operação do rádio (Parte 2/14)
+PÁGINAS MANUAL: 157-158 (PDF: 159-160)
+FIGURAS REFERENCIADAS: Fig. 110, Fig. 123, Fig. 124, Fig. 125
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+As estações transmissoras são responsáveis pelo conteúdo das informações transmitidas.
+
+| Superfície de função: efeito | |
+| --- | --- |
+| A | Indicação da faixa de frequências. |
+| FM/AM | Selecionar a faixa de frequências desejada. |
+| | Abre a lista das estações de rádio que podem ser recebidas atualmente -> Página 158. |
+
+| Superfície de função: efeito | |
+| --- | --- |
+| Abre a escala da faixa de frequência regulada (banda de frequências) -> Página 159. | |
+| Abre o menu de configurações da faixa de frequências ativa -> Página 160, Configurações de rádio. | |
+| < / > Trocar entre estações salvas ou estações disponíveis. Configurações para os botões de seta no menu -> Página 160, Configurações de rádio. | |
+| 1 até 15 Botões de estação para salvar estações -> Página 158. | |
+| Atualizar a lista de estações da faixa de frequências -> Página 158. | |
+| SCAN Superfície de função só é visível quando a busca automática é executada -> Página 159. Para iniciar a busca automática, pressionar o botão de regulagem -> Fig. 110 4 . | |
+| Cancelar Cancelamento de uma função. | |
+| DesativarDesativação de uma função. | |
+
+Fig. 123 Menu principal do rádio.
+
+No menu principal: RÁDIO, estações da faixa de frequências atual selecionada podem ser salvas em 15 faixas de frequências numeradas. Essas superfícies de função são designadas como “Botões de estação”.
+
+Funções dos botões de estação -> Fig. 123 Tocar no botão de estação que exibe a estação desejada. Uma estação salva somente pode ser tocada após o acesso pelos botões de estação quando ainda puder ser recebida no local atual.
+
+Acessar estações pelos botões de estação Passar o dedo sobre o display, na área dos botões de estações -> Fig. 123, da direita para a esquerda ou da esquerda para a direita. Os botões de estação são exibidos em grupos para, respectivamente, 5 superfícies de função ( 1 até 5 , 6 até 10 e 11 até 15 ). Salvar estações nos botões de estação Trocar o grupo de botões de estação Ver: salvar estações -> Página 159.
+
+Indicações específicas do rádio, menus e símbolos
+
+Fig. 124 Menu principal do rádio.
+
+Fig. 125 Operação do rádio: lista de emissoras com possibilidade de atualização.
+
+Áreas de função e respectivo significado no menu principal do rádio -> Fig. 124 e -> Fig. 125:
+
+| Selecionar a estação, por meio dos botões de seta < / > | Tocar na superfície de função < ou > -> Fig. 124. De acordo com o ajuste dos botões de seta, é trocado entre estações salvas ou estações disponíveis. Ajustes dos botões de seta no menu Configurações de rádio -> Página 160. |
+| --- | --- |
+| | Para abrir a lista de estações, tocar na superfície de função -> Fig. 124. |
+| Selecionar estação da lista | Pesquisar lista e acessar estação desejada por meio de to- |
+| de estações | que. |
+| | Para fechar a lista de estações, tocar na superfície de função -> Fig. 125. Sem comando, a |
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 110, Fig. 123, Fig. 124, Fig. 125 no manual original.]

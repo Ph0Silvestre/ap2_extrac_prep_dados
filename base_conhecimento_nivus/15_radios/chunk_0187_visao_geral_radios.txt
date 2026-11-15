@@ -1,0 +1,24 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rádios
+SEÇÃO: Visão Geral - Rádios (Parte 1/1)
+PÁGINAS MANUAL: 145 (PDF: 147)
+FIGURAS REFERENCIADAS: Fig. 109
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Com o motor parado, a ignição ligada e dispositivos elétricos ligados, a bateria do veículo se descarrega.
+
+Dispositivos não blindados podem causar avarias no sistema do rádio e nos componentes eletrônicos do veículo.
+
+Tomada 12 V no veículo
+
+Observe e no início desse capítulo na página 144.
+
+Fig. 109 No console central dianteiro: tomada 12 V.
+
+Potência máxima 120 W Tomada 12 V A potência máxima da tomada não deve ser excedida. A potência máxima dos aparelhos pode ser encontrada em suas etiquetas de identificação.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 109 no manual original.]

@@ -1,0 +1,51 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Abrir e fechar
+SEÇÃO: Monitoramento do interior do veículo (Parte 1/1)
+PÁGINAS MANUAL: 73-74 (PDF: 75-76)
+FIGURAS REFERENCIADAS: Fig. 57
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Fig. 57 No console do teto: sensores de monitoramento do interior do veículo (setas).
+
+Quando forem reconhecidos movimentos no interior de um veículo travado externamente, o monitoramento do interior do veículo disparará o alarme -> Fig. 57.
+
+Ligar o monitoramento do interior do veículo Travar o veículo. Com o sistema de alarme anti-furto ligado, também é ativado o monitoramento do interior do veículo.
+
+Desligar temporariamente o monitoramento do interior do veículo
+- Ligar a ignição.
+
+- Desativar o monitoramento do interior do veículo no sistema do rádio por meio do botão OU tocar na superfície de seleção e tocar na superfície de função Carro -> Página 29, dependendo da versão do veículo e da versão do rádio.
+
+- Fechar todas as portas e a tampa traseira.
+
+- Travar o veículo com a chave do veículo.
+
+O monitoramento do interior do veículo é desativado até o próximo travamento do veículo.
+
+Nas seguintes situações, é recomendável desativar o monitoramento do interior do veículo:
+
+- Se o veículo precisar ser carregado.
+
+- Se o veículo for transportado.
+
+- Se o veículo precisar ser rebocado com o eixo suspenso.
+
+- Se o veículo precisar ser colocado em um sistema de lavagem de veículos automático.
+
+Riscos de falha do alarme O monitoramento do interior do veículo somente funciona com o veículo completamente fechado. Observar as determinações legais. Uma falha do alarme pode ocorrer nas seguintes situações:
+
+- Quando um ou mais vidros estiverem abertos, total ou parcialmente.
+
+- Quando objetos que se movem facilmente, por exemplo, folhas de papel soltas ou enfeites de espelho (odorizadores), permanecerem no veículo.
+
+- Por meio do alarme de vibração de um telefone celular que se encontre no veículo.
+
+Uma desativação permanente do monitoramento do interior do veículo não é possível.
+
+Se ao ativar o sistema de alarme antifurto as portas ou a tampa traseira ainda estiverem abertas, apenas o sistema de alarme antifurto será ativado. Somente após o fechamento das portas e da tampa traseira é ativado também o monitoramento do interior do veículo.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 57 no manual original.]

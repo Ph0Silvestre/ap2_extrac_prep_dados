@@ -1,0 +1,38 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Informações ao condutor
+SEÇÃO: Luzes de advertência e de controle (Parte 2/3)
+PÁGINAS MANUAL: 16 (PDF: 18)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+| Símbolo | Significado -> | | Símbolo Significado -> |
+| --- | --- | --- | --- |
+| | Tanque de combustível quase vazio. -> Página 20 | | Início do sistema de monitoramento periférico. -> Página 130 |
+| | Aceso: nível do óleo do motor muito baixo. | | Alerta de distância. -> Página 129 |
+| | -> Página 226 Piscando: sistema de óleo do motor avariado. | | Sistema regulador de velocidade ligado. -> Página 119 |
+| | -> Página 226 | | Sistema regulador de velocidade |
+| | Sistema de airbag ou do pré-tensionador dos cintos de segurança dianteiros avariado. -> Página 44 Transmissão automática: avaria na transmissão automática. | | (GRA) avariado. -> Página 120 Controle automático de distância (ACC) regulando, nenhum veículo é detectado adiante. -> Página 125 |
+| | -> Página 112 | | Controle automático de distância |
+| | Indicadores de direção esquerdo ou direito. -> Página 85 | | (ACC) regulando, um veículo foi detectado adiante. -> Página 125. |
+| | Luzes de advertência ligadas. -> Página 61 | | Limitador de velocidade ativo. -> Página 120 |
+| | Luzes de frenagem de emergência em funcionamento. -> Página 62 | | Orientação para informações na literatura de bordo. -> Página 24 |
+| | Aceso: pisar no pedal do freio! (dar partida no motor). | | ATENÇÃO |
+| | -> Página 112 | | A observância das luzes de advertência acesas e |
+| | Piscando: o botão bloqueador da alavanca seletora não está engatado. | | das mensagens de texto é essencial para segurança do condutor e dos passageiros, evitando possíveis paradas do veículo, bem como even- |
+| | -> Página 112 | | tuais acidentes. |
+| | Sistema regulador de velocidade | | ●Nunca ignorar as luzes de advertência acesas |
+| | (GRA) ligado. -> Página 119 | | e as mensagens de texto. ●Parar o veículo assim que possível em um lo- |
+| | Farol alto ligado ou sinal de luz acionado. | | cal seguro a todos os passageiros do veículo e aos demais condutores. |
+| | -> Página 85 | | ●Estacionar o veículo a uma distância segura |
+| | Lembrete de serviço ou serviço pa- | | da pista de rodagem de forma que nenhuma |
+| | ra vencer. | | das peças do sistema de escape entre em |
+| | -> Página 27 | | contato com materiais inflamáveis, como, |
+| | Nível de carga da bateria do telefo- | | por exemplo, grama seca, combustível, óleo |
+| | ne móvel. | | etc. |
+| | Somente quando ativado pela interface de telefone móvel instalada | | ●Um veículo parado sem a devida sinalização representa um grande risco de acidente para |
+| | de fábrica -> Página 145. | | si mesmo e para terceiros. Sempre acionar as |
+| | Temperatura externa abaixo de +4° C. -> Página 21 | | luzes de advertência e utilizar o triângulo de segurança para alertar outros veículos. |

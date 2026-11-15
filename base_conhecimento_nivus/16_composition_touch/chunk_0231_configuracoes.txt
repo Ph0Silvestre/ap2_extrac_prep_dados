@@ -1,0 +1,49 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Configurações (Parte 1/3)
+PÁGINAS MANUAL: 176-177 (PDF: 178-179)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Configurações do menu e do sistema Dependendo da versão do veículo ou modelo, as funções e opções de configurações do menu e do sistema podem variar.
+
+Abrir o menu Configurações do sistema
+- Pressionar o botão do rádio SETUP -> .
+
+- Pressionar na área de função do modo, em relação ao qual se pretende introduzir configurações.
+
+- Quando se fecha um menu, as alterações são automaticamente assumidas.
+
+Som: realizar os ajustes do som e do volume -> Página 177.
+
+Display: realizar ajustes do display. Desligar display (em 10 s): se a função está ativa e o aparelho não funcionar, o display se desliga automaticamente após 10 segundos. Ao tocar no display ou pressionar um botão, o display se liga novamente. Nível de luminos.: selecionar nível de luminosidade do display. Som do touchscreen: o som de confirmação ao tocar em uma superfície de função no display está ativo. Exibir hora no modo Standby: no modo Standby, o horário atual é exibido no display.
+
+Hora e data: realizar configurações de hora e data. Hora: ajustar horário atual manualmente. Formato hora: definir formato da exibição da hora (12 ou 24 horas). Horário de verão: ajustar horário automaticamente. Data: ajustar data atual. Formato data: selecionar formato da exibição da data (dd-mm-aaaa, aa-mm-dd ou mmdd-aa).
+
+Idiomas adicionais do tecladoa): selecionar idioma de teclado adicional.
+
+Unidades: definir unidades para exibição no veículo.
+
+Bluetootha): realizar ajustes de Bluetooth® -> Página 176.
+
+Remover c/ segur.: remover a unidade de armazenamento de dados desejada do sistema. A superfície de função é desativada depois que a unidade de armazenamento de dados for removida do sistema com sucesso.
+
+Configurações de fábrica: o retorno à condição de entrega apaga de acordo com a seleção feita Entradas e ajustes efetuados.
+
+Informações do sistema: exibição das informações de sistema (número do dispositivo, estado do hardware e software). Atualizar o software: atualizar a edição do software.
+
+Copyright: informações de copyright.
+
+a) Depende do aparelho e do país.
+
+A distração do condutor pode causar acidentes e ferimentos.
+
+- Jamais efetuar configurações durante a condução.
+
+Para um funcionamento perfeito do rádio é importante que data e hora estejam corretamente ajustadas no veículo.
+
+Configurações de som e de volume Dependendo da versão do veículo ou modelo, as funções e opções de configurações de som e de volume podem variar.

@@ -1,0 +1,58 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Vista geral do aparelho (Parte 1/2)
+PÁGINAS MANUAL: 149-150 (PDF: 151-152)
+FIGURAS REFERENCIADAS: Fig. 110
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Vista geral
+
+Fig. 110 Vista geral dos comandos.
+
+Botão rotativo e de pressão :
+- Pressionar para ligar ou desligar.
+- Girar para mudar o volume de base da fonte ativa correspondente.
+
+Botões do rádio: pressionar para acessar uma superfície de função.
+
+Display: tela de toque.
+
+Botão de configurações: a função depende da respectiva condição de operação.
+
+Botão rotativo e de pressão Botões rotativos e de pressão O botão rotativo e de pressão é designado por seletor do volume ou botão de ligar e desligar.
+
+O botão rotativo e de pressão da direita é designado por seletor.
+
+Ligar ou desligar manualmente o rádio Pressionar brevemente o botão on / off .
+
+Entrada USB: para a conexão de unidades de armazenamento de dados externas.
+
+Entrada para cartão SD: para a inserção de cartões SD.
+
+Microfone: não obstruir o microfone e mantê-lo sempre limpo.
+
+Ligar ou desligar automaticamente o rádio Dependendo da versão, quando se desligar o motor ou remover a chave do veículo do cilindro da ignição, o rádio é desligado automaticamente. Se o rádio for ligado novamente de forma manual, ele é automaticamente desligado após aproximadamente 30 minutos (tempo limite).
+
+Aumentar ou reduzir o volume Uma vez ligado, o rádio começa a funcionar com o último nível de volume ajustado, desde que não seja ultrapassado o volume máximo na ligação do aparelho que foi pré-definido.
+
+- Girar o regulador do volume (mais alto: no sentido dos ponteiros do relógio, mais baixo: no sentido contrário ao dos ponteiros do relógio).
+
+Alguns ajustes do volume podem ser pré-definidos.
+
+Silenciar Enquanto o rádio se encontrar no modo de silêncio, é interrompida uma fonte áudio que esteja a ser utilizada. No display pode ser visualizada a indicação .
+
+- Girar o regulador do volume no sentido contrário ao dos ponteiros do relógio, até a fonte áudio deixar de ser ouvida.
+
+Botão seletor O botão seletor pode ser girado ou pressionado. Ao girá-lo, listas são pesquisadas ou listas de estações de rádio ou de títulos de mídia são abertas, por exemplo. Ao pressioná-lo os registros marcados são acessados, configurações são adotadas e funções, iniciadas ou interrompidas.
+
+Botões do rádio Para operar os botões do rádio pressioná-los brevemente.
+
+PHONE : acessar à interface para telefone. Se não estiver instalada uma interface para telefone, a fonte áudio atual é silenciada.
+
+RADIO : ligar ao modo rádio e mudar ali a banda de frequência.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 110 no manual original.]

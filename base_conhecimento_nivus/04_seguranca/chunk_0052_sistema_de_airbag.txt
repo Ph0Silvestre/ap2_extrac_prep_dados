@@ -1,0 +1,38 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Segurança
+SEÇÃO: Sistema de airbag (Parte 1/11)
+PÁGINAS MANUAL: 44-45 (PDF: 46-47)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Introdução ao tema O veículo está equipado com um airbag frontal para o condutor e outro para o passageiro dianteiro. Os airbags frontais podem oferecer proteção adicional para o tórax e para cabeça do condutor e do passageiro dianteiro, quando o banco, os cintos de segurança, os apoios para cabeça e, para o condutor, o volante estiverem ajustados e utilizados corretamente. Os airbags foram desenvolvidos para proteção suplementar. Os airbags não substituem os cintos de segurança, que devem ser utilizados sempre, inclusive quando o veículo for equipado com airbags frontais.
+
+[ATENÇÃO]
+
+Nunca utilizar somente o sistema de airbag para se proteger.
+
+- Mesmo quando um airbag é acionado, ele tem somente uma função de proteção suplementar.
+
+- O sistema de airbag só proporciona proteção com o cinto de segurança colocado corretamente, para minimizar lesões -> Página 36, Cintos de segurança.
+
+- Todos os ocupantes do veículo devem assumir sempre a posição correta no banco, colocar corretamente o cinto de segurança correspondente ao banco antes do veículo entrar em movimento e mantê-lo colocado corretamente durante todo o tempo.
+
+[ATENÇÃO]
+
+Objetos entre os ocupantes do veículo e a área de expansão dos airbags aumentam o risco de ferimentos no acionamento do airbag. Assim, a área de expansão dos airbags seria alterada ou os objetos seriam arremessados contra os corpos dos ocupantes.
+
+- Nunca segurar objetos nas mãos ou carregálos no colo durante a condução.
+
+- Nunca transportar objetos no banco do passageiro dianteiro. Os objetos podem alcançar a área de expansão dos airbags durante manobras súbitas de frenagem ou de direção e ser arremessados de forma perigosa pelo interior do veículo no acionamento do airbag.
+
+- Pessoas, animais ou objetos não devem estar entre os ocupantes do veículo nos bancos dianteiros, nos assentos laterais do banco traseiro e entre as áreas de expansão dos airbags. Atentar para que isso também seja cumprido por crianças e passageiros.
+
+[ATENÇÃO]
+
+O sistema de airbag é apto para apenas um acionamento dos airbags. Se os airbags tiverem sido acionados, será necessário substituir o sistema.
+
+- Os airbags acionados e as respectivas peças do sistema devem ser substituídos por peças novas que estejam liberadas para o veículo pela Volkswagen.

@@ -1,0 +1,32 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Informações ao consumidor
+SEÇÃO: Licença de utilização (ANATEL) (Parte 1/1)
+PÁGINAS MANUAL: 281 (PDF: 283)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Os dispositivos acionados por radiofrequência como o comando remoto e imobilizador estão em conformidade com todos os critérios de homologação e utilização e foram autorizados pela Agência Nacional de Telecomunicações (ANATEL) para operação no seu veículo.
+
+Os números de homologação destes dispositivos são identificados pela sequência numérica, conforme fornecedor:
+
+Comando remoto
+- 03604-16-05364
+
+- 01834-18-02856 Imobilizador
+- 02144-17-03430
+
+- 06962-18-06353
+
+- 05293-18-06353
+
+- 03834-18-06353 Rádios com conexão Bluetooth Esta informação somente será aplicável ao seu veículo se ele for equipado com o dispositivo de conexão Bluetooth.
+
+- 01095-17-03226
+
+- 03595-17-06828
+
+- 00231-20-09215 Estes equipamentos operam em caráter secundário, isto é, não tem direito à proteção contra interferência prejudicial, mesmo de estações do mesmo tipo, e não podem causar interferência a sistemas operando em caráter primário.

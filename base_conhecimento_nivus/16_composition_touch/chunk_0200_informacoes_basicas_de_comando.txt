@@ -1,0 +1,44 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Informações básicas de comando (Parte 2/3)
+PÁGINAS MANUAL: 151-152 (PDF: 153-154)
+FIGURAS REFERENCIADAS: Fig. 112, Fig. 113
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Se em uma exibição de lista houver mais registros selecionáveis do que podem ser visualizados, são mostradas superfícies de função para a rolagem ou uma barra de rolagem à direita na imagem -> Fig. 112 1 .
+
+Marcar e acessar entradas de lista com o botão de regulagem Girar o botão de ajuste para marcar os registros da lista sequencialmente com um quadro de seleção e assim pesquisar a lista.
+
+Pressionar o botão de ajuste para acessar a entrada da lista selecionada.
+
+Pesquisar listas (rolar) Buscar por linha na lista: Tocar brevemente na superfície de função ou .
+
+Buscar por página na lista: Tocar brevemente no display em cima ou embaixo da marca de rolagem.
+
+Busca rápida por página na lista: Manter pressionado o display em cima ou embaixo da marca de rolagem.
+
+Busca rápida em listas longas: Colocar o dedo sobre o indicador da marca de rolagem e, sem tirar, movimentá-lo para cima ou para baixo. Tirar o dedo do display na posição desejada.
+
+Máscaras de inserção com teclado do display
+
+Fig. 113 Representação do princípio: máscara de inserção com teclado de display.
+
+As máscaras de inserção com teclados de tela servem, por exemplo, para a inserção de um nome de memória ou para a inserção de um termo de busca para a procura em listas mais longas.
+
+As superfícies de função aqui listadas não estão disponíveis em todos os países nem em todas as áreas de assuntos.
+
+Nos capítulos a seguir são esclarecidas somente as funções que divergem desta representação de princípio.
+
+Na linha superior do display à esquerda encontrase a linha de inserção com a marca de inserção de símbolos (Cursor). Aqui são exibidas todas as inserções.
+
+Máscaras de inserção para a “inserção de textos” Letras, caracteres e símbolos especiais em qualquer combinação são selecionáveis para a inserção de textos livres em máscaras de inserção.
+
+Por toques na superfície de função OK , a sequência de símbolos mostrada atualmente é assumida.
+
+Máscaras de entrada para a seleção de um registro armazenado Na introdução, somente é possível selecionar letras, caracteres e símbolos especiais que, em sua combinação, correspondam a uma entrada salva.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 112, Fig. 113 no manual original.]

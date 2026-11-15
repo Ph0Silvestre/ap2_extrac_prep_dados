@@ -1,0 +1,28 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Segurança
+SEÇÃO: Orientações gerais (Parte 11/18)
+PÁGINAS MANUAL: 38-39 (PDF: 40-41)
+FIGURAS REFERENCIADAS: Fig. 25, Fig. 26, Fig. 27
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Mesmo em velocidades mínimas de impacto, o corpo sofre a ação de forças que não podem mais ser amortecidas com os braços e as mãos. Em caso de uma colisão frontal, os ocupantes do veículo sem cinto de segurança são lançados para frente e batem de forma descontrolada em partes do interior do veículo, como, por exemplo, volante, painel de instrumentos e para-brisa -> Fig. 25.
+
+O sistema de airbag não substitui o cinto de segurança. O acionamento dos airbags proporciona somente uma proteção complementar. Os airbags não são acionados em todos os tipos de acidente. Mesmo quando o veículo estiver equipado com um sistema de airbag, todos os ocupantes do veículo devem estar com o cinto de segurança corretamente colocado durante toda a condução, inclusive o condutor. Com isso, o perigo de ferimentos graves ou fatais em caso de acidentes é reduzido - independentemente da existência ou não de um airbag.
+
+Um airbag é acionado somente uma vez. Para obter a melhor proteção possível, os cintos de segurança devem estar sempre colocados corretamente para garantir a proteção mesmo sem o acionamento dos airbags. Os ocupantes do veículo sem cinto de segurança podem ser lançados para fora do veículo e, assim, sofrer ferimentos ainda mais graves ou fatais.
+
+Também é fundamental que os ocupantes do veículo nos bancos traseiros coloquem os cintos de segurança corretamente, uma vez que são lançados de forma descontrolada pelo interior do veículo em caso de acidente. Um passageiro no banco traseiro sem cinto de segurança coloca em risco a própria segurança e a segurança do condutor e dos demais ocupantes do veículo -> Fig. 26.
+
+Os cintos de segurança protegem
+
+Observe no início desse capítulo na página 36.
+
+Fig. 27 Condutor protegido pelo cinto de segurança colocado corretamente em uma manobra de frenagem súbita.
+
+Os cintos de segurança colocados corretamente podem fazer uma grande diferença. Os cintos de segurança colocados corretamente mantêm os ocupantes do veículo na posição correta no banco e reduzem bastante a ação da energia cinética em caso de acidente. Os cintos de segurança também ajudam a impedir movimentos descontrolados que podem resultar em ferimentos graves. Adicionalmente, os cintos de segurança corretamente colocados reduzem o perigo de ser lançado para fora do veículo -> Fig. 27.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 25, Fig. 26, Fig. 27 no manual original.]

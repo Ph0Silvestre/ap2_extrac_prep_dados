@@ -1,0 +1,52 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rodas e pneus
+SEÇÃO: Informações importantes sobre rodas e pneus (Parte 7/14)
+PÁGINAS MANUAL: 247 (PDF: 249)
+FIGURAS REFERENCIADAS: Fig. 185
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Verificar a pressão dos pneus Verificar a pressão dos pneus somente se os pneus tiverem rodado não mais que alguns quilômetros e em baixa velocidade nas últimas 3 horas.
+
+- Verificar a pressão dos pneus pelo menos uma vez a cada 15 dias e, adicionalmente, antes de qualquer condução mais longa.
+
+- Verificar a pressão apenas com os pneus frios.
+
+A pressão indicada para os pneus é válida para um pneu frio. A pressão dos pneus é mais alta em pneus quentes que em pneus frios. Por esse motivo, nunca solte o ar de pneus quentes para ajustar sua pressão.
+
+- Adequar a pressão dos pneus sempre à condição de carga do veículo -> Fig. 185 3 .
+
+- Após adequar a pressão dos pneus, atentar para a recolocação das tampas das válvulas e seguir as informações sobre o sistema de controle dos pneus -> Página 240.
+
+- Calibrar os pneus sempre com as pressões indicadas na etiqueta. Nunca exceder a pressão máxima dos pneus que está indicada no flanco dos pneus.
+
+[ATENÇÃO]
+
+Uma pressão dos pneus muito baixa ou muito alta pode fazer com que o pneu esvazie ou estoure durante a condução. Isto pode causar acidentes graves e ferimentos fatais.
+
+- Uma pressão dos pneus muito baixa pode aquecer fortemente os pneus, podendo causar o desprendimento da banda de rodagem e o estouro do pneu.
+
+- Velocidade excessiva ou sobrecarga do veículo podem gerar superaquecimento e danos repentinos aos pneus, inclusive estouro dos pneus e soltura da banda de rodagem, o que pode levar à perda de controle da direção.
+
+- Uma pressão dos pneus muito alta ou muito baixa encurta a vida útil dos pneus e piora o comportamento de direção do veículo.
+
+- Verificar regularmente a pressão dos pneus, no mínimo, uma vez a cada 15 dias e, adicionalmente, antes de cada condução mais longa.
+
+- Todos os pneus precisam ter sempre a pressão dos pneus adequada ao carregamento.
+
+- Jamais reduzir a pressão elevada de pneus quentes.
+
+[NOTA]
+
+- Ao inserir o medidor de pressão dos pneus, atentar para que ele não bata na haste da válvula. Caso contrário, podem ocorrer danos na válvula do pneu.
+
+- Tampas de válvula inexistentes ou mal rosqueadas podem levar a danos na válvula do pneu. Por isso, conduzir sempre com as tampas das válvulas completamente rosqueadas e que correspondem às tampas de válvula instaladas de fábrica.
+
+Uma pressão dos pneus insuficiente aumenta o consumo de combustível.
+
+Profundidade do perfil e indicadores de desgaste
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 185 no manual original.]

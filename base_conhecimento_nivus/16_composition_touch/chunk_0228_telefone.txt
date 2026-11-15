@@ -1,0 +1,54 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Telefone (Parte 9/11)
+PÁGINAS MANUAL: 174-175 (PDF: 176-177)
+FIGURAS REFERENCIADAS: Fig. 135, Fig. 136, Fig. 138
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+A disponibilidade das listas de chamadas depende do telefone móvel usado.
+
+| Pesquisar na lista e tocar no contato desejado para estabelecer uma conexão. |
+| --- |
+| Selecionar con- OU: se vários números telefônicos estiverem armazenados |
+| tato da lista para um contato, tocar primeiro no contato e depois no número telefônico desejado, para estabelecer uma conexão. |
+| Buscar contato pela máscara de procura. Tocar na superfície de função -> Fig. 135 para abrir a máscara de procura. Inserir nomes desejados na máscara de procura -> Fig. 136. À direita, ao lado do campo de inserção é exibido o número dos eventos apropriado. Tocar na superfície de função para trocar para a vista da lista. |
+| Pesquisar na lista e tocar no contato desejado para estabelecer uma conexão. A disponibilidade do menu de telefone depende do telefone móvel usado. |
+
+Favoritos (botões de discagem rápida)
+
+Observe e no início desse capítulo na página 168.
+
+Fig. 138 Menu principal do telefone.
+
+No total, 4 favoritos podem ser respectivamente ocupados com um número de telefone da agenda telefônica.
+
+Todos os favoritos devem ser alocados manualmente e são então atribuídos a um perfil de usuário.
+
+Funções dos favoritos Funções possíveis Um favorito pode ser apagado no menu Configurações do perfil do usuário em Administrar favoritos -> Página 176.
+
+Apagar favorito No menu principal PHONE, tocar rapidamente na superfície de função do respectivo favorito alocado para estabelecer a conexão com o número de telefone ali armazenado.
+
+Estabelecer conexão com um favorito Contatos salvos como favoritos não são automaticamente atualizados. Se um contato armazenado no telefone móvel como um favorito for alterado, a superfície de função deve ser novamente alocada.
+
+Configurações do telefone
+
+Observe e no início desse capítulo na página 168.
+
+Abrir o menu Configurações do telefone
+- No menu principal PHONE, tocar na superfície de função .
+
+- Tocar na superfície de função para a faixa na qual os ajustes devem ser feitos.
+
+- Ao fechar um menu, as alterações são assumidas automaticamente.
+
+Superfície de função: efeito Selecionar telefone: selecionar aparelho Bluetooth® da lista para conectá-lo. Procurar telefone: tocar para conectar um novo aparelho Bluetooth®.
+
+Bluetooth: abre o menu Configurações de Bluetooth -> Página 176.
+
+Perfil do usuário: abre o menu Configurações do perfil do usuário -> Página 176.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 135, Fig. 136, Fig. 138 no manual original.]

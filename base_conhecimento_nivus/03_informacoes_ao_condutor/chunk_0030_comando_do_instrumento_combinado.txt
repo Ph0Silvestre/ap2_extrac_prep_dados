@@ -1,0 +1,57 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Informações ao condutor
+SEÇÃO: Comando do instrumento combinado (Parte 1/1)
+PÁGINAS MANUAL: 28-29 (PDF: 30-31)
+FIGURAS REFERENCIADAS: Fig. 18
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Introdução ao tema Alguns itens de menu só podem ser acessados com o veículo parado.
+
+Em veículos com volante multifunções, os botões da alavanca dos limpadores dos vidros não existem. Assim, o indicador multifunções é operado exclusivamente pelos botões do volante multi-funções.
+
+[ATENÇÃO]
+
+A distração do condutor enquanto dirige o veículo pode provocar acidentes e ferimentos.
+
+- Nunca acessar os menus do instrumento combinado durante a condução.
+
+Menus no instrumento combinado
+
+Observe no início desse capítulo na página 28.
+
+A abrangência dos menus e dos indicadores de informação depende dos componentes eletrônicos do veículo e da abrangência da versão do veículo.
+
+Alguns itens de menu só podem ser acessados com o veículo parado.
+
+Dados de viagem -> Página 22 Áudio -> Página 145 Navegação -> Página 145 Telefone -> Página 145 Estado do veículo -> Página 28 Comando por meio do volante multifunções
+
+Observe no início desse capítulo na página 28.
+
+Fig. 18 Lado direito do volante multifunções: botões para comando dos menus e exibições de informação do instrumento combinado.
+
+Enquanto uma mensagem de advertência de prioridade 1 -> Página 24 estiver sendo exibida, não é possível acessar nenhum menu. Todas as mensagens de advertência desaparecem auto-maticamente após alguns segundos. Além disso, algumas mensagens de advertência podem ser confirmadas e ocultadas com o botão OK no volante multifunções -> Fig. 18.
+
+Selecionar menu ou tela de informação
+- Ligar a ignição.
+
+- Se uma mensagem ou o pictograma do veículo forem exibidos, pressionar o botão OK -> Fig. 18, caso necessário, pressionar várias vezes.
+
+- Para a exibição de um menu e para navegar através do menu, pressionar o botão ou -> Fig. 18.
+
+- Para acessar o menu ou a tela de informação exibida, pressionar o botão OK -> Fig. 18 ou esperar até que o menu ou a tela de informação abra por si só após alguns segundos.
+
+Fazer navegação no menu
+- No menu exibido, pressionar os botões de seta ou -> Fig. 18, até que o item de menu desejado esteja selecionado.
+
+Botão VIEW no volante multifunções Veículos com instrumento combinado analógico:
+- Com o botão VIEW é possível alternar entre o menu atual e o menu anterior -> Fig. 18.
+
+Veículos com instrumento combinado digital:
+
+- Com o botão VIEW -> Fig. 18 pode-se alternar entre a representação clássica dos instrumentos redondos e a vista ampliada com perfis de informação ressaltados. A representação clássica mostra à direita e à esquerda os grandes indicadores redondos e no meio o perfil de informação selecionado. Manter o botão VIEW pressionado para selecionar da lista de perfis de informação pré configuradas
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 18 no manual original.]

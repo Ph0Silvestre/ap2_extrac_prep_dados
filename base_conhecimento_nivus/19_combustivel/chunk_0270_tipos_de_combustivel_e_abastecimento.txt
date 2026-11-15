@@ -1,0 +1,18 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Combustível
+SEÇÃO: Tipos de combustível e abastecimento (Parte 3/3)
+PÁGINAS MANUAL: 202 (PDF: 204)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+[ATENÇÃO]
+
+Parar de abastecer quando a bomba de abastecimento desligar pela primeira vez. O tanque de combustível não pode ser abastecido em excesso. Com isso, o combustível pode vazar ou respingar. Isso pode causar incêndios, explosões e ferimentos graves.
+
+- Assim que a pistola de abastecimento de combustível desligar automaticamente pela primeira vez, o tanque está no limite de sua capacidade. Não se deve forçar o abastecimento, porque o combustível pode transbordar.
+
+- Durante o abastecimento, combustíveis podem ser derramados no solo e poluir o meio ambiente. Para que isso não ocorra é necessário realizar o abastecimento em postos autorizados, que possuem um correto sistema de coleta e descarte de fluidos.

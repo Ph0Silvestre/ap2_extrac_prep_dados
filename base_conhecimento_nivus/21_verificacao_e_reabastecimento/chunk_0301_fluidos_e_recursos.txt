@@ -1,0 +1,30 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: Fluidos e recursos (Parte 2/2)
+PÁGINAS MANUAL: 226 (PDF: 228)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Verificar se ainda há água suficiente no reservatório dos lavadores dos vidros.
+
+- Para reabastecer, misturar água limpa com um produto de limpeza recomendado pela Volkswagen -> . Observar as prescrições para mistura na embalagem.
+
+- Em caso de temperaturas externas baixas, acrescentar um aditivo anticongelante para que a água não congele -> .
+
+Veja a capacidade do reservatório de água dos lavadores dos vidros na -> Página 285.
+
+[ATENÇÃO]
+
+Nunca misturar aditivo anticongelante ou aditivos semelhantes inadequados à água dos lava-dores dos vidros. Isso pode causar a formação de uma película oleosa sobre o vidro que reduz bastante a visibilidade.
+
+- Utilizar água limpa com um produto de limpeza de vidros recomendado pela Volkswagen.
+
+- Se for o caso, misturar aditivos anticongelantes adequados à água dos lavadores dos vidros.
+
+- Nunca misturar os produtos de limpeza recomendados pela Volkswagen com outros produtos de limpeza. Isso pode causar a coagulação dos componentes e, com isso, provocar a obstrução dos bicos dos lavadores dos vidros.
+
+- Ao reabastecer, não confundir os fluidos em nenhuma hipótese! Caso contrário, podem ocorrer falhas graves de funcionamento ou um dano ao motor!

@@ -1,0 +1,40 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Dados técnicos
+SEÇÃO: Informações do ar-condicionado (Parte 3/3)
+PÁGINAS MANUAL: 286 (PDF: 288)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+f) Este veículo está em conformidade com o Programa para preservação do meio ambiente para veículos automotores (PROCONVE).
+
+| Potência | Gasolina | 85 kW (116 cv) a 5.500 rpm |
+| --- | --- | --- |
+| | Etanol | 94 kW (128 cv) a 5.500 rpm |
+| Torque máximo | Gasolina | 200 Nm (20,4 kgfm) a 2.000 - 3.500 rpm |
+| | Etanol | |
+| Código do motor | | DHSB |
+| Cilindros, Cilindrada | | 3 cilindros, 999 cm3 |
+| Relação de compressão | | 10,5:1 |
+| Velas de ignição | | 04E.905.602.Fa) |
+| Tipo de transmissão | | Automático de 6 marchas (AQ 250) |
+| Velocidade máximab) | Gasolina | 184 km/h |
+| | Etanol | 189 km/h |
+| Aceleração 0 - 80 km/hb) | Gasolina | 7,1 s |
+| | Etanol | 6,8 s |
+| Aceleração 0 - 100 km/hb) | Gasolina | 10,5 s |
+| | Etanol | 10,0 s |
+| Peso em ordem de marchac) | | 1.199 kg |
+| Peso bruto admissível (PBT) | | 1.650 kg |
+| Carga admissível sobre o eixo dianteiro | | 890 kg |
+| Carga admissível sobre o eixo traseiro | | 810 kg |
+| Carga admissível sobre o teto | | 50 kg |
+| Reboque com freio, aclives até 8% | | 400 kg |
+| Reboque sem freio, aclives até 8% | | 400 kg |
+| Capacidade máxima de tração (CMTd)) | | 2.050 kg |
+| Nível sonoro máximo com veículo paradoe) | | 77,9 dB (A) |
+| Rotação em marcha lentaf) | | 980 +/- 50 rpm |
+| Emissão de CO em marcha lentaf) | | < 0,5% (máximo) |

@@ -1,0 +1,44 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: Fluido de freio (Parte 3/8)
+PÁGINAS MANUAL: 235-236 (PDF: 237-238)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Introdução ao tema A bateria do veículo é parte integrante do sistema elétrico do veículo.
+
+Nunca realizar trabalhos no sistema elétrico se não estiver familiarizado com os procedimentos necessários e com as precauções de segurança geralmente válidas e se tiver à disposição somente ferramentas inapropriadas -> ! Nesse caso, deixar que todos os trabalhos sejam realizados por uma empresa especializada. Para isso, a Volkswagen recomenda as Concessionárias Volkswagen. Trabalhos inadequados podem causar ferimentos graves.
+
+Local de instalação da bateria do veículo A bateria do veículo se encontra no compartimento do motor.
+
+Significado dos alertas na bateria do veículo Usar sempre óculos de proteção!
+
+O eletrólito da bateria é fortemente corrosivo. Usar sempre luvas e óculos de proteção! Fogo, faíscas, fumaça e luz exposta são proibidos! Ao carregar a bateria do veículo é produzida uma mistura de gases altamente explosiva! Manter a bateria do veículo e o seu eletrólito longe do alcance de crianças!
+
+[ATENÇÃO]
+
+Trabalhos na bateria do veículo e no sistema elétrico podem causar queimaduras químicas, incêndios ou choques elétricos graves. Antes de qualquer trabalho, ler e observar sempre os seguintes alertas e precauções de segurança:
+
+- Antes de qualquer trabalho na bateria do veículo, desligar a ignição e todos os consumidores elétricos e desconectar o cabo do polo negativo da bateria do veículo.
+
+- Manter crianças longe do eletrólito da bateria e da bateria do veículo.
+
+- Usar sempre óculos de proteção.
+
+- O eletrólito da bateria é muito agressivo. Ele pode queimar a pele e provocar a perda da visão. Ao manusear a bateria do veículo, proteger principalmente as mãos, os braços e os olhos de respingos de eletrólito.
+
+- Jamais abrir uma bateria do veículo.
+
+- Não fumar e nunca trabalhar próximo de chamas expostas ou de faíscas.
+
+- Evitar a produção de faíscas por cabos e aparelhos elétricos, bem como por descargas eletrostáticas.
+
+- Nunca por os polos da bateria em curto-circuito.
+
+- Nunca utilizar uma bateria do veículo danificada, havendo a necessidade de substitui-la imediatamente, sob o risco da bateria explodir.
+
+- Uma bateria descarregada pode congelar em temperaturas em torno de 0° C. Em caso de congelamento, a bateria também deve ser substituída imediatamente.

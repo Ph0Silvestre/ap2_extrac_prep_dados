@@ -1,0 +1,34 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Informações ao condutor
+SEÇÃO: Instrumento combinado (Parte 9/13)
+PÁGINAS MANUAL: 24 (PDF: 26)
+FIGURAS REFERENCIADAS: Fig. 16
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Ao ligar a ignição ou durante a condução, algumas funções do veículo e dos componentes do veículo têm seu estado verificado. As falhas de funcionamento são indicadas por símbolos de alertas vermelhos ou amarelos com mensagens de texto no display do instrumento combinado ( -> Página 15) e, se necessário, também por meio de alertas sonoros. Conforme a versão do instrumento combinado, a representação dos textos e dos símbolos pode variar.
+
+Adicionalmente as atuais falhas de funcionamento existentes podem ser manualmente acessadas. Para isso acessar no menu de seleção Estado do veículo -> Página 28. Mensagem de advertência de prioridade 1 A luz de advertência central vermelha pisca ou está acesa – em parte junto com alertas sonoros ou símbolos adicionais. Não prosseguir! Situação de perigo. Verificar a função avariada e eliminar a causa. Se necessário, procurar uma Concessionária Volkswagen. Mensagem de advertência de prioridade 2 A luz de advertência central amarela pisca ou está acesa – em parte junto com alertas sonoros ou símbolos adicionais. Funções com falhas ou falta de fluidos podem danificar ou causar a parada do veículo. Verificar a função avariada o mais rápido possível. Se necessário, procurar uma Concessionária Volkswagen. Orientação sobre informações no manual de instruções No manual de instruções, você encontra mais orientações sobre a presente mensagem de advertência.
+
+Texto de informação Informações sobre diferentes processos do veículo.
+
+Dependendo da versão também podem ocorrer alguns ajustes e exibições no sistema do rádio.
+
+Se existirem várias mensagens de advertência, os símbolos aparecerão em sequência por alguns segundos. Esses símbolos serão exibidos até que a causa seja eliminada.
+
+Sistema de reconhecimento de cansaço (recomendação de intervalo)
+
+Observe no início desse capítulo na página 17.
+
+Fig. 16 No display do instrumento combinado: símbolo do sistema de reconhecimento de cansaço.
+
+O sistema de reconhecimento de cansaço avisa o condutor quando seu comportamento de direção indica cansaço.
+
+Dependendo da versão do veículo, o sistema de reconhecimento de cansaço pode não estar disponível.
+
+Funcionamento e comando O sistema de reconhecimento de cansaço avisa o condutor quando seu comportamento de direção indica cansaço.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 16 no manual original.]

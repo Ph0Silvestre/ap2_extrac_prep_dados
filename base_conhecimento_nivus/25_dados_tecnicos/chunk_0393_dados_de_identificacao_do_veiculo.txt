@@ -1,0 +1,36 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Dados técnicos
+SEÇÃO: Dados de identificação do veículo (Parte 1/1)
+PÁGINAS MANUAL: 282-283 (PDF: 284-285)
+FIGURAS REFERENCIADAS: Fig. 196, Fig. 197
+ALERTAS PRESENTES: NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Fig. 196 Em frente ao banco do passageiro traseiro no assoalho direito: número de identificação do veículo (número do chassi).
+
+Fig. 197 Na área inferior da coluna da porta dianteira direita: etiqueta com número de identificação do veículo parcial (VIS) A e placa do ano de fabricação B .
+
+Número de identificação do veículo (VIN - número do chassi) A gravação do número de identificação do veículo (VIN) está localizado frente ao banco do passageiro traseiro no assoalho direito -> Fig. 196.
+
+Número de identificação do veículo parcial (VIS - número do chassi parcial) As placas (VIS) estão localizadas na área inferior da coluna da porta dianteira direita -> Fig. 197 A e no compartimento do motor do lado do condutor, na coluna da suspensão. Estas placas são destruídas ao serem removidas.
+
+Número de identificação do motor O número de identificação do motor está localizado no bloco do motor. Para chegar à etiqueta do fabricante, abrir a tampa do compartimento do motor -> Página 223.
+
+Em algumas regiões, o número de identificação do motor faz parte do documento oficial do veículo.
+
+Etiqueta do fabricante A etiqueta do fabricante está localizada na travessa dianteira do compartimento do motor. Para chegar à etiqueta do fabricante, abrir a tampa do compartimento do motor -> Página 223.
+
+Placa de identificação do ano de fabricação A placa com o número de identificação do ano de fabricação está localizada na área inferior da coluna da porta dianteira direita -> Fig. 197 B . Esta placa é destruída ao ser removida.
+
+[NOTA]
+
+Se for necessário substituir etiquetas ou regravar componentes do veículo, solicite a orientação de uma Concessionária Volkswagen.
+
+[NOTA]
+
+A película plástica aplicada na região da gravação do número de identificação do veículo (número do chassi) é uma proteção anticorrosiva e não impede a transferência do número para uma folha de papel (decalque do chassi). Portanto, ela não deve ser removida de forma alguma - risco de perda da garantia contra perfuração por corrosão!
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 196, Fig. 197 no manual original.]

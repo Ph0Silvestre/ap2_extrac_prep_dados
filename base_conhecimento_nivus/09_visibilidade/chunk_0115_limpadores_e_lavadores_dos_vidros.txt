@@ -1,0 +1,53 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Visibilidade
+SEÇÃO: Limpadores e lavadores dos vidros (Parte 2/8)
+PÁGINAS MANUAL: 91 (PDF: 93)
+FIGURAS REFERENCIADAS: Fig. 76
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Antes do início da condução, se necessário, remover a neve e o gelo dos limpadores dos vidros.
+
+- Soltar as palhetas dos limpadores dos vidros congelados cuidadosamente do para-brisa. Para isso, a Volkswagen recomenda um spray anticongelante.
+
+[NOTA]
+
+Não ligar os limpadores dos vidros com o vidro seco. A limpeza do vidro seco pelas palhetas dos limpadores pode danificar o vidro.
+
+[NOTA]
+
+Em caso de geada, verificar antes de ligar os limpadores dos vidros se as palhetas dos limpadores dos vidros não estão congeladas!
+
+Função dos limpadores dos vidros Operação automática do limpador do vidro traseiro O limpador do vidro traseiro se liga automaticamente, quando os limpadores do para-brisa estão ligados e a marcha a ré é engatada. Dependendo da versão do veículo e da versão do rádio, a ligação automática dos limpadores do vidro quando a marcha a ré é engatada, pode ser ativada e desativada no sistema do rádio por meio do botão OU tocar na superfície de seleção e tocar na superfície de função Carro -> Página 29.
+
+Sensor de chuva e de luz
+
+Fig. 76 À direita da coluna de direção: alavanca dos limpadores dos vidros.
+
+Dependendo da versão do veículo, o sensor de chuva e de luz pode não estar disponível.
+
+O sensor de chuva e de luz ativado controla auto-maticamente os intervalos dos limpadores dos vidros de acordo com a intensidade da chuva.
+
+Ativar e desativar o sensor de chuva e de luz Pressionar a alavanca para a posição desejada -> Fig. 76:
+- Posição A - sensor de chuva desativado.
+
+- Posição B - sensor de chuva ativado, limpeza automática se necessário.
+
+Dependendo da versão do veículo e da versão do rádio, os limpadores automáticos podem ser ativados ou desativados no sistema do rádio por meio do botão OU tocar na superfície de seleção e tocar na superfície de função Carro -> Página 29.
+
+Quando a limpeza automática está desativada no sistema do rádio, o tempo de intervalo é ajustado em patamares fixos.
+
+Regular a sensibilidade do sensor de chuva A sensibilidade do sensor de chuva pode ser ajustada manualmente com o interruptor na alavanca dos limpadores dos vidros -> Fig. 76 1 -> .
+
+- Regular o interruptor para a direita – alta sensibilidade.
+
+- Regular o interruptor para a esquerda – baixa sensibilidade.
+
+[ATENÇÃO]
+
+O sensor de chuva e de luz pode não reconhecer suficientemente qualquer chuva e não ativar os limpadores dos vidros.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 76 no manual original.]

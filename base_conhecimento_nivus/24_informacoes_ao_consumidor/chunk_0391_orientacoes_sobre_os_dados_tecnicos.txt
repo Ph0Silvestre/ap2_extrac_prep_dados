@@ -1,0 +1,30 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Informações ao consumidor
+SEÇÃO: Orientações sobre os dados técnicos (Parte 1/1)
+PÁGINAS MANUAL: 281 (PDF: 283)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+É possível verificar com que motor um veículo está equipado, consultando a etiqueta de dados do veículo e os documentos de licenciamento do veículo.
+
+As indicações nos documentos de licenciamento do veículo sempre têm prioridade. Todas as indicações deste manual são válidas para o modelo básico. Os valores indicados podem divergir em razão de equipamentos opcionais ou versões de modelos diferentes, bem como em veículos especiais e veículos para outros países.
+
+Motor Na etiqueta de dados do veículo ou nos documentos do veículo, pode-se verificar com qual motor o veículo está equipado.
+
+Peso Os valores indicados poderão divergir devido a equipamentos opcionais ou versões diferentes, bem como em caso de veículos especiais.
+
+Os valores de peso, em ordem de marcha das tabelas a seguir são válidos para o veículo pronto para rodar com fluidos, incluindo o abastecimento de 90% de combustível, bem como, se for o caso, com ferramenta e pneu reserva -> . O peso em ordem de marcha indicado é aumentado devido a equipamentos opcionais e à instalação posterior de acessórios, reduzindo proporcionalmente a carga permitida.
+
+A carga é composta pelos seguintes pesos:
+
+- Passageiros.
+
+- Total de bagagem.
+
+- Carga de apoio do reboque em condução com reboque.
+
+Performance As performances correspondem ao modelo básico. É possível ocorrer pequenas divergências de acordo com o combustível local utilizado, os opcionais que equipam o veículo, a carga, a pressão dos pneus, a temperatura ambiente, a altitude, a rota de utilização e o modo de dirigir o veículo. E foram determinados sem equipamentos limitadores de desempenho como, por exemplo, para-barro.

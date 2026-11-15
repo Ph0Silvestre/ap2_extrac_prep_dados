@@ -1,0 +1,36 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Autoajuda
+SEÇÃO: Iluminação externa (Parte 2/6)
+PÁGINAS MANUAL: 208-209 (PDF: 210-211)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+A condução com lâmpadas incandescentes queimadas, além de irregular, gera um potencial risco de acidentes. Eventuais lâmpadas incandescentes queimadas devem ser substituídas o mais breve possível.
+
+- A iluminação insuficiente das vias públicas, como, por exemplo, ruas, avenidas e praças, acarreta a baixa visibilidade e também potencializa o risco de acidentes, uma vez que outros condutores teriam dificuldades em visualizar um veículo que estivesse trafegando com as lâmpadas incandescentes queimadas.
+
+Uma troca de lâmpada incandescente executada de forma incorreta pode causar acidentes e ferimentos graves.
+
+- Antes de qualquer trabalho no compartimento do motor, ler e observar sempre os alertas -> Página 221, Orientações de segurança para trabalhos no compartimento do motor. O compartimento do motor de todos os veículos é uma área perigosa e pode causar ferimentos graves.
+
+- Substituir a lâmpada incandescente em questão somente se ela estiver totalmente fria.
+
+- Nunca realizar uma troca de lâmpada incandescente se não estiver familiarizado com as ações necessárias. Se houver insegurança sobre o que fazer, os trabalhos necessários deverão ser realizados por uma Concessionária Volkswagen ou por uma empresa especializada.
+
+- Não segurar o bulbo de vidro da lâmpada incandescente com os dedos descobertos. Impressões digitais remanescentes sobre a lâmpada incandescente evaporam com o calor quando esta é ligada e deixam o refletor “opaco”.
+
+- Na carcaça do farol no compartimento do motor e na carcaça da lanterna traseira existem peças com arestas afiadas. Proteger as mãos na troca de lâmpadas incandescentes.
+
+[NOTA]
+
+Se após uma troca de lâmpada incandescente as coberturas de borracha da carcaça do farol não forem montadas corretamente, poderão ocorrer danos no sistema elétrico – principalmente pela penetração de água.
+
+[NOTA]
+
+A Volkswagen recomenda cuidado especial com algumas peças plásticas que possuem presilhas, que podem quebrar-se durante a remoção ou instalação das lâmpadas.
+
+Dependendo da versão do veículo, no para-choque traseiro podem existir dois refletores de iluminação que não possuem lâmpadas incandescentes para troca. Porém, caso se quebrem e necessitem de substituição procurar uma Concessionária Volkswagen ou uma empresa especializada para efetuar a troca.

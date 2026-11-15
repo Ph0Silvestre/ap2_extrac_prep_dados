@@ -1,0 +1,52 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Estacionar e manobrar
+SEÇÃO: Auxílio de estacionamento (Park Pilot) (Parte 1/3)
+PÁGINAS MANUAL: 133-134 (PDF: 135-136)
+FIGURAS REFERENCIADAS: Fig. 101
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Introdução ao tema O auxílio de estacionamento auxilia o condutor ao estacionar e manobrar.
+
+Dependendo da versão do veículo, o auxílio de estacionamento pode não estar disponível.
+
+Por meio de sensores no para-choque dianteiro e traseiro, o auxílio de estacionamento reconhece a distância de um obstáculo -> Página 9. O sistema indica, no sistema do rádio e por meio de sinais sonoros, quando existe um obstáculo na área de detecção dos sensores.
+
+Limites do sistema Objetos, por exemplo, barras de reboque, hastes finas, cercas, postes, árvores, obstáculos muito baixos ou muito altos e tampas traseiras abertas ou se abrindo podem não ser reconhecidos pelos sensores.
+
+Em alguns casos, sujeira ou gelo sobre os sensores podem ser registrados como obstáculo.
+
+Ligar e desligar
+
+Fig. 101 No rádio: ligar e desligar o auxílio de estacionamento.
+
+Ligar o auxílio de estacionamento
+- Engatar a marcha a ré.
+
+- OU: no rádio tocar na superfície de seleção .
+
+O auxílio de estacionamento se liga automaticamente quando o veículo anda em marcha a ré.
+
+Dependendo da versão do veículo, o auxílio de estacionamento também pode ser ativado auto-maticamente.
+
+Desligar o auxílio de estacionamento
+- No rádio tocar na superfície de seleção .
+
+- OU: acelerar o veículo para frente com velocidade superior a aproximadamente 0-15 km/h.
+
+Ativação automática (dependendo da versão) O auxílio de estacionamento também se liga se for conduzido com velocidade inferior a 15 km/h contra um obstáculo na área frontal. A ativação automática pode ser ligada no sistema do rádio.
+
+A ativação automática funciona somente quando a velocidade de aproximadamente 15 km/h não for atingida pela primeira vez. Uma renovada ligação automática é possível se o auxílio de estacionamento for desligado e novamente ligado por meio do botão .
+
+Além disso, a ativação automática pode ser novamente ativada, desligando-se e ligando-se novamente a ignição.
+
+Função de frenagem de manobra Se o veículo estiver equipado com a função de frenagem de manobra, a função de frenagem de manobra ativará uma frenagem de emergência assim que for detectado um obstáculo a frente ou durante a marcha a ré. A função de frenagem de manobra serve para reduzir a possibilidade de colisão dianteira e traseira.
+
+Para uma intervenção automática dos freios, deve-se atender os seguintes requisitos:
+
+- Função de frenagem de manobra “ativo” na caixa de seleção, através do menu do rádio -> Página 29;
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 101 no manual original.]

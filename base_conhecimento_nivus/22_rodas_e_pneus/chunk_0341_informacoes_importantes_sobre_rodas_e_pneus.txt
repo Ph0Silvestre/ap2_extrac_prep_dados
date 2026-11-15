@@ -1,0 +1,31 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rodas e pneus
+SEÇÃO: Informações importantes sobre rodas e pneus (Parte 12/14)
+PÁGINAS MANUAL: 251 (PDF: 253)
+FIGURAS REFERENCIADAS: Fig. 189
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+| -> Fig. 189 | Inscrição dos pneus (exemplo) | Significado | |
+| --- | --- | --- | --- |
+| | | JHCO CHWS Código de identificação da origem de fabricação e dados do fabricante do pneu sobre as dimensões e características do pneu. | |
+| | | 2213 Data de fabricação: 22ª semana do ano de 2013. | |
+| Informações | ao usuário final sobre valores de comparação entre os pneus básicos disponíveis (proce- | | |
+| dimentos de | teste normatizados) -> Página 276: | | |
+| 4 | TREADWEAR 280 | Expectativa de vida relativa do pneu com base em um teste padrão. Um pneu com a especificação 280 se desgasta 2,8 vezes mais lentamente do que o pneu normal, com um índice Treadwear de 100. O respectivo desempenho do pneu depende das respectivas condições de utilização e pode variar significativamente dos valores normais devido o comportamento de direção, a manutenção, as diferentes particularidades da pista e as condições climáticas. | |
+| 5 | TRACTION AA | Capacidade de frenagem do pneu em pista molhada (AA, A, B ou C). Essa é medida em condições controladas em pistas de testes certificadas. Pneus marcados com C têm uma potência de tração baixa. O índice de tração atribuído ao pneu é baseado em pistas de teste retas e não inclui a aceleração, saídas laterais em curvas nem a aquaplanagem e tração sob carga máxima. | |
+| 6 | TEMPERATURA A | Resistência do pneu à temperatura em testes com velocidades mais elevadas (A, B ou C). Pneus com identificadores A e B superam os requisitos legais. A avaliação da temperatura se baseia em pneus com a pressão correta e exclui o excesso de pressão. Velocidade excessivas, pressão incorreta e excesso de pressão podem ocasionar sozinhos ou em conjunto um aquecimento ou danos nos pneus. | |
+| 7 | 88 H | Índice de carga -> Página 252 e código de velocidade -> Página 252. | |
+| 8 | Rotação e seta OU: Outside | Identificação do sentido de rodagem do pneu -> Página 252. Identificação do lado externo do pneu -> Página 252. | |
+| 9 | MAX INFLATION 350 KPA (51 psi / 3,51 bar) | Limitação para a pressão de ar máxima nos EUA. | |
+| 10 | M+S ou M/S ou | Indicação para pneus adequados para o inverno (pneus para lama e para neve). Pneus com cravos são identificados depois do S com um E. | |
+| 11 | TWI | Indica a posição do indicador de desgaste (Tread Wear Indicator) -> Página 247. | |
+| 12 | Nome da marca, logotipo | Fabricante. | |
+| 13 | Feito na Alemanha | País de fabricação. | |
+| 14 | | Identificação específica para a China (China Compulsory Certification). | |
+| 15 | 023 | Selo de identificação do INMETRO. | |
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 189 no manual original.]

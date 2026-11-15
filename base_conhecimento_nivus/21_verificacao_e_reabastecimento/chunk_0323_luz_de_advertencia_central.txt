@@ -1,0 +1,20 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: Luz de advertência central (Parte 1/1)
+PÁGINAS MANUAL: 239 (PDF: 241)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Alternador avariado. A bateria do veículo não é carregada pelo alternador.
+
+A bateria do veículo não é carregada pelo alternador durante a condução.
+
+- Desligar os consumidores elétricos não necessários.
+
+- Procurar uma Concessionária Volkswagen ou uma empresa especializada.
+
+- Mandar verificar o sistema elétrico.

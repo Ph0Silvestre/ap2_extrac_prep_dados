@@ -1,0 +1,65 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Abrir e fechar
+SEÇÃO: Portas e botão do travamento central (Parte 4/5)
+PÁGINAS MANUAL: 71-72 (PDF: 73-74)
+FIGURAS REFERENCIADAS: Fig. 54, Fig. 55, Fig. 56
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Fig. 55 Maçaneta da porta do condutor: levantar a capa de cobertura.
+
+No travamento manual, geralmente todas as portas são travadas. No destravamento manual, apenas a porta do condutor é destravada. Observar as orientações do sistema de alarme antifurto -> Página 68.
+
+- Rebater a haste da chave do veículo para fora -> Página 64.
+
+- Inserir a haste da chave por baixo na abertura da capa de cobertura -> Fig. 54 (seta).
+
+- Manter o dedo indicador embaixo da haste da chave.
+
+- Levantar a capa de cobertura com a chave do veículo no sentido da seta -> Fig. 55.
+
+- Inserir a haste da chave no cilindro da fechadura e destravar ou travar o veículo.
+
+- Puxar a maçaneta da porta e colocar a capa de cobertura novamente.
+
+Particularidades no destravamento manual
+- O sistema de alarme antifurto permanece ativado no veículo destravado. Porém, nenhum alarme é disparado -> Página 72.
+
+- O alarme é disparado 15 segundos após a abertura da porta do condutor, se caso, dentro deste período, não houver uma ativação válida da ignição -> Página 72.
+
+- Após o destravamento, é necessário realizar uma partida de emergência -> Página 112.
+
+- Ao ligar a ignição, o imobilizador eletrônico reconhece uma chave do veículo válida e desativa o sistema de alarme antifurto.
+
+O sistema de alarme antifurto é ativado no travamento manual do veículo com a haste da chave -> Página 72.
+
+Travar a porta do passageiro dianteiro e as portas traseiras em caso de emergência
+
+Observe e no início desse capítulo na página 68.
+
+Fig. 56 Travamento de emergência do veículo com a chave do veículo.
+
+A porta do passageiro dianteiro e as portas traseiras podem ser travadas manualmente. Com isso, o sistema de alarme antifurto não é ativado.
+
+- Abrir a porta.
+
+- Inserir a haste da chave na fenda -> Fig. 56 e girar.
+
+- Fechar a porta.
+
+- Verificar se a porta está travada.
+
+- Se necessário, realizar o processo nas outras portas.
+
+Através do destravamento do veículo ou da abertura da respectiva porta pelo lado de dentro, a porta travada manualmente é novamente destravada.
+
+As portas podem ser destravadas e abertas por dentro, acionando a maçaneta da porta.
+
+Observe e no início desse capítulo na página 68.
+
+Luz de controle da porta do condutor acende permanentemente A luz de LED na porta do condutor pisca em intervalos curtos e, em seguida, permanece acesa por cerca de 30 segundos, voltando a piscar após decorrido este tempo.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 54, Fig. 55, Fig. 56 no manual original.]

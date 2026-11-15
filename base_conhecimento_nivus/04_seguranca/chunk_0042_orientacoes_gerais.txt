@@ -1,0 +1,42 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Segurança
+SEÇÃO: Orientações gerais (Parte 9/18)
+PÁGINAS MANUAL: 37-38 (PDF: 39-40)
+FIGURAS REFERENCIADAS: Fig. 21, Fig. 22, Fig. 23, Fig. 24
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Fig. 22 Indicador de status do cinto de segurança para os assentos traseiros no display do instrumento combinado.
+
+Se os cintos de segurança não estiverem colocados antes do início da condução e a uma velocidade superior a aproximadamente 25 km/h ou quando os cintos forem retirados durante a condução, um alerta sonoro é emitido durante alguns segundos. Adicionalmente, a luz de advertência pisca -> Fig. 21.
+
+A luz de advertência se apaga apenas quando, com a ignição ligada, o condutor e o passageiro dianteiro tiverem colocado os respectivos cintos.
+
+Indicador de status do cinto de segurança para os assentos traseiros Ao ligar a ignição, o indicador de status do cinto de segurança -> Fig. 22 exibe ao condutor no display do instrumento combinado se possíveis passageiros ocupando os assentos traseiros colocaram os cintos de segurança.
+
+O símbolo indica que o passageiro nesse assento colocou o cinto de segurança. O símbolo indica que o passageiro nesse assento não colocou o cinto de segurança.
+
+Se nos assentos traseiros um cinto de segurança for colocado ou retirado, a indicação do status do cinto é exibida por aproximadamente 60 segundos. A indicação pode ser ocultada pressionando o botão no display do instrumento combinado.
+
+Se durante a condução um cinto de segurança for retirado nos assentos do banco traseiro, o indicador de status do cinto pisca por, no máximo, 60 segundos. A uma velocidade superior a aproximadamente 25 km/h, ressoa adicionalmente um sinal sonoro.
+
+[ATENÇÃO]
+
+Cintos de segurança não colocados ou colocados incorretamente proporcionam risco de ferimentos graves ou fatais. A proteção ideal dos cintos de segurança é obtida apenas quando os cintos são utilizados corretamente.
+
+Colisões frontais e as leis da física
+
+Observe no início desse capítulo na página 36.
+
+Fig. 23 Um veículo com os ocupantes do veículo sem cintos de segurança está em rota de colisão com um muro.
+
+Fig. 24 Um veículo com os ocupantes do veículo sem cintos de segurança colide com o muro.
+
+O princípio físico de uma colisão frontal pode ser explicado com facilidade. Assim que o veículo entra em movimento -> Fig. 23, uma energia de movimento age tanto sobre o veículo quanto sobre seus ocupantes. Essa energia é denominada “energia cinética”.
+
+Quanto maior a velocidade e o peso do veículo, mais energia deve ser amortecida em caso de acidente.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 21, Fig. 22, Fig. 23, Fig. 24 no manual original.]

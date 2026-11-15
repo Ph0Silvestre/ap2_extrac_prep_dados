@@ -1,0 +1,44 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Abrir e fechar
+SEÇÃO: Portas e botão do travamento central (Parte 5/5)
+PÁGINAS MANUAL: 72 (PDF: 74)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Luz de controle da porta do condutor acende permanentemente A luz de LED na porta do condutor pisca em intervalos curtos e, em seguida, permanece acesa por cerca de 30 segundos, voltando a piscar após decorrido este tempo.
+
+Existe uma deficiência no sistema de travamento.
+
+- Procurar uma Concessionária Volkswagen.
+
+As portas e a tampa traseira podem ser destravadas ou travadas manualmente em caso de falha da chave do veículo ou do travamento central -> Página 70 e -> Página 76.
+
+Indicadores de direção não piscam Se os indicadores de direção não piscarem para confirmação ao travar o veículo:
+
+- Pelo menos uma das portas ou a tampa traseira não está fechada.
+
+Veículo é travado automaticamente Se uma das seguintes condições for aplicada, o veículo se trava novamente após aproximadamente 30 segundos automaticamente.
+
+- O veículo foi destravado, mas não aberto.
+
+- A ignição não foi ligada.
+
+- A tampa traseira não foi aberta.
+
+Procedimento ao travar com uma segunda chave do veículo Keyless Access: a chave do veículo que encontrase no interior é bloqueada para a partida do motor assim que o veículo for travado por fora com uma segunda chave do veículo. Pressionar o botão na chave do veículo que encontra-se no interior do veículo para liberá-la para a partida do motor -> Página 108.
+
+Travar o veículo após um acionamento do airbag Se os airbags forem acionados em um acidente, o veículo inteiro será destravado. Dependendo da intensidade do dano, o veículo pode ser travado da seguinte forma após o acidente:
+
+- Desligar a ignição.
+
+- Abrir e fechar uma das portas uma vez.
+
+- OU: pressionar o botão do travamento central na porta do condutor -> Página 70.
+
+Com a bateria do veículo ou a bateria da chave do veículo fraca ou descarregada, possivelmente o veículo não poderá ser destravado ou travado por meio do Keyless Access. O veículo pode ser destravado ou travado manualmente -> Página 70.
+
+Se nenhuma chave do veículo válida se encontrar no interior do veículo, ou se esta não for reconhecida, uma mensagem correspondente será exibida no display do instrumento combinado. Este pode ser o caso se a chave do veículo for perturbada por outro sinal de rádio ou se for coberta por um objeto, por exemplo, por um acessório para dispositivos móveis ou uma mala de alumínio.

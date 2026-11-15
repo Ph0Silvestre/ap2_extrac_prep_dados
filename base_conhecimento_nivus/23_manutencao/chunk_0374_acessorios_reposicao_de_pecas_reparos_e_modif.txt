@@ -1,0 +1,30 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Manutenção
+SEÇÃO: Acessórios, reposição de peças, reparos e modificações (Parte 6/9)
+PÁGINAS MANUAL: 273 (PDF: 275)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+[ATENÇÃO]
+
+Uma utilização inadequada da tomada de conexão do diagnóstico pode causar falhas de funcionamento e também acidentes e ferimentos graves.
+
+- Nunca ler você mesmo o registro de falhas pela tomada de conexão para diagnóstico.
+
+- A tomada de conexão para diagnóstico somente pode ser lida por uma Concessionária Volkswagen.
+
+Utilização de um telefone móvel no veículo sem conexão com a antena externa Telefones móveis transmitem e recebem ondas de rádio, também chamadas de energia de alta frequência, tanto durante uma chamada, como também no modo Standby. A literatura científica especializada atual alerta que ondas de rádio podem prejudicar o corpo humano caso excedam determinados limites. Órgãos governamentais e comitês internacionais estabeleceram valores limite e diretrizes para que as radiações eletromagnéticas emitidas por telefones móveis estejam em uma faixa inofensiva para a saúde humana. Contudo, não existem provas científicas definitivas de que telefones sem fio sejam totalmente seguros.
+
+Por este motivo, alguns especialistas apelam para uma atitude preventiva com relação ao uso dos telefones móveis, em que medidas sejam tomadas para reduzir a radiação que atua sobre o corpo humano.
+
+Na utilização de um telefone móvel não conectado a uma antena externa de telefone no interior do veículo, a radiação eletromagnética pode ser maior do que quando o telefone móvel está conectado a uma antena integrada ou a outra antena externa.
+
+Se o veículo estiver equipado com um sistema de viva voz adequado, que permite a utilização de uma série de funções adicionais de telefones móveis compatíveis com Bluetooth®, ele atende as determinações legais de muitos países que permitem o uso de um telefone móvel no veículo somente por meio de um sistema de viva voz.
+
+Telefones móveis devem estar em um suporte de telefone ou estarem guardados com segurança no veículo. Se um suporte de telefone for utilizado, este deve ser travado de forma segura na placa básica. Somente desta forma o telefone móvel fica fixado de forma segura no painel de instrumentos e sempre ao alcance do condutor.
+
+Um telefone móvel que esteja conectado à antena de telefone integrada ao veículo ou a uma antena externa de telefone reduz a emissão da radiação eletromagnética que atua sobre o corpo humano. Além disso, dessa forma uma melhor qualidade de conexão é obtida.

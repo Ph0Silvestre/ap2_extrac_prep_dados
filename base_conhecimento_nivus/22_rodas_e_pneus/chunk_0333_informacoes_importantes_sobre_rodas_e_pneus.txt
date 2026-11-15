@@ -1,0 +1,40 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rodas e pneus
+SEÇÃO: Informações importantes sobre rodas e pneus (Parte 4/14)
+PÁGINAS MANUAL: 245 (PDF: 247)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Reprogramar o indicador de controle dos pneus Após cada troca de uma ou de várias rodas, o indicador de controle dos pneus deve ser programado novamente. Isto também é válido após trocar as rodas dianteiras pelas rodas traseiras -> Página 241.
+
+Em veículos com sistema de controle da pressão dos pneus Ao substituir as rodas instaladas de fábrica, atentar para que as novas rodas estejam equipadas com sensores compatíveis com o sistema de controle da pressão dos pneus -> Página 241. Para o reconhecimento das novas rodas, o veículo deve rodar algum tempo a uma velocidade acima de 25 km/h.
+
+No momento da troca e mudança dos sensores, a Volkswagen recomenda sempre a instalação de um novo conjunto de válvulas ou de vedação.
+
+Maiores informações sobre o sistema de controle das pressões dos pneus -> Página 240.
+
+[ATENÇÃO]
+
+Líquidos e substâncias agressivos podem causar danos visíveis e não visíveis aos pneus, o que pode ocasionar o estouro dos pneus.
+
+- Manter produtos químicos, óleos, gorduras, combustíveis, fluidos de freio e outras substâncias agressivas sempre longe dos pneus.
+
+[ATENÇÃO]
+
+Pneus novos precisam ser amaciados, pois sua aderência e efeito de frenagem são, inicialmente, reduzidas.
+
+- Para evitar acidentes e ferimentos graves, conduzir com a devida precaução durante os primeiros 600 km.
+
+[ATENÇÃO]
+
+As rodas devem ter a folga necessária adequada para seu funcionamento. Se não houver folga pode ocorrer atrito dos pneus com partes do eixo, da carroceria e das mangueiras do freio, o que pode causar falha do sistema de freio e soltura da banda de rodagem do pneu e, com isso, pode levar ao estouro do pneu.
+
+- As medidas reais dos pneus não podem ser maiores que as medidas dos pneus liberados pela Volkswagen e não podem gerar atrito com outras peças do veículo.
+
+Evitar choques fortes e, se possível, contornar os obstáculos. Os pneus podem ser deformados especialmente por buracos na via e choques contra as guias. Devido a isso podem ocorrer danos aos pneus e aros.
+
+Para descartar pneus velhos são necessários equipamentos e conhecimentos técnicos, de acordo com normas específicas. Portanto, é conveniente se dirigir a uma Concessionária Volkswagen ou a uma empresa especializada.

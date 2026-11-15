@@ -1,0 +1,14 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Abreviaturas e Índice remissivo
+SEÇÃO: Visão Geral - Abreviaturas e Índice remissivo (Parte 10/18)
+PÁGINAS MANUAL: 295 (PDF: 297)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+| Habitáculo | 12 |
+| --- | --- |
+| Hodômetro | 17, 18 |

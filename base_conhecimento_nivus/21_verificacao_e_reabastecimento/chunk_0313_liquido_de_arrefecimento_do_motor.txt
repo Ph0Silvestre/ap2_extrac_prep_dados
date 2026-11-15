@@ -1,0 +1,40 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: Líquido de arrefecimento do motor (Parte 4/5)
+PÁGINAS MANUAL: 233 (PDF: 235)
+FIGURAS REFERENCIADAS: Fig. 179
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Se o nível do líquido no reservatório estiver abaixo da marca mínima (“min”), reabastecer com líquido de arrefecimento do motor. Com o motor quente, o nível do líquido de arrefecimento do motor pode ficar um pouco acima da borda superior da área demarcada.
+
+Reabastecer com líquido de arrefecimento do motor
+- Colocar sempre um pano apropriado sobre a tampa do reservatório para proteger o rosto, as mãos e os braços do líquido de arrefecimento do motor quente ou do vapor.
+
+- Desrosquear cuidadosamente a tampa -> no sentido anti-horário.
+
+- Reabastecer somente com líquido de arrefecimento do motor novo e de acordo com a especificação da Volkswagen ( -> Página 231) -> .
+
+- O nível do líquido de arrefecimento do motor deve permanecer dentro da marcação do reservatório -> Fig. 179. Não reabastecer até acima do canto superior da faixa marcada -> !
+
+- Rosquear firmemente a tampa no sentido horário.
+
+- Se em caso de emergência não houver à disposição o líquido de arrefecimento do motor dentro da especificação exigida, não utilizar nenhum outro aditivo do líquido de arrefecimento do motor! Em vez disso, completar somente com água destilada -> . Depois disso, a mistura com a proporção correta de aditivo do líquido de arrefecimento do motor -> Página 231 deve ser restabelecida o mais rápido possível.
+
+[ATENÇÃO]
+
+Vapor ou líquido de arrefecimento do motor quentes podem causar queimaduras graves.
+
+- Nunca abrir a tampa do compartimento do motor quando se puder notar vapor ou líquido de arrefecimento saindo do compartimento do motor. Esperar sempre até que não note vapor ou líquido de arrefecimento saindo.
+
+- Deixar sempre o motor esfriar totalmente antes de abrir cuidadosamente a tampa do compartimento do motor. Ao serem tocadas, partes quentes podem queimar a pele.
+
+- Quando o motor tiver esfriado, deve-se atentar ao seguinte antes de abrir a tampa do compartimento do motor:
+- Puxar o freio de estacionamento e colocar a alavanca seletora na posição P .
+- Desligar a ignição e retirar a chave do veículo do cilindro da ignição.
+- Manter crianças sempre longe do compartimento do motor e sob a supervisão de adultos.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 179 no manual original.]

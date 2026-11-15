@@ -1,0 +1,49 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rodas e pneus
+SEÇÃO: Informações importantes sobre rodas e pneus (Parte 2/14)
+PÁGINAS MANUAL: 243-244 (PDF: 245-246)
+FIGURAS REFERENCIADAS: Fig. 184
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Não utilizar rodas ou pneus de procedência desconhecida. Rodas e pneus usados podem estar danificados, mesmo se os danos não forem visíveis.
+
+- Pneus velhos – mesmo se nunca usados – podem esvaziar ou estourar subitamente, principalmente em altas velocidades, e causar acidentes e ferimentos graves. Pneus com mais de 6 anos só devem ser utilizados em caso de emergência, com extremo cuidado e forma de condução igualmente cuidadosa, devendo ser substituídos imediatamente ao término da emergência.
+
+Manuseio de rodas e pneus
+
+Observe no início desse capítulo na página 243.
+
+Fig. 184 Esquema para a troca das rodas.
+
+Pneus e rodas são elementos de construção importantes. Os pneus e as rodas liberados pela Volkswagen são determinados para o modelo de veículo correspondente e contribuem decisivamente para um apoio satisfatório sobre o piso e para as características de condução seguras.
+
+Trocar as rodas Para o desgaste uniforme de todos os pneus, é recomendável um rodízio das rodas regular, conforme o esquema -> Fig. 184. Com isso, todos os pneus alcançam uma vida útil aproximadamente igual.
+
+A Volkswagen recomenda que se verifique a necessidade de rodízio das rodas a cada revisão do veículo, e quando houver a necessidade do rodízio das rodas recomendamos que seja feito o alinhamento e balanceamento das rodas.
+
+A Volkswagen recomenda que o rodízio das rodas seja feito por uma Concessionária Volkswagen.
+
+Evitar danos aos pneus
+- Passar por calçadas e similares lentamente e, sempre que possível, em ângulo reto.
+
+- Verificar regularmente os pneus quanto a danos, como, por exemplo, furos, cortes, rasgos e bolhas.
+
+- Remover corpos estranhos que se alojaram no perfil do pneu e não penetraram no interior do pneu -> Página 248.
+
+- Pneus desgastados ou danificados devem ser substituídos imediatamente -> Página 248.
+
+- Verificar regularmente os pneus quanto a danos não visíveis -> Página 248.
+
+- Nunca exceder a velocidade máxima e a capacidade de carga permitidas para os pneus instalados -> Página 250.
+
+- Proteger os pneus, inclusive o da roda de emergência, do contato com substâncias agressivas, inclusive gordura, óleo, gasolina e fluido de freio -> .
+
+- Repor as tampas das válvulas imediatamente em caso de perda.
+
+Pneus com mais de 6 anos de idade Os pneus envelhecem devido a processos físicos e químicos que podem comprometer sua função.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 184 no manual original.]

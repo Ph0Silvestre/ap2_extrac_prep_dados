@@ -1,0 +1,45 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: VW Play
+SEÇÃO: App store (Parte 1/1)
+PÁGINAS MANUAL: 183-184 (PDF: 185-186)
+FIGURAS REFERENCIADAS: Fig. 145
+ALERTAS PRESENTES: NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Introdução ao tema A app store é a ferramenta de busca e transferência de aplicativos ideais para o seu dia a dia.
+
+Alguns aplicativos podem ter sido instalados de fábrica.
+
+Antes de utilizar as aplicações leia os termos de uso e políticas de privacidade.
+
+Fig. 145 App-store Através da App store é possível fazer download de aplicativos, para isto é necessário que a rede Wi-Fi esteja conectada e que você esteja logado com seu Volkswagen ID.
+
+Para cadastrar o Volkswagen ID você deve acessar a página de login do VWID ou através do aplicativo Meu Volkswagen e preencher as informações de cadastro necessárias.
+
+Para realizar o login, pressione o menu App-store ou arraste a tela para a esquerda duas vezes para acessar a tela de acesso rápido, pressione o botão Iniciar sessão ou leia o código com a câmera do seu telefone.
+
+Após realizar o login, as informações serão carregadas na página inicial.
+
+Fazer download de um aplicativo Procurar ou fazer uma busca pelo aplicativo que deseja fazer o download. Selecionar o aplicativo e pressionar Baixar .
+
+O download irá se iniciar e você poderá acompanhar seu progresso no canto superior da página. Caso deseje cancelar, selecione o botão Cancelar , antes de finalizar o download.
+
+Após finalizado o download, pressionar o botão Abrir para ter acesso ao aplicativo e suas funcionalidades. Os aplicativos instalados ficam disponíveis do lado esquerdo da tela.
+
+Funções básicas
+- Para acessar os aplicativos instalados, pressionar Meus Apps.
+
+- Para acessar as configurações da App-store pressionar Configurações. É possivel verificar a versão do software da App-store e verificar os termos e condições de uso.
+
+nar Atualizar e verificar a disponibilidade das atualizações.
+
+- Para excluir um aplicativo instalado, pressionar o menu Configurações e no item Apps selecionar o aplicativo que deseja excluir e pressionar Desinstalar.
+
+[NOTA]
+
+Vídeos e outras funções que possam comprometer a atenção do condutor são bloqueados com o veículo em movimento.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 145 no manual original.]

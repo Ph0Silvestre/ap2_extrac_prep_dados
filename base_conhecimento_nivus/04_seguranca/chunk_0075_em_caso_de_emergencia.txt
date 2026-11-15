@@ -1,0 +1,55 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Segurança
+SEÇÃO: Em caso de emergência (Parte 1/3)
+PÁGINAS MANUAL: 61-62 (PDF: 63-64)
+FIGURAS REFERENCIADAS: Fig. 46
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Proteger a si mesmo e ao veículo
+
+Fig. 46 Na parte superior do console central: interruptor das luzes de advertência.
+
+Observar as determinações legais para a proteção de um veículo parado. Em muitos países existem prescrições a respeito, por exemplo, o acionamento das luzes de advertência -> Página 63.
+
+Lista de controle Os seguintes pontos devem ser observados na sequência indicada, para garantir a própria segurança e a segurança dos passageiros -> :
+
+1. Estacionar o veículo a uma distância segura do fluxo de trânsito sobre uma superfície adequada -> .
+
+2. Ligar as luzes de advertência com o interruptor -> Fig. 46.
+
+3. Puxar o freio de estacionamento -> Página 131.
+
+4. Colocar a alavanca seletora na posição P -> Página 112.
+
+5. Desligar o motor e retirar a chave do veículo do cilindro da ignição -> Página 108.
+
+6. Desembarcar todos os ocupantes do veículo e levá-los em segurança para longe do fluxo de trânsito, por exemplo, para trás do guardrail.
+
+7. Levar todas as chaves do veículo ao deixar o veículo.
+
+8. Posicionar o triângulo de segurança para fazer com que outros condutores percebam o veículo.
+
+9. Deixar o motor esfriar suficientemente e, se necessário, procurar auxílio técnico especializado.
+
+Com as luzes de advertência ligadas, todos os indicadores de direção do veículo piscam ao mesmo tempo. As luzes indicadoras dos indicadores de direção e uma luz indicadora no interruptor piscam ao mesmo tempo. As luzes de advertência também funcionam com a ignição desligada.
+
+Se as luzes de advertência estiverem acesas, pode ser indicada, por exemplo, uma mudança de direção ou mudança de faixa durante a rebocagem com o acionamento da alavanca dos indicadores de direção. As luzes de advertência são momentaneamente interrompidas.
+
+Exemplos em que as luzes de advertência devem ser ligadas:
+- Se o trânsito à frente desacelerar repentinamente ou se alcançar o fim de um congestionamento, para alertar os condutores quem vêm atrás.
+
+- Se houver uma emergência.
+
+- Se o veículo quebrar.
+
+- Ao ser rebocado.
+
+Observar sempre as determinações regionais sobre o uso das luzes de advertência.
+
+Se as luzes de advertência não funcionarem, os outros condutores deverão ser alertados de outra forma (em conformidade com as determinações legais) a respeito do veículo parado.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 46 no manual original.]

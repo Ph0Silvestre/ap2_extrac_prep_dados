@@ -1,0 +1,50 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Aquecimento e ar-condicionado
+SEÇÃO: Aquecer, ventilar, refrigerar (Parte 4/5)
+PÁGINAS MANUAL: 99-100 (PDF: 101-102)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Girar o regulador do ventilador para o nível máximo. O ar-condicionado e o modo de recirculação de ar serão ligados automaticamente.
+
+- Caso o ar-condicionado não ligue, pressionar a tecla para ligar o sistema de refrigeração.
+
+- Se o veículo ficar exposto ao sol por longo período, abrir parcialmente ou totalmente os vidros das portas dianteiras por um breve período (1 a 3 minutos), para eliminar a massa de ar quente do interior do veículo.
+
+- Fechar os vidros, e caso necessário pressionar a tecla para ligar o modo de recirculação de ar.
+
+[NOTA]
+
+Para evitar danos ao desembaçador do vidro traseiro, não deve ser colado nenhum adesivo por dentro, sobre os filamentos.
+
+Após o vidro recuperar sua nitidez, o desembaçador deverá ser desligado. O consumo mais baixo de corrente repercute favoravelmente no consumo de combustível.
+
+Se o ar-condicionado e o modo de recirculação de ar forem desligados manualmente, o sistema não ligará automaticamente na próxima vez em que o ventilador for desligado e novamente ligado. O sistema voltará a funcionar automaticamente somente após o interruptor da temperatura ser retirado da posição totalmente para a esquerda e ser recolocado nessa posição.
+
+Observe e no início desse capítulo na página 96.
+
+No modo de recirculação de ar, o ar externo é impedido de atingir o interior do veículo.
+
+- Pressionar o botão no painel de comando, para ligar ou desligar o modo de recirculação de ar.
+
+Quando o modo de recirculação de ar é desligado? A recirculação de ar se desliga nas seguintes situações -> :
+
+- Quando o botão do Climatronic é pressionado.
+
+- Quando o regulador da distribuição de ar do ar-condicionado é colocado para a posição .
+
+[ATENÇÃO]
+
+O ar viciado pode levar ao cansaço e à falta de concentração do condutor, o que pode causar colisões, acidentes e ferimentos graves.
+
+- Nunca deixar o ventilador desligado por muito tempo e nunca deixar o modo de recirculação de ar ligado por muito tempo, uma vez que o ar fresco não atinge o interior do veículo.
+
+- Com o sistema de refrigeração desligado, os vidros podem embaçar muito rapidamente no modo de recirculação de ar, o que limita significativamente as condições de visibilidade.
+
+- Desligar o modo de recirculação de ar quando ele não for mais necessário.
+
+[NOTA]

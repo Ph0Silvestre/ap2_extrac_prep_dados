@@ -1,0 +1,63 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Informações ao condutor
+SEÇÃO: Comando e indicações no rádio (Parte 1/3)
+PÁGINAS MANUAL: 29-30 (PDF: 31-32)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Introdução ao tema O rádio reúne importantes sistemas do veículo em uma unidade de comando central, por exemplo, menu de configurações, função rádio ou sistema de navegação.
+
+Informações básicas de comando O próximo trecho do texto possui informações relevantes para a configuração do menu Configurações do veículo. As informações básicas de comando do sistema do rádio assim como indicações de alerta e segurança que devem ser respeitadas estão descritas na -> Página 145.
+
+Menu Configurações do veículo
+
+Observe no início desse capítulo na página 29.
+
+Acessar o menu Configurações do veículo
+- Ligar a ignição.
+
+- Se for o caso, ligar o sistema do rádio.
+
+Configurações do sistema e exibição de informações do veículo É possível exibir informações ou efetuar configurações no dislpay do rádio ao pressionar o botão do sistema do rádio OU tocar na superfície de seleção , e ao tocar nas respectivas superfícies de função:
+
+- Configurações do veículo -> Página 29.
+
+- Mídia ativa.
+
+- Dados da viagem.
+
+- Estado do veículo.
+
+- Item de conforto.
+
+- Seleção da emissora de rádio.
+
+Dependendo da versão do veículo, algumas informações e configurações podem ser feitas a partir da tela principal do rádio, arrastando para a esquerda uma vez e selecionando a respectiva função:
+
+- Dados de viagem.
+
+- Estado do veículo.
+
+- Active Info Display -> Página 18.
+
+[ATENÇÃO]
+
+A distração do condutor pode causar acidentes e ferimentos. O comando do sistema do rádio pode distrair dos acontecimentos do trânsito.
+
+- Conduzir sempre de forma atenta e responsável.
+
+Após a partida do motor com a bateria do veículo 12 V totalmente descarregada ou com uma bateria substituída no veículo, as configurações do sistema (hora, data, configurações de conforto pessoais e programações) podem estar desajustadas ou deletadas. Verificar e corrigir as configurações depois que a bateria do veículo 12 V tiver sido suficientemente recarregada.
+
+- Pressionar o botão do rádio
+
+- Tocar na superfície de função para abrir o menu Configurações do veículo.
+
+- No menu Configurações do veículo para poder acessar outros menus ou para configurar os itens do menu, tocar as respectivas superfícies de função.
+
+- Tocar na superfície de função Carro para abrir o menu.
+
+- No menu Carro para poder acessar outros menus ou para configurar os itens do menu, tocar as respectivas superfícies de função.

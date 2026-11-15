@@ -1,0 +1,57 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Abrir e fechar
+SEÇÃO: Chave do veículo (Parte 1/3)
+PÁGINAS MANUAL: 64-65 (PDF: 66-67)
+FIGURAS REFERENCIADAS: Fig. 49
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Funções da chave do veículo
+
+Fig. 49 Chave do veículo.
+
+Legenda para -> Fig. 49:
+
+Botão do travamento central: destravar o veículo.
+
+Destravar a tampa do compartimento de bagagem separadamente.
+
+Botão do travamento central: travar o veículo.
+
+Rebater a haste da chave para fora e para dentro.
+
+Luz de controle: pisca ao pressionar o botão.
+
+Destravar ou travar o veículo por fora
+- Destravar: pressionar o botão . Manter pressionado para abertura de conforto.
+
+- Travar: pressionar o botão . Manter pressionado para fechamento de conforto.
+
+- Pressionar o botão -> Página 75. A tampa traseira é destravada.
+
+- Travar: todas as luzes piscam uma vez para efeitos de confirmação.
+
+- Destravar: todas as luzes piscam duas vezes para efeitos de confirmação.
+
+Observar: de acordo com a função configurada do travamento central no sistema do rádio -> Página 29, todas as portas e a tampa traseira serão destravadas apenas quando o botão for pressionado pela segunda vez.
+
+É possível habilitar / desabilitar o sinal sonoro (buzina) para a confirmação de ativação e desativação do alarme. Dependendo da versão do veículo e da versão do rádio, é possível no sistema do rádio por meio do botão no menu Configurações do veículo ativar ou desativar a confirmação sonora -> Página 29. Para os demais veículos, procure uma Concessionária Volkswagen para habilitar / desabilitar o sinal sonoro.
+
+[ATENÇÃO]
+
+Uma utilização desatenta ou descontrolada das chaves do veículo pode causar acidentes e ferimentos graves.
+
+- Levar sempre todas as chaves do veículo consigo ao deixar o veículo. Crianças ou pessoas não autorizadas podem travar as portas e a tampa traseira, dar partida no motor ou ligar a ignição e, com isso, acionar equipamentos elétricos, como, por exemplo, os vidros elétricos.
+
+- Nunca deixar crianças ou pessoas com necessidade especiais sozinhas no veículo. Em caso de emergência, elas não estariam em condições de deixar o veículo sozinhas ou de ajudarem a si mesmas. Em um veículo fechado, de acordo com a estação do ano, podem ocorrer temperaturas muito altas ou muito baixas, que podem causar ferimentos graves e enfermidades, principalmente em crianças pequenas, ou levar à morte.
+
+- Nunca retirar a chave da ignição enquanto o veículo estiver em movimento.
+
+[NOTA]
+
+Toda chave do veículo contém componentes eletrônicos. Proteger as chaves contra avarias, umidade e vibrações intensas.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 49 no manual original.]

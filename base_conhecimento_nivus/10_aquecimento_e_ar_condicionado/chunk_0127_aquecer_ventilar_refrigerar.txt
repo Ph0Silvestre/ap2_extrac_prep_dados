@@ -1,0 +1,46 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Aquecimento e ar-condicionado
+SEÇÃO: Aquecer, ventilar, refrigerar (Parte 5/5)
+PÁGINAS MANUAL: 100 (PDF: 102)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+[NOTA]
+
+Não fumar com o modo de recirculação de ar ligado. A fumaça succionada pode se depositar no evaporador do sistema de refrigeração e no filtro de poeira e pólen, ocasionando odores incômodos e duradouros.
+
+Com temperaturas externas muito altas, é recomendado selecionar o modo de recirculação de ar por um tempo curto para resfriar o interior do veículo mais rapidamente.
+
+Observe e no início desse capítulo na página 96.
+
+As seguintes dicas e orientações de funcionamento ajudam na utilização correta do sistema.
+
+O sistema de refrigeração do interior do veículo funciona somente com o motor em funcionamento e com o ventilador ligado.
+
+O ar-condicionado trabalha com o máximo de eficiência se os vidros estiverem fechados. Se o interior do veículo estiver muito aquecido porque o veículo ficou parado exposto ao sol, abrir brevemente os vidros pode acelerar o processo de resfriamento.
+
+Por que o sistema de refrigeração se desliga automaticamente ou não pode ser ligado?
+- O motor não está em funcionamento.
+
+- O ventilador está desligado.
+
+- O fusível do ar-condicionado está queimado.
+
+- A temperatura ambiente está abaixo de aproximadamente +3 ℃.
+
+- O compressor do ar-condicionado está desligado temporariamente devido à temperatura muito elevada do líquido de arrefecimento do motor.
+
+- Existe uma falha no veículo. O ar-condicionado deve ser verificado por uma Concessionária Volkswagen ou por uma empresa especializada.
+
+Regulagens para obter condições de visibilidade ideais
+- Manter a entrada de ar do para-brisa livre de gelo ou folhas para melhorar a potência de aquecimento ou refrigeração e impedir o embaçamento dos vidros -> Página 258.
+
+- Manter a fenda de ar da área traseira do compartimento de bagagem livre para que o ar possa circular da frente para trás, pelo veículo.
+
+- Quando o líquido de arrefecimento do motor tiver atingido a sua temperatura operacional, será atingida maior potência de aquecimento e o mais rápido desembaçamento dos vidros.
+
+Filtro de poeira e pólen O filtro de poeira e pólen reduz a penetração de partículas do ar externo no interior do veículo.

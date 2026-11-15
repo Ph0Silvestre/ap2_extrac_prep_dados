@@ -1,0 +1,28 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: No compartimento do motor (Parte 6/6)
+PÁGINAS MANUAL: 225 (PDF: 227)
+FIGURAS REFERENCIADAS: Fig. 175
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Uma representação simbólica -> Fig. 175 no display do instrumento combinado indica que a tampa do compartimento de motor está aberta ou não fechada corretamente.
+
+Não prosseguir! Se necessário, suspender novamente a tampa do compartimento do motor e fechar.
+
+A representação também é visível com a ignição desligada, e se apaga alguns minutos após o veículo ser trancado com as portas fechadas.
+
+[ATENÇÃO]
+
+A inobservância das indicações de advertência pode ocasionar paradas do veículo no trânsito, acidentes e ferimentos graves.
+
+- Nunca ignorar as indicações de advertência.
+
+- Parar o veículo assim que possível e seguro.
+
+De acordo com o modelo do instrumento combinado, a representação dos símbolos pode variar.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 175 no manual original.]

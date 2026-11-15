@@ -1,0 +1,37 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: No compartimento do motor (Parte 2/6)
+PÁGINAS MANUAL: 221-222 (PDF: 223-224)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Peças quentes do motor ou do sistema de escape podem queimar a pele se tocadas.
+
+- Quando o motor tiver esfriado, deve-se atentar ao seguinte antes de abrir a tampa do compartimento do motor:
+- Puxar o freio de estacionamento e colocar a alavanca seletora na posição P.
+- Desligar a ignição e retirar a chave do veículo do cilindro da ignição.
+- Manter crianças sempre longe do compartimento do motor e sob a supervisão de adultos.
+
+- Com o motor quente, o sistema de arrefecimento do motor está sob pressão. Nunca abrir a tampa do reservatório do líquido de arrefecimento do motor com o motor quente. Caso isso seja feito, o líquido de arrefecimento pode respingar e causar queimaduras e outros ferimentos graves.
+- Depois de esfriar, girar a tampa lentamente e com muito cuidado no sentido anti-horário enquanto pressiona a tampa levemente para baixo.
+- Proteger sempre o rosto, as mãos e os braços do líquido de arrefecimento quente ou do vapor com um pano grande e espesso.
+
+- Ao reabastecer, não derramar fluidos sobre partes do motor ou sobre o sistema de escape. Os fluidos derramados podem causar incêndios.
+
+A alta tensão do sistema elétrico pode causar choques elétricos, queimaduras, ferimentos graves e a morte!
+
+- Nunca colocar o sistema elétrico em curtocircuito. A bateria do veículo poderia explodir.
+
+- Para reduzir o risco de um choque elétrico e de ferimentos graves, observar o seguinte enquanto o motor estiver em funcionamento ou durante a partida:
+- Nunca encostar nos condutores elétricos do sistema de ignição.
+- Nunca encostar nos cabos de alimentação.
+
+[ATENÇÃO]
+
+No compartimento do motor encontram-se peças girando que podem causar ferimentos graves.
+
+- Nunca encostar na área do ventilador do radiador ou diretamente na ventoinha. O contato com as lâminas do rotor pode causar ferimentos graves. A ventoinha é controlada por temperatura e pode ligar por conta própria - mesmo com a ignição desligada ou com a chave do veículo fora do cilindro da ignição.

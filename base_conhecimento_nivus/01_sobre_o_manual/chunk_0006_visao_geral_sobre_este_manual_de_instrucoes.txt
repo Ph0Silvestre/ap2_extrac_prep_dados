@@ -1,0 +1,38 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Sobre este Manual de instruções
+SEÇÃO: Visão Geral - Sobre este Manual de instruções (Parte 2/2)
+PÁGINAS MANUAL: 7 (PDF: 9)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO, CUIDADO, NOTA, PERIGO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Esta seta indica o fim de um trecho do texto.
+
+O símbolo identifica situações nas quais o veículo deve ser parado o mais rápido possível.
+
+® O símbolo identifica uma marca registrada. A falta desse símbolo não garante que os termos possam ser usados livremente.
+
+-> Símbolos deste tipo fazem referência a alertas dentro do mesmo trecho do texto ou da página indicada, para indicar possíveis riscos de acidente e de ferimentos e como eles podem ser evitados. -> -> -> Referência cruzada a um possível dano material dentro do mesmo trecho do texto ou da página indicada.
+
+[PERIGO]
+
+Textos com este símbolo indicam situações extremamente perigosas, que podem causar a morte ou ferimentos graves no caso de inobservância.
+
+[ATENÇÃO]
+
+Textos com este símbolo indicam situações perigosas, que podem causar a morte ou ferimentos graves no caso de inobservância.
+
+[CUIDADO]
+
+Textos com este símbolo indicam situações perigosas, que podem causar ferimentos leves ou graves no caso de inobservância.
+
+[NOTA]
+
+Textos com este símbolo indicam situações perigosas, que podem causar danos ao veículo no caso de inobservância.
+
+Textos com este símbolo contêm recomendações que visam a defesa do meio ambiente.
+
+Textos com este símbolo contêm informações adicionais.

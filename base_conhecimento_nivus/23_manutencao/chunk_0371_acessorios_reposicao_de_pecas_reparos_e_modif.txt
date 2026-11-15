@@ -1,0 +1,32 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Manutenção
+SEÇÃO: Acessórios, reposição de peças, reparos e modificações (Parte 3/9)
+PÁGINAS MANUAL: 271 (PDF: 273)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Durante todos os trabalhos no sistema de airbag, bem como na instalação e desinstalação de suas peças em razão de outros reparos, é possível que peças do sistema de airbag sejam danificadas. Isso pode fazer com que os airbags funcionem ou não funcionem corretamente em caso de acidente.
+
+Para que a eficácia dos airbags não seja prejudicada e peças desmontadas não causem ferimentos ou poluição do meio ambiente, as prescrições devem ser observadas. As Concessionárias Volkswagen conhecem essas prescrições.
+
+Uma alteração na suspensão do veículo pode comprometer o funcionamento do sistema de airbag em um impacto. Por exemplo, por meio da utilização de uma combinação de rodas e pneus que não tenha sido aprovada pela Volkswagen e que cause um rebaixamento do veículo pela alteração na rigidez da suspensão, inclusive das molas, do braço das molas, do amortecedor etc, pode causar uma alteração na reação dos sensores dos airbags que envia a informação para a unidade de controle eletrônica. Algumas modificações nas molas podem, por exemplo, causar alterações na suspensão e consequentemente alterar a reação dos sensores e acionar o sistema de airbag em cenários de impactos nos quais os airbags normalmente não seriam acionados se as modificações não tivessem sido feitas. Outras modificações poderão alterar a reação medida pelos sensores e impedir o acionamento do airbag se ele precisar ser acionado.
+
+[ATENÇÃO]
+
+Reparos e modificações realizados de forma inadequada podem causar deficiências de funcionamento, danos ao veículo e comprometer a eficácia do sistema de airbag. Isso pode ocasionar acidentes e ferimentos graves ou fatais.
+
+- Reparos e modificações no veículo só devem ser realizados por uma Concessionária Volkswagen.
+
+- Os módulos do airbag não podem ser reparados, mas sim substituídos.
+
+- Nunca instalar no veículo peças de airbag desmontadas de veículos antigos ou originárias de reciclagem.
+
+[ATENÇÃO]
+
+Uma alteração na suspensão do veículo, inclusive a utilização de combinações de pneus e rodas não liberados pela Volkswagen, podem alterar o funcionamento do sistema do airbag e aumentar o risco de ferimentos graves ou fatais em caso de acidente.
+
+- Jamais instalar componentes da suspensão não liberados pela Volkswagen e que não apresentem características idênticas às peças originais instaladas no veículo.

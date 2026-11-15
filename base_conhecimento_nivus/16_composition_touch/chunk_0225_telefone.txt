@@ -1,0 +1,70 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Telefone (Parte 6/11)
+PÁGINAS MANUAL: 171-172 (PDF: 173-174)
+FIGURAS REFERENCIADAS: Fig. 132, Fig. 133
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Favoritos (botões de discagem rápida) que podem ser ocupados com um número de telefone da agenda telefônica -> Página 175.
+
+Abrir um teclado numérico para a inserção de um número de telefônico -> Página 172.
+
+Abrir a agenda telefônica do telefone móvel pareado -> Página 173.
+
+Abrir a lista de chamadas do telefone móvel pareado -> Página 174.
+
+a) Abrir a lista de mensagens (SMS) do telefone móvel pareado.
+
+Tocar na superfície de função para estabelecer com um número de telefone através do comando de voz.
+
+a)
+
+Abrir menu Configurações do telefone -> Página 175.
+
+Tocar para aceitar uma chamada.
+
+Tocar para finalizar uma chamada. OU: tocar para rejeitar uma chamada recebida.
+
+Tocar para silenciar o som durante a chamada. Tocar na superfície de função para cancelar o silenciamento do som.
+
+a) Dependendo do telefone móvel.
+
+Exibição: significado Nome da operadora da rede de comunicação móvel (operadora) no qual o cartão SIM do telefone móvel pareado está registrado.
+
+B Exibição do número de chamada ou do nome salvo.
+
+Nível de carga do telefone móvel pareado.
+
+Força do sinal da estação de transmissão de comunicação móvel disponível no momento.
+
+Mostra uma conexão Bluetooth® ativa.
+
+Durante uma chamada telefônica
+
+Observe e no início desse capítulo na página 168.
+
+Fig. 132 Durante uma chamada telefônica.
+
+Quando a conexão com um número de telefone tiver sido estabelecida, o menu principal PHONE muda para a vista Chamada telefônica -> Fig. 132.
+
+Exibição e superfícies de função: ação e efeito Tocar para desligar o microfone da preparação para telefone móvel durante uma chamada (a superfície de função troca para ).
+
+Tocar para ligar o microfone da preparação para telefone móvel durante uma chamada (a superfície de função troca para ).
+
+B Exibição da duração da chamada e do número de chamada ou do nome salvo.
+
+Tocar para finalizar uma chamada.
+
+Nível de carga do telefone móvel pareado.
+
+Funções durante uma chamada telefônica Menu Inserir número de telefone
+
+Observe e no início desse capítulo na página 168.
+
+Fig. 133 Menu Inserir número de telefone.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 132, Fig. 133 no manual original.]

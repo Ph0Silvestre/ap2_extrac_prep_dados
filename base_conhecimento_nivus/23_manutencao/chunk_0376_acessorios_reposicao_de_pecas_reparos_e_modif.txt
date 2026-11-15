@@ -1,0 +1,68 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Manutenção
+SEÇÃO: Acessórios, reposição de peças, reparos e modificações (Parte 8/9)
+PÁGINAS MANUAL: 274-275 (PDF: 276-277)
+FIGURAS REFERENCIADAS: Fig. 195
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+O suporte para telefone celular pode não estar disponível para todas as versões.
+
+Instalar o suporte para telefone celular
+- Colocar o suporte por cima na abertura e pressionar para baixo, até que ele se trave audivelmente (dois cliques) -> .
+
+Desinstalar o suporte para telefone celular
+- Se for o caso, remover o telefone celular do suporte.
+
+- Segurar o suporte com uma mão e pressionar o botão de destravamento -> Fig. 195 2 (seta).
+
+- Remover o suporte do painel de instrumentos por cima.
+
+Instalar o telefone celular no suporte
+- Com a haste -> Fig. 195 4 deslocar no sentido da seta, e instalar o telefone celular no alojamento.
+
+- Soltar a haste e verificar a fixação do telefone celular.
+
+com firmeza.
+
+- Com a outra mão deslocar a haste -> Fig. 195 4 até que seja possível remover o aparelho do alojamento.
+
+- Retirar o telefone celular.
+
+- Se necessário, desinstalar o suporte do painel de instrumentos.
+
+Entrada carregador USB O telefone celular pode ser carregado através da entrada carregador USB. O tempo de carga dependerá do tipo de aparelho utilizado e das funções do aparelho ativas durante o tempo de carga. A capacidade máxima do carregador USB é de aproximadamente 1,5 A.
+
+A função de carregador USB estará disponível somente com a ignição do veículo ligada.
+
+- Colocar o cabo USB na entrada carregador USB do suporte existente no painel de instrumentos -> Fig. 195 .
+
+- Prender o cabo no suporte -> Fig. 195 1 .
+
+- Quando não for mais necessário, remover o cabo USB do suporte.
+
+Ajustes
+- Para liberar o movimento do suporte, girar a trava -> Fig. 195 3 no sentido contrário da seta.
+
+- Movimentar o suporte para a posição desejada.
+
+- Para fixar a posição, girar a trava no sentido da seta 3 -> Fig. 195 até a fixação total do suporte.
+
+[ATENÇÃO]
+
+A distração do condutor enquanto dirige o veículo pode causar acidentes e ferimentos. A utilização do telefone celular pode distrair dos acontecimentos do trânsito.
+
+- Manusear o telefone celular ao dirigir o veículo constituí infração gravíssima de trânsito.
+
+- Conduzir sempre de forma atenta e responsável.
+
+- Selecionar o ajuste do volume do som de forma que os sinais acústicos externos sejam sempre audíveis (por exemplo, o som das sirenes dos serviços de resgate).
+
+- Um volume regulado alto demais pode prejudicar a audição. Isto também ocorre quando a audição é submetida mesmo que brevemente a volumes altos.
+
+[ATENÇÃO]
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 195 no manual original.]

@@ -1,0 +1,50 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Abreviaturas e Índice remissivo
+SEÇÃO: Visão Geral - Abreviaturas e Índice remissivo (Parte 1/18)
+PÁGINAS MANUAL: 287-288 (PDF: 289-290)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+| Abreviatura | Significado | |
+| --- | --- | --- |
+| A | Ampere, unidade de medida para a corrente elétrica. | |
+| A/h | Ampere hora. | |
+| A2DP | Tecnologia de transmissão de sinais de áudio via Bluetooth® comum a vários fabricantes (Advanced Audio Distribution Profile). | |
+| ABNT | Associação Brasileira de Normas Técnicas. | |
+| ABS | Sistema antibloqueio do freio. | |
+| AM | Modulação de amplitude (onda média, MW). | |
+| ANATEL | Agência Nacional de Telecomunicações. | |
+| AQ 250 | Transmissão automática de 6 marchas motor TSI. | |
+| ASR | Controle de tração. | |
+| AUX | Entrada auxiliar de áudio (Auxiliary Input). | |
+| AVRCP | Tecnologia de controle à distância de fontes de áudio via Bluetooth comum a vários fabricantes® (Audio Video Remote Control Profile). | |
+| bar | Unidade de medida de pressão. | |
+| BAS | Assistente de frenagem. | |
+| BCM | Módulo de controle (Body Control Module). | |
+| CDM | Código do motor. | |
+| cm³ | Centímetros cúbicos. Unidade de medida para indicação da cilindrada. | |
+| CO | Monóxido de carbono. | |
+| CONTRAN | Conselho Nacional de Trânsito. | |
+| cv | Cavalo-vapor, indicação da potência do motor. | |
+| dB | Decibel, unidade de medida de ruído. | |
+| DIN | Instituto Alemão de Normatização. | |
+| EBV | Distribuidor eletrônico da força de frenagem. | |
+| ECE | Comissão Econômica para Regulamentação na Europa (Economic Commission for Europe- Regelung). | |
+| EDS | Bloqueio eletrônico do diferencial. | |
+| EON | Suporte de outras redes de transmissão (Enhanced Other Network). | |
+| EPC | Unidade de controle do motor (Electronic Power Control). | |
+| ESC | Programa eletrônico de estabilidade. | |
+| ESS | Luzes de frenagem de emergência (Emergency Stop Signal). | |
+| FM | Modulação de frequência (ondas ultracurtas, UKW). | |
+| GALA | Adequação do volume em relação à velocidade. | |
+| GRA | Sistema regulador de velocidade. | |
+| GSM | Sistema mundial de comunicação móvel (Global System for Mobil Communications). | |
+| HFP | Telefonia sem fio (Hands-Free-Profile). | |
+| IMEI | Número de série para a identificação exclusiva de aparelhos terminais de GSM (International Mobile Station Equipment Identity). | |
+| INMETRO | Instituto Nacional de Metrologia, Normalização e Qualidade Industrial. | |
+
+kg Quilograma, unidade de massa no Sistema Internacional de unidades.

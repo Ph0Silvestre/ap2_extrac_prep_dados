@@ -1,0 +1,28 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Manutenção
+SEÇÃO: Conservação do veículo (Parte 2/15)
+PÁGINAS MANUAL: 261-262 (PDF: 263-264)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Restos de produtos de conservação não devem ser descartados no lixo doméstico. Observar as informações da embalagem.
+
+Quanto mais tempo resíduos de insetos, excrementos de pássaros, resina de árvores, poeira urbana ou industrial, piche, fuligem e outros sedimentos agressivos permanecerem na superfície do veículo, mais duradouro é o seu efeito destrutivo. Altas temperaturas e a forte incidência de radiação solar fortalecem o seu efeito corrosivo. Lavar cuidadosamente e em intervalos regulares também a parte inferior do veículo.
+
+Sistema de lavagem automático Observar as orientações disponibilizadas no sistema de lavagem automático. Antes de uma lavagem automática, tomar as precauções usuais, como, por exemplo, fechar todos os vidros e dobrar os espelhos retrovisores externos para dentro, para evitar danos. Se o veículo possuir peças agregadas como, por exemplo, spoiler, bagageiro ou antena, informar obrigatoriamente o operador do sistema de lavagem automático -> .
+
+A pintura do veículo é tão resistente que o veículo geralmente pode ser lavado sem problemas em sistemas de lavagem automáticos. No entanto, o desgaste real da pintura depende muito da estrutura do sistema de lavagem automático. A Volkswagen recomenda a lavagem em sistemas de lavagem automáticos sem escovas.
+
+Para remover eventuais resíduos de cera dos vidros e, assim, evitar atrito excessivo dos limpa-dores dos vidros, observar as seguintes orientações -> Página 263, Limpar os vidros e os espelhos retrovisores externos.
+
+Lavador de alta pressão Ao lavar o veículo com um lavador de alta pressão, seguir obrigatoriamente as orientações de utilização do lavador de alta pressão. Isso é válido principalmente para a pressão e a distância do jato -> .
+
+A lavagem do veículo com água a alta pressão pode fazer com que a água entre no veículo. Evitar utilizar um lavador de alta pressão a uma distância inferior a 30 cm da superfície do veículo. A utilização de um lavador de alta pressão superior a 8.000 kPa (80 bar) pode levar a danos ou remoção da pintura e adesivos.
+
+Manter grande distância de materiais muito maleáveis como tubos de borracha e materiais isolantes, bem como dos sensores do controle de distância de estacionamento. Os sensores do controle de distância de estacionamento estão localizados no para-choque traseiro -> .
+
+Em nenhuma hipótese utilizar bicos de jato circular ou tubeiras -> .

@@ -1,0 +1,22 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Vista geral do veículo
+SEÇÃO: Símbolos no revestimento do teto (Parte 1/1)
+PÁGINAS MANUAL: 14 (PDF: 16)
+FIGURAS REFERENCIADAS: Fig. 9
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+| Legenda para -> Fig. 9: Local de instalação do airbag frontal do passageiro no painel de instrumentos........................ 1 | | 44 |
+| --- | --- | --- |
+| 2 | Difusores de ar.......................................................................................................................................................... | 96 |
+| 3 | Interruptor acionado pela chave para desligar o airbag frontal do passageiro dianteiro........ | 49 |
+| 4 | Alavanca de abertura do porta-luvas.............................................................................................................. | 141 |
+
+| Símbolo | Significado | |
+| --- | --- | --- |
+| , , , | Botões das lanternas internas e de leitura -> Página 85. | |
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 9 no manual original.]

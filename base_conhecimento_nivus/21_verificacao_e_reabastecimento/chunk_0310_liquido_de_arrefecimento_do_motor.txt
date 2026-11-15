@@ -1,0 +1,40 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: Líquido de arrefecimento do motor (Parte 1/5)
+PÁGINAS MANUAL: 231 (PDF: 233)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Introdução ao tema Nunca trabalhar com o sistema de arrefecimento do motor se não estiver familiarizado com os procedimentos necessários e se tiver à disposição somente ferramentas, equipamentos e fluidos inapropriados -> ! Nesse caso, deixar que todos os trabalhos sejam realizados por uma empresa especializada. Para isso, a Volkswagen recomenda as Concessionárias Volkswagen.
+
+Trabalhos inapropriados podem causar ferimentos graves.
+
+[ATENÇÃO]
+
+O líquido de arrefecimento do motor é tóxico!
+
+- Conservar o líquido de arrefecimento do motor somente em seu recipiente original fechado e em lugar seguro.
+
+- Nunca utilizar latas de alimentos, garrafas ou outros recipientes vazios para armazenar o líquido de arrefecimento do motor, já que há risco de o líquido armazenado ser ingerido por outras pessoas.
+
+- Manter o líquido de arrefecimento do motor fora do alcance de crianças.
+
+- Assegurar que seja prevista a proporção de aditivo do líquido de arrefecimento do motor correto de acordo com a temperatura ambiente mais baixa esperada na qual o veículo será operado.
+
+- Em temperaturas extremamente baixas o líquido de arrefecimento do motor pode congelar e causar a parada do veículo. Nesse caso, o aquecimento interno do veículo também não funcionará, podendo ocorrer a diminuição da temperatura corporal dos ocupantes que não estejam vestindo roupas adequadas ao clima.
+
+- A exposição prolongada ao frio e a perda de calor corporal são fatores prejudiciais à saúde humana.
+
+Em circunstância nenhuma, o líquido de ar-refecimento do motor velho deve ser reutilizado. Atentar para as normas específicas para o descarte deste produto.
+
+A Volkswagen recomenda realizar o reabastecimento ou a troca do líquido de arrefecimento do motor e seus aditivos em uma Concessionária Volkswagen, que descarta os fluidos corretamente. Nunca descarte os fluidos usados em jardins, áreas florestais, esgotos, ruas e vias, rios ou afluentes, para não poluir o meio ambiente.
+
+Especificações do líquido de arrefecimento do motor
+
+Observe no início desse capítulo na página 231.
+
+O sistema de arrefecimento do motor é abastecido de fábrica com uma mistura de água destilada e de uma parte de 40% de aditivo do líquido de arrefecimento do motor G12evo (TL-VW 774 L).

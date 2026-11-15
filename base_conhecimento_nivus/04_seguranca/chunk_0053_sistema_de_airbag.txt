@@ -1,0 +1,52 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Segurança
+SEÇÃO: Sistema de airbag (Parte 2/11)
+PÁGINAS MANUAL: 45 (PDF: 47)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Os airbags acionados e as respectivas peças do sistema devem ser substituídos por peças novas que estejam liberadas para o veículo pela Volkswagen.
+
+- Reparos e trocas de peças do sistema de airbag no veículo devem ser realizados somente por uma Concessionária Volkswagen. As Concessionárias Volkswagen possuem as ferramentas necessárias, aparelhos de diagnósticos, informações de reparo e pessoal qualificado para este fim.
+
+- Nunca instalar no veículo peças de airbag desmontadas de veículos antigos ou originárias de reciclagem.
+
+- Nunca alterar quaisquer componentes do sistema de airbag.
+
+[ATENÇÃO]
+
+Um pó fino (não tóxico) poderá ser gerado no acionamento dos airbags. Isto é perfeitamente normal e não representa risco de incêndio no veículo.
+
+- O pó fino pode irritar a pele e a mucosa dos olhos, bem como ocasionar dificuldades respiratórias, especialmente em pessoas que sofrem ou sofreram de asma ou outras limitações na condição respiratória. Para reduzir os problemas respiratórios, descer do veículo ou abrir os vidros ou as portas para respirar ar fresco.
+
+- No contato com o pó, lavar as mãos e o rosto com sabonete suave e água antes da próxima refeição.
+
+- Não deixar o pó entrar em contato com os olhos ou com ferimentos não cicatrizados.
+
+- Enxaguar os olhos com água se houver contato com o pó.
+
+[ATENÇÃO]
+
+O uso de produtos de limpeza tornam a superfície dos módulos de airbags porosas ou quebradiças. Em caso de acionamento estas peças poderão fragmentar-se, soltar-se e causar ferimentos graves.
+
+- Nunca utilizar qualquer produto químico ou de limpeza na superfície dos módulos de airbags. Para limpeza utilizar apenas de um pano umedecido com água.
+
+Tipo de sistema de airbag frontal do passageiro dianteiro
+
+Observe no início desse capítulo na página 44.
+
+Sistema de airbag com desativação do airbag frontal do passageiro dianteiro O airbag frontal do passageiro dianteiro é desligado manualmente por um interruptor acionado pela chave -> Página 49.
+
+Sinais do sistema de airbags com desativação do airbag frontal do passageiro dianteiro:
+
+- Airbag frontal do passageiro dianteiro no painel de instrumentos.
+
+- Luz de controle no display do instrumento combinado.
+
+- Luz de controle PASSENGER AIR BAG na parte superior do console central.
+
+- Luz de controle PASSENGER AIR BAG na parte superior do console central.

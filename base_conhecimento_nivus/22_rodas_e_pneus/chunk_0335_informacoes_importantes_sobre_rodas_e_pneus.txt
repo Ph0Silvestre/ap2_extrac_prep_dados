@@ -1,0 +1,68 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rodas e pneus
+SEÇÃO: Informações importantes sobre rodas e pneus (Parte 6/14)
+PÁGINAS MANUAL: 246-247 (PDF: 248-249)
+FIGURAS REFERENCIADAS: Fig. 185, Fig. 186
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Rodas com elementos decorativos aparafusados As rodas podem estar equipadas com elementos decorativos intercambiáveis, instalados na roda com parafusos de segurança. Elementos decorativos danificados devem ser substituídos somente por uma empresa especializada. Para isso, a Volkswagen recomenda uma Concessionária Volkswagen.
+
+Identificação das rodas Devido aos requerimentos legais de alguns países, as informações de novas rodas devem conter algumas características de rodas específicas. Conforme o país, podem estar disponíveis as seguintes informações sobre as rodas:
+
+- Selo de conformidade
+
+- Tamanho do aro
+
+- Nome do fabricante ou marca
+
+- Data de fabricação
+
+- País de origem
+
+- Número de fabricação
+
+- Matéria-prima
+
+- Código da peça
+
+[ATENÇÃO]
+
+A utilização de rodas danificadas ou inadequadas pode comprometer a segurança de condução e causar acidentes e ferimentos graves.
+
+- Utilizar somente rodas liberadas para o veículo.
+
+- Verificar regularmente possíveis danos nas rodas e, se necessário, substituí-las.
+
+Observe no início desse capítulo na página 243.
+
+Fig. 185 Etiqueta com as pressões dos pneus.
+
+Fig. 186 Na parte interna da portinhola do tanque de combustível: etiqueta com a pressão dos pneus.
+
+Indicações na etiqueta de pressão dos pneus -> Fig. 185:
+
+Pressão dos pneus para os pneus do eixo dianteiro.
+
+Pressão dos pneus para os pneus do eixo traseiro.
+
+Orientação: verificar regularmente a pressão nos pneus frios.
+
+Pressão dos pneus com carregamento parcial.
+
+Pressão dos pneus com carregamento total.
+
+Pressão dos pneus para a roda de emergência.
+
+A etiqueta adesiva indica apenas a pressão correta para os pneus liberados e se encontra na parte interna da portinhola do tanque de combustível -> Fig. 186.
+
+Dependendo da versão do veículo, a aparência da etiqueta pode variar. Podem estar contidos tamanhos adicionais de pneus -> Página 250.
+
+Uma pressão dos pneus muito baixa ou muito alta encurta a vida útil dos pneus e tem efeitos desfavoráveis sobre o comportamento de direção do veículo -> . A pressão correta dos pneus é especialmente importante, principalmente em alta velocidade. Uma pressão dos pneus inadequada leva a um desgaste elevado do pneu ou até ao estouro do pneu.
+
+Verificar a pressão dos pneus Verificar a pressão dos pneus somente se os pneus tiverem rodado não mais que alguns quilômetros e em baixa velocidade nas últimas 3 horas.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 185, Fig. 186 no manual original.]

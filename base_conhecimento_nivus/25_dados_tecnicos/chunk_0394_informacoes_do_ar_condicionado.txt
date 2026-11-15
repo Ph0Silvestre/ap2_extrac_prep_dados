@@ -1,0 +1,66 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Dados técnicos
+SEÇÃO: Informações do ar-condicionado (Parte 1/3)
+PÁGINAS MANUAL: 283-285 (PDF: 285-287)
+FIGURAS REFERENCIADAS: Fig. 198, Fig. 199
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Fig. 198 Informações do ar-condicionado
+
+Legenda para -> Fig. 198:
+
+Especificação do óleo lubrificante do ar-condicionado.
+
+Especificação do fluído refrigerante do ar-condicionado.
+
+Nível da carga do ar-condicionado.
+
+Símbolo e descrição:
+
+Alerta: a manutenção do sistema de ar-condicionado só pode ser executada por pessoal especializado. Tipo de líquido de arrefecimento.
+
+Tipo de lubrificante.
+
+Ver informações da oficina (disponível somente para Concessionárias Volkswagen).
+
+[ATENÇÃO]
+
+Para garantir um funcionamento seguro e sem perigo, a manutenção do sistema de ar-condicionado só pode ser executada por pessoal especializado.
+
+Fig. 199 Dimensões.
+
+As indicações na tabela são válidas para o modelo básico com equipamento básico.
+
+a) Os dados podem variar de acordo com o tamanho das rodas e dos pneus.
+
+b) Peso em ordem de marcha, sem condutor e sem carregamento.
+
+[NOTA]
+
+- Conduzir com cuidado em estacionamentos com meio-fio saliente ou balizas fixas. Objetos mais altos que o chão podem danificar o para-choque e outras peças do veículo ao estacionar ou sair da vaga.
+
+Os valores indicados podem divergir em razão de outros tamanhos de rodas e pneus, equipamentos opcionais, versões do modelo diferentes ou com a instalação posterior de acessórios.
+
+- Conduzir cautelosamente sobre entradas de terrenos, rampas, meio-fio e outros objetos. Partes do veículo mais rebaixadas como para-choque, spoiler e peças do chassi, motor ou do sistema de escape podem ser danificados na passagem.
+
+| Legenda para -> Fig. 199: | | |
+| --- | --- | --- |
+| A | Largura do veículo (com os espelhos retrovisores externos) | 1.976 mm |
+| B | Largura do veículo (sem os espelhos retrovisores externos) | 1.757 mm |
+| C | Bitola dianteiraa) | 1.531 mm |
+| | Bitola traseiraa) | 1.516 mm |
+| D | Altura máxima do veículo (com as longarinas longitudinais)b) | 1.525 mm |
+| E | Comprimento do veículo | 4.266 mm |
+| F | Distância entre eixos | 2.566 mm |
+| G | Altura do vão livre em relação ao solob) | 166 mm |
+| H | Altura com a tampa do compartimento do motor abertaa) | 1.807 mm |
+| I | Altura com a tampa traseira abertab) | 2.083 mm |
+| – | Diâmetro mínimo de giro do veículo | aproximadamente 10,9 m |
+
+a) A indicação da reserva ocorrerá quando o nível total do tanque de combustível for reduzido para aproximadamente 8 litros de combustível.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 198, Fig. 199 no manual original.]

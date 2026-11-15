@@ -1,0 +1,20 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rodas e pneus
+SEÇÃO: Sistema de controle dos pneus (Parte 4/4)
+PÁGINAS MANUAL: 242 (PDF: 244)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+[NOTA]
+
+Observar sempre as luzes de controle acesas e as mensagens de texto para evitar danos no veículo.
+
+Com a ignição ligada, se uma pressão dos pneus muito baixa for detectada, a luz de controle é acesa . Adicionalmente, ressoa um alerta sonoro e pode ser exibida uma mensagem de texto.
+
+Se for detectada uma avaria do sistema com a ignição ligada, a luz de controle amarela pisca por alguns minutos e depois se acende permanentemente. Adicionalmente, pode ser exibida uma mensagem de texto.
+
+Conduzir em ruas não pavimentadas por muito tempo ou com uma forma de condução esportiva pode desativar o indicador de controle dos pneus temporariamente. A luz de controle exibe a falha de funcionamento, mas se apaga, no entanto, se as condições da rua ou a forma de condução mudarem.

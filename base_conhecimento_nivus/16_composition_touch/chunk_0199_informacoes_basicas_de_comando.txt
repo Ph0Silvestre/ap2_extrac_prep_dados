@@ -1,0 +1,40 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Informações básicas de comando (Parte 1/3)
+PÁGINAS MANUAL: 150-151 (PDF: 152-153)
+FIGURAS REFERENCIADAS: Fig. 111, Fig. 112
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Comandar as superfícies de função e exibições no display
+
+Fig. 111 Representação esquemática: vista geral das possíveis superfícies de função no display.
+
+O aparelho está equipado com um touchscreen (tela de toque) -> Fig. 111 3 .
+
+As áreas ativas do display que possuem uma função gravada, são designadas como “superfícies de função” e são operadas por toques curtos no display ou mantendo-as pressionadas. As super-fícies de função são descritas na instrução pela palavra “superfície de função” e um símbolo do botão .
+
+As superfícies de função iniciam funções ou abrem outros submenus. Em submenus é indicado, na linha do título, o menu atualmente selecionado -> Fig. 111 1 .
+
+Superfícies de função inativas (cinza) não são selecionáveis no momento.
+
+Vista geral das possíveis exibições e das superfícies de função Na linha do título, é indicado o menu atualmente selecionado e, eventualmente, outras superfícies de função. Tocar para abrir um outro menu. Mover o alvo sobre o display sem tirar o dedo, com uma pressão leve ou tocar na posição desejada no display, o alvo segue essa posição.
+
+2 3 Mover a marca de rolagem sobre o display, sem interromper, com uma pressão leve para procurar nas listas (rolar) -> Página 151, Acessar entradas de lista e pesquisar listas. Tocar para desligar gradualmente algumas listas um nível acima. Tocar para desligar gradualmente os sub-menus, até voltar ao menu principal ou para desfazer as entradas efetuadas. O toque abre uma janela pop-up (janela de opção), na qual são mostradas outras opções de ajuste.
+
+Algumas funções ou exibições são marcadas com uma caixa de seleção mencionada e são ativadas ou desativadas com o toque. Tocar para confirmar uma inserção ou seleção. Tocar para fechar uma janela pop-up ou uma máscara de inserção.
+
+OK Tocar para alterar as configurações gradualmente. Mover o regulador corrediço sobre o display sem interromper, com uma leve pressão.
+
++ / - Acessar entradas de lista e pesquisar listas
+
+Fig. 112 Representação esquemática: entradas de lista, menu de configurações.
+
+As entradas de lista podem ser acessadas pelo toque direto no display, ou por meio do botão de regulagem -> Fig. 112 1 .
+
+Se em uma exibição de lista houver mais registros selecionáveis do que podem ser visualizados, são mostradas superfícies de função para a rolagem ou uma barra de rolagem à direita na imagem -> Fig. 112 1 .
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 111, Fig. 112 no manual original.]

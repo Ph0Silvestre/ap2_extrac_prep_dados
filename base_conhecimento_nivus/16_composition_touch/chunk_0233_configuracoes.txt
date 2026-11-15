@@ -1,0 +1,22 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Configurações (Parte 3/3)
+PÁGINAS MANUAL: 178 (PDF: 180)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Adaptar o volume de reprodução das fontes de áudio externas Quando o volume de reprodução de uma fonte de áudio externa deve ser aumentado, reduzir antes o volume de base do aparelho.
+
+Se a fonte de áudio conectada for reproduzida muito baixa, aumentar o volume de saída na fonte de áudio externa. Se isto não for suficiente, colocar o volume ao ligar em Médio ou Alto.
+
+Se a fonte de áudio externa conectada for reproduzida muito alta ou distorcida, diminuir o volume de saída na fonte de áudio externa. Se isto não for suficiente, colocar o volume ao ligar em Médio ou Baixo.
+
+[ATENÇÃO]
+
+A distração do condutor pode causar acidentes e ferimentos.
+
+- Jamais efetuar configurações durante a condução.

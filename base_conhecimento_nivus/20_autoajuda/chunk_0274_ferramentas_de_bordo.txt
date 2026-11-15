@@ -1,0 +1,68 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Autoajuda
+SEÇÃO: Ferramentas de bordo (Parte 1/1)
+PÁGINAS MANUAL: 205-206 (PDF: 207-208)
+FIGURAS REFERENCIADAS: Fig. 155, Fig. 156, Fig. 157
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Introdução ao tema Ao sinalizar o veículo quebrado, observar as determinações legais do respectivo país.
+
+[ATENÇÃO]
+
+Uma ferramenta de bordo e uma roda de emergência soltos podem ser arremessados pelo interior do veículo durante manobras de direção ou de frenagem súbitas, bem como em um acidente, e causar ferimentos graves.
+
+- Garantir sempre que as ferramentas de bordo ou a roda de emergência estejam fixadas com segurança no compartimento de bagagem.
+
+[ATENÇÃO]
+
+Uma ferramenta de bordo inadequada ou danificada pode ocasionar acidentes e ferimentos.
+
+- Nunca trabalhar com uma ferramenta de bordo inadequada ou danificada.
+
+Acomodação e acesso às ferramentas de bordo
+
+Observe no início desse capítulo na página 205.
+
+Fig. 155 No compartimento de bagagem, sob o revestimento de assoalho: roda de emergência e ferramentas de bordo.
+
+Fig. 156 No compartimento de bagagem: cinta de fixação da caixa de ferramentas e caixa de ferramentas de bordo.
+
+As ferramentas de bordo e a roda de emergência estão localizadas no compartimento de bagagem, sob o revestimento do assoalho -> Fig. 155.
+
+Para acesso à caixa de ferramentas, é necessária a remoção da roda de emergência.
+
+Acomodação das ferramentas de bordo
+- Levantar o revestimento do compartimento de bagagem -> Fig. 155.
+
+- Retirar o revestimento por completo para retirar a roda de emergência e acessar as ferramentas de bordo.
+
+Soltar a cinta de fixação da caixa de ferramentas de bordo Para soltar a cinta de fixação -> Fig. 156 A , puxar a fivela no sentido da seta 1 .
+
+Fixar a caixa de ferramentas de bordo
+- Posicionar a caixa de ferramentas em seu alojamento.
+
+- Passar a cinta pela fivela no sentido da seta 2 e puxar firmemente a cinta para fixar a caixa de ferramentas de bordo.
+
+Certificar-se sempre de que a roda de emergência e as ferramentas de bordo estão corretamente fixadas no compartimento de bagagem.
+
+Componentes das ferramentas de bordo
+
+Observe no início desse capítulo na página 205.
+
+Fig. 157 Componentes das ferramentas de bordo.
+
+A abrangência das ferramentas de bordo depende dos equipamentos do veículo. A seguir está descrito o escopo máximo.
+
+Componentes das ferramentas de bordo -> Fig. 157 Macaco - antes de recolocar o macaco na caixa de ferramentas, deve-se recolher a garra. Em seguida, encoste a manivela na parte de cima do macaco.
+
+Chave de roda.
+
+Gancho extrator para remoção das coberturas dos parafusos das rodas.
+
+Girar o macaco para sua posição original após o uso para que ele possa ser guardado com segurança.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 155, Fig. 156, Fig. 157 no manual original.]

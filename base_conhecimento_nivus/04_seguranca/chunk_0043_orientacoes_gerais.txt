@@ -1,0 +1,36 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Segurança
+SEÇÃO: Orientações gerais (Parte 10/18)
+PÁGINAS MANUAL: 38 (PDF: 40)
+FIGURAS REFERENCIADAS: Fig. 24, Fig. 25, Fig. 26
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Quanto maior a velocidade e o peso do veículo, mais energia deve ser amortecida em caso de acidente.
+
+A velocidade do veículo, entretanto, é o fator mais significativo. Quando, por exemplo, a velocidade dobra de 25 km/h para aproximadamente 50 km/h, a energia cinética é quadruplicada!
+
+A intensidade da “energia cinética” depende em grande parte da velocidade do veículo, do peso do veículo e dos ocupantes do veículo. Com velocidade e peso crescentes, mais energia precisa ser dissipada em caso de um acidente.
+
+Os ocupantes do veículo que não colocaram seus cintos de segurança não estão, portanto, “presos” ao seu veículo. Consequentemente, essas pessoas continuarão a se movimentar com a mesma velocidade do veículo antes da colisão, até que parem! Uma vez que os ocupantes do veículo não estão usando o cinto de segurança em nosso exemplo, a energia cinética total dos ocupantes do veículo, em caso de colisão, só é dissipada pelo impacto contra o muro -> Fig. 24.
+
+A uma velocidade de aproximadamente 50 km/h em um acidente ocorrem forças atuantes no corpo que podem exceder facilmente uma tonelada (1.000 kg). As forças atuantes sobre o corpo aumentam ainda mais em velocidades maiores.
+
+Este exemplo não se aplica somente a colisões frontais, mas sim a todos os tipos de acidentes e colisões.
+
+O que acontece com os ocupantes do veículo sem cinto de segurança?
+
+Observe no início desse capítulo na página 36.
+
+Fig. 25 O condutor sem cinto de segurança é lançado para frente.
+
+Fig. 26 O passageiro sem cinto de segurança no banco traseiro é lançado para frente sobre o condutor com cinto de segurança.
+
+Muitas pessoas acreditam ser possível segurar o próprio corpo com as mãos em um acidente leve. Isto não é possível!
+
+Mesmo em velocidades mínimas de impacto, o corpo sofre a ação de forças que não podem mais ser amortecidas com os braços e as mãos. Em caso de uma colisão frontal, os ocupantes do veículo sem cinto de segurança são lançados para frente e batem de forma descontrolada em partes do interior do veículo, como, por exemplo, volante, painel de instrumentos e para-brisa -> Fig. 25.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 24, Fig. 25, Fig. 26 no manual original.]

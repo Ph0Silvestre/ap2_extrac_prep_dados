@@ -1,0 +1,60 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Informações ao condutor
+SEÇÃO: Instrumento combinado (Parte 3/13)
+PÁGINAS MANUAL: 19-20 (PDF: 21-22)
+FIGURAS REFERENCIADAS: Fig. 12, Fig. 13
+ALERTAS PRESENTES: NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Assistência ao condutor: representação gráfica de diferentes sistemas de assistência ao condutor ou indicador digital do tempo de viagem no tacômetro. Navegação por seta ou indicador da bússola no velocímetro.
+
+Dependendo da versão do rádio, é possível mover a tela principal para a esquerda e selecionar uma das duas opções e depois escolher a opção desejada.
+
+Tacômetro (conta-giros)
+
+Observe no início desse capítulo na página 17.
+
+Tacômetro O início da área vermelha do tacômetro indica a rotação máxima possível do motor rodado e aquecido pelo funcionamento para cada uma das marchas. Antes que a indicação atinja a faixa ver-
+
+- Áudio
+
+- Aceleração
+
+- Consumo
+
+- Percurso
+
+- Tempo de viagem Mapa de navegação no Active Info Display De acordo com a versão, o Active Info Display pode representar um mapa detalhado. Para isso, selecionar o item de menu Navegação no instrumento combinado -> Página 28.
+
+O mapa de navegação pode ser representado em dois tamanhos. Quando for selecionada uma representação maior do mapa, os instrumentos redondos ficam ocultos. Para ajustar o tamanho desejado do mapa, proceder da seguinte forma:
+
+- Pressionar o botão no volante multifunções -> Página 28 para alternar entre os tamanhos do mapa.
+
+- OU: pressionar o botão de seta ou no volante multifunções, para selecionar o tamanho desejado do mapa. A seleção é marcada com uma borda.
+
+- Confirmar a seleção pressionando o botão no volante multifunções.
+
+Dependendo da versão, a navegação é representada em apenas uma tela. O mapa de navegação pode aparecer no Active Info Display ou no sistema do rádio. Em último caso, no Active Info Display são apresentadas somente setas de navegação.
+
+melha, mudar para a próxima marcha mais alta, posicionar a alavanca seletora em D/S ou tirar o pé do pedal do acelerador -> .
+
+[NOTA]
+
+- Com o motor frio, evitar rotação do motor muito elevada, aceleração total e forte demanda ao motor.
+
+- Para evitar danos ao motor, o ponteiro do tacômetro (conta-giros) pode permanecer apenas por um curto período na área vermelha da escala.
+
+O engate antecipado de uma marcha superior ajuda a economizar combustível e a reduzir os ruídos de funcionamento.
+
+Indicador do nível de combustível
+
+Observe no início desse capítulo na página 17.
+
+Fig. 12 No instrumento combinado analógico: indicador do nível de combustível.
+
+Fig. 13 No instrumento combinado digital: indicador do nível de combustível.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 12, Fig. 13 no manual original.]

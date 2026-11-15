@@ -1,0 +1,56 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Segurança
+SEÇÃO: Transporte de crianças no veículo (Parte 11/12)
+PÁGINAS MANUAL: 60-61 (PDF: 62-63)
+FIGURAS REFERENCIADAS: Fig. 44, Fig. 45
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Colocar a cadeira de criança sobre o banco e passar o cinto de segurança conforme as instruções do fabricante da cadeira de criança.
+
+- Empurrar completamente para cima ou desinstalar o apoio para cabeça para evitar a interferência com a cadeira de criança -> Página 82.
+
+- Introduzir a lingueta do cinto de segurança no respectivo fecho do cinto até que a lingueta se engate de forma audível (click).
+
+- O cadarço do cinto de segurança deve estar apoiado firmemente e adequadamente na cadeira de criança ou sobre a criança.
+
+- A cadeira de criança nunca deve ficar apoiada sobre o fecho do cinto.
+
+- Realizar um teste de tração para verificar quanto ao travamento seguro da lingueta do cinto de segurança.
+
+Desinstalar a cadeira de criança Soltar o cinto de segurança somente com o veículo parado -> .
+
+- Pressionar o botão vermelho do fecho do cinto de segurança. A lingueta do cinto de segurança deverá saltar para fora.
+
+- Conduzir o cinto de segurança manualmente de volta para que o cadarço se enrole com facilidade, de forma que o cinto de segurança não torça e o revestimento não seja danificado.
+
+- Retirar a cadeira de criança do veículo conforme as instruções do fabricante.
+
+[ATENÇÃO]
+
+A liberação do cinto de segurança durante a condução pode causar ferimentos graves ou fatais em caso de acidentes ou manobras súbitas de frenagem e de direção!
+
+- Tirar o cinto de segurança somente com o veículo parado.
+
+| Categoria de peso | Banco do passageiro dianteiro | Assentos laterais do banco traseiro | Assento central do banco traseiro |
+| --- | --- | --- | --- |
+| Grupo 0 até 10 kg | u montado no sentido contrário à direção | u montado no sentido contrário à direção | x |
+| Grupo 0+ até 13 kg | u montado no sentido contrário à direção | u montado no sentido contrário à direção | x |
+| Grupo 1 de 9 a 18 kg | u montado no sentido da direção | u montado no sentido da direção | x |
+| Grupo 2 de 15 a 25 kg | u montado no sentido da direção | u montado no sentido da direção | x |
+| Grupo 3 de 22 a 36 kg | u montado no sentido da direção | u montado no sentido da direção | x |
+
+Observe no início desse capítulo na página 52.
+
+Fig. 44 Trava de segurança para crianças: porta traseira esquerda, porta traseira direita.
+
+Fig. 45 Na porta traseira (lado direito): localização da trava de segurança para crianças.
+
+Legenda para -> Fig. 44:
+
+Trava de segurança para crianças desativada.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 44, Fig. 45 no manual original.]

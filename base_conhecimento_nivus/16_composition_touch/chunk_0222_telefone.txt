@@ -1,0 +1,64 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Telefone (Parte 3/11)
+PÁGINAS MANUAL: 169-170 (PDF: 171-172)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Alguns telefones móveis Bluetooth® são reconhecidos e conectados automaticamente ao ligar a ignição, se anteriormente já houve uma conexão. Ao mesmo tempo, o próprio telefone móvel, bem como o Bluetooth® no telefone móvel, devem estar ligados e todas as conexões Bluetooth® ativas com outros aparelhos devem estar separadas.
+
+A comunicação Bluetooth® por rádio é gratuita.
+
+Bluetooth® é uma marca registrada da Bluetooth® SIG, Inc.
+
+Perfis Bluetooth® Se um telefone móvel estiver conectado ao controle do telefone, o intercâmbio de dados será realizado por meio de um dos perfis Bluetooth®.
+
+Telefonia de base Bluetooth® Hands-Free-Profile (HFP):
+
+- Se um telefone móvel for conectado por HFP com o controle do telefone, será possível telefonar sem cabo com o dispositivo de viva-voz. A antena externa do veículo, dessa forma, não pode ser utilizada. Indicações para a utilização de um telefone móvel no veículo sem conexão com a antena externa.
+
+- Perfil Bluetooth® para transferir sinais de áudio em qualidade estéreo.
+
+Controle da reprodução Bluetooth® Audio Video Remote Control Profile (AVRCP):
+
+- perfil Bluetooth® para a exibição das informações da faixa e controle da reprodução no aparelho móvel.
+
+Parear e conectar o telefone móvel ao rádio
+
+Observe e no início desse capítulo na página 168.
+
+Para comandar um telefone móvel por meio do rádio, é necessário parear os dois aparelhos uma vez.
+
+O pareamento deve ser realizado com o veículo parado.
+
+Requisitos
+- A ignição está ligada.
+
+- Se necessário, separar o headset conectado do telefone móvel.
+
+- A função de Bluetooth® deve estar ativada e visível no telefone e no rádio
+
+- O bloqueio de botões no telefone móvel deve estar desbloqueado.
+
+Observar o manual de instruções do telefone móvel.
+
+Durante o processo de pareamento, é necessário realizar entradas no teclado do telefone móvel. O telefone móvel deve ser preparado para isso.
+
+Iniciar pareamento do telefone móvel
+- Pressionar o botão PHONE .
+
+- Tocar na superfície de função Procurar telefone .
+
+Ao ser encerrado o processo, são exibidos no display os nomes dos dispositivos Bluetooth® encontrados.
+
+- Acessar o telefone móvel na lista dos dispositivos Bluetooth® encontrados.
+
+Então, o aparelho e o telefone móvel são conectados. Para concluir a conexão dos dois aparelhos pode ser necessário realizar outras entradas no telefone móvel e no aparelho.
+
+Dependendo do telefone móvel:
+
+- Fornecer por meio do telefone móvel o código PIN exibido no display do aparelho e confirmar.

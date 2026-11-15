@@ -1,0 +1,48 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Telefone (Parte 8/11)
+PÁGINAS MANUAL: 173-174 (PDF: 175-176)
+FIGURAS REFERENCIADAS: Fig. 137
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Após o primeiro processo de pareamento, pode levar alguns minutos até que os contatos1) do telefone móvel pareado estejam disponíveis no aparelho. Dependendo do volume de dados a serem transmitidos, o processo pode demorar até
+
+| | Tocar na superfície de função Caixa postal para estabelecer a conexão. |
+| --- | --- |
+| Chamar o correio de voz | Se ainda não foi salvo um número de chamada do correio de voz, inserir número de chama e confirmar com OK . Um número de chamada já salvo pode ser alterado no menu Configurações do perfil do usuário -> Página 176. |
+| Introduzir nú- | Inserir número de telefone pelo teclado. |
+| mero de telefo- | Tocar na superfície de função |
+| ne | para estabelecer a comunicação. |
+| Selecionar con- | Inserir a letra inicial do contato buscado pelo teclado. Na lista de contatos, é exibida uma entrada possível. |
+| tato da lista | Pesquisar na lista de contatos e tocar no contato desejado para estabelecer uma cone- |
+| | xão. |
+
+aproximadamente uma hora. Se for o caso, a transmissão precisa ser confirmada no telefone móvel.
+
+Os contatos também podem ser acessados durante uma chamada em andamento.
+
+Abrir o menu Contatos Tocar na superfície de função para acessar o menu Agenda telefônica (contatos).
+
+Funções possíveis
+
+Observe e no início desse capítulo na página 168.
+
+Fig. 137 Menu Chamadas (listas de chamadas).
+
+Quando um número de telefone estiver salvo como contato, será exibido o nome salvo em vez do número na lista de chamadas.
+
+Abrir o menu Chamadas Tocar na superfície de função para acessar o menu Chamadas. Tocar na superfície de função -> Fig. 137 1 . Selecionar a lista de chamada desejada: Todas , Perdidas , Discadas ou Atendidas .
+
+Exi bição Significado Perdidas : exibe números de chamadas perdidas e não atendidas.
+
+Discadas : exibe os números de telefone que foram selecionados por meio do telefone móvel e do controle de telefone do aparelho.
+
+Atendidas : exibe números atendidos por meio do telefone móvel e do controle de telefone do aparelho.
+
+A disponibilidade das listas de chamadas depende do telefone móvel usado.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 137 no manual original.]

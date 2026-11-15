@@ -1,0 +1,48 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Aquecimento e ar-condicionado
+SEÇÃO: Aquecer, ventilar, refrigerar (Parte 1/5)
+PÁGINAS MANUAL: 96-97 (PDF: 98-99)
+FIGURAS REFERENCIADAS: Fig. 81
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Introdução ao tema Os seguintes equipamentos podem estar instalados no veículo: O sistema de ventilação e aquecimento aquece e ventila o interior do veículo. O sistema de ventilação e aquecimento não resfria.
+
+O ar-condicionado ou Climatronic resfria e desumidifica o ar. Ele trabalha com o máximo de eficiência se os vidros estiverem fechados. No caso de acúmulo de calor no interior do veículo, ventilar pode acelerar o processo de refrigeração.
+
+Indicação de funções ligadas Os LEDs acesos em reguladores e botões indicam que uma função está ativa.
+
+[ATENÇÃO]
+
+Más condições de visibilidade em todos os vidros aumentam o risco de colisões e acidentes que podem causar ferimentos graves.
+
+- Assegurar sempre que todos os vidros estejam sem gelo, neve e embaçamento para garantir boas condições de visibilidade.
+
+- A maior potência de aquecimento e o mais rápido desembaçamento dos vidros só podem ser atingidos se o motor já tiver atingido sua temperatura de serviço. Partir somente se houver boas condições de visibilidade.
+
+- Assegurar sempre que o sistema de aquecimento e ar fresco ou o ar-condicionado e o desembaçador do vidro traseiro sejam utilizados corretamente para ter boas condições de visibilidade para fora.
+
+- Nunca utilizar o modo de recirculação de ar por muito tempo. Quando o sistema de refrigeração estiver desligado, os vidros podem embaçar-se muito rapidamente no modo de recirculação de ar e limitar muito as condições de visibilidade.
+
+- Desligar sempre o modo de recirculação de ar se ele não for necessário.
+
+O ar viciado pode levar ao cansaço e à falta de concentração do condutor, o que pode causar colisões, acidentes e ferimentos graves.
+
+- Nunca deixar o ventilador desligado por muito tempo e nunca deixar o modo de recirculação de ar ligado por muito tempo, uma vez que o ar fresco não atinge o interior do veículo.
+
+[NOTA]
+
+Não colocar alimentos, medicamentos ou outros objetos sensíveis à temperatura na frente dos difusores de ar. Alimentos, medicamentos ou ou- Comandos do ar-condicionado
+
+Observe e no início desse capítulo na página 96.
+
+Fig. 81 Comandos do ar-condicionado.
+
+tros objetos sensíveis ao calor ou frio podem ser danificados ou inutilizados através do fluxo de ar de saída.
+
+[NOTA]
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 81 no manual original.]

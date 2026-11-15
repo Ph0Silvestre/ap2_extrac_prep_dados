@@ -1,0 +1,43 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Telefone (Parte 7/11)
+PÁGINAS MANUAL: 172-173 (PDF: 174-175)
+FIGURAS REFERENCIADAS: Fig. 133, Fig. 134, Fig. 135, Fig. 136
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Fig. 133 Menu Inserir número de telefone.
+
+| Funções possíveis | | |
+| --- | --- | --- |
+| Silenciar o mi- | Tocar na superfície de função . | |
+| crofone da pre- | O microfone da preparação | |
+| paração para telefone móvel | para telefone móvel é silenciado (a superfície de função troca para ). | |
+| Religar o microfone da preparação para telefone móvel | Tocar na superfície de função . O microfone da preparação para telefone móvel é ligado (a superfície de função troca para ). | |
+| Realizar a chamada telefônica pelo telefone móvel | Tocar na superfície de função e, em seguida, em Viva-voz . A função de viva-voz é desativada e a chamada é continuada pelo telefone móvel. | |
+| Realizar a chamada telefônica novamente pela preparação para telefone móvel | Tocar na superfície de função e depois em Viva-voz . A função de viva-voz é ativada e a chamada é continuada pela preparação para telefone móvel. | |
+
+Fig. 134 Menu Inserir número de telefone (selecionar contato da lista).
+
+Funções no menu Inserir número de telefone.
+
+Tocar na superfície de função para acessar o menu Inserir número de telefone.
+
+Funções possíveis 1) Dependendo do modelo somente contatos da memória do telefone são carregados.
+
+Na introdução de um código de país, é possível, em vez de, dois primeiros números (por exemplo, “00”), introduzir o símbolo “+”. Tocar na superfície de função Inserir código de país 0 por aproximadamente 2 segundos para inserir o caractere +.
+
+Menu da agenda telefônica
+
+Observe e no início desse capítulo na página 168.
+
+Fig. 135 Menu Contatos (agenda telefônica).
+
+Fig. 136 Máscara de procura.
+
+Após o primeiro processo de pareamento, pode levar alguns minutos até que os contatos1) do telefone móvel pareado estejam disponíveis no aparelho. Dependendo do volume de dados a serem transmitidos, o processo pode demorar até
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 133, Fig. 134, Fig. 135, Fig. 136 no manual original.]

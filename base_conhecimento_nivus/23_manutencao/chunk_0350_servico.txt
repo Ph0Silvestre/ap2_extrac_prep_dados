@@ -1,0 +1,44 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Manutenção
+SEÇÃO: Serviço (Parte 1/4)
+PÁGINAS MANUAL: 258 (PDF: 260)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Plano Digital de Serviços No Certificado de garantia na contracapa deste Manual de instruções - Versão Física, é confirmada a data da entrega do veículo pela Concessionária Volkswagen e, com isso, o início da cobertura em garantia para o seu veículo. No caso de vendas diretas, a garantia entra em vigor a partir da data do licenciamento do veículo.
+
+Por meio dos dados descritos no Certificado de garantia, é assegurado que os reparos a serem efetuados utilizem as peças corretas para seu veículo. Esses dados contribuem para que, mesmo após muitos anos, seu veículo possa ser reparado sem problemas.
+
+Registro eletrônico digital dos serviços de manutenção executados Os comprovantes de serviços serão armazenados na memória do sistema central pela Concessionária Volkswagen. Por meio desta documentação do histórico de serviços, o histórico dos serviços de manutenção realizados no veículo pode ser solicitado a qualquer momento, sem custo algum, em qualquer Concessionária Volkswagen. Após a realização de cada serviço de manutenção, será fornecido o comprovante via e-mail ou impresso, conforme armazenado no sistema.
+
+Aplicativo “Meu Volkswagen” Agora os registros dos serviços de manutenção do seu veículo são digitais. Você pode consultálos de forma simples e rápida no aplicativo Meu Volkswagen ou em qualquer concessionária da rede, sempre que quiser!
+
+Baixe gratuitamente o aplicativo para ter acesso ao Plano Digital de Serviços.
+
+O aplicativo Meu Volkswagen está disponível para as plataformas iOS (Apple) e Android (Google).
+
+Registro digital dos serviços de manutenção Nos registros digitais dos serviços de manutenção estão documentadas as seguintes informações do veículo:
+
+- Quando determinado serviço foi realizado.
+
+- Quais componentes e fluídos foram trocados.
+
+exemplo, se as pastilhas do freio devem ser trocadas em breve.
+
+- Caso haja solicitações especiais durante a manutenção, será anotado em registro da oficina.
+
+[ATENÇÃO]
+
+Manutenção insuficiente ou não realizada e a inobservância dos intervalos de manutenção podem causar paradas do veículo no trânsito, acidentes e ferimentos graves.
+
+- Executar os serviços de manutenção em uma Concessionária Volkswagen.
+
+[NOTA]
+
+Manutenção insuficiente ou não realizada dentro dos limites de quilometragem ou de tempo, prevalecendo o que ocorrer primeiro, acarreta na perda de garantia do veículo.
+
+[NOTA]

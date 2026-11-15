@@ -1,0 +1,44 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Segurança
+SEÇÃO: Orientações gerais (Parte 8/18)
+PÁGINAS MANUAL: 36-37 (PDF: 38-39)
+FIGURAS REFERENCIADAS: Fig. 21, Fig. 22
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Conduza o veículo somente quando todos os passageiros estiverem com o cinto de segurança colocado corretamente.
+
+- Encaixar a lingueta do cinto de segurança somente no fecho do cinto de segurança do assento correspondente e fixar firmemente. O uso de um fecho do cinto de segurança não pertencente ao respectivo assento reduz a proteção e pode causar ferimentos graves.
+
+- Jamais deixar objetos estranhos ou líquidos penetrarem nos engates dos fechos dos cintos de segurança. Isto pode limitar a funcionalidade e o travamento dos fechos dos cintos de segurança.
+
+- Nunca tirar o cinto de segurança durante a condução do veículo.
+
+- Colocar sempre um único cinto de segurança por pessoa.
+
+- Nunca transportar crianças ou bebês no colo.
+
+- Não conduzir com roupas soltas, por exemplo, um casaco sobre um paletó, pois isto restringirá o assentamento correto e a funcionalidade do cinto de segurança.
+
+[ATENÇÃO]
+
+Cintos de segurança danificados representam um grande perigo e podem causar ferimentos graves ou fatais.
+
+- Nunca danificar o cinto de segurança prensando-o na porta ou no mecanismo do banco.
+
+- Se o tecido do cinto de segurança ou outras peças do cinto de segurança estiverem danificados, os cintos de segurança podem se romper em um acidente ou em uma manobra de frenagem brusca.
+
+- Substituir imediatamente os cintos de segurança danificados por cintos de segurança novos em uma Concessionária Volkswagen. Cintos de segurança que foram utilizados durante um acidente e, por isso, sofreram alongamento ou disparo do pré-tensionador, devem ser substituídos por uma Concessionária Volkswagen. A substituição poderá ser necessária mesmo quando não houver dano visível. Além disso, as ancoragens dos cintos de segurança devem ser verificadas.
+
+- Nunca tentar reparar, modificar ou desmontar os cintos de segurança por conta própria. Apenas uma Concessionária Volkswagen pode realizar reparos no cinto de segurança, no enrolador automático e nas peças de fixação do cinto de segurança.
+
+Observe no início desse capítulo na página 36.
+
+Fig. 21 Luz de advertência no display do instrumento combinado.
+
+Fig. 22 Indicador de status do cinto de segurança para os assentos traseiros no display do instrumento combinado.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 21, Fig. 22 no manual original.]

@@ -1,0 +1,42 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Segurança
+SEÇÃO: Transporte de crianças no veículo (Parte 3/12)
+PÁGINAS MANUAL: 54 (PDF: 56)
+FIGURAS REFERENCIADAS: Fig. 40
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Cinto de segurança automático de três pontos e cinto de fixação superior, tipo “Top Tether”
+
+Os sistemas demonstram a fixação do sistema de retenção para criança com um cinto de fixação superior (Top Tether) e os pontos de ancoragem inferiores no banco.
+
+Cadeiras de criança de acordo com a Resolução 277 do CONTRAN 1) INMETRO: Instituto Nacional de Metrologia, Normalização e Qualidade Industrial.
+
+2) Norma ABNT NBR 14400 (CONTRAN): ABNT - Associação Brasileira de Normas Técnicas / NBR - Norma Brasileira / CONTRAN - Conselho Nacional de Trânsito.
+
+Além da idade, devem ser consideradas para efeito de adequação da cadeira de criança outros aspectos, tais como o peso, a altura e a constituição física em geral da criança, pois pode ser que o biótipo da criança não corresponda ao da maior parte da população de sua faixa etária. Em caso de dúvida, procurar uma Concessionária Volkswagen.
+
+Instalação e utilização de cadeiras de crianças no veículo
+
+Observe no início desse capítulo na página 52.
+
+As leis da física, que têm efeitos sobre o veículo em uma colisão ou outro tipo de acidente, também valem para crianças -> Página 36. Ao contrário de adultos e adolescentes, os músculos e os ossos das crianças ainda não estão totalmente desenvolvidos. Para as crianças, existe um risco maior de ferimentos graves em acidentes que para os adultos.
+
+Uma vez que o corpo das crianças ainda não está totalmente desenvolvido, é necessário utilizar sistemas de retenção para crianças que sejam adaptados especialmente ao seu tamanho, peso e estrutura física.
+
+Especificações específicas de países Em relação à utilização de cadeiras de criança e às suas possibilidades de fixação, vigoram prescrições e determinações legais divergentes nos diversos países. O transporte de crianças no banco do passageiro dianteiro não é permitido em
+
+| Tipo de sistema de retenção | Forma de instalação | Idade |
+| --- | --- | --- |
+| Assento de elevação | voltada para frente, conforme -> Fig. 40 C | superior a 4 anos e inferior ou igual a 7,5 anos |
+| Cinto de segurança do veículo | | superior a 7,5 anos e inferior ou igual a 10 anos |
+
+| Tipo de sistema de retenção | Forma de instalação | Idade |
+| --- | --- | --- |
+| Berço portátil ou bebê conforto | voltada para trás, conforme -> Fig. 40 A | até 1 ano |
+| Cadeirinha | voltada para frente, conforme -> Fig. 40 B | superior a 1 ano e inferior ou igual a 4 anos |
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 40 no manual original.]

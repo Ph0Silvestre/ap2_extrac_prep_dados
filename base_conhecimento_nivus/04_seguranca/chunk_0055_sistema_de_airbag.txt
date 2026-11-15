@@ -1,0 +1,34 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Segurança
+SEÇÃO: Sistema de airbag (Parte 4/11)
+PÁGINAS MANUAL: 46-47 (PDF: 48-49)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Procurar uma Concessionária Volkswagen.
+
+- Mandar verificar o sistema de airbags e pré-tensionador do cinto de segurança. Airbag frontal do passageiro dianteiro desligado A luz de controle amarela se acende permanentemente para o airbag frontal do passageiro dianteiro desligado.
+
+O airbag frontal do passageiro dianteiro foi desligado.
+
+- Verificar se o airbag frontal do passageiro dianteiro deve permanecer desligado, por exemplo, ao utilizar uma cadeira de criança no banco do passageiro dianteiro. Airbag frontal do passageiro dianteiro ligado A luz de controle amarela se acende para o airbag frontal do passageiro dianteiro ligado cerca de 60 segundos após ligar a ignição ou após ligar o airbag frontal do passageiro dianteiro com o interruptor acionado por chave.
+
+O airbag frontal do passageiro dianteiro foi ligado.
+
+- Verificar se o airbag frontal do passageiro dianteiro deve permanecer ligado.
+
+Descrição e função dos airbags
+
+Observe no início desse capítulo na página 44.
+
+O airbag pode proteger os ocupantes do veículo em um acidente, amortecendo o movimento dos ocupantes em colisões frontais e laterais.
+
+Todo airbag acionado é inflado por um gerador de gás. Com isso, as respectivas coberturas do airbag se rompem e os airbags se abrem com grande velocidade, em milésimos de segundo, em suas áreas de expansão. O airbag inflado, ao amortecer os ocupantes do veículo, que devem estar sempre utilizando o cinto de segurança, liberam o gás contido para o amortecimento através de aberturas localizadas fora do contato com os ocupantes. Com isso, é possível reduzir o risco de ferimentos graves e fatais. O risco de outros ferimentos como inchaços, contusões e esfolamentos da pele pelo airbag acionado não pode ser excluído. Na insuflação dos airbags também pode ocorrer calor por atrito.
+
+Os airbags não proporcionam proteção para os braços e para as partes inferiores do corpo.
+
+Os fatores mais importantes para o acionamento do airbag são o tipo do acidente, região de impacto no veículo, o ângulo, a intensidade do impacto, a estrutura do veículo e a característica do obstáculo com o qual o veículo colide. Portanto, os airbags não são acionados em todas as situações de colisão.

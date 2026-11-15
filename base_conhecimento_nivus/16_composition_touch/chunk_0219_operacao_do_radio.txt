@@ -1,0 +1,16 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Operação do rádio (Parte 14/14)
+PÁGINAS MANUAL: 167 (PDF: 169)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Em razão da grande diversidade de fontes de áudio Bluetooth®, não pode ser garantido que todas as funções descritas sejam executáveis sem falhas.
+
+Para operar o modo multimídia com o aparelho Bluetooth® ligado, ler e respeitar as indicações do fabricante nas respectivas instruções de utilização.
+
+Utilizar exclusivamente aparelhos compatíveis com a tecnologia Bluetooth®. Para mais informações sobre a compatibilidade dos produtos Bluetooth®, contactar uma Concessionária Volkswagen ou pesquisar na Internet.

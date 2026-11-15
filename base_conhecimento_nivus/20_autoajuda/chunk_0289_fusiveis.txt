@@ -1,0 +1,22 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Autoajuda
+SEÇÃO: Fusíveis (Parte 5/5)
+PÁGINAS MANUAL: 218 (PDF: 220)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Retirar o fusível queimado.
+
+- Caso o fusível esteja queimado, substituir o fusível por um novo da mesma intensidade de corrente (mesma cor e inscrição) e do mesmo tamanho -> .
+
+- Depois da colocação do novo fusível, se necessário, colocar a pinça de plástico de volta na cobertura.
+
+- Instalar a cobertura da caixa de fusíveis.
+
+[NOTA]
+
+Se um fusível for substituído por outro de maior capacidade, poderão surgir danos em outras partes do sistema elétrico.

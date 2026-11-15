@@ -1,0 +1,49 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Iluminação
+SEÇÃO: Luzes de condução (Parte 4/5)
+PÁGINAS MANUAL: 88 (PDF: 90)
+FIGURAS REFERENCIADAS: Fig. 73
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+A iluminação “Coming Home” é ligada ao abrir a porta do condutor. O tempo da iluminação temporizada se inicia com o fechamento da última porta do veículo ou da tampa traseira.
+
+Desligar a função “Coming Home”
+- Automaticamente após decurso do tempo da iluminação temporizada configurada.
+
+- OU: automaticamente se após aproximadamente 30 segundos depois de ela ter sido ligada, uma porta do veículo ou a tampa traseira permanecer aberta.
+
+- OU: girar o interruptor das luzes para a posição
+
+- OU: ligar a ignição.
+
+Ligar a função “Leaving Home”
+- Destravar o veículo quando o interruptor das luzes se encontrar na posição e o sensor de chuva e luz detectar escuridão.
+
+Desligar a função “Leaving Home”
+- Automaticamente após decurso do tempo da iluminação temporizada.
+
+- OU: travar o veículo.
+
+- OU: girar o interruptor das luzes para a posição
+
+- OU: ligar a ignição.
+
+Fig. 73 Ao lado do volante: regulador do alcance do farol 1 Com a regulagem de alcance do farol, o feixe de luz do farol baixo pode ser ajustado de acordo com as condições de ocupação no interior do veículo e no compartimento de bagagem. Com isso, o condutor tem as melhores condições possíveis de visibilidade sem ofuscar o trânsito em sentido contrário.
+
+O alcance do farol pode ser ajustado com o interruptor -> Fig. 73.
+
+Bancos dianteiros ocupados e compartimento de bagagem vazio. Todos os assentos ocupados e compartimento de bagagem vazio. Todos os assentos ocupados e compartimento de bagagem carregado. Somente o banco do condutor ocupado e o compartimento de bagagem totalmente carregado.
+
+[ATENÇÃO]
+
+A presença de objetos pesados no veículo pode fazer com que o farol ofusque a visibilidade e distraia os demais usuários da via. Isto pode causar acidentes e ferimentos graves.
+
+- Ajustar o feixe de luz sempre às condições de ocupação no interior do veículo e compartimento de bagagem de modo que os demais usuários da via não sejam ofuscados.
+
+Mascarar ou mudar a posição do farol Em conduções em países com sentido de rodagem contrário ao do país de origem, o farol baixo assimétrico pode ofuscar os veículos que rodam em sentido contrário. Por isso, é preciso mascarar ou mudar a posição do farol em viagens internacionais.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 73 no manual original.]

@@ -1,0 +1,18 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Informações ao consumidor
+SEÇÃO: Volume do rádio ou do sistema de navegação (Parte 1/1)
+PÁGINAS MANUAL: 280 (PDF: 282)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+O rádio ou o sistema de navegação dispõe de manual de instruções separado com todas as informações relevantes para o funcionamento do rádio ou sistema de navegação.
+
+[ATENÇÃO]
+
+O funcionamento do rádio ou do sistema de navegação com grande volume, sobretudo com uma pressão sonora superior a 85 decibeis, pode provocar danos à audição.
+
+- Se o volume estiver demasiado alto, sinais acústicos do exterior, por exemplo, sinais de aviso de veículos da polícia, bombeiros ou outros veículos, podem não ser ouvidos e ocasionar acidentes.

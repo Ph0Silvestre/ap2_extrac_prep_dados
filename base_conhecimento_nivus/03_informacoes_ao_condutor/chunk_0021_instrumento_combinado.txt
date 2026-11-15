@@ -1,0 +1,60 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Informações ao condutor
+SEÇÃO: Instrumento combinado (Parte 5/13)
+PÁGINAS MANUAL: 21-22 (PDF: 23-24)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Área de advertência. Temperatura do líquido de arrefecimento do motor muito alta. e Líquido de arrefecimento do motor A luz de advertência central vermelha está acesa. Adicionalmente aparece uma mensagem de texto no display do instrumento combinado.
+
+O líquido de arrefecimento do motor não está correto ou o sistema do líquido de arrefecimento está avariado.
+
+Não prosseguir!
+
+- Parar o veículo, desligar o motor e deixar esfriar.
+
+- Verificar o nível do líquido de arrefecimento do motor e se o nível estiver baixo, reabastecer com líquido de arrefecimento do motor -> Página 232.
+
+- Se a luz de advertência não se apagar, embora o nível do líquido de arrefecimento do motor esteja em ordem, existe uma avaria. Procurar uma Concessionária Volkswagen.
+
+Indicadores do display
+
+Observe no início desse capítulo na página 17.
+
+No display do instrumento combinado podem ser indicadas diversas informações conforme a versão do veículo:
+
+- Portas, tampa do compartimento do motor e tampa traseira abertas
+
+- Indicações de advertência e de informação -> Página 24
+
+- Indicadores de quilometragem
+
+- Horário
+
+- Temperatura externa
+
+- Posições da alavanca seletora (transmissão automática) -> Página 112
+
+- Recomendação de marcha -> Página 102
+
+- Indicador de dados de condução (indicador multifunções) e menus para configurações diversas -> Página 28
+
+- Indicador do intervalo de serviço -> Página 27
+
+- Código do motor (CDM)
+
+Portas, tampa do compartimento do motor e tampa traseira abertas Após o destravamento do veículo e durante a condução, são exibidas no display do instrumento combinado as portas abertas, assim como a tampa do compartimento do motor ou a tampa traseira, além de alertas sonoros. De acordo com a versão do instrumento combinado, a representação dos símbolos pode variar.
+
+Indicadores de quilometragem O hodômetro total registra o percurso total realizado pelo veículo.
+
+O hodômetro parcial (trip) indica os quilômetros percorridos após a última reinicialização do hodômetro. O último dígito indica 100 metros.
+
+- Veículos com instrumento combinado analógico: pressionar brevemente o botão no instrumento combinado -> Página 17 para restaurar o hodômetro parcial para 0.
+
+- Veículos com instrumento combinado digital:
+
+utilizar as setas no volante multifunções ou , selecionar o menu Dados de viagem, selecionar o indicador trip e pressionar brevemente o botão no volante multifunções.

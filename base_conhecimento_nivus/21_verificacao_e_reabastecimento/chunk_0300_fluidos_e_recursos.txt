@@ -1,0 +1,48 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: Fluidos e recursos (Parte 1/2)
+PÁGINAS MANUAL: 225-226 (PDF: 227-228)
+FIGURAS REFERENCIADAS: Fig. 176
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Todos os fluidos e recursos são continuamente aperfeiçoados, como, por exemplo, correias dentadas, pneus, líquido de arrefecimento do motor, óleos do motor e também velas de ignição e bateria do veículo. Por isso, a troca de fluidos e recursos deve ser realizada por uma Concessionária Volkswagen ou por uma empresa especializada. As Concessionárias Volkswagen estão sempre informadas sobre as mudanças.
+
+[ATENÇÃO]
+
+Fluidos e recursos inadequados, bem como sua utilização incorreta, podem causar acidentes, ferimentos graves, queimaduras e intoxicação.
+
+- Conservar fluidos somente em recipientes originais fechados.
+
+- Nunca utilizar latas de alimentos, garrafas ou outros recipientes vazios para armazenar fluidos, pois assim há risco de que o fluido armazenado possa ser ingerido por outras pessoas.
+
+- Manter os fluidos e recursos fora do alcance de crianças.
+
+- Ler e atentar sempre para as informações e alertas das embalagens dos fluidos.
+
+- Utilizar produtos que emitam vapores tóxicos sempre em áreas abertas ou bem ventiladas.
+
+- Jamais utilizar combustível, terebentina, óleo do motor, removedor de esmalte ou outros líquidos voláteis para conservação do veículo. Essas substâncias são tóxicas e altamente inflamáveis. Elas podem causar incêndios e explosões!
+
+[NOTA]
+
+- Reabastecer apenas com fluidos adequados. Em hipótese alguma utilizar fluidos diferentes dos recomendados. Caso contrário, podem ocorrer falhas graves de funcionamento ou um dano ao motor!
+
+- Acessórios e peças instaladas diante da entrada de ar prejudicam o arrefecimento do motor. Em condições de alta temperatura ambiente e demanda intensa do motor, o motor pode superaquecer!
+
+Os fluidos que são derramados do veículo são prejudiciais ao meio ambiente. Por esse motivo, controlar periodicamente o piso sob o veículo. Se forem visíveis manchas de óleo ou de outros fluidos no piso, inspecionar o veículo em uma Concessionária Volkswagen.
+
+Fig. 176 No compartimento do motor: tampa do reservatório de água dos lavadores dos vidros.
+
+Verificar regularmente o nível de água do reservatório dos lavadores dos vidros e, se necessário, reabastecer.
+
+- Abrir a tampa do compartimento do motor -> Página 221.
+
+- O reservatório de água dos lavadores dos vidros pode ser reconhecido pelo símbolo na tampa -> Fig. 176.
+
+- Verificar se ainda há água suficiente no reservatório dos lavadores dos vidros.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 176 no manual original.]

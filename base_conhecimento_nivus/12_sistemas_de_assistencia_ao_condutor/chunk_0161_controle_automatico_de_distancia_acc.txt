@@ -1,0 +1,67 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Sistemas de assistência ao condutor
+SEÇÃO: Controle automático de distância (ACC) (Parte 4/5)
+PÁGINAS MANUAL: 125-126 (PDF: 127-128)
+FIGURAS REFERENCIADAS: Fig. 99
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+O ACC está regulando.
+
+Nenhum veículo é detectado adiante.
+
+Um veículo foi detectado adiante.
+
+Cancelar a regulagem
+- Pressionar brevemente o botão ou pisar no pedal do freio.
+
+A luz de controle se acende em cinza; a velocidade e a distância permanecem salvas.
+
+Se o controle de tração (ASR) for desativado, a regulagem é automaticamente cancelada..
+
+Retomar a regulagem
+- Pressionar o botão .
+
+O ACC assume a última velocidade e a última distância ajustadas. O display do instrumento combinado mostra a velocidade ajustada; a luz de controle correspondente à situação de condução se acende.
+
+Desligar o ACC
+- Pressionar por alguns instantes. A velocidade ajustada é excluída.
+
+Mudar para o limitador de velocidade
+- Pressionar o botão .
+
+- Selecionar o limitador de velocidade no display do instrumento combinado.
+
+O ACC é desligado.
+
+Observe no início desse capítulo na página 123.
+
+Fig. 99 No display do instrumento combinado: ajustar a distância (representação esquemática, o ACC regula).
+
+Ajustar a distância A distância pode ser ajustada em cinco níveis, de muito pequena a muito grande:
+
+- Pressionar o botão e, em seguida, o botão ou .
+
+- Como alternativa, pressionar o botão repetidamente, até que a distância desejada esteja ajustada.
+
+O display do instrumento combinado exibe o nível ajustado -> Fig. 99 1 . Observar os requisitos para a distância mínima específicos.
+
+A distância que deve ser configurada no início de uma regulagem pode ser configurada nas configurações do veículo, no sistema Infotainment -> Página 29.
+
+Quando o ACC não regula, a distância ajustada e o veículo não aparecem destacados no display do instrumento combinado.
+
+Ajustar a velocidade A velocidade salva pode ser ajustada dentro da faixa de velocidade predeterminada através dos botões do volante multifunções, como mostra a seguir:
+
++ 1 km/h, somente enquanto o ACC estiver regulando
+- 1 km/h, somente enquanto o ACC estiver regulando Para alterar continuamente a velocidade salva, manter pressionado o respectivo botão.
+
+[ATENÇÃO]
+
+Existe o risco de acidentes se a distância mínima do veículo à frente for alcançada ou a diferença entre a velocidade do veículo à frente e o próprio veículo for tão grande que a redução da velocidade por meio do ACC não seja suficiente. Além disso, em caso de chuva ou condições de inverno nas ruas, a distância de frenagem aumenta.
+
+- É possível que o ACC não reconheça todas as situações de condução.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 99 no manual original.]

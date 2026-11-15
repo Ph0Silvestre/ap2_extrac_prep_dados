@@ -1,0 +1,62 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Equipamentos práticos
+SEÇÃO: Porta-copos (Parte 1/2)
+PÁGINAS MANUAL: 143-144 (PDF: 145-146)
+FIGURAS REFERENCIADAS: Fig. 108
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Introdução ao tema Porta-garrafas Os porta-garrafas encontram-se no porta-objetos aberto das portas do condutor e do passageiro dianteiro.
+
+[ATENÇÃO]
+
+A utilização incorreta dos porta-copos pode causar ferimentos.
+
+- Nunca colocar bebidas quentes em um porta-copos. Durante a condução, em uma manobra de frenagem súbita ou em um acidente, bebidas quentes em um porta-copos podem ser derramadas e causar queimaduras.
+
+- Certificar-se de que garrafas de bebida ou outros objetos não alcancem a área para os pés do condutor durante a condução, atrapalhando o acionamento dos pedais.
+
+- Nunca colocar copos pesados, mantimentos ou outros objetos pesados nos porta-copos. Esses objetos pesados podem voar pelo interior do veículo em um acidente e causar ferimentos graves.
+
+[ATENÇÃO]
+
+Garrafas de bebida fechadas no interior do veículo podem explodir por ação do calor e estourar por ação do frio.
+
+- Nunca deixar garrafas de bebida fechadas no interior de um veículo intensamente aquecido ou intensamente refrigerado.
+
+[NOTA]
+
+Não manter bebidas abertas no porta-copos durante a condução. Bebidas derramadas, por exemplo, durante frenagens, podem causar danos no veículo e ao sistema elétrico.
+
+Porta-copos no console central
+
+Observe e no início desse capítulo na página 143.
+
+Fig. 108 No console central dianteiro: porta-copos.
+
+No console central dianteiro existem dois porta-copos -> Fig. 108.
+
+Introdução ao tema Dispositivos elétricos podem ser ligados na tomada do veículo.
+
+Os dispositivos elétricos devem estar em perfeitas condições. Não utilizar dispositivos defeituosos.
+
+A tomada 12 V funciona somente com a ignição ligada.
+
+[ATENÇÃO]
+
+A utilização incorreta da tomada e de dispositivos elétricos pode causar incêndios e ferimentos graves.
+
+- Nunca deixar crianças sem supervisão dentro do veículo. Com a ignição ligada, tomada e dispositivos conectados a ela podem ser utilizados.
+
+- Se os dispositivos elétricos ficarem muito quentes, desligá-los e interromper a conexão da tomada.
+
+[NOTA]
+
+Para evitar danos ao sistema elétrico, nunca conectar na tomada 12 V dispositivos elétricos que forneçam corrente para carregar a bateria do veículo, como, por exemplo, painéis solares ou carregadores de bateria.
+
+- Utilizar somente dispositivos elétricos que tenham sido verificados conforme as diretrizes vigentes com relação à compatibilidade eletromagnética.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 108 no manual original.]

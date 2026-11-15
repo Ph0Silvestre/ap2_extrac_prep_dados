@@ -1,0 +1,44 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Manutenção
+SEÇÃO: Acessórios, reposição de peças, reparos e modificações (Parte 4/9)
+PÁGINAS MANUAL: 271-272 (PDF: 273-274)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO, CUIDADO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Jamais instalar componentes da suspensão não liberados pela Volkswagen e que não apresentem características idênticas às peças originais instaladas no veículo.
+
+- Jamais utilizar combinações de rodas e pneus que não tenham sido liberadas pela Volkswagen.
+
+As peças do sistema de airbag nunca devem ser reutilizadas em caso de sucateamento do veículo ou de alguns dos seus componentes. Além do cumprimento às normas de segurança em vigor, devem ser respeitadas as normas de destinação ambientalmente adequadas. Estas disposições são de conhecimento das Concessionárias Volkswagen.
+
+Instalação posterior de aparelhos de transmissão Para a operação de aparelhos de transmissão no veículo é necessária uma antena externa.
+
+A instalação posterior de aparelhos elétricos ou eletrônicos no veículo afeta o tipo de licenciamento do veículo. Sob certas circunstâncias, isto extingue a licença de uso do veículo.
+
+A Volkswagen liberou a operação de aparelhos de transmissão sob as seguintes condições:
+
+- Antena externa instalada de maneira adequada.
+
+- Potência de transmissão máxima de 10 W.
+
+A faixa de alcance ideal dos aparelhos só é obtida com uma antena externa.
+
+Se um aparelho de transmissão tiver que ser utilizado com potência de transmissão maior que 10 W, dirigir-se a uma empresa especializada. Uma empresa especializada conhece as possibilidades técnicas da alteração. Para isso, a Volkswagen recomenda as Concessionárias Volkswagen.
+
+Observar as determinações legais, bem como as instruções e orientações de funcionamento do manual de instruções do aparelho de transmissão.
+
+[ATENÇÃO]
+
+Um aparelho de transmissão não fixado ou fixado incorretamente pode ser lançado pelo interior do veículo em razão de uma manobra de direção ou de frenagem súbitas, bem como em um acidente e causar ferimentos graves.
+
+- Fixar ou guardar em segurança o aparelho de transmissão sempre de maneira correta e fora da área de expansão do airbag durante a condução.
+
+[CUIDADO]
+
+Na operação de um aparelho de transmissão sem conexão com uma antena externa, os valores limite de radiação eletromagnética no veículo podem ser excedidos e, assim, a saúde do condutor e dos passageiros pode ser prejudicada. Isto também é válido com uma antena ex-terna não instalada de maneira correta.
+
+- Operar o aparelho de transmissão no veículo somente com uma antena externa conectada de maneira correta.

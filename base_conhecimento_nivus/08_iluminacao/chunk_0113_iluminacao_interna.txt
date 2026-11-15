@@ -1,0 +1,30 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Iluminação
+SEÇÃO: Iluminação interna (Parte 1/1)
+PÁGINAS MANUAL: 89 (PDF: 91)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Iluminação dos instrumentos e dos interruptores Dependendo da versão do veículo e da versão do rádio, a intensidade da iluminação dos instrumentos e dos interruptores pode ser ajustada no sistema do rádio por meio do botão OU tocar na superfície de seleção e tocar na superfície de função Carro -> Página 29.
+
+A intensidade da iluminação ajustada é adequada automaticamente com a mudança da luminosidade ambiente no veículo.
+
+Quando o interruptor das luzes se encontrar na posição , um sensor liga e desliga automaticamente o farol baixo, inclusive a iluminação dos instrumentos e dos interruptores, de acordo com a luminosidade do ambiente.
+
+Com a luz desligada e a ignição ligada, a iluminação dos instrumentos (ponteiros e escalas) é ligada. Com a diminuição da luminosidade ambiente, a iluminação das escalas é automaticamente reduzida e, se necessário, desligada por completo. Esta função deve lembrar o condutor a ligar o farol baixo, por exemplo, ao passar por túneis.
+
+Lanternas internas e de leitura Pressionar o respectivo botão:
+
+Ligar e desligar a iluminação interna.
+
+Desliga as lanternas internas que se acendem automaticamente ao destravar o veículo, ao abrir uma porta ou ao retirar a chave do veículo do cilindro da ignição. Ligar ou desligar a lanterna de leitura.
+
+Lanterna do porta-luvas e do compartimento de bagagem Ao abrir e fechar o porta-luvas ou a tampa traseira, a iluminação do respectivo compartimento se liga ou desliga automaticamente.
+
+A lanterna interna e de leitura se apaga ao travar o veículo ou alguns minutos depois que a chave do veículo for retirada do cilindro da ignição. Isto impede que a bateria do veículo se descarregue.
+
+Quando os airbags são acionados em um acidente, a lanterna interna pode ser acionada automaticamente -> Página 48, Em caso de acionamento dos airbags - Função detecção de colisão (crash detection).

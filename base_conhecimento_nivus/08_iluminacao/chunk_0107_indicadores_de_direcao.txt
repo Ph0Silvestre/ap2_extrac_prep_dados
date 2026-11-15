@@ -1,0 +1,44 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Iluminação
+SEÇÃO: Indicadores de direção (Parte 1/1)
+PÁGINAS MANUAL: 85 (PDF: 87)
+FIGURAS REFERENCIADAS: Fig. 70
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Ligar e desligar os indicadores de direção
+
+Fig. 70 À esquerda na coluna de direção: alavanca dos indicadores de direção e do farol alto.
+
+- Ligar a ignição.
+
+- Colocar a alavanca dos indicadores de direção e do farol alto da posição central para a seguinte posição:
+
+Piscar à direita .
+
+Piscar à esquerda .
+
+- Colocar a alavanca dos indicadores de direção e do farol alto na posição básica para desligar os indicadores de direção.
+
+Se o sinal sonoro não ressoar com o indicador de direção ligado, procurar uma Concessionária Volkswagen ou uma empresa especializada e mandar verificar o veículo.
+
+Sinais intermitentes de conforto Para ligar os sinais intermitentes de conforto, deslocar a alavanca dos indicadores de direção e do farol alto para cima ou para baixo somente até o ponto de pressão e soltá-la. Os indicadores de direção piscam três vezes.
+
+Para finalizar os sinais intermitentes de conforto antes do tempo, movimentar a alavanca imediatamente até o ponto de pressão, no sentido contrário, e soltar.
+
+Dependendo da versão do veículo e da versão do rádio, os sinais intermitentes de conforto podem ser ativados ou desativados no sistema do rádio por meio do botão OU tocar na superfície de seleção e tocar na superfície de função Carro -> Página 29.
+
+[ATENÇÃO]
+
+A utilização inadequada ou a não utilização dos indicadores de direção, bem como esquecer de desligá-los, pode confundir os demais condutores. Isto pode causar acidentes e ferimentos graves.
+
+- Mudança de faixa de rodagem, manobras de ultrapassagem e conversão sempre devem ser indicadas em tempo hábil por meio dos indicadores de direção.
+
+- Desligar os indicadores de direção após a conclusão da mudança de faixa de rodagem, da manobra de ultrapassagem ou da conversão.
+
+As luzes de advertência funcionam mesmo com a ignição desligada -> Página 61.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 70 no manual original.]

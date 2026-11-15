@@ -1,0 +1,70 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rodas e pneus
+SEÇÃO: Sistema de controle dos pneus (Parte 2/4)
+PÁGINAS MANUAL: 241-242 (PDF: 243-244)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Se o pneu tiver danos estruturais.
+
+- Se o veículo estiver carregado em apenas um dos lados.
+
+- Se uma roda de emergência estiver montada.
+
+- Se uma roda por eixo tiver sido trocada.
+
+O indicador de controle dos pneus poderá ser retardado ou não exibir nada sob determinadas condições como, por exemplo, se a forma de condução for muito esportiva, em ruas cobertas de neve ou não pavimentadas.
+
+Programar o indicador de controle dos pneus Após uma mudança da pressão dos pneus ou após trocar uma ou mais rodas, o indicador de controle dos pneus precisa ser novamente programado. Isto também é válido após trocar as rodas, por exemplo, as rodas dianteiras pelas rodas traseiras.
+
+Para reprogramar o sistema, é preciso primeiro reinicializar os valores salvos.
+
+- Ligar a ignição.
+
+- No rádio, tocar no botão configurações .
+
+- Tocar na superfície de função Configurar .
+
+- Se as 4 pressões dos pneus corresponderem aos valores exigidos, tocar a superfície de função Confirmar , para armazenar as pressões dos pneus.
+
+Depois de um tempo de condução mais longo e velocidades variadas, o sistema reprograma os novos valores de modo autônomo e os monitora.
+
+O indicador de controle dos pneus deve ser reprogramado novamente nas seguintes condições:
+
+- Se a pressão dos pneus tiverem sido ajustadas.
+
+- Se uma ou mais rodas tiverem sido trocadas.
+
+- Se as rodas tiverem sido invertidas, por exemplo, os da frente para trás -> Página 243.
+
+O indicador de controle dos pneus não funciona se o ESC ou o ABS estiverem avariados -> Página 137.
+
+Depois de uma advertência sobre uma pressão dos pneus muito baixa, desligar a ignição e ligar novamente. Somente então o indicador de controle dos pneus pode ser novamente reprogramado.
+
+Soluções de problemas do indicador de controle dos pneus
+
+Observe no início desse capítulo na página 240. acesa A pressão de um ou mais pneus se reduziu ou o pneu sofreu uma avaria estrutural.
+- Não prosseguir!
+
+- Verificar todas as pressões dos pneus e ajustar -> Página 246.
+
+- Substituir os pneus danificados.
+
+- Reprogramar novamente o indicador de controle dos pneus -> Página 241.
+
+- Caso o problema persistir, procure uma Concessionária Volkswagen.
+
+Sistema avariado.
+- Não prosseguir!
+
+- Desligar e ligar a ignição novamente.
+
+- Reprogramar novamente o indicador de controle dos pneus -> Página 241.
+
+- Caso o problema persistir, procure uma Concessionária Volkswagen.
+
+[ATENÇÃO]

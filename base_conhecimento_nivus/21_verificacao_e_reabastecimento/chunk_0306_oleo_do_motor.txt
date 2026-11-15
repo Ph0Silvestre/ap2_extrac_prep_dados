@@ -1,0 +1,42 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: Óleo do motor (Parte 5/6)
+PÁGINAS MANUAL: 229-230 (PDF: 231-232)
+FIGURAS REFERENCIADAS: Fig. 177
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+12. Verificar novamente o nível do óleo do motor na vareta de medição do óleo antes de reabastecer mais uma pequena quantidade de óleo do motor. Nunca reabastecer com óleo do motor em excesso -> .
+
+13. No final do processo de abastecimento do óleo, o nível do óleo do motor deve estar, ao menos, no meio da área -> Fig. 177 B , mas jamais acima da área A -> .
+
+14. Se, por descuido, tiver sido reabastecido ex-cesso de óleo do motor e se, depois disso, o nível do óleo se encontrar acima da faixa -> Fig. 177 A , não dar partida no motor. Procurar uma Concessionária Volkswagen ou uma empresa especializada.
+
+15. Após o reabastecimento, rosquear corretamente a tampa da abertura para enchimento do óleo do motor.
+
+16. Reintroduzir a vareta de medição do óleo de maneira correta no tubo-guia até o fim.
+
+17. Fechar a tampa do compartimento do motor de maneira correta -> Página 221.
+
+Veja a quantidade de óleo do motor na -> Página 285.
+
+[ATENÇÃO]
+
+O óleo do motor pode pegar fogo se entrar em contato com peças quentes do motor. Isso pode causar incêndios, queimaduras e outros ferimentos graves.
+
+- Se o óleo do motor for derramado sobre as peças do motor quando estão frias, ele poderá se aquecer quando o motor estiver funcionando e causar um incêndio.
+
+- Após o reabastecimento, garantir sempre que a tampa da abertura para enchimento de óleo do motor seja fechada corretamente e que a vareta de medição do óleo também esteja corretamente introduzida no tubo-guia. Dessa forma, um vazamento de óleo do motor sobre peças quentes do motor em funcionamento pode ser evitado.
+
+- Não ligar o motor se o nível do óleo do motor estiver acima da área -> Fig. 177 A . Procurar uma Concessionária Volkswagen ou uma empresa especializada. Caso contrário, o catalisador e o motor podem ser danificados!
+
+- Ao trocar ou reabastecer fluidos, atentar para que os fluidos estejam nos recipientes corretos. Fluidos incorretos podem causar deficiências de funcionamento graves e danos ao motor.
+
+[NOTA]
+
+Utilizar apenas panos que não desfiem e não soltem fiapos para limpar a vareta de medição do nível do óleo, esses resíduos podem causar danos ao motor.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 177 no manual original.]

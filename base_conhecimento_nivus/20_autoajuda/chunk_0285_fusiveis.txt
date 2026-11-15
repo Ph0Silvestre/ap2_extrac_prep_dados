@@ -1,0 +1,57 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Autoajuda
+SEÇÃO: Fusíveis (Parte 1/5)
+PÁGINAS MANUAL: 212-213 (PDF: 214-215)
+FIGURAS REFERENCIADAS: Fig. 165
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Introdução ao tema Basicamente, vários consumidores podem estar protegidos em conjunto por um fusível. Por outro lado, também é possível que vários fusíveis pertençam a um consumidor.
+
+Substituir os fusíveis somente depois que a causa da falha tiver sido eliminada. Se um fusível novo queimar novamente após um curto período, o sistema elétrico deve ser verificado por uma Concessionária Volkswagen.
+
+[ATENÇÃO]
+
+Antes de qualquer trabalho no compartimento do motor sempre ler e observar as notas de avisos -> Página 221, Orientações de segurança para trabalhos no compartimento do motor. O compartimento do motor de todos os veículos é uma área perigosa e pode causar ferimentos graves.
+
+[ATENÇÃO]
+
+A alta tensão do sistema elétrico pode causar choques elétricos, graves queimaduras e a morte!
+
+- Evitar curtos-circuitos no sistema elétrico.
+
+[ATENÇÃO]
+
+O uso de fusíveis inadequados, o reparo de fusíveis e a conexão em ponte de um circuito elétrico sem fusíveis podem causar um incêndio e ferimentos graves.
+
+- Nunca instalar fusíveis que tenham uma capacidade de corrente maior. Substituir os fusíveis somente por fusíveis com a mesma intensidade (mesma cor e inscrição) e o mesmo tamanho.
+
+- Nunca reparar fusíveis.
+
+- Nunca substituir fusíveis por uma tira de metal, um clipe de escritório ou similares.
+
+[NOTA]
+
+- Para evitar danos ao sistema elétrico do veículo, antes da troca de um fusível é necessário que a ignição, a luz e todos os consumidores elétricos estejam desligados e a chave do veículo esteja fora do cilindro da ignição.
+
+- Se um fusível for substituído por um de maior capacidade, poderão surgir danos também em outras partes do sistema elétrico.
+
+- Caixas de fusíveis abertas devem ser protegidas contra a penetração de impurezas e umidade. Impurezas e umidade nas caixas de fusíveis podem causar danos ao sistema elétrico.
+
+Vários fusíveis podem pertencer a um consumidor.
+
+Vários consumidores podem estar protegidos em conjunto por um fusível.
+
+Observe e no início desse capítulo na página 212.
+
+Fig. 165 No lado do condutor do painel de instrumentos: cobertura da caixa de fusíveis.
+
+Substituir os fusíveis somente por fusíveis com a mesma intensidade de corrente (mesma cor e inscrição) e o mesmo tamanho.
+
+Abrir a caixa de fusíveis do painel de instrumentos
+- Segurar a cobertura da caixa de fusíveis -> Fig. 165 e puxar para frente.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 165 no manual original.]

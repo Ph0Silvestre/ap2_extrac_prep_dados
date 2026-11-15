@@ -1,0 +1,24 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Telefone (Parte 11/11)
+PÁGINAS MANUAL: 176 (PDF: 178)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Observe e no início desse capítulo na página 168.
+
+Superfície de função: efeito Gerenciar favoritos: editar os favoritos -> Página 175. Todos: todos os favoritos serão excluídos. Favorito: tocar para apagar o número salvo. Superfície de função livre: tocar para salvar um número da agenda telefônica como favorito.
+
+Nº caixa postal: inserir ou alterar o número do correio de voz.
+
+Ordenar por: estabelecer ordem de classificação das entradas da agenda telefônica (Sobrenome ou Nome).
+
+Importar contatos: tocar para importar a agenda telefônica do telefone conectado ou para atualizar a agenda telefônica já importada.
+
+Selecionar tom de chamada: selecionar tom de chamada de uma lista de tons predeterminada. O toque de chamada é reproduzido e, ao sair do submenu, armazenado.
+
+Excluir outros perfis: apagar alguns ou todos perfis de usuários inativos.

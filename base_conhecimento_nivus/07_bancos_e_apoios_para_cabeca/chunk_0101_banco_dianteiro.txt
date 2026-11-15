@@ -1,0 +1,32 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Bancos e apoios para cabeça
+SEÇÃO: Banco dianteiro (Parte 2/2)
+PÁGINAS MANUAL: 80 (PDF: 82)
+FIGURAS REFERENCIADAS: Fig. 63
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Ajustar mecanicamente o banco dianteiro
+
+Observe no início desse capítulo na página 79.
+
+Fig. 63 No banco dianteiro: comandos.
+
+A seguir estão descritos todos os comandos possíveis.
+
+Legenda para -> Fig. 63:
+
+Acionar a alavanca e ajustar a inclinação do encosto, até alcançar a posição desejada do encosto do banco. Soltar a alavanca para fixar o encosto do banco.
+
+Somente no banco do condutor, mover a alavanca várias vezes, se necessário, para cima ou para baixo, para ajustar a altura do banco.
+
+Puxar a alavanca para deslocar o banco dianteiro para frente ou para trás. O banco dianteiro deve travar após se soltar a alavanca!
+
+Somente no banco do passageiro dianteiro, levantar a alavanca, no sentido da seta 4 e, movimentar o encosto para frente. Ao retornar à posição normal, certifique-se de que o encosto do banco esteja devidamente travado nesta posição.
+
+O encosto do banco do passageiro dianteiro pode ser rebatido e travado numa posição horizontal. Ao transportar objetos sobre o banco do passageiro dianteiro rebatido, o airbag frontal do passageiro dianteiro deve estar desligado -> Página 49.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 63 no manual original.]

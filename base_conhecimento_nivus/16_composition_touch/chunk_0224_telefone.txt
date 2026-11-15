@@ -1,0 +1,52 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Telefone (Parte 5/11)
+PÁGINAS MANUAL: 170-171 (PDF: 172-173)
+FIGURAS REFERENCIADAS: Fig. 130, Fig. 131
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Algumas funções e ajustes só são possíveis com o veículo parado e não são suportadas por todos os telefones móveis.
+
+As opções de ajuste variam conforme o país e o aparelho e dependendo dos equipamentos do veículo.
+
+Com o controle do telefone, podem ser reconhecidos até 20 aparelhos.
+
+Respectivamente, um ou o mesmo aparelho pode ser conectado pelo perfil de viva-voz (HFP) e perfil de reprodução de áudio (A2DP).
+
+Atribuição a um perfil de usuário Um telefone móvel conectado é salvo como perfil do usuário no controle do telefone.
+
+Podem estar consignados no máximo 4 perfis de usuários de telefones móveis no controle do telefone. Se um outro telefone móvel for pareado, o perfil de usuário não utilizado a mais tempo é apagado automaticamente.
+
+No perfil do usuário, são salvos os dados da agenda telefônica, os favoritos armazenados (botões de discagem rápida) e as configurações no menu Configurações do perfil do usuário.
+
+Se um telefone móvel for conectado novamente ao controle do telefone, os dados e as configurações ficarão disponíveis novamente.
+
+Se os registros da agenda telefônica do telefone móvel foram alterados na conexão existente, é possível realizar uma atualização manual dos dados da agenda telefônica pelo menu Configurações do perfil do usuário -> Página 176. Após uma nova conexão do telefone móvel (por exemplo, na próxima condução), a agenda telefônica é atualizada automaticamente.
+
+[ATENÇÃO]
+
+Um aparelho móvel não fixado ou fixado incorretamente pode ser lançado pelo compartimento interno do veículo em razão de uma manobra súbita de arranque ou de frenagem assim como em um acidente e causar ferimentos.
+
+- Fixar ou guardar em segurança o aparelho móvel sempre de maneira correta e fora da área de expansão do airbag durante a condução.
+
+A operação de um telefone móvel no veículo pode ocasionar ruídos nos alto-falantes.
+
+Menu principal do telefone
+
+Observe e no início desse capítulo na página 168.
+
+Fig. 130 Menu principal do telefone.
+
+Fig. 131 Chamadas detalhadas.
+
+Abrir o menu principal do telefone Pressionar o botão PHONE .
+
+Superfícies de função no menu principal do telefone Superfície de função: efeito 1 Nome do telefone móvel pareado ou do perfil de usuário utilizado. Tocar para conectar ou parear um outro telefone móvel.
+
+Favoritos (botões de discagem rápida) que podem ser ocupados com um número de telefone da agenda telefônica -> Página 175.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 130, Fig. 131 no manual original.]

@@ -1,0 +1,48 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Conduzir
+SEÇÃO: Orientações para condução (Parte 11/16)
+PÁGINAS MANUAL: 108-109 (PDF: 110-111)
+FIGURAS REFERENCIADAS: Fig. 86
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- A Volkswagen não é responsável caso o veículo não corresponda ou corresponda apenas parcialmente aos respectivos requisitos legais de outros países e continentes.
+
+Soluções de problemas Falha de funcionamento do sistema de freio Quando o veículo não frear mais como usualmente (aumento súbito da distância de frenagem), é possível que um circuito do freio esteja falhando. Isso será indicado pela luz de advertência e eventualmente por uma mensagem de texto. Procurar imediatamente uma Concessionária Volkswagen para eliminar o dano. Durante o trajeto, conduzir em baixa velocidade e se preparar para distâncias maiores de frenagem e para uma pressão maior no pedal.
+
+Cilindro da ignição
+
+Fig. 86 Ao lado do volante, à direita: posições da chave do veículo no cilindro da ignição.
+
+Posições da chave do veículo -> Fig. 86 Ignição desligada. A chave do veículo pode ser retirada.
+
+Ignição ligada.
+
+Pisar no pedal do freio e ligar o motor. Quando o motor pegar, soltar a chave da ignição. Ao soltar, a chave do veículo retorna à posição -> Fig. 86 1 .
+
+Indicação de ignição ligada Dependendo da versão do veículo, a indicação de ignição ligada pode não estar disponível.
+
+Se a porta do condutor for aberta com a ignição ligada, poderá aparecer no display do instrumento combinado o aviso IGNITION ON e ainda pode ser emitido um sinal sonoro.
+
+O sinal sonoro é para lembrar que a ignição deve ser desligada, antes de deixar o veículo.
+
+[ATENÇÃO]
+
+Uma utilização desatenta da chave do veículo pode causar ferimentos graves.
+
+- Levar sempre todas as chaves do veículo ao deixar o veículo. O motor pode ser ligado e equipamentos elétricos, como os vidros elétricos, podem ser comandados, o que pode causar ferimentos graves.
+
+- Nunca deixar crianças ou pessoas com necessidade especiais sozinhas no veículo. Em caso de emergência, elas não estariam em condições de deixar o veículo sozinhas ou de cuidarem de si mesmas. Em um veículo fechado, conforme a estação do ano, podem ocorrer temperaturas muito altas ou muito baixas que podem causar ferimentos graves e enfermidades, principalmente em crianças pequenas, ou levar à morte.
+
+- Nunca retirar a chave do veículo do cilindro da ignição enquanto o veículo estiver em movimento.
+
+[NOTA]
+
+Com a ignição ligada e motor desligado, a bateria do veículo pode se descarregar de forma indesejada e impedir uma nova partida do motor.
+
+- Sempre desligar a ignição antes de sair do veículo.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 86 no manual original.]

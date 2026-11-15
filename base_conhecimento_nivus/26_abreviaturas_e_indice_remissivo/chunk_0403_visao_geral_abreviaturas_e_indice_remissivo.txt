@@ -1,0 +1,52 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Abreviaturas e Índice remissivo
+SEÇÃO: Visão Geral - Abreviaturas e Índice remissivo (Parte 7/18)
+PÁGINAS MANUAL: 293 (PDF: 295)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+| Consumo de combustível | Destravar emergencialmente a alavanca seleto- |
+| --- | --- |
+| conduzir economicamente 102 | ra 116 |
+| o que aumenta o consumo? 204 | Dimensões 284 |
+| Controle automático da luz de condução 87 | Direção |
+| Controle automático de distância (ACC) 122 | luz de alerta 118 |
+| ajustar 126 | luz de controle 118 |
+| ligar e desligar 125 | Direção assistida 117 |
+| limitações do sistema 124 | Direitos autorais 160, 181 |
+| problemas e soluções 126 sensor de radar 122, 124 situações de condução 123 | Display 18, 21, 148, 149 comandar 150 instrumento combinado 21 |
+| Controle de distância de estacionamento | limpar 148 |
+| utilização de lavador de alta pressão 261 | Display de temperatura |
+| Controle de tração (ASR) 137, 139 | líquido de arrefecimento do motor 21 |
+| Controle do motor luz de controle 112 | Dispositivo de reboque instalar 198 |
+| soluções de problemas 112 | Distribuidor eletrônico da força de frenagem |
+| Controle eletrônico da potência do motor - EPC 203 | (EBV) 138 |
+| Controles ao abastecer 32 | Durante uma chamada telefônica 172 |
+| Copyright informações 177 Cristalização da pintura 261 | E EBV |
+| D | ver sistemas de assistência à frenagem 138 EDS |
+| Dados de identificação do veículo 282 | ver Sistemas de assistência à frenagem 138 |
+| Dados de viagem 22 | Eletrólito da bateria 237 |
+| Dados do motor 286 | Em caso de emergência 61 |
+| Dados técnicos 281 capacidades 201, 226, 229, 285 carga sobre o teto 193 dimensões 284 especificação do óleo do motor 227 | caso de pane 61 listas de controle 61 luzes de advertência 61 proteger a si mesmo e ao veículo 61 triângulo de segurança 63 |
+| etiqueta de dados do veículo 282 etiqueta de identificação 282 | Emissoras Pré-sintonizar 158 |
+| motor 1.0 TOTALFLEX 85/94 kW - TSI 286 plaqueta de fábrica 282 pressão dos pneus 246 | Encosto do banco traseiro rebater para frente 81 rebater para trás 81 |
+| Danos nos pneus 248 | Engatar a marcha |
+| Declaração de conformidade 280 | transmissão automática 112 |
+| Descansa-braço central 84 | Enrolador automático do cinto de segurança 43 |
+| Descarte | Entrada de cartão SD 164 |
+| pré-tensionador dos cintos de segurança 43 | Entrada multimídia 165 |
+| Descongelar as fechaduras 263 | Entrada multimídia AUX-IN |
+| Descongelar o cilindro da fechadura das portas 263 | ver Fontes externas de áudio 166 |
+| Desembaçador do vidro traseiro 99 | Entrada USB 141, 142 |
+| Desembaçar | EON 287 |
+| vidros 99 | EPC - Controle eletrônico da potência do motor 203 |
+| Desgaste dos pneus 248 | Equipamentos de segurança 47 |
+| Desligamento automático dos consumidores 238 | Equipamentos que consomem eletricidade 63 |
+| Desligamento de emergência 112 | Erguer o veículo |
+| Desligar | lista de controle 256 |
+| rádio 149 | ESC |
+| Destravar com Keyless Access 66 | ligar e desligar 139 ver Sistemas de assistência à frenagem 139 |

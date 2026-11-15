@@ -1,0 +1,52 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Segurança
+SEÇÃO: Sistema de airbag (Parte 10/11)
+PÁGINAS MANUAL: 51 (PDF: 53)
+FIGURAS REFERENCIADAS: Fig. 37, Fig. 38, Fig. 39
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Os airbags laterais se encontram no estofamento externo do encosto dos bancos do condutor e do passageiro dianteiro -> Fig. 38. Os locais de instalação estão identificados pela inscrição “AIR- BAG”.
+
+As áreas destacadas em vermelho -> Fig. 37 e -> Fig. 38 são cobertas pelos airbags laterais acionados (áreas de expansão). Por esse motivo, nunca podem ser colocados ou fixados objetos nessas áreas -> .
+
+Em caso de uma colisão lateral, os airbags laterais do lado da colisão são acionados e reduzem, assim, o risco de ferimentos dos ocupantes do veículo sobre as partes do corpo voltadas para a colisão.
+
+[ATENÇÃO]
+
+A insuflação de um airbag acionado se realiza em frações de segundos e com velocidade muito alta.
+
+- Deixar as áreas de expansão dos airbags laterais sempre livres.
+
+- Pessoas, animais ou objetos não devem estar entre os ocupantes do veículo nos bancos dianteiros, nos assentos laterais do banco traseiro e entre as áreas de expansão dos airbags. Atentar para que isso também seja cumprido por crianças e passageiros.
+
+- Pendurar somente trajes leves no gancho para roupas do veículo. Não deixar objetos pesados ou com cantos cortantes nos bolsos.
+
+- Não montar acessórios nas portas.
+
+- Aplicar somente revestimentos de banco ou de proteção que estejam expressamente liberados para o uso no veículo. Caso contrário, o airbag lateral pode não se insuflar em um acionamento.
+
+[ATENÇÃO]
+
+O manuseio incorreto do banco do condutor e do banco do passageiro dianteiro pode impedir o funcionamento correto dos airbags laterais e causar ferimentos graves.
+
+- Nunca desinstalar os bancos dianteiros do veículo ou modificar peças deles.
+
+- Se forças excessivamente altas forem aplicadas sobre os apoios laterais do encosto do banco, os airbags laterais podem não ser acionados corretamente, não ser acionados ou ser acionados acidentalmente.
+
+- Danos nos revestimentos originais dos bancos ou nas costuras da área do módulo dos airbags laterais devem ser verificados imediatamente por uma Concessionária Volkswagen.
+
+Airbags para cabeça
+
+Observe no início desse capítulo na página 44.
+
+Fig. 39 No lado esquerdo do veículo: local de instalação e área de expansão do airbag para cabeça.
+
+O veículo está equipado com airbags de cabeça no lado do condutor e do passageiro dianteiro no interior do veículo acima das portas -> Fig. 39.
+
+Os locais de instalação dos airbags para cabeça estão identificados pela inscrição “AIRBAG”.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 37, Fig. 38, Fig. 39 no manual original.]

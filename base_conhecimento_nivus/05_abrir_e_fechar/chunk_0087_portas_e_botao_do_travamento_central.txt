@@ -1,0 +1,62 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Abrir e fechar
+SEÇÃO: Portas e botão do travamento central (Parte 3/5)
+PÁGINAS MANUAL: 69-71 (PDF: 71-73)
+FIGURAS REFERENCIADAS: Fig. 53, Fig. 54, Fig. 55
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Dependendo da versão do veículo e da versão do rádio, as configurações para o travamento central podem ser efetuadas no sistema do rádio por meio do botão OU tocar na superfície de seleção e tocar na superfície de função Carro -> Página 29.
+
+Travamento automático (Auto Lock) A partir de uma velocidade de aproximadamente 20 km/h o veículo é travado automaticamente. Se o veículo estiver travado, a luz de controle no botão do travamento central se acenderá em amarelo.
+
+Destravamento automático (Auto Unlock) Quando uma das seguintes condições ocorrer, todas as portas e a tampa traseira serão destravadas automaticamente:
+
+- O veículo está parado e a chave do veículo foi retirada (somente para veículos sem Keyless Access).
+
+- OU: o veículo está parado e o botão foi pressionado.
+
+- OU: a maçaneta de abertura da porta foi acionada.
+
+- OU: os airbags foram acionados em um acidente -> Página 48.
+
+O destravamento automático possibilita o acesso de socorrista ao interior do veículo.
+
+Um veículo com transmissão automática somente poderá ser travado se a alavanca seletora estiver na posição P.
+
+Botão do travamento central
+
+Observe e no início desse capítulo na página 68.
+
+Fig. 53 Na porta do condutor: botão do travamento central.
+
+Legenda para -> Fig. 53:
+
+Destravar o veículo.
+
+Travar o veículo.
+
+O botão do travamento central funciona tanto com a ignição ligada quanto desligada, somente quando todas as portas estiverem fechadas.
+
+Se o veículo tiver sido travado com a chave do veículo, os botões do travamento central ficarão desativados.
+
+Se o veículo tiver sido travado por dentro com o botão do travamento central, então:
+
+- A luz de controle no botão acende-se em amarelo, se todas as portas e a tampa traseira estiverem fechadas.
+
+- O sistema de alarme antifurto não é ativado.
+
+As portas podem ser abertas por dentro ao puxar a maçaneta da porta. A luz de controle no botão se apaga. As portas que não foram abertas, bem como a tampa traseira, permanecem travadas e não podem ser abertas por fora.
+
+Fechar ou abrir a porta do condutor em caso de emergência
+
+Observe e no início desse capítulo na página 68.
+
+Fig. 54 Maçaneta da porta do condutor: cilindro da fechadura coberto.
+
+Fig. 55 Maçaneta da porta do condutor: levantar a capa de cobertura.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 53, Fig. 54, Fig. 55 no manual original.]

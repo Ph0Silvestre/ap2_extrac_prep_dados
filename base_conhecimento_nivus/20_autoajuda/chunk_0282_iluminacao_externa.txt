@@ -1,0 +1,64 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Autoajuda
+SEÇÃO: Iluminação externa (Parte 5/6)
+PÁGINAS MANUAL: 211-212 (PDF: 213-214)
+FIGURAS REFERENCIADAS: Fig. 161, Fig. 162, Fig. 163, Fig. 164
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Desencaixar o conector de alimentação das lâmpadas da lanterna, para remover totalmente a lanterna.
+
+Colocar a lanterna traseira sobre uma super-fície limpa e lisa.
+
+Para destravar o suporte das lâmpadas, pressionar cada lingueta de travamento -> Fig. 162 no sentido das setas.
+
+Remover o suporte das lâmpadas cuidadosamente.
+
+10 Para remover as lâmpadas incandescentes queimadas pressionar a lâmpada contra o alojamento e girar no sentido anti-horário.
+
+11 Substituir a lâmpada incandescente queimada por uma lâmpada incandescente nova do mesmo modelo.
+
+12 Para inserir as novas lâmpadas no suporte das lâmpadas, introduza a nova lâmpada no respectivo alojamento. Pressionar a lâmpada e girar no sentido horário até o batente.
+
+13 Certificar-se de que as lâmpadas estão corretamente fixadas no suporte das lâmpadas.
+
+14 Instalar o suporte das lâmpadas na lanterna traseira, com atenção no encaixe das lâminas de contato na carcaça -> Fig. 162 A e B . As linguetas de travamento devem encaixar de forma audível obedecendo a sequência -> Fig. 162 1 , 2 , 3 e 4 .
+
+15 Colocar o conector de alimentação na lanterna.
+
+16 Encaixar a lanterna traseira cuidadosamente no alojamento da carroceria.
+
+17 Segurar a lanterna traseira na posição de montagem com uma das mãos e aparafusar com a outra o parafuso borboleta -> Fig. 161 18 1 .
+
+Recolocar a cobertura da lanterna em sua posição e girar a trava para fechar.
+
+19 Fechar a tampa traseira -> Página 74.
+
+20
+
+- Remover e instalar a lanterna traseira na carroceria sempre com cuidado, evitando danos na pintura do veículo ou em outras peças do veículo.
+
+- A Volkswagen recomenda cuidado especial com algumas peças plásticas que possuem presilhas, que podem quebrar-se durante a remoção ou instalação das lâmpadas.
+
+Trocar a lâmpada incandescente da lanterna da placa de licença
+
+Observe e no início desse capítulo na página 208.
+
+Fig. 163 No para-choque traseiro: lanterna da placa de licença.
+
+Fig. 164 Lanterna da placa de licença: desinstalar o suporte da lâmpada.
+
+Para remover a lanterna da placa de licença, para auxiliar pode ser utilizada uma chave de fenda -> .
+
+Executar as ações somente na sequência indicada.
+
+Observar a lista de controle e executar as ações -> Página 209.
+
+Com o auxílio de uma chave de fenda, pressionar a trava -> Fig. 163 (seta) para remover o conjunto.
+
+Girar o soquete da lâmpada no sentido anti-horário -> Fig. 164 A e retirar o suporte junto com a lâmpada B .
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 161, Fig. 162, Fig. 163, Fig. 164 no manual original.]

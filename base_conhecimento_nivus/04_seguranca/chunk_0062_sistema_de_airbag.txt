@@ -1,0 +1,38 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Segurança
+SEÇÃO: Sistema de airbag (Parte 11/11)
+PÁGINAS MANUAL: 51-52 (PDF: 53-54)
+FIGURAS REFERENCIADAS: Fig. 39
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Os locais de instalação dos airbags para cabeça estão identificados pela inscrição “AIRBAG”.
+
+A área destacada em vermelho é coberta pelo airbag para cabeça acionado (área de expansão) -> Fig. 39. Por esse motivo, nunca podem ser colocados ou fixados objetos nessa área -> .
+
+Em caso de colisão lateral, o airbag para cabeça é acionado no lado da colisão.
+
+Em caso de colisões laterais, os airbags para cabeça reduzem o risco de ferimentos dos ocupantes do veículo nos bancos dianteiros e nos assentos laterais do banco traseiro, nas partes do corpo voltadas para o acidente.
+
+[ATENÇÃO]
+
+A inflação de um airbag acionado ocorre em frações de segundo e com velocidade muito alta.
+
+- Deixar as áreas de expansão dos airbags para cabeça sempre livres.
+
+- Nunca fixar objetos na cobertura nem na área de expansão do airbag para cabeça.
+
+- Pessoas, animais ou objetos não devem estar entre os ocupantes do veículo nos bancos dianteiros, nos assentos laterais do banco traseiro e entre as áreas de expansão dos airbags. Atentar para que isso também seja cumprido por crianças e passageiros.
+
+- Pendurar somente trajes leves no gancho para roupas do veículo. Não deixar objetos pesados ou com cantos vivos em bolsas.
+
+- Não montar acessórios nas portas.
+
+- Não instalar cortinas de proteção solar nos vidros laterais que não estejam expressamente liberadas para utilização no respectivo veículo.
+
+- Virar o para-sol para os vidros laterais somente quando nenhum objeto estiver fixado no para-sol, por exemplo, canetas ou comandos de abertura de portão de garagem.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 39 no manual original.]

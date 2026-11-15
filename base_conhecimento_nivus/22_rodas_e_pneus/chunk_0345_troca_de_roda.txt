@@ -1,0 +1,44 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rodas e pneus
+SEÇÃO: Troca de roda (Parte 2/6)
+PÁGINAS MANUAL: 253-254 (PDF: 255-256)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+5. Fazer com que todos os ocupantes do veículo desçam e se coloquem em segurança afastados do trânsito.
+
+6. Colocar um calço na roda oposta, utilizando uma pedra ou similar.
+
+7. Em condução com reboque: desacoplar o reboque do veículo de tração e estacionar de maneira correta.
+
+8. Com o compartimento de bagagem carregado: remover os volumes de bagagem.
+
+9. Retirar a roda de emergência e as ferramentas de bordo do compartimento de bagagem.
+
+[ATENÇÃO]
+
+A observância da lista de controle é essencial para a segurança do condutor, passageiros e demais condutores, evitando possíveis acidentes.
+
+- Seguir sempre as ações da lista de controle e observar as precauções de segurança nela descritas.
+
+Roda de emergência com dimensões diferentes das rodas de utilização
+
+Observe no início desse capítulo na página 253.
+
+Os veículos equipados com rodas com aro de 16 e 17 polegadas, a roda de emergência do veículo possui aro com dimensões diferentes da roda de utilização do veículo.
+
+Além do aro de dimensões diferentes, os veículos equipados com roda de liga leve podem ter a roda de emergência em aço.
+
+A roda de emergência deverá ser utilizada temporariamente, em substituição à roda de utilização do veículo, somente durante o tempo necessário para o reparo da roda ou do pneu -> .
+
+Durante este período, atente para as seguintes precauções: após a instalação da roda de emergência com dimensões diferentes, a pressão deve ser verificada e corrigida, se necessário. Veja a pressão especificada no lado interno da portinhola do tanque de combustível. Em veículos com indicador de controle dos pneus, após a troca de roda, o sistema deve ser reprogramado -> Página 241.
+
+A roda com dimensões diferentes deve retornar o mais breve possível para sua condição inicial, após a reinstalação da roda e pneu normais do veículo, já reparados ou substituídos. Atente, também, para que a capacidade máxima de carga, especificada pelo código na lateral do pneu, não seja excedida.
+
+Para reduzir as chances de danos nos pneus e rodas do seu veículo:
+
+pressões ou ondulações. Os impactos sofridos ao se passar por obstáculos como estes podem danificar os pneus de seu veículo e as rodas. Se necessário dirigir nestas condições, é imprescindível a verificação posterior dos pneus e das rodas do veículo, ou solicitar o suporte de uma Concessionária Volkswagen ou de uma empresa especializada.

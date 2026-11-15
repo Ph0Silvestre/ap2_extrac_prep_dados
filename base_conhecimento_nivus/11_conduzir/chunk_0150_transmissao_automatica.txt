@@ -1,0 +1,38 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Conduzir
+SEÇÃO: Transmissão automática (Parte 6/7)
+PÁGINAS MANUAL: 116-117 (PDF: 118-119)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Após o destravamento emergencial recolocar e pressionar cuidadosamente a cobertura no console central, atentando para a correta posição dos cabos elétricos.
+
+Programa de emergência Se todos os indicadores das posições da alavanca seletora estiverem ressaltados com um fundo claro no display do instrumento combinado, existe uma avaria do sistema. A transmissão automática funciona em um programa de emergência. No programa de emergência, o veículo ainda pode funcionar, mas com velocidade reduzida e não em todas as marchas.
+
+Com transmissão automática, em alguns casos não será mais possível conduzir em marcha a ré.
+
+Em todos os casos, a transmissão automática deverá ser verificada imediatamente por uma Concessionária Volkswagen.
+
+Superaquecimento da transmissão automática A transmissão automática pode se aquecer muito, por exemplo, por arranques frequentes, “deslocamento lento” ou trânsito intenso. O superaquecimento é indicado pela luz de advertência e, se for o caso, por uma mensagem de texto no display do instrumento combinado. Além disso, pode soar um alerta sonoro. Parar e deixar a transmissão esfriar -> .
+
+O veículo não se move para frente nem para trás apesar do nível de marcha engatado Se o veículo não se mover na direção desejada, a posição de marcha pode não estar corretamente engatada pelo sistema. Então, pisar no pedal do freio e engatar novamente a posição de marcha.
+
+Se o veículo continuar não se movendo na direção desejada, há uma avaria do sistema. Procurar auxílio técnico especializado e mandar verificar o sistema.
+
+[ATENÇÃO]
+
+Nunca retirar a alavanca seletora da posição P enquanto o freio de estacionamento não estiver puxado. Do contrário, em trechos de aclive ou declive, o veículo pode entrar em movimento inesperadamente e, com isso, causar acidentes e ferimentos graves.
+
+[NOTA]
+
+Se o veículo, com o motor desligado e com a alavanca seletora na posição N, rodar por um período maior ou com velocidade mais elevada, a transmissão automática será danificada, por exemplo, durante a rebocagem.
+
+[NOTA]
+
+- Na primeira vez que for exibido o superaquecimento da transmissão, é necessário parar o veículo com segurança ou conduzir com velocidade acima de 20 km/h.
+
+- Se a mensagem de texto e o alerta sonoro se repetirem a cada 10 segundos, o veículo deverá ser parado imediatamente com segurança e o motor deverá ser desligado. Deixar a transmissão esfriar.

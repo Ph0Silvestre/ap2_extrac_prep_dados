@@ -1,0 +1,34 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Informações ao consumidor
+SEÇÃO: Instalar o rádio (Parte 1/1)
+PÁGINAS MANUAL: 279-280 (PDF: 281-282)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Na montagem posterior de um rádio ou na substituição do rádio montado de fábrica, observe as seguintes recomendações:
+
+- Em algumas versões, as tomadas de ligação já existentes no veículo foram previstas para os rádios originais Volkswagen, a partir do ano modelo 2005.
+
+- Os aparelhos de rádio com ligações diferentes terão que ser ligados com cabos adaptadores, que podem ser adquiridos nas Concessionárias Volkswagen.
+
+- Os rádios não previstos no Programa de Acessórios Originais Volkswagen poderão necessitar de um adaptador adicional quando o sinal de recepção estiver fraco.
+
+- É aconselhável efetuar a instalação do rádio em uma Concessionária Volkswagen, cujo pessoal está informado sobre as especificações técnicas dos veículos e onde existem os rádios originais e as peças de montagem necessárias do Programa de Acessórios Volkswagen, além dos trabalhos serem executados em conformidade com as diretrizes da fábrica.
+
+- A potência máxima dos alto-falantes originais de fábrica é 20 W (RMS).
+
+- A Volkswagen recomenda que se utilize também alto-falantes, jogos de montagem, antenas e kits de supressão de interferências do Programa de Acessórios Volkswagen. Estas peças foram especialmente concebidas para cada veículo.
+
+[ATENÇÃO]
+
+Nunca cortar o cabo de ligação, deixando-o sem isolamento. Isso pode causar um incêndio.
+
+[NOTA]
+
+- Uma ligação deficiente do rádio pode provocar a destruição de componentes elétricos importantes ou afetar o seu funcionamento. Eventuais interferências como, por exemplo, no sinal da velocidade, podem provocar falhas no funcionamento do motor, ABS, etc.
+
+- A simples ligação do sinal de velocidade a um rádio com ajuste automático do volume de outros fabricantes pode dar origem a esses tipos de falhas.

@@ -1,0 +1,59 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Informações ao condutor
+SEÇÃO: Instrumento combinado (Parte 11/13)
+PÁGINAS MANUAL: 25-26 (PDF: 27-28)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+[ATENÇÃO]
+
+A tecnologia inteligente do reconhecimento de cansaço não pode superar os limites físicos e funciona somente dentro dos limites do sistema. O maior conforto oferecido pelo sistema de reconhecimento de cansaço não deve incentivar o condutor a assumir riscos. Em conduções mais longas, fazer intervalos regulares e longos o suficiente.
+
+- A responsabilidade pela capacidade de conduzir é sempre do condutor.
+
+- Nunca conduzir um veículo se estiver cansado.
+
+- O sistema não reconhece o cansaço do condutor em todas as circunstâncias. Observar as informações do parágrafo “Limitações do funcionamento” -> Página 25.
+
+- Em algumas situações, o sistema pode interpretar incorretamente uma manobra de direção intencional como se fosse cansaço do condutor.
+
+- Nenhum alerta crítico é emitido no chamado “microssono (cochilar ao volante)”!
+
+- Atentar para as indicações do display do instrumento combinado e seguir as instruções correspondentes.
+
+O sistema de reconhecimento de cansaço foi desenvolvido somente para conduzir em estradas e em vias bem asfaltadas.
+
+Em caso de avaria, procurar uma Concessionária Volkswagen.
+
+Horário
+
+Observe no início desse capítulo na página 17.
+
+Ajustar o horário através do sistema de rádio Dependendo da versão do veículo e da versão do rádio.
+- Pressionar o botão do rádio .
+
+- Tocar na superfície de função para abrir o menu Configurações do veículo.
+
+- OU o menu.
+
+- Selecionar o item de menu Hora e data para ajustar o horário -> Página 29.
+
+Ajustar o horário através do instrumento combinado analógico
+- Ligar a ignição.
+
+- Para ajustar o relógio, pressionar o botão no instrumento combinado -> Página 17 para selecionar o indicador das horas.
+
+- Para acertar as horas, pressionar o botão brevemente. Os números serão trocados em ordem crescente. Manter o botão pressionado para avanço rápido.
+
+- Pressionar brevemente o botão para selecionar o indicador dos minutos.
+
+- Para acertar os minutos, pressionar o botão brevemente. Os números serão trocados em ordem crescente. Manter o botão pressionado para avanço rápido.
+
+- Pressionar novamente o botão para finalizar o acerto do relógio.
+
+Ajustar o horário através de instrumento combinado digital (Active Info Display)
+- No menu Dados de viagem, selecionar o indicador Autonomia.

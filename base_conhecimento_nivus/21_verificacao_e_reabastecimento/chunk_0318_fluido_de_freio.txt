@@ -1,0 +1,45 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: Fluido de freio (Parte 4/8)
+PÁGINAS MANUAL: 236-237 (PDF: 238-239)
+FIGURAS REFERENCIADAS: Fig. 182
+ALERTAS PRESENTES: NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Uma bateria descarregada pode congelar em temperaturas em torno de 0° C. Em caso de congelamento, a bateria também deve ser substituída imediatamente.
+
+- Assegurar-se que não haja pessoas no interior do veículo durante a substituição da bateria. Em caso de uma pane elétrica, os airbags podem ser acionados acidentalmente e provocar ferimentos graves ou até fatais nos ocupantes do veículo.
+
+[NOTA]
+
+- Nunca desconectar a bateria do veículo com a ignição ligada ou com o motor em funcionamento nem conectá-la a outra, pois senão o sistema elétrico e os componentes eletrônicos podem ser danificados.
+
+- Não expor a bateria do veículo por períodos prolongados à luz solar direta, pois os raios ultravioletas podem danificar a carcaça da bateria.
+
+- Com o veículo parado por um longo período, proteger a bateria do veículo do frio, não deixar o veículo em local aberto de modo que não “congele” e, assim, seja destruída.
+
+Nunca instalar uma bateria danificada ou que não tenha uma boa vedação. Eliminar a bateria como resíduo dentro das normas de defesa do meio ambiente -> Página 237, Carregar, substituir, desconectar ou conectar a bateria do veículo.
+
+Após ligar o motor com a bateria do veículo totalmente descarregada ou trocada, as configurações do sistema (como hora e programações) podem ser desprogramadas ou apagadas. Verificar e corrigir as configurações depois que a bateria do veículo tiver sido suficientemente carregada.
+
+Verificar o nível de eletrólito da bateria do veículo
+
+Observe e no início desse capítulo na página 235.
+
+Fig. 182 No compartimento do motor: exemplo de posição do visor no lado superior da bateria do veículo.
+
+Controlar regularmente o nível de eletrólito da bateria com altas quilometragens, em países de clima quente e com bateria velha. No mais, a bateria do veículo não requer manutenção.
+
+Preparações
+- Preparar o veículo para trabalhos no compartimento do motor -> Página 221.
+
+- Abrir a tampa do compartimento do motor -> Página 223.
+
+Verificar o nível do eletrólito da bateria Para ter acesso ao visor redondo é necessário remover o suporte da caixa de fusíveis da bateria. A Volkswagen recomenda que a bateria do veículo seja verificada em uma Concessionária Volkswagen ou em uma empresa especializada.
+
+reconhecer nitidamente as cores. Jamais utilizar chamas expostas ou objetos incandescentes como iluminação.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 182 no manual original.]

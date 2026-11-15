@@ -1,0 +1,48 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rodas e pneus
+SEÇÃO: Sistema de controle dos pneus (Parte 3/4)
+PÁGINAS MANUAL: 242 (PDF: 244)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+[ATENÇÃO]
+
+Pressão dos pneus diferente ou pressão dos pneus muito baixa podem causar um colapso dos pneus, a perda de controle do veículo, acidentes, ferimentos graves e a morte.
+
+- Se a luz de controle se acender, parar imediatamente e verificar todos os pneus -> Página 246.
+
+- Pressão dos pneus diferente ou pressão dos pneus muito baixa podem aumentar o desgaste do pneu, piorar a estabilidade de condução e aumentar a distância de frenagem.
+
+- Pressão dos pneus diferente ou pressão dos pneus muito baixa podem ocasionar um colapso súbito do pneu, causando o estouro do pneu e a perda de controle do veículo.
+
+- O condutor é responsável pela correta pressão dos pneus em todos os pneus do veículo. A pressão dos pneus recomendada está sempre disponível em uma etiqueta adesiva -> Página 246.
+
+- O sistema de controle dos pneus só pode cumprir sua função se todos os pneus frios estiverem com a pressão dos pneus correta.
+
+- Usar valores de pressão dos pneus incorretos pode causar acidentes e danos aos pneus. Todos os pneus precisam ter sempre a pressão adequada ao carregamento -> Página 246.
+
+- Antes de cada condução, encher sempre os pneus com a pressão dos pneus correta -> Página 246.
+
+- Em viagens com a pressão dos pneus muito baixa, os pneus apresentam necessariamente mais deformações. Assim, os pneus podem se aquecer tanto que a banda de rodagem pode se soltar, os pneus podem estourar e pode ocorrer a perda do controle do veículo.
+
+- Altas velocidades e sobrecarga podem aquecer um pneu de tal maneira que o pneu pode estourar e levar à perda de controle do veículo.
+
+- Uma pressão dos pneus muito alta ou muito baixa encurta a vida útil dos pneus e piora o comportamento de direção do veículo.
+
+- Se o pneu não estiver “furado” e não for necessário trocar a roda imediatamente, conduzir em baixa velocidade até a Concessionária Volkswagen mais próxima, verificar e corrigir a pressão dos pneus -> Página 246.
+
+- Caso o problema persistir, procure uma Concessionária Volkswagen.
+
+[ATENÇÃO]
+
+A inobservância das luzes de advertência acesas e das mensagens de texto pode causar a parada do veículo no trânsito, acidentes e ferimentos graves.
+
+- Nunca deixar de observar as luzes de advertência e as mensagens de texto.
+
+- Parar o veículo assim que possível em um local seguro a todos os passageiros do veículo e aos demais condutores.
+
+[NOTA]

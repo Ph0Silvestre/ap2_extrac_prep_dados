@@ -1,0 +1,36 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Dados técnicos
+SEÇÃO: Visão Geral - Dados técnicos (Parte 1/1)
+PÁGINAS MANUAL: 282 (PDF: 284)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO, NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Capacidade máxima de tração As capacidades de tração admissíveis indicadas são válidas apenas para altitudes até 1.000 m acima do nível do mar. No início de cada 1.000 m de altitude adicionais, a capacidade máxima de tração admissível deve ser reduzida em aproximadamente 10%.
+
+[ATENÇÃO]
+
+Não observar ou exceder os valores indicados para pesos, carga, dimensões e velocidade máxima podem ocasionar acidentes e ferimentos graves.
+
+[ATENÇÃO]
+
+Exceder o peso bruto admissível e as cargas sobre os eixos pode causar danos no veículo, acidentes e ferimentos graves.
+
+- As cargas reais sobre os eixos jamais devem exceder as cargas admissíveis sobre os eixos.
+
+- O carregamento e a distribuição da carga no veículo têm influência sobre o comportamento de direção e sobre o efeito de frenagem. Adequar a velocidade conforme necessidade.
+
+- O respeito aos limites máximos de peso e à carga admissivel sobre os eixos é essencial para a segurança do condutor, passageiros e demais condutores.
+
+[ATENÇÃO]
+
+Se a carga de reboque máxima indicada for ex-cedida, podem ocorrer acidentes graves e danos significativos ao veículo.
+
+- Nunca exceder a carga de reboque indicada.
+
+[NOTA]
+
+Distribuir a carga sempre de maneira uniforme e o mais fundo possível no veículo. Ao transportar objetos pesados no compartimento de bagagem, estes devem ser posicionados antes do eixo traseiro ou sobre ele para alterar o comportamento de direção o mínimo possível.

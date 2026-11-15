@@ -1,0 +1,42 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Operação do rádio (Parte 11/14)
+PÁGINAS MANUAL: 165-166 (PDF: 167-168)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Arquivos de áudio em uma unidade de armazenamento de dados externa, conectada à entrada USB , podem ser reproduzidos e controlados pelo aparelho.
+
+Como mídias externas de dados são designadas neste manual as memórias de dados USB, que contêm arquivos reproduzíveis como, por exemplo, MP3 player, iPods™ e pen drives.
+
+Somente são exibidos os arquivos de áudio suportados. Outros arquivos são ignorados.
+
+A reprodução começa automaticamente se houver arquivos de áudio salvos e legíveis na unidade de armazenamento de dados.
+
+O controle complementar da unidade de armazenamento de dados externa (acessar mudança de título, seleção de títulos e modos de reprodução) ocorre conforme descrito nos respectivos capítulos .
+
+Orientações e restrições O número de entradas USB e a compatibilidade com dispositivos Apple™, bem como com outros Media Players, depende do equipamento.
+
+Por meio da entrada USB , é disponibilizada uma tensão usual para USB de 5 V.
+
+Discos rígidos externos com uma capacidade superior a 32 GB devem ser reformatados para o sistema de arquivos FAT32, dependendo das condições. Programas e orientações para isso podem ser encontrados, por exemplo, na internet.
+
+Em razão do grande número de unidades de ar-mazenamento de dados diferentes e das diversas gerações de iPod™, iPad™ e iPhone™, não é possível garantir que todas as funções descritas possam ser executadas sem falhas.
+
+iPod™, iPad™ e iPhone™ Dependendo do país e do equipamento, iPods™, iPads™ ou iPhones™ podem ser conectados à entrada USB do veículo por meio do cabo USB adequado ao dispositivo, e utilizados como fontes de áudio.
+
+Separar conexão A unidade de armazenamento de dados conectada deve ser preparada para a remoção antes da separação da conexão.
+
+- No menu principal MEDIA, tocar na superfície de função , para abrir o menu Configurações de mídias.
+
+- OU: pressionar o botão no aparelho SETUP .
+
+- Tocar na superfície de função Remover c/segur. e depois em USB . A superfície de função é desativada depois que a unidade de armazenamento de dados for removida do sistema com sucesso.
+
+- A conexão da unidade de armazenamento de dados pode ser separada.
+
+Unidade de armazenamento de dados ilegível Se uma unidade de armazenamento de dados é conectada e os dados não podem ser lidos, é exibida uma observação correspondente no display do aparelho.

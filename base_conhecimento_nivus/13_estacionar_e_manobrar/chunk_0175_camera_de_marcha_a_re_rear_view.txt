@@ -1,0 +1,67 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Estacionar e manobrar
+SEÇÃO: Câmera de marcha a ré (Rear View) (Parte 1/1)
+PÁGINAS MANUAL: 135-136 (PDF: 137-138)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Introdução ao tema A câmera de marcha a ré na parte traseira do veículo facilita ao condutor a visão para trás e apoia a manobra ao estacionar.
+
+A câmera de marcha a ré mostra na tela do sistema do rádio a área atrás do veículo. Conforme o modo linhas de orientação apoiam a visão para trás.
+
+[ATENÇÃO]
+
+O uso das câmeras para a avaliação da distância de obstáculos (pessoas, veículos etc.) é impreciso e pode causar acidentes e ferimentos graves.
+
+- As lentes das câmeras ampliam e deformam o campo de visão e fazem com que objetos no display apareçam alterados ou imprecisos.
+
+Ligar e desligar
+
+Observe no início desse capítulo na página 135.
+
+Ligar a câmera de marcha a ré
+- Engatar a marcha a ré.
+
+- OU: no rádio tocar na superfície de seleção .
+
+Desligar a câmera de marcha a ré Conduzir à frente no mínimo a 15 km/h.
+
+Observe no início desse capítulo na página 135.
+
+No sistema do rádio é representada a imagem da câmera de marcha a ré.
+
+As funções e representações são dependentes da versão e podem divergir entre si.
+
+Configurações Com a câmera de marcha a ré ligada, podem ser realizadas configurações por meio das superfícies de função. Algumas configurações dependem da versão.
+
+Superfícies de função e símbolos da câmera de marcha a ré:
+
+Sair da representação atual.
+
+Regular a exibição: brilho, contraste, cor.
+
+Comutar para auxílio de estacionamento -> Página 133. Exibir o indicador do auxílio de estacionamento. Ocultar o indicador do auxílio de estacionamento.
+
+Ligar e desligar o som do auxílio de estacionamento.
+
+Linhas de orientação Linha vermelha: distância segura para trás.
+
+Linhas verdes laterais: prolongamento do veículo.
+
+Premissas
+
+Observe no início desse capítulo na página 135.
+
+Para reconhecer uma vaga de estacionamento, as seguintes premissas devem estar atendidas:
+
+- Não ultrapassar a velocidade de aproximadamente 15 km/h.
+
+- Largura da vaga de estacionamento: comprimento do veículo + 0,2 m.
+
+Para exibição de uma imagem sem falhas os seguintes pré-requisitos devem estar satisfeitos:
+
+- O veículo não se encontra carregado na parte traseira.

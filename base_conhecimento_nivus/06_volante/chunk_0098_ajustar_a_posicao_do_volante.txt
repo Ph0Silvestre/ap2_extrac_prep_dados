@@ -1,0 +1,26 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Volante
+SEÇÃO: Ajustar a posição do volante (Parte 1/1)
+PÁGINAS MANUAL: 78 (PDF: 80)
+FIGURAS REFERENCIADAS: Fig. 61, Fig. 62
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Fig. 61 Embaixo e a esquerda do volante junto com o revestimento da coluna de direção: alavanca de ajuste da posição do volante.
+
+Fig. 62 No volante: posição 9 e 3 horas.
+
+Ajustar a posição do volante antes da condução e somente com o veículo parado -> .
+
+- Empurrar a alavanca para baixo segurando-a pelo seu manípulo -> Fig. 61 1 .
+
+- Ajustar a distância correta entre o condutor e o volante -> Página 35 com ajuda do comando do banco do condutor -> Página 80.
+
+- Ajustar a posição do volante de forma que possa segurá-lo lateralmente pela borda externa nas posições de 9h e 3h -> Fig. 62 com ambas as mãos e os braços ligeiramente dobrados.
+
+- Empurrar a alavanca firmemente segurando-a pelo seu manípulo para cima até que a posição do volante seja travada -> .
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 61, Fig. 62 no manual original.]

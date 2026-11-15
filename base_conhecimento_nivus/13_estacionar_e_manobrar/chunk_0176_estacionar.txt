@@ -1,0 +1,60 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Estacionar e manobrar
+SEÇÃO: Estacionar (Parte 1/1)
+PÁGINAS MANUAL: 136-137 (PDF: 138-139)
+FIGURAS REFERENCIADAS: Fig. 103
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Observe no início desse capítulo na página 135.
+
+Fig. 103 Exibição do display do sistema do rádio: estacionar com a câmera de marcha a ré.
+
+Legenda para Fig. 103:
+
+Selecionar a vaga de estacionamento. Estacionar na vaga de estacionamento selecionada. Alinhar veículo dentro da vaga de estacionamento. Pista. Vaga de estacionamento. Limitação lateral da vaga de estacionamento. Limitação traseira da vaga de estacionamento.
+
+1 2 3 Entrar na vaga de estacionamento
+- Posicionar o veículo na frente da vaga de estacionamento -> Fig. 103 2 .
+
+- Engatar a marcha a ré.
+
+modo que as guias verdes laterais conduzam entre as linhas de delimitação da vaga de estacionamento delimitada 2 .
+
+- Alinhar o veículo na vaga de estacionamento selecionada de modo que as guias verdes laterais fiquem em cima das linhas de limitação lateral 3 .
+
+- Parar o veículo, quando a linha vermelha atingir a limitação traseira 4 .
+
+Soluções de problemas
+
+Observe no início desse capítulo na página 135.
+
+Sem imagem da câmera, aviso de falha, o sistema se desliga
+- Limpar a câmera ou remover adesivos ou acessórios da câmera -> Página 263.
+
+- Verificar a existência de danos.
+
+O sistema se comporta de forma diferente do esperado Diversas causas são possíveis:
+- A câmera está suja -> Página 263. Além de sujeira e neve, a imagem da câmera pode estar comprometida por resíduos ou camadas de produtos de limpeza.
+
+- Os pré-requisitos do sistema devem estar satisfeitos -> Página 136.
+
+- A câmera está coberta por água.
+
+- O veículo se encontra danificado na região da câmera, por exemplo por batidas de estacionamento.
+
+- As áreas de captação da câmera estão obstruídas por acessórios, por exemplo, sistemas de suporte para bicicletas.
+
+- Foram feitas modificações na pintura na região da câmera ou modificações construtivas, por exemplo, na frente ou no chassi.
+
+Solução para todos os casos
+- Desligar temporariamente o sistema.
+
+- Verificar se uma das causas enumeradas confere com o problema.
+
+- Caso o sistema ainda se comporte de forma inesperada, mandar verificar o sistema em uma Concessionária Volkswagen.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 103 no manual original.]

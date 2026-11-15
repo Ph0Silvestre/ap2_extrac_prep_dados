@@ -1,0 +1,14 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Conduzir
+SEÇÃO: Transmissão automática (Parte 7/7)
+PÁGINAS MANUAL: 117 (PDF: 119)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Se a mensagem de texto e o alerta sonoro se repetirem a cada 10 segundos, o veículo deverá ser parado imediatamente com segurança e o motor deverá ser desligado. Deixar a transmissão esfriar.
+
+- Para evitar danos à transmissão, prosseguir somente quando o alerta sonoro não soar mais. Enquanto a transmissão estiver superaquecida, os processos de partida ou a condução em velocidade de passo devem ser evitados.

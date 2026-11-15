@@ -1,0 +1,58 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Sistemas de assistência ao condutor
+SEÇÃO: Assistente de frenagem de emergência (Front Assist) (Parte 3/5)
+PÁGINAS MANUAL: 128-129 (PDF: 130-131)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Faixa de velocidades: entre cerca de 5 km/h e 250 km/h.
+
+Função de frenagem de emergência City A função de frenagem de emergência City é parte integrante do Front Assist. Se o condutor não reagir à colisão iminente, o sistema pode frear o veículo automaticamente com uma força de frenagem crescente sem advertência prévia.
+
+Assim, acende-se a luz de advertência vermelha .
+
+Alerta da distância O sistema detecta quando há uma ameaça à segurança devido à condução muito próxima. A luz de controle se acende. Aumentar a distância!
+
+Faixa de velocidades: de aproximadamente 65 km/h até 250 km/h.
+
+Limitações do Front Assist
+
+Observe no início desse capítulo na página 128.
+
+Imediatamente após a partida do veículo, o sistema de monitoramento periférico não está disponível ou está disponível apenas de modo limitado. Nesse período, a luz de controle permanece acesa no display do instrumento combinado.
+
+O Front Assist possui limites físicos e condicionados ao sistema. Portanto, estar sempre atento e, se necessário, interferir diretamente!
+
+Reação com atraso Se o sensor do radar for exposto às condições ambientais que prejudicam seu funcionamento, o sistema pode reconhecer isso com atraso. Assim, as limitações possíveis de funcionamento no início da condução e durante a condução poderão ser exibidas com atraso -> em Introdução ao tema na página 128.
+
+Objetos não detectáveis Nas seguintes situações, o Front Assist pode não reagir, reagir de modo indesejado ou reagir mais tarde:
+- Veículos que trafegam fora da área de alcance do sensor a curta distância do seu veículo, por exemplo, veículos que andam desalinhados
+
+- Veículos que mudem para a faixa onde você está com pouca distância do seu veículo.
+
+- Veículos com acessórios que sobressaiam do veículo.
+
+- Veículos vindos na direção oposta ou na transversal.
+
+Nas seguintes situações, o Front Assist também pode não reagir, reagir de modo indesejado ou reagir mais tarde:
+- Em condução em curvas fechadas.
+
+- Conduções sob chuva forte, neve ou neblina.
+
+- Conduções em estacionamentos.
+
+- Conduções em estradas com objetos metálicos incorporados na pista, por exemplo, trilhos de trens.
+
+- Conduzindo em marcha a ré.
+
+- Se o ASR tiver sido desligado manualmente.
+
+- Se o ESC estiver em funcionamento.
+
+- Se o sensor do radar estiver sujo ou coberto.
+
+- Se diversas lanternas de freio no veículo estiverem com defeito.

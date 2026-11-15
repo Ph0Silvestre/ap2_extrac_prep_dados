@@ -1,0 +1,45 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Autoajuda
+SEÇÃO: Fusíveis (Parte 3/5)
+PÁGINAS MANUAL: 215-216 (PDF: 217-218)
+FIGURAS REFERENCIADAS: Fig. 167, Fig. 168
+ALERTAS PRESENTES: NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Observe e no início desse capítulo na página 212.
+
+Fig. 167 No compartimento do motor: cobertura 1 da caixa de fusíveis com pinça de plástico 2 .
+
+Abrir a caixa de fusíveis no compartimento do motor
+- Abrir a tampa do compartimento do motor -> Página 223.
+
+- Pressionar as travas no sentido da seta -> Fig. 167 1 , para destravar a cobertura da caixa de fusíveis.
+
+- Remover a cobertura por cima.
+
+- Para a instalação, colocar a cobertura sobre a caixa de fusíveis e pressionar para baixo até que a cobertura trave de forma audível dos dois lados.
+
+No lado interno da cobertura da caixa de fusíveis no compartimento do motor pode haver uma pinça de plástico -> Fig. 167 2 para a retirada dos fusíveis.
+
+[NOTA]
+
+- Remover cuidadosamente as coberturas das caixas de fusíveis e reinstalar corretamente para evitar danos no veículo.
+
+- Caixas de fusíveis abertas devem ser protegidas contra a penetração de impurezas e umidade. Impurezas e umidade nas caixas de fusíveis podem causar danos ao sistema elétrico.
+
+Caixa de fusíveis no compartimento do motor
+
+Observe e no início desse capítulo na página 212.
+
+Fig. 168 No compartimento do motor: disposição dos fusíveis.
+
+Alguns fusíveis indicados podem ser específicos de determinadas versões.
+
+Abaixo são representadas as localizações com suas respectivas funções para os equipamentos que podem estar disponíveis para o seu veículo:
+
+Unidade de comando do motor Válvula de dosagem de combustível (motor TSI) / Bomba d'água (motor TSI) Sonda lambda pré catalisador / Sonda lambda pós catalisador Bomba de combustível Ventilador do radiador - eletrônica (motor TSI) / Válvula de controle de pressão do óleo (motor TSI) / Eixo do comando variável - admissão / Eixo de comando variável - exaustão (motor TSI) / Válvula do filtro de carvão ativado / Sensor de etanol (motor TSI) Bobinas de ignição F1 F2 F3 F4 F5 F6 Bomba de vácuo Válvulas injetoras de combustível Sensor do pedal de freio Unidade eletrônica de controle Livre Livre Livre Relé principal do sistema de injeção / Unidade de controle do motor / Unidade de comando ABS/ESC Unidade de comando da transmissão auto-mática Livre Partida assistida Partida assistida (motor de partida) Livre Unidade de comando ABS Unidade de comando ESC Unidade de comando ABS/ESC Livre Livre Livre Livre Ventilador do radiador (motor TSI) Livre Livre F7 F8 F9 F10 F11 F12 F13 F14 F15 F16 F17 F18 F19 F20 ou F21 F22 F23 F24 F25 F26 F27 F28 Caixa de fusíveis no compartimento do motor na bateria
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 167, Fig. 168 no manual original.]

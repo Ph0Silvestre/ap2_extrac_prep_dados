@@ -1,0 +1,28 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Estacionar e manobrar
+SEÇÃO: Sistemas de assistência à frenagem (Parte 2/5)
+PÁGINAS MANUAL: 138 (PDF: 140)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+- Ao soltar o pedal do freio ou ao reduzir a força sobre o pedal do freio, o ABS desliga-se.
+
+O funcionamento do ABS pode ser percebido por um movimento pulsante do pedal do freio, bem como por ruídos. Não se pode esperar que o ABS reduza a distância de frenagem em todas as condições. A distância de frenagem pode até aumentar sobre cascalho ou neve recente e sobre uma superfície congelada ou escorregadia.
+
+Distribuidor eletrônico da força de frenagem (EBV) Em todos os veículos, ao acionar o freio, o centro de gravidade do veículo se desloca para frente. Com isso existe o risco de bloqueio das rodas traseiras por causa da tração baixa. O distribuidor eletrônico da força de frenagem limita a força de frenagem para as rodas traseiras e garante uma divisão ótima da força de frenagem entre o eixo dianteiro e traseiro. O funcionamento do distribuidor eletrônico da força de frenagem faz parte das funções do ABS.
+
+Assistente de frenagem (BAS) O BAS pode auxiliar na redução do trajeto de frenagem. O BAS amplia a força de frenagem quando o condutor pisa rapidamente no pedal do freio em situações de frenagem de emergência.
+
+Não reduza a pressão sobre o pedal do freio quando o BAS atua. Ao reduzir a força sobre o pedal do freio o BAS desativa o amplificador da força de frenagem.
+
+Bloqueio eletrônico do diferencial (EDS e XDS) O EDS freia uma roda que está escorregando e transmite a força de propulsão para a outra roda de tração.
+
+O EDS se desliga automaticamente sob solicitação extraordinariamente forte para que o freio a disco não sobreaqueça. O EDS é ativado automaticamente de novo assim que o freio tiver esfriado.
+
+A função XDS é uma extensão do bloqueio eletrônico do diferencial. O XDS não reage ao escorregamento (patinagem) das rodas, mas sim ao alívio da roda dianteira do lado interno da curva durante condução em curvas rápidas. O XDS exerce pressão sobre o freio da roda do lado interno da curva, para impedir uma derrapagem. Deste modo é melhorada a tração. Isto ajuda o veículo a seguir na faixa desejada.
+
+Sistema de frenagem automática pós-colisão No caso de um acidente, o sistema de frenagem automática pós-colisão pode auxiliar o condutor a reduzir o risco de derrapagem e o risco de outras colisões durante o acidente por meio de uma frenagem iniciada automaticamente.

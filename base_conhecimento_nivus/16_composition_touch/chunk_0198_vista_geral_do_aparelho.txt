@@ -1,0 +1,18 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Vista geral do aparelho (Parte 2/2)
+PÁGINAS MANUAL: 150 (PDF: 152)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+RADIO : ligar ao modo rádio e mudar ali a banda de frequência.
+
+MEDIA : mudar para o modo média e selecionar ali a fonte de mídia.
+
+APP : acessar à interface com App-Conect.
+
+SETUP : pressionar para mostrar funções adicionais relativas à área de função atual (rádio, média etc.).

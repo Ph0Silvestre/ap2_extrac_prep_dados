@@ -1,0 +1,30 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Segurança
+SEÇÃO: Sistema de airbag (Parte 5/11)
+PÁGINAS MANUAL: 47 (PDF: 49)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Os fatores mais importantes para o acionamento do airbag são o tipo do acidente, região de impacto no veículo, o ângulo, a intensidade do impacto, a estrutura do veículo e a característica do obstáculo com o qual o veículo colide. Portanto, os airbags não são acionados em todas as situações de colisão.
+
+O acionamento do sistema de airbag depende da intensidade de impacto que é registrada por uma unidade de controle eletrônica. Se as características do acidente não se enquadrarem nos parâmetros programados na unidade de controle, os airbags não serão acionados. O dano no veículo, os custos de reparo não são necessariamente um indicativo de que o acionamento do airbag tenha sido necessário. Os fatores importantes para o acionamento dos airbags são, entre outros, a constituição do objeto (rígido ou macio) com o qual o veículo se choca, o ângulo, a intensidade do impacto e a região de choque do veículo.
+
+Os airbags servem somente como suplemento aos cintos de segurança em algumas situações de acidente em que a intensidade seja suficientemente alta para acionar os airbags. Os airbags são acionados somente uma vez e sob determinadas condições. Os cintos de segurança estão sempre prontos para proporcionar proteção em situações nas quais os airbags não sejam acionados ou se já tiverem sido acionados. Por exemplo, se o veículo colidir com outro veículo ou se ele for atingido por outro veículo após a primeira colisão.
+
+O sistema de airbag é parte do conceito global de segurança passiva do veículo. A proteção possível do sistema de airbag só pode ser obtida pela ação conjunta com os cintos de segurança corretamente colocados e uma posição correta do banco -> Página 34.
+
+Componentes do conceito de segurança do veículo O conjunto dos seguintes equipamentos de segurança forma o conceito de segurança do veículo para reduzir o risco de ferimentos graves e fatais. Dependendo da versão do veículo, é possível que alguns equipamentos não estejam instalados no veículo ou até que não estejam disponíveis em alguns mercados.
+
+- Cintos de segurança otimizados em todos os assentos.
+
+- Pré-tensionadores do cinto de segurança do condutor e do passageiro dianteiro.
+
+- Limitador de força do cinto de segurança do condutor e do passageiro dianteiro.
+
+- Regulagem de altura do cinto de segurança para os bancos dianteiros.
+
+- Luz de advertência do cinto de segurança .

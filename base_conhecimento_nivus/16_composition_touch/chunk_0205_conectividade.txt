@@ -1,0 +1,37 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Composition Touch (R 340G)
+SEÇÃO: Conectividade (Parte 4/4)
+PÁGINAS MANUAL: 155-156 (PDF: 157-158)
+FIGURAS REFERENCIADAS: Fig. 119, Fig. 120
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Pressionar, no volante multifunções ou no telefone móvel, VOICE ou por alguns segundos para iniciar o comando de voz do aparelho final conectado.
+
+Informações sobre as premissas técnicas, os aparelhos finais compatíveis, os aplicativos aplicáveis e a disponibilidade estão disponíveis através do www.vw.com.br/conectividade ou nas Concessionárias Volkswagen.
+
+- Ou ainda para mais informações consultar o manual de instruções do aparelho móvel utilizado.
+
+Fig. 119 Superfícies de função na vista geral dos aplicativos compatíveis.
+
+Fig. 120 Outras superfícies de função Mirror Link™.
+
+Premissas MirrorLink™ Lista de controle Para utilizar o MirrorLink™, precisam ser atendidas as seguintes premissas: O aparelho móvel precisa suportar MirrorLink™. O aparelho móvel precisa ser conectado ao aparelho com um cabo USB. Dependendo do aparelho móvel utilizado, precisa ser instalado um aplicativo adequado para utilizar o MirrorLink™ no aparelho.
+
+Estabelecer conexão
+- As premissas para utilização do MirrorLink™ precisam ser atendidas -> Página 156.
+
+- Pressionar o botão PHONE .
+
+- Tocar na superfície de função .
+
+- Selecione o seu aparelho conectado pressionado sobre o ícone correspondente.
+
+Superfícies de função / exibição: efeito / significado Informações sobre as premissas técnicas, os aparelhos finais compatíveis, os aplicativos aplicáveis e a disponibilidade estão disponíveis através do www.vw.com.br/conectividade ou nas Concessionárias Volkswagen.
+
+- Ou ainda para mais informações consultar o manual de instruções do aparelho móvel utilizado.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 119, Fig. 120 no manual original.]

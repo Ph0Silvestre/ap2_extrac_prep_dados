@@ -1,0 +1,29 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Combustível
+SEÇÃO: Orientações de segurança para o manuseio de combustível (Parte 2/2)
+PÁGINAS MANUAL: 200 (PDF: 202)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: NOTA
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Por motivos de segurança, a Volkswagen recomenda não carregar um recipiente para reserva de combustível no veículo. Sobretudo em caso de acidente, o recipiente cheio ou vazio pode derramar combustível e se inflamar. Isso pode causar explosões, incêndios e ferimentos.
+
+- Em casos excepcionais, quando for necessário transportar combustível em um recipiente para reserva, atentar para o seguinte:
+- Ao encher o recipiente para reserva, nunca colocar o recipiente dentro ou sobre o veículo, por exemplo, no compartimento de bagagem. Pode ocorrer uma descarga eletrostática durante o enchimento e inflamar os vapores do combustível.
+- Colocar o recipiente para reserva sempre sobre o chão.
+- Introduzir o bico da bomba o máximo possível no gargalo do recipiente para reserva.
+- Em caso de recipientes para reserva de metal, sempre manter o bico da bomba em contato com o recipiente para evitar uma carga estática.
+- Observar as determinações legais ao utilizar, acomodar e transportar um recipiente para reserva.
+
+[NOTA]
+
+- Remover imediatamente o combustível derramado de todas as peças do veículo para evitar danos à caixa da roda, pneus e pintura.
+
+- Nunca conduzir até esvaziar o tanque de combustível. O abastecimento de combustível irregular pode causar falhas de ignição e acúmulo de combustível não queimado no sistema de escape. Isso pode danificar o filtro do catalisador.
+
+- Assim que a pistola de abastecimento de combustível desligar automaticamente pela primeira vez, o tanque está no limite de sua capacidade. Não se deve forçar o abastecimento, porque o combustível pode transbordar.
+
+- Durante o abastecimento, combustíveis podem ser derramados no solo e poluir o meio ambiente. Para que isso não ocorra é necessário realizar o abastecimento em postos autorizados, que possuem um correto sistema de coleta e descarte de fluidos.

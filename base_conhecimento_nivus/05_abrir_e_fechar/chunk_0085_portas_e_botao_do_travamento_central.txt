@@ -1,0 +1,54 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Abrir e fechar
+SEÇÃO: Portas e botão do travamento central (Parte 1/5)
+PÁGINAS MANUAL: 68-69 (PDF: 70-71)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Introdução ao tema As portas e a tampa traseira podem ser travadas e parcialmente destravadas manualmente, por exemplo, em caso de falha da chave do veículo ou do travamento central.
+
+O travamento central trava todas as portas e a tampa traseira do veículo. Com a porta do condutor aberta, o veículo não pode ser travado.
+
+O veículo somente pode ser trancado se a ignição tiver sido desligada ou se o condutor sair do veículo com o motor desligado.
+
+Uma representação simbólica -> Página 15 no display do instrumento combinado indica que uma ou diversas portas não estão fechadas corretamente. Não prosseguir! Abrir a respectiva porta do veículo e fechá-la novamente.
+
+A representação também é visível com a ignição desligada. O indicador se apaga alguns minutos depois que o veículo for trancado com as portas fechadas.
+
+[ATENÇÃO]
+
+Uma porta fechada incorretamente pode se abrir subitamente durante a condução e causar ferimentos graves.
+
+- Parar imediatamente e fechar a porta.
+
+- Ao fechar a porta, atentar para que ela se encaixe de forma segura e completa.
+
+- Abrir ou fechar as portas somente quando não houver nada ou ninguém em seu raio de abertura.
+
+[ATENÇÃO]
+
+Uma porta mantida aberta pelo dispositivo de retenção da porta pode se fechar em condições de vento forte e em aclives, causando ferimentos.
+
+[ATENÇÃO]
+
+A área de funcionamento das portas é perigosa e pode causar ferimentos.
+
+- Abrir ou fechar as portas somente quando não houver ninguém em sua área funcional.
+
+[ATENÇÃO]
+
+Um fechamento ou abertura de emergência das portas sem a devida atenção pode causar ferimentos graves.
+
+- Em um veículo travado por fora, não é possível abrir as portas e os vidros elétricos por dentro.
+
+- Nunca deixar crianças, animais ou pessoas com necessidade especiais sozinhas no veículo. Em caso de emergência, elas não estariam em condições de deixar o veículo sozinhas ou de cuidarem de si mesmas.
+
+- Em um veículo fechado, conforme a estação do ano, podem ocorrer temperaturas muito altas ou muito baixas que podem ocasionar ferimentos graves e enfermidades, principalmente em crianças pequenas, ou ocasionar a morte.
+
+[ATENÇÃO]
+
+Uma utilização incorreta do travamento central pode causar ferimentos graves.

@@ -1,0 +1,50 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Conduzir
+SEÇÃO: Orientações para condução (Parte 12/16)
+PÁGINAS MANUAL: 109-110 (PDF: 111-112)
+FIGURAS REFERENCIADAS: Fig. 87
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Sempre desligar a ignição antes de sair do veículo.
+
+Em veículos com transmissão automática, se não for possível tirar a chave do veículo do cilindro da ignição com o veículo parado, engatar a posição da alavanca seletora P. Se necessário, pressionar e soltar o botão bloqueador da alavanca seletora.
+
+Botão de partida
+
+Fig. 87 Na parte inferior do console central: botão de partida para ligar o motor.
+
+O botão de partida substitui o cilindro da ignição (Press & Drive).
+
+Dependendo da versão do veículo, o botão de partida pode não estar disponível.
+
+É dada partida ao veículo com o botão de partida (Press & Drive).
+
+O veículo somente pode ser ativado se houver uma chave do veículo válida dentro do veículo.
+
+Ligar ou desligar a ignição Pressionar uma vez o botão de partida, sem pisar no pedal do freio -> .
+
+Desligamento automático da ignição Se o condutor se afastar do veículo com a chave do veículo com a ignição ligada, a ignição vai se desligar automaticamente depois de algum tempo. Se o farol baixo for ligado neste período, a luz de posição permanece ligada por aproximadamente 30 minutos. A luz de posição pode ser desligada com o travamento do veículo -> Página 68 ou manualmente -> Página 85.
+
+Após o veículo reconhecer que o condutor está ausente com o desligamento automático do motor ativo, a ignição é automaticamente desligada após o decorrer de um determinado tempo.
+
+Função de nova partida do motor Se uma chave do veículo válida não for reconhecida no interior do veículo após se desligar o motor, é possível ligar o motor novamente em aproximadamente cinco segundos. Uma mensagem correspondente será exibida no display do instrumento combinado.
+
+Decorrido este tempo, não é mais possível ligar o motor sem uma chave do veículo válida no interior do veículo.
+
+[ATENÇÃO]
+
+Movimentos sem supervisão do veículo podem causar ferimentos graves.
+
+- Para ligar a ignição, não pisar no pedal do freio, já que do contrário o motor será ligado imediatamente.
+
+[ATENÇÃO]
+
+Uma utilização desatenta ou sem supervisão das chaves do veículo pode causar acidentes e ferimentos graves.
+
+- Levar sempre todas as chaves do veículo ao deixar o veículo. Crianças ou pessoas não autorizadas podem travar o veículo, ligar o motor ou ligar a ignição e, com isso, acionar os equipamentos elétricos, como, por exemplo, os vidros elétricos.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 87 no manual original.]

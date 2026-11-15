@@ -1,0 +1,41 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Rodas e pneus
+SEÇÃO: Informações importantes sobre rodas e pneus (Parte 14/14)
+PÁGINAS MANUAL: 252-253 (PDF: 254-255)
+FIGURAS REFERENCIADAS: Fig. 189
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Sim
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+máximo 150 km/h máximo 160 km/h máximo 170 km/h máximo 180 km/h máximo 190 km/h máximo 200 km/h máximo 210 km/h máximo 240 km/h máximo 270 km/h máximo 300 km/h P Q R S T U H V W Y
+
+| -> Fig. 189 | Inscrição dos pneus (exemplo) | Significado |
+| --- | --- | --- |
+| 16 | E4 e4 0200477-b | Identificação segundo prescrições internacionais com número do país emissor da aprovação. Pneus aprovados conforme o regulamento ECE são identificados com E, pneus conforme o regulamento EG com e. Em seguida, segue o |
+| | | número de autorização multidígito. |
+| 17 | RADIAL TUBELESS | Pneu radial sem câmara. |
+| | P 195 / 65 R 15 XL | Descrição do tamanho: |
+| | | P Identificação para veículos de passeio. |
+| | | 195 Largura do pneu de lado a lado em mm. |
+| 18 | | 65 Proporção altura/largura em %. |
+| | | R Código do tipo de construção radial. |
+| | | 15 Diâmetro da roda em polegadas. |
+| | | XL Pneu com constituição mais robusta (“Reinforced”). |
+| 19 | CARGA MÁXIMA 615 KG (1235 LBS) | Especificação para a capacidade máxima de carga por roda nos EUA. |
+| | SIDEWALL 1 PLY RAYON | Indicações dos componentes da estrutura inferior do pneu: |
+| | | 1 camada Rayon (seda sintética). |
+| 20 | TREAD 4 PLIES | Indicações dos componentes da banda de rodagem: |
+| | 1 RAYON + 2 STEEL + | No exemplo, existem 4 camadas sob a banda de rodagem: |
+| | 1 NYLON | 1 camada de Rayon (seda sintética), 2 camadas de cinta de aço e 1 camada de nylon. |
+
+| 90 | 600 kg |
+| --- | --- |
+| 91 | 615 kg |
+| 93 | 650 kg |
+| 95 97 99 100 | 690 kg 730 kg 775 kg 800 kg |
+
+Alguns fabricantes de pneus utilizam uma combinação de letras “ZR” para pneus com velocidade máxima permitida superior a 240 km/h.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 189 no manual original.]

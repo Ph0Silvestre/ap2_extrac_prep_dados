@@ -1,0 +1,14 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Abrir e fechar
+SEÇÃO: Sistema de travamento e de partida sem chave “Keyless Access” (Parte 3/3)
+PÁGINAS MANUAL: 68 (PDF: 70)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Se, no display do instrumento combinado, for exibida a mensagem Keyless com defeito, podem ocorrer falhas de funcionamento no Keyless Access. Procurar uma Concessionária Volkswagen.
+
+Se nenhuma chave do veículo válida se encontrar no interior do veículo, ou se esta não for reconhecida, uma mensagem correspondente será exibida no display do instrumento combinado. Este pode ser o caso se a chave do veículo for perturbada por outro sinal de rádio ou se for coberta por um objeto, por exemplo, por um acessório para dispositivos móveis ou uma mala de alumínio -> Página 108.

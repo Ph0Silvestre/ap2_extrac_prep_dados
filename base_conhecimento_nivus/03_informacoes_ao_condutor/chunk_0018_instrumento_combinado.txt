@@ -1,0 +1,50 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Informações ao condutor
+SEÇÃO: Instrumento combinado (Parte 2/13)
+PÁGINAS MANUAL: 18-19 (PDF: 20-21)
+FIGURAS REFERENCIADAS: Fig. 10, Fig. 11
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Indicador de temperatura do líquido de arrefecimento do motor (depende da versão do veículo) -> Página 21.
+
+Dependendo da versão do veículo, o indicador do nível de combustível pode estar localizado no visor do display -> Fig. 10 3 .
+
+Dependendo da versão do veículo, o indicador de temperatura do líquido de arrefecimento do motor pode estar localizado no visor do display -> Fig. 10 3 .
+
+Explicações sobre os instrumentos -> Fig. 11:
+
+Indicador de temperatura do líquido de arrefecimento do motor -> Página 21.
+
+Tacômetro (conta-giros) (rotações x 1.000 por minuto do motor em funcionamento) -> Página 19.
+
+Indicador dos perfis de informação. O conteúdo indicado varia conforme o perfil de informação selecionado.
+
+Indicadores do display -> Página 21.
+
+Velocímetro (medidor de velocidade).
+
+Indicador do nível de combustível -> Página 20.
+
+8 Dependendo do perfil de informação selecionado, o Active Info Display mostra informações adicionais no centro de instrumentos -> Fig. 11 3 . Os seguintes perfis de informação podem ser selecionados:
+
+Marcha atualmente engatada ou posição da alavanca seletora -> Página 112.
+
+Perfis de informação Podem ser selecionados diferentes perfis de informação específicos de temas, por meio do botão no sistema do rádio, na superfície de função seleção , selecionar Active Info Display .
+
+Dependendo do perfil de informação selecionado, o Active Info Display mostra informações adicionais no centro de instrumentos redondos -> Fig. 11 3 . Os seguintes perfis de informação podem ser selecionados:
+
+- Classic: sem indicadores adicionais.
+
+- Consumo & Autonomia: indicador digital do consumo médio e indicador gráfico do consumo momentâneo no tacômetro. Indicador digital da autonomia no velocímetro.
+
+- Eficiência: indicador digital do consumo médio e indicador gráfico do consumo momentâneo no tacômetro.
+
+- Navegação: na condução ao destino ativa, indicação da distância restante até o destino e horário de chegada no tacômetro e navegação de seta no velocímetro. Na condução ao destino inativa, indicador de altura no tacômetro e indicador de bússola no velocímetro.
+
+- Assistência ao condutor: representação gráfica de diferentes sistemas de assistência ao condutor ou indicador digital do tempo de viagem no tacômetro. Navegação por seta ou indicador da bússola no velocímetro.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 10, Fig. 11 no manual original.]

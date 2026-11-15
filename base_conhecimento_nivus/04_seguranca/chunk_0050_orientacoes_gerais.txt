@@ -1,0 +1,30 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Segurança
+SEÇÃO: Orientações gerais (Parte 17/18)
+PÁGINAS MANUAL: 43 (PDF: 45)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Pré-tensionadores dos cintos de segurança Os cintos de segurança dos assentos dianteiros estão equipados com pré-tensionadores e limitadores de força. Os cintos de segurança traseiros não possuem estes dispositivos.
+
+Os pré-tensionadores do cinto de segurança são acionados por sensores e tensionam os cintos de segurança na direção contrária de extração em colisões frontais e traseiras mais graves. As folgas do cinto de segurança são eliminadas quando o pré-tensionador atua e, deste modo, pode reduzir o movimento para frente dos ocupantes do veículo ou o movimento dos ocupantes do veículo na direção do impacto. O pré-tensionador do cinto de segurança trabalha junto com o sistema de airbag. O pré-tensionador do cinto de segurança não é acionado em colisões frontais leves, capotamento e outros acidentes em que não são produzidas forças consideráveis.
+
+Um pó fino poderá ser gerado no acionamento. Isto é perfeitamente normal e não representa risco de incêndio no veículo.
+
+Limitador de força do cinto de segurança Os cintos de segurança dianteiros estão equipados com limitadores de força.
+
+Um limitador de força do cinto de segurança minimiza a força do cinto de segurança que atua sobre o corpo em caso de acidente.
+
+No sucateamento do veículo ou de peças individuais do sistema, todas as prescrições de segurança devem ser observadas. Estas prescrições são de conhecimento das Concessionárias Volkswagen.
+
+Serviço de descarte do pré-tensionador do cinto de segurança
+
+Observe no início desse capítulo na página 36.
+
+Em trabalhos no pré-tensionador do cinto de segurança, bem como na desinstalação e instalação de outras peças do veículo durante reparos, o cinto de segurança pode ser danificado imperceptivelmente. Como consequência, os pré-tensionadores dos cintos de segurança podem não funcionar corretamente em caso de acidente ou sequer funcionar.
+
+Para que a eficácia dos pré-tensionadores dos cintos de segurança não seja prejudicada e as peças desmontadas não causem ferimentos ou contaminem o ambiente, as prescrições devem ser observadas. As Concessionárias Volkswagen conhecem essas prescrições.

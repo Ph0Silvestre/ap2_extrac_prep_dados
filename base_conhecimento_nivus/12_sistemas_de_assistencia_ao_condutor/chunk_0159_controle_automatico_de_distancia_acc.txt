@@ -1,0 +1,53 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Sistemas de assistência ao condutor
+SEÇÃO: Controle automático de distância (ACC) (Parte 2/5)
+PÁGINAS MANUAL: 123-124 (PDF: 125-126)
+FIGURAS REFERENCIADAS: Fig. 95, Fig. 96, Fig. 97
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+- Frear imediatamente assim que uma solicitação de freio for exibida no display do instrumento combinado.
+
+- Frear, caso o veículo continuar rodando involuntariamente após uma solicitação de freio.
+
+- Estar sempre pronto para regular a velocidade você mesmo.
+
+Observe no início desse capítulo na página 123.
+
+Fig. 95 No display do instrumento combinado: veículo mais lento detectado na faixa esquerda (representação esquemática).
+
+Ultrapassar Ao ligar os indicadores de direção à esquerda (trânsito à esquerda: ligar os indicadores de direção à direita) para realizar uma ultrapassagem, o ACC acelera o veículo e diminui a distância para o veículo à frente. A velocidade ajustada não é ultrapassada com isso.
+
+Se o ACC não detectar nenhum veículo dirigindo à frente após a mudança de faixa, o sistema acelera o veículo até a velocidade ajustada.
+
+Trânsito intenso O sistema opera entre 30 - 210 km/h quando ativado pelo condutor em uma velocidade mínima de 25 km/h. O veículo desacelera abaixo de 20 km/h e então o sistema é suspenso, dessa forma o sistema não opera partindo de 0 km/h em um trânsito intenso por exemplo. É possível o condutor reativar após atingir as condições necessárias.
+
+Evitar ultrapassagens pela direita (ou pela esquerda em caso de condução pela esquerda) Quando o ACC detecta um veículo que anda mais lentamente que o seu pela pista esquerda (ou pela faixa direta em caso de condução pela esquerda), o ACC freia suavemente, dentro dos limites do sistema, e evita assim uma ultrapassagem proibida -> Fig. 95. Esta função é ativada a partir de uma velocidade de cerca de 80 km/h.
+
+- Controlar, para cada procedimento de arranque, o percurso e frear o veículo, se necessário.
+
+Limitações do ACC
+
+Observe no início desse capítulo na página 123.
+
+Fig. 96 Condução em curva. Veículos fora da área de alcance do sensor do radar
+
+Fig. 97 Mudança de faixa. Veículo virando ou parado.
+
+Não utilizar o ACC nos seguintes casos Dependendo do sistema, o ACC não é adequado nas seguintes situações de condução. Interromper a regulagem -> Página 122:
+- Conduções sob chuva forte, neve ou neblina de água intensa.
+
+- Conduções por túneis.
+
+- Conduções em locais de obras.
+
+- Conduções em estacionamentos.
+
+- Conduções em estradas com objetos metálicos incorporados na pista, por exemplo, trilhos de trens.
+
+- Conduções em estradas com cascalho.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 95, Fig. 96, Fig. 97 no manual original.]

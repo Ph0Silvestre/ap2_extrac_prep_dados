@@ -1,0 +1,48 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Autoajuda
+SEÇÃO: Palhetas dos limpadores dos vidros (Parte 1/3)
+PÁGINAS MANUAL: 206-207 (PDF: 208-209)
+FIGURAS REFERENCIADAS: Fig. 158, Fig. 159, Fig. 160
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Posição de serviço
+
+Fig. 158 Limpadores do para-brisa na posição de serviço.
+
+Na posição de serviço, os braços dos limpadores do para-brisa podem ser erguidos do para-brisa. Para colocar os limpadores do para-brisa na posição de serviço -> Fig. 158, proceder conforme segue:
+
+Ativar a posição de serviço
+- A tampa do compartimento do motor precisa estar fechada -> Página 223.
+
+- Ligar e desligar a ignição.
+
+- Pressionar a alavanca dos limpadores dos vidros brevemente para baixo.
+
+Suspender os braços dos limpadores do para-brisa
+- Antes de suspender os braços dos limpadores do para-brisa, colocá-los na posição de serviço -> .
+
+- Para suspender um braço dos limpadores do para-brisa, segurá-lo somente pela área de fixação da palheta dos limpadores do para-brisa.
+
+Posicionar os braços dos limpadores do para-brisa novamente sobre o para-brisa antes do início da condução! Pressionar a alavanca dos limpadores do para-brisa brevemente para baixo, com a ignição ligada, para retornar os braços dos limpa-dores do para-brisa à posição inicial.
+
+- Para evitar danos à tampa do compartimento do motor e aos braços dos limpadores do para-brisa, suspender os braços dos limpadores do para-brisa somente na posição de serviço.
+
+- Antes do início da condução, baixar sempre os braços dos limpadores do para-brisa sobre o para-brisa.
+
+Limpar e substituir as palhetas dos limpadores dos vidros
+
+Fig. 159 Substituir as palhetas dos limpadores do para-brisa.
+
+Fig. 160 Substituir a palheta do limpador do vidro traseiro.
+
+O veículo é equipado de fábrica com palhetas dos limpadores dos vidros revestidas com uma camada de grafite. A camada de grafite faz com que as palhetas dos limpadores dos vidros deslizem silenciosamente sobre o vidro. Uma camada de grafite danificada pode, entre outros, elevar o nível de ruído durante a limpeza dos vidros.
+
+Verificar regularmente a condição das palhetas dos limpadores dos vidros. Substituir as palhetas dos limpadores dos vidros quando estas apresentarem perda de desempenho ou, limpá-las se estiverem sujas -> .
+
+Palhetas dos limpadores dos vidros danificadas devem ser substituídas imediatamente. As palhetas dos limpadores dos vidros podem ser adquiridas em uma Concessionária Volkswagen ou em uma empresa especializada.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 158, Fig. 159, Fig. 160 no manual original.]

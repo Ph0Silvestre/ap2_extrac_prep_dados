@@ -1,0 +1,43 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Verificação e reabastecimento
+SEÇÃO: Fluido de freio (Parte 7/8)
+PÁGINAS MANUAL: 238 (PDF: 240)
+FIGURAS REFERENCIADAS: Nenhuma
+ALERTAS PRESENTES: ATENÇÃO
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Não
+================================================================================
+
+Se a bateria do veículo tiver ficado desconectada por longos períodos, o próximo serviço que ocorrer pode não ser mostrado ou calculado corretamente -> Página 17. Observar os intervalos máximos de manutenção permitidos no -> Página 258.
+
+Veículos com Keyless Access: se, após a conexão da bateria do veículo a ignição não puder ser ligada, destravar e travar o veículo de fora. Em seguida, tentar ligar a ignição novamente. Caso ainda não consiga ligar a ignição, procurar uma Concessionária Volkswagen.
+
+Desligamento automático dos consumidores Por meio de um gerenciamento inteligente da rede elétrica, em caso de grande exigência da bateria do veículo, diferentes medidas são tomadas para evitar a descarga da bateria do veículo:
+
+- Se necessário, limita-se o desempenho de alguns consumidores de energia ou os desliga totalmente, em caso de emergência.
+
+- Ao ligar o motor, a alimentação de tensão da tomada 12 V e do acendedor de cigarro pode ser temporariamente interrompida.
+
+Não é sempre que o gerenciamento da rede elétrica pode evitar que a bateria do veículo seja descarregada. Isso pode ocorrer se a ignição permanecer ligada com o motor desligado por longos períodos ou se a luz de posição ficar acesa por muito tempo com o veículo estacionado.
+
+Por que motivo a bateria do veículo se descarrega?
+- Longos períodos sem ligar o motor, principalmente com a ignição ligada.
+
+- Uso de consumidores elétricos com o motor parado.
+
+[ATENÇÃO]
+
+O uso de baterias do veículo incorretas ou a sua fixação inadequada podem causar curto-circuitos, incêndios e ferimentos graves.
+
+- Utilizar somente baterias no veículo sem necessidade de manutenção e protegidas contra vazamentos que possuam as mesmas características, especificações e dimensões da bateria do veículo instalada de fábrica.
+
+- Assegurar-se que não haja pessoas no interior do veículo durante a substituição da bateria. Em caso de uma pane elétrica, os airbags podem ser acionados acidentalmente e provocar ferimentos graves ou até fatais nos ocupantes do veículo.
+
+[ATENÇÃO]
+
+Ao carregar a bateria do veículo é produzida uma mistura de gases altamente explosiva.
+
+- Carregar a bateria do veículo somente em recintos bem ventilados.
+
+- Nunca carregar uma bateria do veículo congelada ou que tenha sido descongelada. Uma bateria do veículo descarregada pode congelar em temperaturas em torno de 0 °C.

@@ -1,0 +1,48 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: Conduzir
+SEÇÃO: Orientações para condução (Parte 2/16)
+PÁGINAS MANUAL: 102-103 (PDF: 104-105)
+FIGURAS REFERENCIADAS: Fig. 85
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Os textos de advertência podem variar, dependendo da versão do instrumento combinado.
+
+A exibição da recomendação de marcha apaga ao sair da posição Tiptronic.
+
+Estilo de condução econômico
+
+Fig. 85 Consumo de combustível em l/100 km em 2 temperaturas ambiente diferentes.
+
+Com a forma de condução correta é possível reduzir o consumo de combustível, os danos ao meio ambiente e o desgaste do motor, dos freios e dos pneus. A seguir encontram-se algumas dicas para poupar o meio ambiente e economizar.
+
+O consumo de combustível, o nível de emissões de poluentes no meio ambiente e o desgaste do motor, dos freios e dos pneus dependem basicamente de 3 fatores:
+
+- Estilo de condução pessoal.
+
+- Condições de utilização (condições atmosféricas, característica da pista de rodagem).
+
+- Condições técnicas.
+
+O consumo de combustível pode ser facilmente reduzido de 10 a 15% por meio de uma forma de condução preventiva e econômica.
+
+Um veículo consome mais combustível na aceleração. Na condução preventiva, são necessárias menos frenagens e, consequentemente, menos acelerações. Deixar o veículo rodar livremente quando se perceber, por exemplo, que o semáforo seguinte está vermelho.
+
+Trocar a marcha mais rapidamente Basicamente vale: a marcha mais alta é sempre a mais econômica. Como regra básica, é válido na maioria dos veículos: a uma velocidade de 30 km/h, conduzir na 3ª marcha, a 40 km/h na 4ª marcha e a 50 km/h já na 5ª marcha.
+
+Além disso, o “salto” de marchas economiza combustível no aumento da marcha quando as condições do trânsito e da condução permitirem.
+
+Não esgotar as marchas. Utilizar a 1ª marcha somente para arrancar e trocar em seguida para a 2ª marcha.
+
+Os veículos com indicador de marcha apoiam uma condução econômica de combustível pela indicação do momento ideal para a mudança de marcha.
+
+Deixar rodar Quando o pé é retirado do pedal do acelerador, a alimentação de combustível do motor é interrompida e o consumo é baixado.
+
+Em situações nas quais se deve esperar um tempo maior de parada, desligar o motor, por exemplo, em uma passagem de nível.
+
+Conduzir preventivamente e “acompanhar” o trânsito Frenagens e acelerações frequentes aumentam o consumo de combustível. Uma condução preventiva com uma distância suficiente do veículo à frente pode ser compensada somente pela desaceleração das variações de velocidade. Uma frenagem ativa e uma aceleração não são, então, obrigatoriamente necessárias.
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 85 no manual original.]

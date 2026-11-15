@@ -1,0 +1,36 @@
+================================================================================
+DOCUMENTO: Manual de Instruções - Volkswagen Nivus (Código: 21B.5B1.NIV.66)
+CAPÍTULO: VW Play
+SEÇÃO: Operação do rádio (Parte 1/1)
+PÁGINAS MANUAL: 180-181 (PDF: 182-183)
+FIGURAS REFERENCIADAS: Fig. 140
+ALERTAS PRESENTES: Nenhum
+CONTÉM TABELA: Não
+DEPENDÊNCIA VISUAL: Sim
+================================================================================
+
+Fig. 140 Menu principal: Rádio.
+
+Abrir o menu principal Pressionar o botão de mídia e selecionar o botão Rádio . Pressionar a seta .
+
+Sintonizar uma estação Selecione uma faixa de frequência FM/AM .
+
+Para selecionar uma estação, pressionar os botões de seta < / > para trocar entre as estações disponíveis. Ou pressionar o botão e selecionar na escala de frequência a estação de preferência.
+
+É possível digitar o número da estação desejada, pressionar o botão , digitar o número da estação e pressionar o botão IR .
+
+Memorizar uma estação A estação de rádio momentaneamente sintonizada é apresentada no centro do display.
+
+Para memorizar uma estação, sintonizar a emissora e pressionar o botão + . A estação memorizada irá aparecer em uma posição na parte interior do display, para acessá-las pressionar brevemente o botão.
+
+É possível memorizar 6 estações.
+
+Substituir uma estação de rádio salva Para substituir uma estação de rádio salva, sintonizar a emissora e pressionar brevemente a posição que deseja armazenar a nova estação.
+
+Busca automática Para realizar a busca automática de estações no menu Mídia , pressionar o botão Configurações e pressionar Buscar estações .
+
+Ou pressionar o botão de mídia e pressionar o botão Atualizar .
+
+Apagar uma estação salva Para apagar uma estação salva, pressionar o botão Configurações , no menu Mídia , selecionar Configurações de tuner e pressionar Apagar pré-ajustes .
+
+[DEPENDÊNCIA VISUAL: Este trecho referencia Fig. 140 no manual original.]
